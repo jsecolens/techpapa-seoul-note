@@ -6,7 +6,7 @@ export const SITE_CONFIG = {
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://techpapa-blog.vercel.app',
   author: {
     name: 'Tech Papa',
-    bio: '日本文化が大好きな韓国人エンジニアパパ。AI活用、ガジェットレビュー、韓日文化比較を中心に発信中。',
+    bio: '日本文化が大好きな韓国人エンジニアパパ。AI活用、ガジェットレビュー、両国文化比較を中心に発信中。',
     bioKo: '일본 문화를 좋아하는 한국인 엔지니어 아빠. AI 활용, 가젯 리뷰, 한일 문화 비교를 중심으로 발신 중.',
     image: '/images/profile.jpg',
   },
