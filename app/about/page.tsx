@@ -99,15 +99,6 @@ export default function AboutPage() {
               </li>
             </ul>
           </section>
-
-          <section>
-            <h3 className="text-xl font-bold text-text-primary mb-3">
-              お問い合わせ
-            </h3>
-            <p className="text-text-secondary leading-relaxed">
-              ご質問やご意見がございましたら、ブログのコメント欄からお気軽にご連絡ください。
-            </p>
-          </section>
         </div>
       </div>
     </div>
