@@ -4,7 +4,7 @@ date: '2025-01-25'
 category: 'daily'
 excerpt: 'ソウルで暮らす30代のエンジニアパパが、日本語でブログを始めることにしました。AI活用、ガジェット、両国の文化について発信していきます。'
 tags: ['自己紹介', 'ブログ', '日常']
-image: '/images/posts/blog-start.jpg'
+thumbnail: '/images/posts/blog-start.jpg'
 ---
 
 こんにちは。テックパパです。
