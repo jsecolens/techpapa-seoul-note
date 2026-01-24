@@ -49,6 +49,13 @@ export const CATEGORIES: Category[] = [
     description: '個人開発の記録と学び',
     color: 'bg-pink-100 text-pink-800',
   },
+  {
+    slug: 'daily',
+    nameJa: '日常',
+    nameKo: '일상',
+    description: 'ソウルでの日常生活と子育ての記録',
+    color: 'bg-amber-100 text-amber-800',
+  },
 ]
 
 export function getCategoryBySlug(slug: string): Category | undefined {

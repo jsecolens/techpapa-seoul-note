@@ -48,7 +48,7 @@ export default function AboutPage() {
             </h3>
             <p className="text-text-secondary leading-relaxed">
               「テックパパのソウルノート」は、日本文化が大好きな韓国人エンジニアパパが運営する技術・文化ブログです。
-              AI活用術、最新ガジェットのレビュー、韓日両国の文化比較、日本語学習のコツなど、
+              AI活用術、最新ガジェットのレビュー、両国の文化紹介、日本語学習のコツなど、
               多彩なテーマで情報を発信しています。
             </p>
           </section>
@@ -59,7 +59,7 @@ export default function AboutPage() {
             </h3>
             <p className="text-text-secondary leading-relaxed">
               「테크파파의 서울 노트」는 일본 문화를 좋아하는 한국인 엔지니어 아빠가 운영하는 기술・문화 블로그입니다.
-              AI 활용법, 최신 가젯 리뷰, 한일 양국의 문화 비교, 일본어 학습 팁 등
+              AI 활용법, 최신 가젯 리뷰, 양국의 문화 소개, 일본어 학습 팁 등
               다양한 주제로 정보를 발신하고 있습니다.
             </p>
           </section>
@@ -79,7 +79,15 @@ export default function AboutPage() {
               </li>
               <li className="flex items-start">
                 <span className="text-primary mr-2">•</span>
-                <span><strong>韓日文化</strong> - 両国の生活習慣、食文化、社会の違いと共通点</span>
+                <span><strong>日本文化</strong> - 私が学んでいる日本文化の発見と気づき</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-primary mr-2">•</span>
+                <span><strong>韓国文化</strong> - 日本の皆さんに紹介したい韓国の美</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-primary mr-2">•</span>
+                <span><strong>日常</strong> - ソウルでの日常生活と子育ての記録</span>
               </li>
               <li className="flex items-start">
                 <span className="text-primary mr-2">•</span>
