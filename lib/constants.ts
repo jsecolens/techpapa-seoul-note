@@ -8,7 +8,7 @@ export const SITE_CONFIG = {
     name: 'Tech Papa',
     bio: '日本文化が大好きな韓国人エンジニアパパ。AI活用、ガジェットレビュー、韓日文化比較を中心に発信中。',
     bioKo: '일본 문화를 좋아하는 한국인 엔지니어 아빠. AI 활용, 가젯 리뷰, 한일 문화 비교를 중심으로 발신 중.',
-    image: 'https://api.dicebear.com/7.x/avataaars/svg?seed=TechPapa30&accessories=prescription02&accessoriesColor=black&facialHair=blank&top=shortFlat&skinColor=light',
+    image: '/images/profile.jpg',
   },
   postsPerPage: 9,
 }
