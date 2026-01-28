@@ -4,7 +4,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://techpapa-blog.vercel.app/sitemap.xml
+Sitemap: https://hitechpapa.com/sitemap.xml
 
 # Disallow admin or private paths (if any)
 Disallow: /api/
