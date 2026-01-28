@@ -9,8 +9,9 @@ export interface PostFrontmatter {
   titleKo?: string
   date: string
   category: string
-  description: string
+  description?: string
   descriptionKo?: string
+  excerpt?: string
   thumbnail?: string
   tags?: string[]
 }

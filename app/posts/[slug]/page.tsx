@@ -33,15 +33,26 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
 
   const { frontmatter } = post
 
+  const postUrl = `${SITE_CONFIG.url}/posts/${slug}`
+
   return {
     title: frontmatter.title,
-    description: frontmatter.description,
+    description: frontmatter.description || frontmatter.excerpt,
+    alternates: {
+      canonical: postUrl,
+      languages: {
+        'ja': postUrl,
+        'x-default': postUrl,
+      },
+    },
     openGraph: {
       title: frontmatter.title,
-      description: frontmatter.description,
+      description: frontmatter.description || frontmatter.excerpt,
       type: 'article',
       publishedTime: frontmatter.date,
       authors: [SITE_CONFIG.author.name],
+      url: postUrl,
+      locale: 'ja_JP',
       images: frontmatter.thumbnail
         ? [{ url: frontmatter.thumbnail }]
         : undefined,
@@ -49,7 +60,7 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
     twitter: {
       card: 'summary_large_image',
       title: frontmatter.title,
-      description: frontmatter.description,
+      description: frontmatter.description || frontmatter.excerpt,
       images: frontmatter.thumbnail ? [frontmatter.thumbnail] : undefined,
     },
   }
@@ -76,8 +87,42 @@ export default async function PostPage({ params }: PostPageProps) {
     })
   }
 
+  const articleJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: frontmatter.title,
+    description: frontmatter.description || frontmatter.excerpt,
+    image: frontmatter.thumbnail
+      ? `${SITE_CONFIG.url}${frontmatter.thumbnail}`
+      : undefined,
+    datePublished: frontmatter.date,
+    dateModified: frontmatter.date,
+    author: {
+      '@type': 'Person',
+      name: SITE_CONFIG.author.name,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE_CONFIG.name,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${SITE_CONFIG.url}/images/profile.jpg`,
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${SITE_CONFIG.url}/posts/${slug}`,
+    },
+    inLanguage: 'ja',
+    keywords: frontmatter.tags?.join(', '),
+  }
+
   return (
     <article className="max-w-4xl mx-auto px-4 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+      />
       <header className="mb-8">
         <div className="flex items-center gap-4 mb-4">
           {category && (

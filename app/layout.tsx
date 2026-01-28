@@ -17,10 +17,28 @@ export const metadata: Metadata = {
     template: `%s | ${SITE_CONFIG.name}`,
   },
   description: SITE_CONFIG.description,
-  keywords: ['AI', 'ガジェット', '韓日文化', '日本語学習', 'ブログ', '韓国', '日本'],
+  keywords: [
+    'AI活用',
+    'ガジェット',
+    '韓国文化',
+    '日本語学習',
+    'ブログ',
+    '韓国',
+    'ソウル',
+    '韓国生活',
+    '韓国人パパ',
+    'テックパパ',
+  ],
   authors: [{ name: SITE_CONFIG.author.name }],
   creator: SITE_CONFIG.author.name,
   metadataBase: new URL(SITE_CONFIG.url),
+  alternates: {
+    canonical: SITE_CONFIG.url,
+    languages: {
+      'ja': SITE_CONFIG.url,
+      'x-default': SITE_CONFIG.url,
+    },
+  },
   openGraph: {
     type: 'website',
     locale: 'ja_JP',
@@ -62,8 +80,28 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE_CONFIG.name,
+    alternateName: SITE_CONFIG.nameKo,
+    url: SITE_CONFIG.url,
+    description: SITE_CONFIG.description,
+    inLanguage: 'ja',
+    author: {
+      '@type': 'Person',
+      name: SITE_CONFIG.author.name,
+    },
+  }
+
   return (
     <html lang="ja" className={notoSansJP.variable}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      </head>
       <body className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-grow">{children}</main>
