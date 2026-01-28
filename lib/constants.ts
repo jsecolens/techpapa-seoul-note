@@ -17,7 +17,6 @@ export const NAV_LINKS = [
   { href: '/', label: 'ホーム', labelKo: '홈' },
   { href: '/category/ai', label: 'AI活用', labelKo: 'AI 활용' },
   { href: '/category/gadget', label: 'ガジェット', labelKo: '가젯' },
-  { href: '/category/japan-culture', label: '日本文化', labelKo: '일본 문화' },
   { href: '/category/korea-culture', label: '韓国文化', labelKo: '한국 문화' },
   { href: '/category/daily', label: '日常', labelKo: '일상' },
   { href: '/about', label: 'About', labelKo: 'About' },

@@ -22,13 +22,6 @@ export const CATEGORIES: Category[] = [
     color: 'bg-green-100 text-green-800',
   },
   {
-    slug: 'japan-culture',
-    nameJa: '日本文化',
-    nameKo: '일본 문화',
-    description: '私が学んでいる日本文化の発見と気づき',
-    color: 'bg-purple-100 text-purple-800',
-  },
-  {
     slug: 'korea-culture',
     nameJa: '韓国文化',
     nameKo: '한국 문화',
