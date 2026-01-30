@@ -3,6 +3,7 @@ title: "ChatGPT vs Claude vs Gemini - 3つのAIサービス比較"
 date: "2026-01-30"
 category: "ai"
 description: "OpenAIのChatGPT、AnthropicのClaude、GoogleのGemini。3つの代表的なAIサービスの長所を比較し、状況別におすすめを紹介します。"
+thumbnail: "/images/posts/ai-comparison.jpg"
 tags:
   - AI
   - ChatGPT
@@ -10,6 +11,8 @@ tags:
   - Gemini
   - AI比較
 ---
+
+![ChatGPT vs Claude vs Gemini](/images/posts/ai-comparison.jpg)
 
 こんにちは、hitechpapaです。
 
