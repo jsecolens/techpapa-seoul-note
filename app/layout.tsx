@@ -97,6 +97,8 @@ export default function RootLayout({
   return (
     <html lang="ja" className={notoSansJP.variable}>
       <head>
+        {/* Google AdSense Account Verification */}
+        <meta name="google-adsense-account" content="ca-pub-5871122852254069" />
         {/* Google Analytics */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-WYCEVGTMWV" />
         <script
