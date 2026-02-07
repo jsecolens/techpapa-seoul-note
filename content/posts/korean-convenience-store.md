@@ -1,7 +1,7 @@
 ---
 title: "韓国コンビニ完全ガイド – 日本とはこんなに違います"
 date: "2026-02-07"
-category: "culture"
+category: "korea-culture"
 description: "韓国コンビニの主要ブランド・定番グルメ・ドリンク・デザートから日本との違いまで、韓国旅行で役立つコンビニ活用術を徹底解説します。"
 thumbnail: "/images/posts/korean-convenience-store.jpg"
 tags:
