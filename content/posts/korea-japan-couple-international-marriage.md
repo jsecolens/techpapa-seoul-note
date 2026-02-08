@@ -1,6 +1,6 @@
 ---
 title: "韓国人男性と日本人女性のカップル、国際結婚について思うこと"
-date: "2025-02-09"
+date: "2026-02-09"
 category: "korea-culture"
 description: "韓国人男性と日本人女性の国際カップル・国際結婚について、文化の近さや言語の壁、居住国選択など現実的な視点から率直な思いを綴ります。"
 thumbnail: "/images/posts/korea-japan-couple-international-marriage.jpg"
