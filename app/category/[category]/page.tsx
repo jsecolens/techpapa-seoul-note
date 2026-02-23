@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getPostsByCategory } from '@/lib/posts'
 import { getCategoryBySlug, getAllCategories } from '@/lib/categories'
+import { SITE_CONFIG } from '@/lib/constants'
 import PostList from '@/components/PostList'
 import Sidebar from '@/components/Sidebar'
 
@@ -22,12 +23,18 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
     return { title: 'カテゴリーが見つかりません' }
   }
 
+  const categoryUrl = `${SITE_CONFIG.url}/category/${categorySlug}`
+
   return {
     title: `${category.nameJa} | カテゴリー`,
     description: category.description,
+    alternates: {
+      canonical: categoryUrl,
+    },
     openGraph: {
       title: `${category.nameJa} - 記事一覧`,
       description: category.description,
+      url: categoryUrl,
     },
   }
 }

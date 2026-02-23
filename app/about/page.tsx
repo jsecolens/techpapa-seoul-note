@@ -4,6 +4,9 @@ import { SITE_CONFIG } from '@/lib/constants'
 export const metadata: Metadata = {
   title: 'About',
   description: `${SITE_CONFIG.author.name}について - ${SITE_CONFIG.description}`,
+  alternates: {
+    canonical: `${SITE_CONFIG.url}/about`,
+  },
 }
 
 export default function AboutPage() {

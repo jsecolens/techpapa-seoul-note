@@ -40,10 +40,6 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
     description: frontmatter.description || frontmatter.excerpt,
     alternates: {
       canonical: postUrl,
-      languages: {
-        'ja': postUrl,
-        'x-default': postUrl,
-      },
     },
     openGraph: {
       title: frontmatter.title,

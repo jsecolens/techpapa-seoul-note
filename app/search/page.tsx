@@ -2,9 +2,14 @@ import { Suspense } from 'react'
 import { getAllPosts } from '@/lib/posts'
 import SearchContent from './SearchContent'
 
+import { SITE_CONFIG } from '@/lib/constants'
+
 export const metadata = {
   title: '記事を検索',
   description: 'ブログ記事を検索',
+  alternates: {
+    canonical: `${SITE_CONFIG.url}/search`,
+  },
 }
 
 export default function SearchPage() {

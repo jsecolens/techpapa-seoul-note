@@ -34,10 +34,6 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_CONFIG.url),
   alternates: {
     canonical: SITE_CONFIG.url,
-    languages: {
-      'ja': SITE_CONFIG.url,
-      'x-default': SITE_CONFIG.url,
-    },
   },
   openGraph: {
     type: 'website',
