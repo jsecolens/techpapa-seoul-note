@@ -109,7 +109,7 @@ export default function PrivacyPage() {
 
         <section className="border-t border-gray-200 pt-6 text-sm">
           <p>制定日：2026年2月26日</p>
-          <p className="mt-1">{SITE_CONFIG.name} 運営者：{SITE_CONFIG.author.name}</p>
+          <p className="mt-1">{SITE_CONFIG.name} 運営者：hitechpapa</p>
         </section>
       </div>
     </div>
