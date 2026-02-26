@@ -33,16 +33,6 @@ export default function PrivacyPage() {
         </section>
 
         <section>
-          <h2 className="text-xl font-bold text-text-primary mb-3">Cookieの使用について</h2>
-          <p>
-            当サイトでは、ユーザーの利便性向上のためにCookieを使用しています。
-            Cookieとは、ウェブサイトがお客様のコンピュータに送信する小さなテキストファイルです。
-            ブラウザの設定により、Cookieの受け入れを拒否することも可能ですが、
-            その場合、当サイトの一部機能が利用できなくなる場合があります。
-          </p>
-        </section>
-
-        <section>
           <h2 className="text-xl font-bold text-text-primary mb-3">アクセス解析ツールについて</h2>
           <p>
             当サイトでは、Googleによるアクセス解析ツール「Google Analytics」を使用しています。
