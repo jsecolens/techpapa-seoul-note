@@ -1,6 +1,6 @@
 ---
 title: '2026年、AIツールで働き方が完全に変わった ― 韓国の現場から'
-date: '2025-01-25'
+date: '2026-01-25'
 category: 'ai'
 excerpt: 'ChatGPT、Gemini、Claude、Claude Code。4つのAIツールを使い分けながら、韓国で働くエンジニアパパが体験した生産性革命について紹介します。'
 tags: ['AI活用', 'ChatGPT', 'Claude', 'Gemini', '生産性']
