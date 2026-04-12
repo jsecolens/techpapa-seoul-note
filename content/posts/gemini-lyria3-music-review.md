@@ -1,70 +1,70 @@
 ---
-title: 'Google Gemini（ジェミナイ）で30秒の音楽を作ってみた！AI音楽生成Lyria 3の使用レビュー'
-date: '2026-02-24'
-category: 'ai'
-description: 'GoogleがGemini 3.1 Proと同時に公開したAI音楽生成モデルLyria 3。実際に30秒の音楽を作ってみたリアルな感想と活用法を紹介します。'
-thumbnail: '/images/posts/gemini-lyria3-music-review.jpg'
+title: "I Made a 30-Second Song with Google Gemini! Hands-On Review of AI Music Generator Lyria 3"
+date: "2026-02-24"
+category: "ai"
+description: "Google launched the AI music generation model Lyria 3 alongside Gemini 3.1 Pro. Here's my honest review after creating 30-second tracks and exploring its real-world potential."
+thumbnail: "/images/posts/gemini-lyria3-music-review.jpg"
 tags:
   - Google Gemini
   - Lyria 3
-  - AI音楽生成
-  - AI活用
+  - AI Music Generation
+  - AI Tools
 ---
 
-![Google GeminiのAI音楽生成Lyria 3](/images/posts/gemini-lyria3-music-review.jpg)
+![Google Gemini's AI Music Generator Lyria 3](/images/posts/gemini-lyria3-music-review.jpg)
 
-2026年が始まってまだ2ヶ月も経っていないのに、AIの進化スピードが本当に恐ろしいです。GoogleがGemini 3.1 Proを発表すると同時に公開した機能があります。それは、Geminiアプリ上で直接音楽を作れる機能です。Google DeepMindの最新音楽生成モデル「Lyria 3」を基盤としたこの機能を実際に使ってみたのですが、正直驚きを隠せませんでした。
+We're barely two months into 2026, and the pace of AI advancement is honestly staggering. Alongside the release of Gemini 3.1 Pro, Google quietly dropped a feature that caught my attention: the ability to create music directly within the Gemini app. Powered by Google DeepMind's latest music generation model, Lyria 3, this feature genuinely blew me away when I tried it.
 
-今日はGeminiで30秒の音楽を作ってみたリアルな感想と、この機能が実際にどんな場面で役立つのかをお話しします。
-
----
-
-## Geminiでの音楽作成、どうやるの？
-
-使い方はとてもシンプルです。Geminiアプリにアクセスして、ツール（Tools）メニューから「音楽（Music）」を選択するだけ。そして、作りたい音楽のジャンル、雰囲気、テンポなどをテキストで説明します。例えば「明るくて軽快なポップスタイルの音楽を作って」と入力すれば、数秒で30秒の音楽トラックが生成されます。カバーアートまで自動で作ってくれるので、本当に便利です。
-
-さらに驚いたのは、写真や動画をアップロードすると、その雰囲気に合った音楽を作ってくれることです。子どもと一緒に遊園地で撮った写真をアップしてみたら、ワクワクするような活気あふれる音楽が生まれました。AIが画像の雰囲気を読み取って、ぴったりの音楽を作曲するなんて、技術の進歩がどこまで行くのか想像もつきません。
-
-以前のLyriaモデルでは歌詞を自分で書く必要がありましたが、Lyria 3ではプロンプトの内容に基づいて歌詞まで自動生成してくれます。スタイル、ボーカル、テンポなど細かい要素もより精密にコントロールできるようになり、音楽そのもののクオリティも以前よりずっとリアルで複雑な構成が可能になりました。
+Today I want to share my honest impressions from making 30-second music tracks with Gemini, and where I think this technology can actually be useful.
 
 ---
 
-## 実際に作ってみた正直な感想
+## How Does Music Creation in Gemini Work?
 
-いろいろなプロンプトを試しながら、さまざまな音楽を作ってみました。
+The process is surprisingly simple. Open the Gemini app, select "Music" from the Tools menu, and describe the kind of music you want -- genre, mood, tempo, whatever. For example, type "Create bright, upbeat pop-style music" and within seconds, you have a 30-second track. It even auto-generates cover art, which is a nice touch.
 
-最初に試したのは、穏やかなピアノのBGMです。「カフェで流れているような、穏やかで温かみのあるピアノジャズ」と入力したところ、本当にカフェで流してもぴったりな音楽ができました。もちろん30秒という時間制限があり、繰り返されるパターンは感じられます。でも、BGM用途としては十分に使えるレベルでした。
+What really impressed me was the ability to upload a photo or video and have Gemini create music that matches the vibe. I uploaded a photo from a day out at an amusement park with my kid, and it produced energetic, exciting music that perfectly captured the atmosphere. The fact that AI can read the mood of an image and compose matching music is mind-blowing.
 
-次に、子どもと一緒に遊び感覚で作ってみました。「恐竜が踊る楽しい子ども向けの歌」と入力したら、本当にノリのいいリズムに可愛い歌詞がついた音楽が生まれました。子どもが大喜びで一緒に歌おうとしていたのがとても印象的でした。こんな体験ができる時代になったんだなと、しみじみ感じました。
-
-3回目は、もう少し真剣に会社のPR動画に使えそうな音楽を試してみました。「未来志向で革新的な雰囲気の企業プロモーションBGM」というプロンプトを入れたところ、スッキリとした洗練された雰囲気のトラックが生成されました。プロの作曲家が作ったものと比べるとまだ差はありますが、社内用の簡単な動画やプレゼンテーションのBGMとしてはまったく遜色ないレベルでした。
+Previous Lyria models required you to write your own lyrics, but Lyria 3 generates them automatically based on your prompt. You also get finer control over style, vocals, tempo, and other elements, and the overall musical quality has become noticeably more realistic and complex.
 
 ---
 
-## まだ30秒、でも活用の可能性は無限大
+## My Honest Impressions After Creating Several Tracks
 
-現在、Geminiで作れる音楽は30秒に制限されています。また、パターン化された構造が繰り返される感じがあり、ボーカルについてもまだ機械的な印象が残っているのも事実です。プロのミュージシャンの作品を完全に置き換えるにはまだ早い段階です。
+I experimented with a variety of prompts to create different kinds of music.
 
-しかし、この30秒の音楽だけでも、すでにさまざまな場面で活用しています。
+First, I tried a mellow piano background track. I typed "Calm, warm piano jazz like you'd hear in a cozy cafe," and the result genuinely sounded like something you'd expect playing in a coffee shop. Yes, the 30-second limit is noticeable, and there are repeating patterns. But as background music, it was perfectly usable.
 
-まず、YouTube動画のイントロとアウトロの音楽として使っています。動画の冒頭と終わりに入る短い音楽は30秒で十分です。何より、著作権を気にせずに安心して使えるのが最大のメリットです。YouTubeを運営されている方なら、著作権問題で悩んだ経験があるのではないでしょうか。AIで自作した音楽なら、そんな心配から解放されます。
+Next, I made something fun with my kid. I entered "A fun children's song about dancing dinosaurs," and out came a bouncy rhythm with cute lyrics. My kid was thrilled and immediately tried to sing along -- it was a genuinely heartwarming moment. That this kind of experience is possible now really hit me.
 
-次に、会社のロゴソングや短いジングル制作に活用しています。ブランドを知らせるための短い音楽を外部に依頼すると、費用がかなりかかります。Geminiなら複数のバージョンをすばやく作って、一番気に入ったものを選ぶことができます。プロトタイプ制作の段階では特に重宝します。
-
-また、子どもと一緒に音楽を作る遊び道具としても活用しています。子どもが好きなテーマを言えば、それに合った音楽をすぐに作ってくれるので、子どもの創造力や音楽的な感性を育てるのにも良さそうです。親子で「自分たちだけの歌」を作る体験は、本当に特別なものです。
-
-さらに、プレゼンテーションや社内動画のBGMとしてもすぐに活用できます。雰囲気に合ったキーワードをいくつか入力するだけで適切なBGMが完成するので、もうフリー音楽サイトを何時間も探し回る必要がなくなりました。
+For my third attempt, I tried something more professional: "A forward-looking, innovative corporate promo BGM." The result was a clean, polished-sounding track. There's still a gap compared to what a professional composer would produce, but for internal videos or presentations, it was more than adequate.
 
 ---
 
-## AI音楽生成の未来が楽しみ
+## Only 30 Seconds for Now, But the Possibilities Are Huge
 
-GoogleはLyria 3で生成されたすべての音楽にSynthIDという目に見えないウォーターマークを埋め込んでいて、AIが作った音楽かどうかを確認できるようになっています。また、既存のアーティストの音楽をそのまま模倣するのではなく、特定のアーティストをプロンプトに入力すると、似たスタイルや雰囲気からインスピレーションを受けたオリジナルトラックを作るように設計されています。著作権への配慮もしっかりしている点が印象的です。
+Currently, Gemini limits music generation to 30 seconds. The structure can feel repetitive, and vocals still carry a somewhat mechanical quality. It's too early to replace professional musicians.
 
-現在、日本語を含む8つの言語に対応しており、18歳以上のすべてのユーザーが利用できます。Google AI Plus、Pro、Ultraの加入者にはより高い使用限度が提供されます。
+But even within these 30 seconds, I've already found plenty of practical uses.
 
-正直に言うと、最初にGeminiで音楽作成ボタンを押した時は「本当に使える音楽ができるのかな？」と半信半疑でした。でも、実際に生成された音楽を聴いた瞬間、AI技術の進歩がここまで来たのかと感嘆せずにはいられませんでした。
+First, YouTube intro and outro music. Short clips at the beginning and end of videos are perfect at 30 seconds. Best of all, there are no copyright concerns -- a massive relief for anyone who runs a YouTube channel.
 
-まだ30秒という制限があり、プロの音楽と比べればまだまだ道のりは長いですが、その可能性だけでも十分にワクワクする機能です。これからGeminiの音楽生成機能がどう進化していくのか、そしてAIが音楽業界にどんな変化をもたらすのか、本当に楽しみです。
+Second, brand jingles and short logo songs. Commissioning these from professionals can be expensive. With Gemini, you can quickly generate multiple versions and pick the best one. It's especially valuable at the prototyping stage.
 
-皆さんもぜひGeminiで自分だけの音楽を作ってみてください。たった30秒の音楽が、日常にちょっとした楽しみをプラスしてくれるはずです。
+Third, making music as a creative activity with my kid. He tells me a theme, and Gemini creates a matching song on the spot. It's a wonderful way to nurture creativity and musical appreciation. Creating "our own song" together is a truly special experience.
+
+Fourth, BGM for presentations and internal videos. A few mood-matching keywords produce appropriate background music instantly, eliminating hours of searching through royalty-free music libraries.
+
+---
+
+## The Future of AI Music Generation Is Exciting
+
+Google embeds an invisible watermark called SynthID in all music generated by Lyria 3, making it possible to verify whether a track was AI-created. The system is also designed not to directly copy existing artists -- if you include an artist's name in your prompt, it draws inspiration from their style rather than replicating their work. It's encouraging to see copyright considerations being taken seriously.
+
+The feature currently supports 8 languages and is available to all users aged 18 and over. Google AI Plus, Pro, and Ultra subscribers get higher usage limits.
+
+Honestly, when I first hit the music creation button in Gemini, I was skeptical: "Can this really produce usable music?" But the moment I heard the generated track, I couldn't help but marvel at how far AI has come.
+
+Yes, the 30-second limitation exists, and there's still a long road before it matches professional music. But the potential alone is thrilling. I'm genuinely excited to see how Gemini's music generation evolves and what impact AI will have on the music industry.
+
+If you haven't tried it yet, give it a shot -- create your own music with Gemini. Those 30 seconds might just add a little spark of joy to your day.

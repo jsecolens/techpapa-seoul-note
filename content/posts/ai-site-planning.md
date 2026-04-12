@@ -1,76 +1,76 @@
 ---
-title: "AIと一緒にサイトの企画と構成をする【シリーズ第2回】"
+title: "Planning and Structuring a Website with AI [Series Part 2]"
 date: "2026-02-04"
 category: "ai"
-description: "GeminiとClaude Codeを活用してサイト制作の企画と構成を効率的に進める方法。PRD作成からAIとの協業プロセスまで、実践的なノウハウを紹介。"
+description: "How I used Gemini and Claude Code to efficiently plan and structure a website. From creating a PRD to collaborating with AI — practical know-how from real experience."
 thumbnail: "/images/posts/ai-site-planning.jpg"
 tags:
   - AI
-  - サイト制作
+  - Website Building
   - Gemini
   - Claude Code
   - PRD
-  - 企画
+  - Planning
 ---
 
-![AIと一緒にサイトの企画と構成をする](/images/posts/ai-site-planning.jpg)
+![Planning and Structuring a Website with AI](/images/posts/ai-site-planning.jpg)
 
-こんにちは。今日はAIを活用してサイト制作・開発を企画し、構成していった話をしてみようと思います。
+Hi there. Today I want to share how I used AI to plan and structure a website from scratch.
 
-## AIを活用した企画の始まり
+## Getting Started with AI-Powered Planning
 
-AIを活用して本当に自分だけのサイトやブログを作ろうと決めた瞬間、頭の中には突然何千ものアイデアが浮かび、どうすれば多くの人が訪れるサイトを作れるのか、どんな記事を書けばより多くの人が興味を持って長く滞在してくれる良いサイトになるのか、本当にたくさん悩みました。
+The moment I decided to use AI to build my own site or blog, thousands of ideas flooded my head. How do I create a site that attracts lots of visitors? What kind of articles would keep people interested and make them stay longer? I agonized over these questions endlessly.
 
-もし2〜3年前に同じ悩みをしていたら、おそらく悩んで企画するだけで2〜3週間はかかっていたと思います。じっくり考えて、浮かんだアイデアをマインドマップにして、その中からサイト全体の構造に合う記事とそうでない記事を選別し、さらにAdSense承認に必要な最低限の投稿数を満たすために質の高い記事を一つ一つ自分でタイピングしていたら、本当に大変なプロセスだったと思います。
+If I'd been wrestling with the same questions two or three years ago, just the planning phase would have taken two to three weeks. Brainstorming, building mind maps, filtering which ideas fit the site's overall structure, then manually typing up quality articles one by one to meet AdSense's minimum post requirements — it would have been a brutal process.
 
-でも今はAIがあり、このAIをうまく活用すれば、こうした企画やサイト構造を組み立てることもとても簡単な時代になったと感じています。自分の考えをただ愚痴るように全部話せば、それに合わせてAIが全体的な内容を把握し、それに沿った下書きを作ってくれるのが本当に良かったです。特に自分が思いつかなかった変数や考慮すべき点も一緒に言及してくれるので、その点でより信頼できました。
+But now we have AI. Used well, it makes planning and structuring a site remarkably easy. You just talk through your thoughts — almost like venting — and AI grasps the big picture and drafts an outline for you. What I especially appreciated was that AI also flagged variables and considerations I hadn't even thought of, which made the process feel more reliable.
 
-それでは、私がサイトの企画と構造を組み立てていったプロセスをもう少し詳しくお話しします。
+Let me walk you through my actual process in more detail.
 
-## 1. 使用したAI：Gemini + Claude Code
+## 1. The AI Tools I Used: Gemini + Claude Code
 
-私が使用したAIはGeminiとClaude Codeです。どちらもProプランを使用しており、この2つのAIは現在私にとって本当に大きな助けとなっている、ありがたいパートナーだと言えます。2つのAIの役割を、私が好む形で分担しました。
+I used two AI tools: Gemini and Claude Code. Both on Pro plans, and both have become invaluable partners. I divided their roles based on my preferences.
 
-**Gemini**にはサイト構造、企画、法令などに関する変数の考慮、その他の変数など、企画とサイト運営において考慮すべき事項を把握してもらい、一緒に構成作業を進めていきました。Google Geminiは、何というか天才弁護士のような感じで、私にとっては弁護士に依頼して明確な答えを得るような形で活用しています。
+**Gemini** handled site structure, planning, legal considerations, and other variables — essentially everything related to strategic planning and operational concerns. I think of Google Gemini as a brilliant legal advisor. I use it the way you'd consult a lawyer to get clear, precise answers.
 
-**Claude（Code）**はGeminiとは違って、天才の友達のような感じで、文章作成において私が最も好むスタイルの文章を書いてくれています。AIという点では同じに見えますが、実際に文章が出来上がるのを見ると、AIごとに特性が違うという点も一方では不思議に感じます。そしてClaude Codeは開発者の天才友達のような感じで、私が望む要件をぴったり理解して作ってくれる役割を果たしています。
+**Claude (Code)** fills a different role — more like a genius friend. For writing, it produces text in the style I like best. Even though they're both AI, their output feels distinctly different in character, which is fascinating. Claude Code specifically acts like a brilliant developer friend who understands exactly what I want and builds it for me.
 
-## 2. PRD作成（Product Requirements Documents）
+## 2. Creating the PRD (Product Requirements Document)
 
-では、私が企画してサイトを作る時に、最初から最後までただAIのチャット欄で会話しただけではなく、最初は会話しながらClaude Codeに正確にリクエストできるPRD制作をまず行いました。
+I didn't just chat back and forth with AI from start to finish. First, I worked through conversations to create a PRD that I could hand to Claude Code with precise requirements.
 
-開発者にとってPRDは製品の詳細仕様を示す文書で、ここにはサイトの概要、目的、構成要素などが含まれ、この文書を読むだけでこのサイトがどんなサイトで、どんな記事が書かれるのか、そしてこのサイトはこういうデザインになるだろうということがわかる文書です。
+For developers, a PRD is a document detailing a product's specifications — it includes the site overview, purpose, structural components, and enough information that anyone reading it can understand what the site is, what content it'll have, and what it'll look like.
 
-そして一度にすべての事項をリクエストするのは無理がありそうだったので、小さなサイトは2つの部分に、少し大きなプロジェクトは最大5段階に分けてClaudeにリクエストできるようにPRDを分割して作りました。
+Since requesting everything at once seemed unrealistic, I split the PRD into phases — two phases for a small site, up to five for a larger project — so I could hand them to Claude in manageable chunks.
 
-PRD作成も、今まで会話した内容をもとに「Claude CodeにリクエストできるPRD形式で作ってください」とお願いしました。頭の中にある明確ではないけれど漂っている要素や感覚も、ありのまま正直に話しながら、徐々に可視化できる形式にしていきました。
+For the PRD creation itself, I asked AI to "format everything we've discussed into a PRD that I can hand to Claude Code." Ideas that were vague and floating around in my head — not fully formed, more like impressions and gut feelings — I shared honestly, and we gradually shaped them into something concrete and visual.
 
-## 3. AIの長所が際立つ瞬間
+## 3. Where AI Really Shines
 
-AIの長所がここで際立つと思います。
+This is where AI's strengths become most apparent.
 
-もし私が会社で開発者として、頭の中に漂っているものをそのまま形式のない言葉や文書で各担当者にリクエストしていたら、おそらく私は仕事ができない人、一緒に仕事しにくい人、自分の仕事もちゃんとわかっていない人というレッテルを貼られていたかもしれません。
+If I had taken the vague, unstructured thoughts in my head and dumped them on colleagues in a workplace setting — in disorganized words and messy documents — I'd probably be labeled as someone who's hard to work with, someone who doesn't even understand their own job.
 
-だから実際に仕事をする時は、協業する担当者に見せる資料を作るだけで少なくとも数日、クライアントに見せる資料なら1ヶ月も、その下書き作成だけに没頭することになります。
+In a real work environment, just preparing materials to show collaborators takes days at minimum. Client-facing materials? You might spend an entire month just on the draft.
 
-でも今は頭の中にあることをそのままAIに話すだけで、AIが整理、補完し、ほぼ完璧なガイドを作ってくれるので、サイト開発がどれだけ速く進むか驚くばかりです。
+But now, I can pour out everything in my head to AI, and it organizes, supplements, and produces a nearly perfect guide. The speed at which site development progresses is honestly astounding.
 
-## 4. 気になること、参考にしたいことも、とにかく全部聞いてみよう
+## 4. Curious About Something? Just Ask
 
-サイトを作る時に、最初の一歩が本当に難しいのは、自分でも正確に何を望んでいるのか、世の中が求めるサイト構造が何なのかよくわからないということです。
+One of the hardest things about building a site is taking that first step — because you don't fully know what you want, and you don't know what site structures the market responds to.
 
-アイデアはあるけど、これをどう実装すれば多くの人が訪れるサイトになるのか、いくら自分が満足しても、自己満足で終わってはいけないので、以前はこうした部分もアンケート調査をしたり、周りの知人に相談したりしていました。
+You might have ideas, but how do you implement them in a way that actually attracts visitors? Personal satisfaction isn't enough — a site that's only pleasing to you won't succeed. In the past, this meant running surveys or consulting people you know.
 
-でも今はこうしたことAIにお願いすれば、これまでの膨大なデータをもとに、私が行ったアンケートよりもむしろ多くのデータを基準にした明確な条件を示してくれるので、このプロセスもAIにお願いしています。
+Now you can ask AI, and it draws on vast datasets to provide clear criteria — often based on far more data points than any survey you could run yourself.
 
-その他にも少しでも気になる点、以前から知ってはいたけど正確には理解していなかった部分、ある意味作業中に発生するほとんどのことを質問しながら作業を進めていきました。
+Beyond that, any question that came up during the process — things I was curious about, concepts I'd heard of but never fully understood — I just asked as I worked. It kept the momentum going.
 
-## まとめ
+## Summary
 
-こうして各サイトに合った企画と構成をすると、ただ漠然と一人でやるよりもはるかに速く正確にサイトの企画と構成ができるようになり、「Claude Codeさん、作業を進めてください」と入力すれば、AIが自ら私だけの素敵なサイトを作ってくれます。
+By planning and structuring each site this way, the process was far faster and more accurate than trying to figure it all out alone. Once the plan was ready, I just typed "Claude Code, please proceed with the build" — and AI created my own polished site.
 
-もちろんこれが一度で100%完璧なサイトを完成させるわけではありませんが、とりあえず下書きが速くできるので、その後は追加の修正をしながら会話を続けてサイトを磨いていけるという点も長所だと思います。
+Of course, this doesn't produce a 100% perfect site on the first pass. But the draft comes together so quickly that you can then iterate — having follow-up conversations and refining the site as you go. That's another major advantage.
 
-## 次回予告
+## Next Up
 
-次回は、サイトを開設した後、どのようなプロセスを経てデプロイしたかについてお話ししようと思います。
+In the next post, I'll cover the process of deploying the site after building it.

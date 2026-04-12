@@ -1,189 +1,189 @@
 ---
-title: 'なぜ韓国のカフェはこんなに大きいのか？日本人が驚く韓国カフェ文化のすべて'
-date: '2026-01-26'
-category: 'korea-culture'
-excerpt: 'コンビニより多いカフェ、24時間営業、無料Wi-Fiとコンセント。韓国の独特なカフェ文化を、現地に住む韓国人パパが詳しく解説します。'
-tags: ['韓国文化', 'カフェ', 'コーヒー', '韓国旅行', 'スターバックス']
-thumbnail: '/images/posts/korea-cafe-kiosk.jpg'
+title: "Why Are Korean Cafes So Huge? Everything You Need to Know About Korea's Unique Cafe Culture"
+date: "2026-01-26"
+category: "korea-culture"
+excerpt: "More cafes than convenience stores, 24-hour operations, free Wi-Fi and power outlets everywhere. A Korean dad living in Seoul breaks down Korea's one-of-a-kind cafe culture."
+tags: ["Korean Culture", "Cafes", "Coffee", "Korea Travel", "Starbucks"]
+thumbnail: "/images/posts/korea-cafe-kiosk.jpg"
 ---
 
-韓国を訪れた日本人が最初に驚くことの一つが、カフェです。
+One of the first things that surprises visitors to Korea is the cafe scene.
 
-「なぜこんなに大きいの？」「なぜこんなに多いの？」「なぜみんなノートパソコンを開いているの？」「なぜ夜10時でもカフェが満席なの？」
+"Why are they so big?" "Why are there so many?" "Why is everyone on a laptop?" "Why is the cafe packed at 10 PM on a weeknight?"
 
-私も日本を訪れた時、カフェ文化の違いを大きく感じました。静かでこぢんまりとした喫茶店で、マスターが丁寧に淹れてくれるハンドドリップコーヒー。その雰囲気も素敵でしたが、韓国のカフェ文化は確実に違う方向に発展してきました。
+When I've visited the United States, I noticed a very different coffee culture. The cozy neighborhood coffee shop where a barista carefully crafts your pour-over -- that has its own charm. But Korean cafe culture has evolved in a completely different direction.
 
-今日は韓国の独特なカフェ文化について詳しくお話しします。
+Today, I'll take you through what makes Korean cafe culture so unique.
 
-![韓国カフェの風景：キオスク注文、振動ベル、デザート](/images/posts/korea-cafe-kiosk.jpg)
-
----
-
-## コンビニより多いカフェ、コーヒー共和国・韓国
-
-韓国にはカフェが本当にたくさんあります。2024年基準で全国のコーヒー専門店数は**約10万店**を超えました。これはコンビニの数よりも多い数字です。コーヒーブランド数だけでも886に達し、これはチキンフランチャイズ（669）より200以上多いです。
-
-韓国人の1人当たり年間コーヒー消費量は**約405杯**で、フランスに次いで世界2位のレベルです。世界平均が152杯であることと比較すると、2倍以上飲んでいることになります。韓国人コーヒー愛飲者の76%が1日1回以上コーヒーを飲むという調査結果もあります。
-
-街を歩いていると、1ブロックにカフェが3〜4軒あるのは珍しい光景ではありません。スターバックスの隣にメガコーヒー、その隣にツーサムプレイス、さらにその隣に個人カフェ...という具合です。同じビルの1階と2階に異なるカフェがある場合さえあります。
-
-面白い事実は、**スターバックスコリアの店舗数が日本を超えた**ということです。現在、韓国はアメリカ、中国に次いでスターバックスの店舗が多い国です。2023年のスターバックスコリアの売上は約2兆9千億ウォン（約3,000億円）を達成しました。
+![Korean cafe scene: kiosk ordering, vibrating pagers, and desserts](/images/posts/korea-cafe-kiosk.jpg)
 
 ---
 
-## 韓国のカフェが特に大きい理由
+## More Cafes Than Convenience Stores: Korea, the Coffee Republic
 
-日本の喫茶店や小さな個人カフェとは異なり、韓国のカフェは概して規模が大きいです。100席以上の大型カフェも珍しくなく、2階、3階構造のカフェも多いです。郊外に行くと駐車場を備えた倉庫型の大型カフェもあります。
+Korea has a staggering number of cafes. As of 2024, the total number of coffee shops nationwide has surpassed **100,000** -- that's more than the number of convenience stores. The number of coffee brands alone has reached 886, which is over 200 more than fried chicken franchises (669).
 
-なぜこんなに大きくなったのでしょうか？いくつかの理由があります。
+Koreans consume roughly **405 cups of coffee per person per year**, putting the country just behind Finland in global rankings. The world average is 152 cups, meaning Koreans drink more than double that. A survey found that 76% of Korean coffee drinkers have at least one cup every day.
 
-### 1. カフェは単にコーヒーを飲む場所ではない
+Walking down any street, it's perfectly normal to see 3-4 cafes on a single block. A Starbucks next to a Mega Coffee, next to a Twosome Place, next to an independent cafe. Sometimes there are even different cafes on the 1st and 2nd floors of the same building.
 
-勉強する場所、仕事をする場所、友達に会う場所、デートする場所、ビジネスミーティングをする場所です。一つのカフェの中でこれらすべての活動が同時に行われます。様々な目的を収容するには広い空間が必要です。
-
-### 2. 韓国人は家が狭い場合が多い
-
-特にソウルのワンルームや小型マンションは、お客さんを招待しにくい構造です。そのためカフェが「第2のリビング」の役割を果たします。友達に会ったり、両親と会話したり、恋人と時間を過ごす時にカフェを利用します。
-
-### 3. SNSとインスタグラム文化
-
-おしゃれなインテリア、広い空間、フォトスポットがあるカフェが人気を集めます。「インスタ映え」という言葉があるほど、写真を撮りやすいカフェが競争力を持ちます。そのためカフェはますます独特で広い空間を作るようになりました。
-
-### 4. 賃貸料構造の影響
-
-韓国の商業賃貸料は1階が最も高いです。そのため多くのカフェが比較的安い2階や地下を選び、代わりに広い空間を確保する戦略を取ります。
+Here's a fun fact: **Starbucks Korea has more locations than Starbucks Japan.** South Korea currently ranks third in the world for Starbucks locations, behind only the US and China. Starbucks Korea's revenue hit approximately 2.9 trillion won (~$2 billion USD) in 2023.
 
 ---
 
-## カゴン族（カフェ勉族）の国
+## Why Korean Cafes Are So Big
 
-韓国には「カゴン族」という言葉があります。「カフェで勉強する人々」を意味する造語です。
+Unlike small independent coffee shops you might find in many Western cities, Korean cafes tend to be enormous. Cafes with over 100 seats are common, and many have 2 or 3 floors. In suburban areas, you'll even find warehouse-style mega-cafes with their own parking lots.
 
-日本でもスターバックスで勉強する学生を見かけることができますが、韓国は次元が違います。平日の昼間にカフェを訪れると、座席の半分以上がノートパソコンや本を広げている学生や会社員で埋まっています。試験期間にはその割合がさらに高くなります。
+So why did they get so big? There are several reasons.
 
-**なぜ韓国人はカフェで勉強するのでしょうか？**
+### 1. Cafes Are More Than Just a Place to Drink Coffee
 
-**集中力の問題です。** 家ではベッド、テレビ、スマートフォンなど誘惑が多いです。カフェの適度な騒音と他人の視線がむしろ集中に役立つと感じる人が多いです。
+They're places to study, work, meet friends, go on dates, and hold business meetings. All of these activities happen simultaneously in a single cafe. Accommodating all these purposes requires a lot of space.
 
-**環境転換の効果もあります。** きちんと身支度をして外出すること自体が「仕事モード」に切り替えるのに役立ちます。家でパジャマ姿で勉強するよりカフェで勉強する方が効率的だと感じる人が多いです。
+### 2. Many Koreans Live in Small Apartments
 
-韓国のカフェがカゴン族に優しい理由は、これらの特徴のためです。
+Seoul apartments, especially studios and small units, aren't really set up for hosting guests. So cafes serve as a "second living room." People meet friends, catch up with parents, or spend time with their significant other at cafes instead.
 
-- ほぼすべてのカフェで無料Wi-Fi提供
-- 座席ごとにコンセント完備
-- 長時間利用しても気まずくならない雰囲気
-- 24時間営業のカフェも多い
-- ドリンク1杯で3〜4時間いても大丈夫
+### 3. Social Media and Instagram Culture
 
-日本の個人カフェはコンセントがなかったり、Wi-Fiがなかったり、営業時間が短い場合が多いと聞きました。許可なく充電すると問題になることもあるとか。韓国とは確実に違う文化です。
+Cafes with stylish interiors, spacious layouts, and photo-worthy spots attract the most customers. The concept of an "Instagrammable" cafe is a real competitive advantage. This has driven cafes to create increasingly unique and spacious environments.
 
----
+### 4. The Economics of Commercial Rent
 
-## スタディカフェという独特な空間
-
-韓国には「スタディカフェ」という業種もあります。名前に「カフェ」が入っていますが、実際は時間制の自習室に近いです。
-
-スタディカフェは韓国で初めて生まれた業種です。カフェの快適な雰囲気と自習室の集中環境を組み合わせた空間です。
-
-**スタディカフェの特徴：**
-
-- 2時間券、1日券、100時間定期券など様々な料金プラン
-- 無人で運営される店が多い（キオスクで決済）
-- 24時間営業が基本
-- 仕切り付き座席、オープン型テーブル、スタディルームなど様々な空間構成
-- 無料ドリンク（コーヒー、お茶）提供
-- ノートパソコン使用可能エリアと静かなエリアの分離
-
-このようなスタディカフェが全国に数千店あります。特に塾街や大学街周辺に密集しています。試験期間には席を取るのが難しいほど人気があります。
+Ground-floor commercial rent in Korea is the most expensive. Many cafes opt for more affordable 2nd floors or basements, compensating by securing much larger spaces.
 
 ---
 
-## 低価格コーヒー vs プレミアムコーヒー、二極化する市場
+## The "Cagongjok" (Cafe Study Tribe)
 
-最近の韓国カフェ市場の最大の変化は、低価格コーヒーブランドの爆発的な成長です。
+Korea has a word for it: **cagongjok** (카공족) -- literally "the tribe of people who study at cafes."
 
-メガコーヒー、コンポーズコーヒー、ペクタバンなどのブランドは、アメリカーノ1杯**1,500〜2,000ウォン（約150〜200円）**程度です。スターバックスのアメリカーノが4,500ウォン程度であることと比較すると半額以下です。
+You might see the occasional student studying at a Starbucks in any country, but Korea takes this to another level. Visit a cafe on a weekday afternoon and more than half the seats will be occupied by students and office workers with laptops and textbooks spread out. During exam season, that proportion climbs even higher.
 
-**韓国人のカフェ利用パターン：**
+**Why do Koreans study at cafes?**
 
-| 用途 | 利用するカフェ |
-|------|----------------|
-| 通勤途中のカフェイン補給 | 低価格コーヒーブランド |
-| 友達とおしゃべり、デート | スターバックス、ツーサムプレイス |
-| 長時間の勉強/作業 | 広い大型カフェまたはスタディカフェ |
-| 雰囲気のある写真撮影 | インテリアがおしゃれな個人カフェ |
+**Focus.** At home, there are too many distractions -- beds, TVs, smartphones. Many people find that the ambient noise and awareness of others in a cafe actually helps them concentrate.
 
-「朝はメガコーヒーで1,500ウォンのアメリカーノでカフェイン補給、夜はスターバックスで友達と会う」というように、用途によってカフェを使い分けるのが一般的です。
+**A change of environment.** The simple act of getting dressed and going out puts you in "work mode." Many people feel more productive studying at a cafe than sitting at home in pajamas.
 
----
+Korean cafes are especially welcoming to the cagongjok because of these features:
 
-## 韓国カフェの独特な文化
+- Free Wi-Fi at virtually every cafe
+- Power outlets at most seats
+- An atmosphere where staying for hours is perfectly acceptable
+- Many cafes open 24 hours
+- No one bats an eye if you sit for 3-4 hours with one drink
 
-韓国のカフェには日本では見られない独特な文化があります。
-
-### 振動ベルシステム
-
-注文後に振動ベルを受け取り、席で待っていると、ドリンクの準備ができた時にベルが鳴ります。スタッフが直接持ってくる代わりに、お客さんが自分でピックアップする方式が多いです。
-
-### キオスク注文
-
-多くのカフェでキオスク（無人注文機）で注文します。人と会話せずに注文できて便利ですが、デジタルに慣れていない高齢者には難しいこともあります。
-
-### タンブラー文化
-
-環境保護のために個人タンブラーを持参すると割引してくれるカフェが多いです。おしゃれなタンブラーを収集することも一つの趣味文化になりました。
-
-### デザートカフェの発展
-
-韓国のカフェはコーヒーだけでなくデザートの種類も非常に豊富です。ケーキ、マカロン、クロッフル、ブランチなどを一緒に売るカフェが多いです。
+In many Western countries, finding a cafe with reliable Wi-Fi, available outlets, and a willingness to let you camp out for hours can be hit-or-miss. In Korea, it's the default.
 
 ---
 
-## 日本のカフェ文化との違いまとめ
+## Study Cafes: A Uniquely Korean Concept
 
-| 区分 | 韓国 | 日本 |
-|------|------|------|
-| 空間の大きさ | 大型カフェ多い | 小規模カフェ多い |
-| 営業時間 | 深夜まで、24時間も | 夕方早く閉まる店多い |
-| コンセント | ほぼどこでもある | ない店多い |
-| Wi-Fi | 無料が基本 | なし、または有料の店も |
-| 長時間利用 | 自由 | 気まずくなることも |
-| 注文方式 | キオスク、セルフピックアップ | スタッフのサービス多い |
-| 主な目的 | 勉強、仕事、出会いの複合 | コーヒーを楽しむこと中心 |
+Korea also has a business called the **"study cafe"** (스터디카페). Despite the name, it's closer to a time-based co-working or self-study space.
 
-どちらが良い悪いではなく、それぞれの文化とライフスタイルに合わせて発展してきたのだと思います。
+Study cafes originated in Korea. They combine the comfortable atmosphere of a cafe with the focused environment of a library.
 
----
+**Key features of study cafes:**
 
-## 韓国旅行中にカフェを訪れるなら
+- Various pricing plans: 2-hour passes, day passes, 100-hour monthly passes
+- Many are unmanned (you pay at a kiosk)
+- Most are open 24 hours
+- Different zones: partitioned desks, open tables, study rooms
+- Free drinks (coffee, tea) included
+- Separate areas for laptop users and quiet zones
 
-### おすすめの体験
-
-- 大型カフェは2階、3階構造が多いので、上がって眺めの良い席を探してみてください
-- 聖水洞（ソンスドン）、延南洞（ヨンナムドン）、益善洞（イクソンドン）などのホットプレイスには独特なインテリアの個人カフェが多いです
-- 漢江近くの漢江ビューカフェもおすすめです
-- 低価格コーヒーブランド（メガコーヒー、コンポーズコーヒー）もぜひ一度体験してみてください
-- カフェデザートの中で「クロッフル」は韓国で流行しているメニューです
-
-### 知っておくと良いこと
-
-- コンセントとWi-Fiはほぼどこでもあるので心配しなくても大丈夫です
-- 長く座っていても大丈夫です。気にしなくていいです
-- 「アメリカーノ」の注文が最も無難です。韓国人が最もよく飲むメニューです
-- カード決済が基本です。現金のみのカフェはほとんどありません
+There are thousands of these study cafes across the country, concentrated near cram school districts and university areas. During exam season, it can be hard to find an empty seat.
 
 ---
 
-## 最後に
+## Budget Coffee vs. Premium Coffee: A Polarizing Market
 
-韓国のカフェ文化は、単に「コーヒーを飲む場所」を超えて生活の一部になりました。働き、勉強し、会い、休む空間。だから大きく、多く、長く開いているのです。
+The biggest shift in Korea's cafe market recently has been the explosive growth of budget coffee brands.
 
-日本の静かな喫茶店文化とは違う魅力があるので、韓国に来たらぜひ様々なカフェを体験してみてください。
+Brands like Mega Coffee, Compose Coffee, and Paik's Coffee sell an Americano for **1,500-2,000 won (~$1-1.40 USD)**. Compare that to a Starbucks Americano at around 4,500 won -- budget brands are less than half the price.
+
+**How Koreans use different cafes:**
+
+| Purpose | Preferred Cafe |
+|---------|---------------|
+| Morning caffeine fix on the way to work | Budget coffee brands |
+| Chatting with friends, dates | Starbucks, Twosome Place |
+| Extended studying/working | Large cafes or study cafes |
+| Aesthetic photos for social media | Indie cafes with unique interiors |
+
+It's common to "grab a 1,500-won Americano from Mega Coffee in the morning, then meet friends at Starbucks in the evening" -- using different cafes for different purposes throughout the day.
 
 ---
 
-**出典**
-- 統計庁サービス業調査（2024）
-- オープンサーベイ カフェトレンドレポート 2024
-- ユーロモニター コーヒー消費量調査
-- 韓国農水産食品流通公社（aT）コーヒー輸入統計
+## Unique Aspects of Korean Cafe Culture
+
+Korean cafes have some distinctive customs that may surprise visitors.
+
+### Vibrating Pagers
+
+After ordering, you receive a vibrating pager. Sit down and wait -- when your drink is ready, the pager buzzes. Instead of staff bringing drinks to your table, you pick them up yourself. Think of it like a fast-casual restaurant in the US, but at a cafe.
+
+### Kiosk Ordering
+
+Many cafes have self-service kiosks (touchscreen ordering machines) where you place and pay for your order without interacting with a person. Convenient for most, though it can be challenging for older customers less familiar with digital interfaces.
+
+### Tumbler Culture
+
+Many cafes offer discounts if you bring your own reusable tumbler. Collecting stylish tumblers has become a hobby in itself.
+
+### Dessert Cafes
+
+Korean cafes go far beyond just coffee. Many offer an extensive dessert menu -- cakes, macarons, croffles (croissant-waffles), brunch items, and more.
+
+---
+
+## How Korean Cafe Culture Compares
+
+| Aspect | Korea | Typical in the US/West |
+|--------|-------|----------------------|
+| Size | Large, multi-story cafes common | Smaller, cozier cafes common |
+| Hours | Open late, even 24 hours | Often close by early evening |
+| Power outlets | Available almost everywhere | Hit-or-miss |
+| Wi-Fi | Free as standard | Sometimes unavailable or limited |
+| Staying for hours | Totally normal | Can feel awkward |
+| Ordering | Kiosks, self-pickup | Counter service typical |
+| Primary purpose | Study, work, socializing -- all at once | Primarily enjoying coffee |
+
+It's not a matter of one being better than the other -- each has evolved to match its own culture and lifestyle.
+
+---
+
+## If You're Visiting Korea, Here's What to Experience
+
+### Recommended Experiences
+
+- Many large cafes have 2nd and 3rd floors -- head upstairs and find a seat with a great view
+- Neighborhoods like Seongsu-dong, Yeonnam-dong, and Ikseon-dong are full of indie cafes with incredible interiors
+- Cafes with views of the Han River are worth seeking out
+- Try a budget coffee brand (Mega Coffee, Compose Coffee) at least once
+- Among cafe desserts, the "croffle" (croissant-waffle) is a Korean trend worth trying
+
+### Good to Know
+
+- Power outlets and Wi-Fi are available almost everywhere, so don't worry about that
+- Staying for a long time is perfectly fine -- no one will rush you
+- Ordering an "Americano" is the safest bet and the most popular drink among Koreans
+- Card payment is standard -- almost no cafe is cash-only
+
+---
+
+## Final Thoughts
+
+Korean cafe culture has transcended the simple act of drinking coffee to become a genuine part of daily life. It's where people work, study, socialize, and relax. That's why the cafes are so big, so numerous, and open so late.
+
+It's a different kind of charm from the quiet, intimate coffee shop experience you might be used to -- and if you visit Korea, I highly recommend exploring as many different cafes as you can.
+
+---
+
+**Sources**
+- Statistics Korea Service Industry Survey (2024)
+- Open Survey Cafe Trend Report 2024
+- Euromonitor Coffee Consumption Survey
+- Korea Agro-Fisheries & Food Trade Corporation (aT) Coffee Import Statistics

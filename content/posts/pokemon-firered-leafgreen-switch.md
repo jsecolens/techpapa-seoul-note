@@ -1,91 +1,91 @@
 ---
-title: "ポケットモンスター ファイアレッド・リーフグリーンがNintendo Switchで遊べるなんて！あの頃のカントー地方の冒険をもう一度"
+title: "Pokemon FireRed & LeafGreen on Nintendo Switch! Reliving the Kanto Adventure"
 date: "2026-02-21"
 category: "gadget"
-description: "2026年2月27日発売予定のNintendo Switch版ポケモン ファイアレッド・リーフグリーン。発売情報と、30代パパが抱くあの頃の思い出を振り返ります。"
+description: "Pokemon FireRed & LeafGreen are coming to Nintendo Switch on February 27, 2026. Here's everything we know, plus a 30-something dad's nostalgic trip down memory lane."
 thumbnail: "/images/posts/pokemon-firered-leafgreen-switch.jpg"
 tags:
-  - ポケモン
+  - Pokemon
   - Nintendo Switch
-  - ゲーム
-  - ガジェット
+  - Gaming
+  - Gadgets
   - GBA
 ---
 
-![ポケモン ファイアレッド・リーフグリーンをプレイする子供](/images/posts/pokemon-firered-leafgreen-switch.jpg)
+![A child playing Pokemon FireRed & LeafGreen](/images/posts/pokemon-firered-leafgreen-switch.jpg)
 
-昨日（2月20日）、Nintendo eショップにサプライズのお知らせが登場しました。なんと**ポケットモンスター ファイアレッド・リーフグリーン**がNintendo Switchで発売されるというニュースです。発売日は2月27日、ポケモンシリーズ30周年を記念する「ポケモンデー」に合わせての配信開始となります。
+Yesterday (February 20), a surprise announcement appeared on the Nintendo eShop. **Pokemon FireRed & LeafGreen** are coming to Nintendo Switch! The release date is February 27, timed to coincide with Pokemon Day -- the 30th anniversary of the franchise.
 
-このニュースを聞いた瞬間、胸が熱くなりました。30代のパパがゲーム一つにここまでワクワクするなんて、自分でも驚いています。
-
----
-
-## ポケモン、あの頃の記憶
-
-ポケットモンスター。僕が小学生の時、初めてアニメを通じて出会った作品です。テレビの前に座って、サトシとピカチュウの冒険を息を殺して見守っていたあの頃が、今でも鮮明に蘇ります。
-
-そして、アニメに出てくるポケモンたちを**ゲームで自分の手で捕まえて、育てて、バトルできる**ということを知った時の衝撃といったら！幼い頃でも「こんなすごいものがあるんだ！」という新鮮な感動を受けたことを覚えています。
-
-しかも、ポケットモンスター赤、緑、青と3つもバージョンがあって、それぞれのパッケージにはリザードン、フシギバナ、カメックスがメインで描かれていて…今見てもカッコいいのに、子供の目にはどれほど輝いて見えたことでしょうか。ゲームボーイを一つ手に持っているだけで、世界中を手に入れたような気分でした。
+The moment I heard the news, my heart skipped a beat. I'm a dad in my 30s getting this excited over a game, and even I'm surprised at myself.
 
 ---
 
-## 時が流れて、子供と一緒にポケモンを楽しむパパになった
+## Pokemon: Childhood Memories
 
-あの頃から時が流れました。金・銀、ルビー・サファイア、ダイヤモンド・パール、ブラック・ホワイト…数多くのポケモンシリーズを経て、ゲーム機もゲームボーイからDS、3DSを経てNintendo Switchまで進化し、最近ではNintendo Switch2まで発表されました。
+Pokemon. I first discovered it through the anime as a kid. I can still vividly picture myself sitting in front of the TV, breathlessly following Ash and Pikachu on their adventures.
 
-そして今、僕は子供と一緒にポケモンを楽しむパパになりました。
+And then learning that you could actually **catch, train, and battle the Pokemon from the show in a video game** -- the sheer excitement of that realization! Even as a little kid, I remember feeling this incredible sense of wonder: "Something this amazing exists!"
 
-正直、今もポケモンが大好きで最新のゲームもプレイしていますが、なんというか…確かに昔のゲームに比べてグラフィックも格段に良くなり、あらゆる面で進化を遂げていますが、僕の心の中では、幼い頃に触れたあのドット絵のポケモンゲームたちへの愛着の方がずっと大きいのです。ゲームボーイ一つだけで幸せだったあの頃のゲームたちを、もう一度遊びたくてたまりませんでした。
-
-しかし現実は…家にはゲームボーイのような昔のゲーム機はもうなく、中古で買おうとしても、すでにレトロゲーム機の価値が高くなりすぎて、気軽に手が出せない。だから、ずっと思い出の中だけにしまっていました。
+The games came in multiple versions -- Red, Green, and Blue -- each featuring Charizard, Venusaur, or Blastoise on the cover. They look cool even now, but imagine how they looked through a child's eyes. Just holding a Game Boy felt like holding the entire world in your hands.
 
 ---
 
-## Nintendo Switchで再会するファイアレッド・リーフグリーン！
+## Fast Forward: Now I'm a Dad Playing Pokemon with My Kid
 
-それがNintendo Switchで遊べるようになるなんて！本当にワクワクが止まりません。
+Time flew. Gold & Silver, Ruby & Sapphire, Diamond & Pearl, Black & White -- through countless Pokemon generations, the hardware evolved from Game Boy to DS to 3DS to Nintendo Switch, with Switch 2 now on the horizon.
 
-ポケットモンスター ファイアレッド・リーフグリーンは、もともと2004年にゲームボーイアドバンス（GBA）で発売された作品で、1996年に発売された初代ポケットモンスター赤・緑をリメイクしたゲームです。ポケモンシリーズ史上初のリメイク作品という点でも意味深い一作ですよね。原作のカントー地方の冒険をGBAの向上したグラフィックで再現しつつ、「ナナシマ（七の島）」という新しいエリアも追加され、より充実したストーリーが楽しめる作品でした。
+And here I am, a dad who gets to enjoy Pokemon with his own kid.
 
-そしてこの度、この名作がNintendo Switchで蘇ります。正確には、GBA版をNintendo Switchでプレイできるよう再現したものです。
+I'll be honest -- I still love Pokemon and play the latest games. But somehow... even though the graphics have improved dramatically and the games have evolved in every way, the pixel-art Pokemon games from my childhood hold a deeper place in my heart. There's an attachment to those early games that newer titles just can't replicate. I'd been longing to play them again.
 
----
-
-## 発売情報まとめ
-
-今回のNintendo Switch版について、分かっている情報をまとめてみます。
-
-- **発売日**：2026年2月27日（金）— ポケモン30周年記念「ポケモンデー」
-- **配信開始**：当日23時のPokémon Presents放送終了後からプレイ可能
-- **価格**：各2,000円（日本）/ 各20,000ウォン（韓国）※ファイアレッド、リーフグリーン別売り
-- **対応言語**：日本語 / 英語（韓国語は非対応）
-- **サブスク不要**：Nintendo Switch Onlineへの加入なしで単品購入・プレイ可能
-- **ポケモンHOME連携**：対応
-- **通信**：ローカル通信のみ（オンライン通信は非対応）
-
-さらに、日本では2月28日にGBA版再現パッケージとガラス製モンスターボールオブジェがセットになった特別版（各19,800円・税込）も発売されるとのこと。コレクターなら要チェックです。
+But the reality was... I no longer had a Game Boy at home, and retro gaming hardware has gotten so expensive on the secondhand market that buying one felt impractical. So those games stayed locked away in my memories.
 
 ---
 
-## 韓国語がないのは残念だけど、むしろチャンスに！
+## FireRed & LeafGreen, Reunited on Nintendo Switch!
 
-僕は韓国に住んでいるのですが、残念ながら韓国語版は提供されません。原作自体が韓国語に対応していなかったため、今回のSwitch版でも日本語と英語のみの選択となります。
+And now they're coming to Nintendo Switch! I genuinely can't contain my excitement.
 
-でも、僕はこれをむしろチャンスとして捉えています。初めて**日本語版**を購入してプレイするつもりです！どうせストーリーはすでに知っているので、ゲームを楽しみながら自然と日本語の勉強にもなる、一石二鳥のチャンスになりそうです。ポケモンの名前や技名を日本語で触れながら語彙を増やし、ゲーム内の会話を読みながら読解の練習もできるでしょう。
+Pokemon FireRed & LeafGreen were originally released in 2004 for the Game Boy Advance (GBA). They were remakes of the original 1996 Pokemon Red & Green -- the very first remakes in the entire Pokemon franchise. The games faithfully recreated the Kanto region adventure with upgraded GBA graphics while adding the Sevii Islands, a brand-new area with expanded story content.
 
----
-
-## あの頃の感動をもう一度
-
-もちろん、ゲーム自体は今の最新ポケモンと比べるとドット絵で、昔のゲームのように感じるかもしれません。でも僕にとっては、それこそがこのゲームの魅力なんです。あの頃に戻してくれるタイムマシンのような存在ですから。
-
-マサラタウンでオーキド博士に会って最初のポケモンを選び、ライバルと初めてバトルして、草むらで新しいポケモンに出会うあのドキドキ感…カントー地方の8つのジムを巡ってバッジを集め、ロケット団を退け、最後にチャンピオンに挑むあの長い旅路を、もう一度歩けるなんて本当に感慨深いです。
-
-あと1週間を切りました。早くプレイしたくてたまりません！
-
-もし僕のように子供の頃ポケモンと一緒に育った方がいらっしゃったら、この機会に思い出のカントー地方の冒険にもう一度旅立ってみてはいかがでしょうか？子供と一緒にプレイしながら「パパが子供の頃、このゲームをやっていたんだよ」と話してあげられることも、とても幸せなことだと思います。
+Now this classic is being revived on Nintendo Switch -- specifically, the GBA version faithfully reproduced for Switch.
 
 ---
 
-*ポケットモンスター ファイアレッド・リーフグリーンは、2026年2月27日よりNintendo eショップにて配信開始。価格は各2,000円（税込）です。*
+## Release Details
+
+Here's what we know about the Nintendo Switch release:
+
+- **Release date:** February 27, 2026 (Friday) -- Pokemon 30th Anniversary "Pokemon Day"
+- **Availability:** Playable immediately after the Pokemon Presents broadcast ends at 11 PM (local time)
+- **Price:** $14.99 each (FireRed and LeafGreen sold separately)
+- **Languages:** English and Japanese
+- **No subscription required:** Can be purchased and played without Nintendo Switch Online
+- **Pokemon HOME:** Compatible
+- **Multiplayer:** Local wireless only (no online play)
+
+Additionally, a special physical edition featuring a GBA-style reproduction package and a glass Poke Ball display piece has been announced for collectors.
+
+---
+
+## No Korean Language Option -- But I'm Making the Best of It
+
+I live in Korea, and unfortunately there's no Korean language version. Since the original game never supported Korean, the Switch release only offers English and Japanese.
+
+But I'm choosing to see this as an opportunity. I'm planning to play the English version -- since I already know the story, it doubles as a fun way to practice English. Learning Pokemon names and move names, reading in-game dialogue -- it's a two-for-one deal.
+
+---
+
+## Reliving That Magic
+
+Sure, compared to modern Pokemon games, this one has pixel-art graphics and a retro feel. But for me, that's precisely what makes it special. It's a time machine back to childhood.
+
+Meeting Professor Oak in Pallet Town, choosing your first Pokemon, battling your rival for the first time, encountering new Pokemon in the tall grass... Traveling across Kanto's eight gyms, collecting badges, thwarting Team Rocket, and finally challenging the Champion -- the thought of walking that entire journey again fills me with emotion.
+
+Less than a week to go. I can barely wait!
+
+If you grew up with Pokemon like I did, why not take this chance to revisit the Kanto region? And if you have kids, playing together and telling them "This is what Dad played when he was your age" is a pretty special experience in itself.
+
+---
+
+*Pokemon FireRed & LeafGreen launch on the Nintendo eShop on February 27, 2026, priced at $14.99 each.*

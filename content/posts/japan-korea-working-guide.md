@@ -1,190 +1,185 @@
 ---
-title: '日本人が韓国で働くなら知っておきたいこと'
+title: 'Working in South Korea: What You Should Know Before You Go'
 date: '2026-02-22'
 category: 'korea-culture'
-description: 'ビザ、職場文化、給与、生活情報まで。韓国で働きたい日本人が事前に知っておくべき情報を徹底ガイドします。'
+description: 'A comprehensive guide for foreigners considering working in South Korea — covering visas, workplace culture, salary, cost of living, and practical tips for daily life.'
 thumbnail: '/images/posts/japan-korea-working-guide.jpg'
 tags:
-  - 韓国文化
-  - 韓国就職
-  - 海外就職
-  - ビザ
-  - 職場文化
+  - Korean culture
+  - working in Korea
+  - expat life
+  - visa guide
+  - workplace culture
 ---
 
-![日本人の韓国就ガイド](/images/posts/japan-korea-working-guide.jpg)
+![Guide to working in South Korea](/images/posts/japan-korea-working-guide.jpg)
 
-K-POP、韓国ドラマ、IT産業の成長などをきっかけに、韓国で働きたいという日本人が増えています。しかし、同じ東アジアの国であっても、韓国の職場文化は日本とかなり異なる部分が多くあります。この記事では、韓国で働きたい日本人が事前に知っておくと役立つ職場文化と生活情報をまとめました。
+With the global rise of K-pop, Korean dramas, and a booming IT industry, more and more people from around the world are considering working in South Korea. But even if you're a fan of Korean culture, the realities of Korean work life can be quite different from what you might expect. This guide covers what you need to know — from visas to office culture to daily life — before making the move.
 
 ---
 
-## 1. ビザと就職準備
+## 1. Visas and Job Preparation
 
-### 就労ビザの種類
+### Work Visa Types
 
-日本人が韓国で合法的に働くには、就労ビザが必要です。
+To work legally in South Korea, you'll need a work visa. Here are the most common types:
 
-| ビザの種類 | 対象 |
+| Visa Type | Who It's For |
 |-----------|------|
-| E-7（特定活動） | 専門職種（IT、エンジニア、デザイナーなど） |
-| E-2（会話指導） | 日本語講師 |
-| D-8（企業投資） | 韓国で事業を行う場合 |
-| F-2（居住） | 長期滞在資格 |
+| E-7 (Specially Designated Activities) | Skilled professionals (IT, engineering, design, etc.) |
+| E-2 (Foreign Language Instructor) | Language teachers |
+| D-8 (Corporate Investment) | Starting or investing in a business in Korea |
+| F-2 (Residence) | Long-term residence qualification |
+| H-1 (Working Holiday) | Young adults from eligible countries (typically 18-30) |
 
-最も多いケースはE-7ビザとE-2ビザです。E-7ビザは学歴や経歴の要件があり、雇用企業からの招聘が必要です。E-2ビザは大学卒業以上の学歴があれば比較的取得しやすくなっています。
+The E-7 visa is the most common path for professionals. It requires a relevant degree and/or work experience, plus sponsorship from a Korean employer. The E-2 visa is for language teaching and is relatively straightforward if you have a bachelor's degree.
 
-### 韓国語能力
+### Korean Language Ability
 
-職種によって異なりますが、韓国企業で働くならTOPIK 4級以上の韓国語力が推奨されます。日系企業の韓国支社や日本語講師の職種であれば、韓国語の要求レベルは低い場合もありますが、日常生活のためにも基本的な韓国語は必須です。
+The language requirement varies by job. If you're working at a Korean company, **TOPIK Level 4 or above** is generally recommended. International companies, English-teaching positions, or tech roles at global firms may have lower Korean language requirements — but even basic Korean is essential for daily life.
 
-### 求職方法
+### Finding Jobs
 
-韓国での就職活動は、主に以下のような経路を利用します。
+Here are the main channels for job hunting in South Korea:
 
-- **사람인（サラミン）、잡코리아（ジョブコリア）**: 韓国最大の就職ポータルサイト
-- **원티드（ウォンティッド）、리멤버（リメンバー）**: IT・スタートアップ中心の採用プラットフォーム
-- **LinkedIn**: グローバル企業や外資系企業の採用
-- **KOTRA求人情報**: 外国人向けの就職情報を提供
-- **日韓就職フェア**: 定期的に韓国と日本で開催
+- **Saramin, JobKorea**: Korea's largest job portals (mostly Korean-language listings)
+- **Wanted, Remember**: Popular for IT and startup positions
+- **LinkedIn**: Best for international companies and global roles
+- **KOTRA Job Board**: Job information specifically for foreign workers
+- **WorknPlay, Seoul Global Center**: Resources and job fairs for expats
 
 ---
 
-## 2. 韓国の職場文化の特徴
+## 2. Korean Workplace Culture
 
-### 呼称文化
+### Titles and Hierarchy
 
-韓国の職場でまず最初にぶつかるのが呼称です。日本では「〜さん」で統一されることが多いですが、韓国では役職に応じた呼称が非常に重要です。
+One of the first things you'll encounter in a Korean office is the **title system**. Rather than calling everyone by their first name, Koreans use job titles as forms of address.
 
-| 役職 | 呼称の例 |
+| Level | How to Address |
 |------|----------|
-| 社員（사원） | ○○씨、○○님 |
-| 代理（대리） | ○○ 대리님 |
-| 課長（과장） | ○○ 과장님 |
-| 部長（부장） | ○○ 부장님 |
-| 理事以上 | ○○ 이사님、○○ 상무님 |
+| Staff (사원) | [Name]-ssi or [Name]-nim |
+| Assistant Manager (대리) | [Name] Daeri-nim |
+| Manager (과장) | [Name] Gwajang-nim |
+| Director (부장) | [Name] Bujang-nim |
+| Executive and above | [Name] Isa-nim, [Name] Sangmu-nim |
 
-最近ではスタートアップや外資系企業を中心に「〜님（ニム）」で統一したり、英語名を使う会社も増えています。ただし、伝統的な大企業や中小企業では役職呼称が依然として重要です。
+Startups and international companies are increasingly moving toward flat structures — using "-nim" (a respectful suffix) for everyone or even English first names. But in traditional corporations and SMEs, titles still matter a lot.
 
-### 年齢と序列
+### Age and Seniority
 
-韓国社会で年齢は非常に重要な要素です。職場でも年齢や入社年次による上下関係が存在します。日本にも先輩・後輩文化がありますが、韓国ではそれがより明確に現れるケースが多いです。
+Age plays a significant role in Korean society, and the workplace is no exception. Seniority based on age and hire date influences workplace dynamics. Don't be surprised if a new colleague asks your age early on — it's considered normal and helps determine the appropriate level of formality in conversation.
 
-初対面の同僚に年齢を聞くのは、韓国では自然なことです。これは相手に対する適切な敬称や態度を決めるためのもので、失礼にはあたらないという点を理解しておくとよいでしょう。
+### The "Ppalli Ppalli" (Fast Fast) Culture
 
-### 速い業務スピード — 「빨리빨리（パルリパルリ）」文化
+One of the biggest cultural adjustments for foreigners is the pace of work. Korea has a famous **"ppalli ppalli" (빨리빨리 — hurry hurry)** culture that prioritizes speed and execution.
 
-韓国の職場で最も大きく感じる違いの一つが業務スピードです。韓国には「빨리빨리（早く早く）」という言葉があるほど、素早い実行を重視する文化があります。
+Where many Western workplaces might emphasize careful planning and consensus-building before starting, Korean companies often prefer a **"let's just start and adjust as we go"** approach. It can feel chaotic at first, but many expats come to appreciate the dynamism and speed at which things get done.
 
-日本では綿密な事前準備と根回しを経てから仕事を進めることが多いですが、韓国では「まずやってみよう」という方式で素早くスタートし、進めながら修正していくスタイルが一般的です。最初は戸惑うかもしれませんが、このスピード感に慣れるとむしろ効率的だと感じる日本人も多いです。
+### Hoesik (Company Dinners)
 
-### 会食文化
+Korean **hoesik (회식)** — company dinners with drinking — are a distinctive part of work culture. A typical hoesik might progress through multiple rounds: dinner first, then drinks at a bar or noraebang (karaoke), sometimes a third stop.
 
-韓国の회식（フェシク＝会社の飲み会）は、日本の飲み会と似ていますが、いくつかの違いがあります。
+Some drinking etiquette to know:
+- When a senior colleague pours you a drink, **receive the glass with both hands**
+- When drinking in front of elders, it's traditional to **turn your head slightly to the side**
 
-まず、韓国の会食は1次会、2次会、3次会と続くことが多いです。1次会は夕食、2次会は居酒屋やカラオケ、3次会はさらに別の店やカフェに移動する流れです。
+That said, hoesik culture has been declining significantly. Post-COVID, gatherings are less frequent and shorter. Younger workers increasingly feel comfortable declining invitations.
 
-また、上司がお酒を注いでくれる時は両手でグラスを受けるのがマナーです。さらに目上の人の前でお酒を飲む時は、顔を横に向けて飲むのが伝統的な礼儀です。
+### Lunch Culture
 
-ただし最近では、MZ世代（ミレニアル＋Z世代）を中心に会食を負担に感じる雰囲気が広がり、会食の回数が減ったり、1次会で終わるケースも増えています。
+In Korean workplaces, **lunch is typically a group activity**. Team members usually head to a restaurant together rather than eating alone at their desks. This might feel like a lot at first, but it's an important relationship-building ritual.
 
-### ランチ文化
-
-韓国の職場では、昼食は通常同僚と一緒に食べます。日本では一人でお弁当を食べたり、個人行動をするのが自然ですが、韓国ではチームメンバーと一緒に食堂に行くのが一般的です。最初は毎日一緒に食べるのが負担に感じるかもしれませんが、これがチーム内の関係構築の大切な時間でもあります。
-
-ランチ代は各自支払い（ワリカン）か、先輩がおごる場合もあります。韓国のサラリーマンのランチ予算は、だいたい8,000ウォン〜12,000ウォン（約800円〜1,200円）が目安です。
+Lunch budgets for Korean office workers typically range from **8,000-12,000 KRW (about $6-9 USD)**. Sometimes a senior colleague will treat the group.
 
 ---
 
-## 3. 勤務環境
+## 3. Working Conditions
 
-### 勤務時間
+### Working Hours
 
-韓国の法定労働時間は週52時間（基本40時間＋延長12時間）です。2018年に週52時間上限制が導入されて以前よりかなり改善されましたが、業種や会社によっては残業が多いケースもまだあります。
+Korea's legal work limit is **52 hours per week** (40 regular + 12 overtime). The 2018 reform significantly improved conditions, though overtime still varies by industry and company.
 
-日本と比較すると韓国にも残業文化はありますが、「칼퇴（カルテ＝定時退勤）」する雰囲気が徐々に広がっています。特にIT企業やスタートアップではフレックス勤務やリモートワークを導入するところが多いです。
+**"Kaltogeun" (칼퇴 — leaving right on time)** is becoming more common, especially in IT and startup environments where flexible hours and remote work are increasingly standard.
 
-### 有給休暇
+### Paid Leave
 
-韓国の年次有給休暇は、入社1年目に15日が付与され、その後2年ごとに1日ずつ追加されます（最大25日）。これに加えて祝日（約15日）が別途あるため、日本と同程度の休日が保障されています。
+Annual paid leave starts at **15 days in your first year**, increasing by one day every two years up to a maximum of 25 days. Plus there are about **15 public holidays**.
 
-ただし、有給を自由に使えるかどうかは会社の雰囲気次第です。周囲の目を気にして使えない場合もありますが、最近は有給取得を推奨する会社が増える傾向にあります。
+Whether you can actually use your leave freely depends on company culture. Some workplaces still have an unspoken expectation to save vacation days, but the trend is moving toward encouraging employees to use their time off.
 
-### 給与と福利厚生
+### Salary and Benefits
 
-韓国の給与体系は一般的に月給制で、多くの企業が年俸の1/12を毎月支給します。これに成果給や名節（旧正月・秋夕）ボーナスが加わる場合もあります。
+Korean salaries are typically paid monthly as 1/12 of your annual compensation. Performance bonuses and holiday bonuses (for Lunar New Year and Chuseok) may be added.
 
-2025年基準で韓国の最低時給は10,030ウォン（約1,000円）です。大企業と中小企業の賃金格差が大きい傾向がありますが、IT業界の場合、日本と同等かむしろ高い年俸を提示する企業もあります。
+As of 2025, Korea's minimum wage is **10,030 KRW/hour (about $7.50 USD)**. There's a significant wage gap between large corporations and SMEs, but the **IT sector often offers competitive salaries** comparable to or exceeding those in many other developed countries.
 
-福利厚生面では、4大保険（国民年金、健康保険、雇用保険、労災保険）が基本的に適用され、大企業の場合は社員食堂、自己啓発費、慶弔費など多様な福利厚生を提供しています。
-
----
-
-## 4. 生活情報
-
-### 住居
-
-ソウルの家賃は東京と同程度か、エリアによってはそれ以上の場合もあります。韓国独自の住居制度である「전세（チョンセ）」は、高額の保証金を預けて月々の家賃なしで住む方式ですが、外国人には参入障壁が高いです。最初は「월세（ウォルセ＝月払い家賃）」で始めるのが現実的です。
-
-外国人が多く住むエリアとしては、ソウルの梨泰院（イテウォン）、漢南洞（ハンナムドン）、延南洞（ヨンナムドン）などがあり、最近は聖水洞（ソンスドン）や乙支路（ウルチロ）周辺も人気が高まっています。
-
-### 交通
-
-ソウルの公共交通機関は非常に便利です。地下鉄とバスの路線が細かく接続されており、交通カード1枚で乗り換え割引も受けられます。タクシー料金も日本に比べて安い方なので、深夜のタクシー利用も負担が少ないです。
-
-### 医療
-
-韓国の国民健康保険に加入すれば、医療費の負担が大きく軽減されます。就労ビザで滞在する外国人も加入対象で、韓国の医療水準は世界的にも高い方です。ただし韓国の病院では日本語対応が難しい場合が多いため、基本的な医療関連の韓国語を覚えておくと便利です。
-
-### 韓国生活の必須アプリ
-
-韓国で生活するなら、以下のアプリはほぼ必須です。
-
-- **카카오톡（カカオトーク）**: 韓国の国民的メッセンジャー。職場でもカカオトークでやりとりすることが多い
-- **네이버 지도（ネイバー地図）/ 카카오맵（カカオマップ）**: ナビゲーションや公共交通情報
-- **배달의민족（ペダルのミンジョク）/ 쿠팡이츠（クーパンイーツ）**: フードデリバリー
-- **토스（トス）/ 카카오페이（カカオペイ）**: 簡単決済・送金
-- **당근마켓（タングンマーケット）**: フリマ・地域コミュニティ
+All employees are covered by Korea's four major insurance programs: National Pension, National Health Insurance, Employment Insurance, and Industrial Accident Insurance.
 
 ---
 
-## 5. 日本人が経験しやすいカルチャーショック
+## 4. Practical Life Information
 
-### ストレートなコミュニケーション
+### Housing
 
-韓国の職場では、日本に比べて意見を直接的に言うことが多いです。日本では婉曲に表現したり、空気で伝えるのが美徳とされる場合がありますが、韓国でははっきり伝えることがむしろ良いコミュニケーションとされます。
+Seoul housing costs are comparable to other major global cities. Korea has a unique housing system called **jeonse (전세)** — paying a large lump-sum deposit instead of monthly rent. However, this system requires significant upfront capital and can be tricky for foreigners to navigate.
 
-最初はストレートなフィードバックに驚くかもしれませんが、これは個人への攻撃ではなく、業務効率のためだと理解するとよいでしょう。
+Most expats start with **wolse (월세 — monthly rent)**. Popular neighborhoods for foreigners include Itaewon, Hannam-dong, Yeonnam-dong, Seongsu-dong, and the area around Euljiro.
 
-### 会議スタイルの違い
+### Transportation
 
-日本では会議前に根回しが行われ、会議自体は確認作業に近いことが多いですが、韓国では会議の場で活発に意見を交わしながら決定していくことが多いです。積極的に意見を出すことが肯定的に評価されます。
+Seoul's public transit system is excellent. The subway and bus networks are extensive, affordable, and well-connected. A single **T-money transit card** works across all modes of transport with transfer discounts. Taxis are also reasonably priced compared to most Western cities.
 
-### 突然のスケジュール変更
+### Healthcare
 
-韓国では予定や方針が急に変わることがあります。日本では一度決めた計画をそのまま進めることを重視しますが、韓国では状況に応じて柔軟に対応することをより重要視します。「昨日言ったこと、変わったから」と言われても慌てない心の準備が必要です。
+Korea's **National Health Insurance** system provides excellent coverage. Foreign workers on employment visas are eligible, and Korea's medical standards are world-class. Many hospitals in Seoul have international clinics with English-speaking staff, though having some basic medical Korean is always helpful.
 
-### 距離感が近い人間関係
+### Essential Apps for Living in Korea
 
-韓国の人は打ち解けるスピードが速いです。入社して間もなくても、個人的な質問（年齢、結婚しているか、家族のことなど）をされることがあります。これは好意の表れなので、不快に思わないのがよいでしょう。
-
----
-
-## 6. 韓国で働くメリット
-
-韓国で働くことはチャレンジでもありますが、それだけの魅力もあります。
-
-まず、韓国のITインフラは世界トップクラスです。高速インターネット、高いスマートフォン普及率、発達したフィンテック環境で働く経験は大きな財産になります。
-
-次に、日韓両国のビジネスをつなげる人材は、両方の市場で高い価値を認められます。
-
-また、生活費の面では東京より安い部分が多いです。特に食費と交通費は日本に比べて負担が少ない方です。
-
-そして、ダイナミックな韓国のビジネス環境で得る経験は、グローバルキャリアに大きなプラスとなります。
+- **KakaoTalk**: Korea's dominant messaging app — used for everything, including work communication
+- **Naver Map / KakaoMap**: Navigation and public transit information (Google Maps works but is limited in Korea)
+- **Baedal Minjok / Coupang Eats**: Food delivery apps
+- **Toss / KakaoPay**: Payment and money transfer
+- **Danggeun Market**: Local classifieds and community marketplace
 
 ---
 
-## まとめ
+## 5. Culture Shocks to Expect
 
-韓国と日本は近い国ですが、職場文化には明確な違いがあります。その違いを事前に理解し、準備しておけば、韓国での職場生活は十分にやりがいがあり、楽しい経験になるはずです。
+### Direct Communication
 
-新しい環境に適応するには時間がかかるかもしれませんが、韓国ならではのエネルギーと温かい情（ジョン）の文化を体験するうちに、いつの間にか韓国生活にはまっていることでしょう。
+Korean workplaces tend to be **more direct** than you might expect. Feedback is often delivered straightforwardly. Don't take blunt comments personally — it's generally about efficiency, not criticism of you as a person.
+
+### Active Meetings
+
+In many Western work cultures, meetings may be about confirming decisions already made behind the scenes. In Korea, **meetings are often where real debates happen**. Speaking up and sharing your opinion actively is valued.
+
+### Last-Minute Changes
+
+Be prepared for **sudden shifts in plans or direction**. Korean business culture values agility and adaptation. A decision made yesterday might be completely changed today based on new information. Flexibility is essential.
+
+### Close Personal Relationships
+
+Koreans tend to build close relationships quickly. Colleagues may ask personal questions early on — your age, relationship status, family situation. This is generally meant as warmth and interest, not intrusiveness. The Korean concept of **"jeong" (정)** — a deep sense of affection and attachment that builds over time — is central to how relationships work here.
+
+---
+
+## 6. Why Work in South Korea
+
+Despite the challenges, working in Korea offers real advantages:
+
+**World-class tech infrastructure**: Korea consistently leads the world in internet speed, smartphone penetration, and fintech adoption. Working in this environment is a career-building experience.
+
+**Dynamic business culture**: The fast pace and willingness to try new things creates exciting opportunities, especially in tech and startups.
+
+**Cost of living**: While Seoul housing is expensive, food, transportation, and many daily expenses can be very affordable compared to cities like New York, London, or San Francisco.
+
+**Global career value**: Experience working in one of Asia's most dynamic economies is increasingly valued by employers worldwide.
+
+---
+
+## Final Thoughts
+
+South Korea offers a unique and rewarding work experience — but it comes with a learning curve. Understanding the cultural norms, workplace expectations, and practical realities before you arrive will make your transition much smoother.
+
+Adapting takes time, but Korea's infectious energy and the warmth of its people — what Koreans call **"jeong" (정)** — have a way of making you feel at home before you know it.

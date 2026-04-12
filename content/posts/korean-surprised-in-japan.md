@@ -1,99 +1,103 @@
 ---
-title: "韓国人が日本に来て驚いたこと5選"
+title: "5 Things That Surprise Foreigners About Living in Korea"
 date: "2026-02-15"
 category: "daily"
-description: "韓国人の視点で日本に来て驚いたことを5つご紹介。自動販売機の多さ、現金文化、挨拶の丁寧さ、トイレのきれいさ、四季の行事まで、韓国との違いを正直にお伝えします。"
+description: "From lightning-fast delivery to free side dishes, incredible internet speed, jimjilbang culture, and the nightlife that never sleeps — here are 5 things that surprise foreigners about daily life in South Korea."
 thumbnail: "/images/posts/korean-surprised-in-japan.jpg"
 tags:
-  - 日常
-  - 韓国人
-  - 日本文化
-  - カルチャーショック
-  - 日韓比較
+  - daily life
+  - Korean culture
+  - culture shock
+  - expat life
+  - living in Korea
 ---
 
-![韓国人が日本に来て驚いたこと](/images/posts/korean-surprised-in-japan.jpg)
+![Things that surprise foreigners about Korea](/images/posts/korean-surprised-in-japan.jpg)
 
-韓国と日本は同じ東アジアの国で、飛行機でわずか2時間の距離にある近い国です。文化的にも似ている点が多いので「ほとんど同じじゃないの？」と思われがちですが、実際に日本に来てみると驚くことが本当にたくさんあります。
+South Korea is a fascinating mix of ultra-modern technology and deep-rooted traditions. Even if you've watched hundreds of K-dramas or followed Korean culture online, actually living here reveals surprises at every turn.
 
-今回は韓国人の視点から、日本に来て「え?!」と驚いたこと5つを正直にご紹介します。
-
----
-
-## 1. 自動販売機が多すぎる
-
-日本に来てまず最初に驚くのが、**自動販売機の数**です。
-
-韓国にも自販機がないわけではありませんが、日本は次元が違います。駅前はもちろん、住宅街の路地、山の中の登山道、さらには田舎の田んぼのど真ん中にも自販機が立っています。日本全国に約500万台あるそうで、だいたい25人に1台の割合です。
-
-しかも売っているものも多種多様。飲み物は基本として、温かい缶コーヒーと冷たい飲み物が一台の中に並んでいるのも不思議です。アイスクリーム、カップ麺、さらには新鮮な卵や果物を売る自販機まであります。最近では冷凍ラーメンや餃子を売る冷凍食品の自販機も増えていて、自販機の進化に終わりはないなと感じます。
-
-韓国人としては「コンビニに行けばいいのに、なんでこんなに自販機が多いんだろう？」と思うのですが、日本の自販機は24時間無人で稼働しているのに故障がほとんどなく、いつもきれいに管理されていて、日本の技術力とサービス精神を感じる部分です。
-
-特に冬の寒い街を歩いているとき、自販機で温かい缶コーヒーを買って手を温める体験は、韓国ではなかなかできない日本ならではのささやかな幸せです。韓国人の友人が日本に来ると必ず一度は自販機の前で写真を撮るのも、納得がいきます。
+Here are 5 things that consistently surprise foreigners when they experience life in Korea firsthand.
 
 ---
 
-## 2. まだまだ現金をよく使う
+## 1. Delivery Culture Is on Another Level
 
-韓国は**キャッシュレス先進国**です。コンビニで100ウォン（約10円）の飴ひとつ買うのにもカードやスマホ決済が当たり前で、屋台でもカカオペイ（韓国のスマホ決済）で支払えます。現金を持ち歩かない人がほとんどで、財布の代わりにスマホケースにカード1枚だけ入れて出かける人も珍しくありません。
+If there's one thing Korea does better than almost anywhere else on Earth, it's **delivery**.
 
-ところが日本に来ると、「現金のみ」という案内をけっこう頻繁に目にします。特に個人経営の食堂やラーメン屋、小さなお店では、いまだに現金払いしか受け付けないところが少なくありません。観光地のお土産屋や市場でも現金のみという場合があり、財布に現金がないと困る場面も出てきます。
+Food delivery apps like **Baedal Minjok** and **Coupang Eats** will bring practically any restaurant meal to your door — often in under 30 minutes. And it's not just fast food. You can order Korean BBQ, sushi, jjajangmyeon, fried chicken, bingsoo (shaved ice), even a full-course meal.
 
-もうひとつ驚いたのは、**硬貨の種類が多い**ということです。1円、5円、10円、50円、100円、500円と6種類もあります。韓国では硬貨を使う機会がほとんどないため、日本で生活していると財布が小銭でどんどん重くなっていきます。最初はレジで硬貨を数えるのに慣れなくて、結局お札ばかり出してしまい、お釣りがどんどん溜まるという悪循環に陥ることもあります。
+But delivery in Korea goes far beyond food. Need groceries? **Coupang Rocket Delivery** can have them at your door by the next morning — sometimes within hours. Need a battery, a phone charger, or a pair of socks at 11 PM? Not a problem.
 
-もちろん日本もPayPayやSuicaなどキャッシュレスが増えてきていますが、韓国の普及率に比べるとまだ差があります。日本旅行を計画している韓国人に「現金をちょっと持っていった方がいいよ」とアドバイスするのは、もはや必須になっています。
+For people coming from countries where delivery means waiting 3-5 business days (or paying a premium for next-day), Korea's delivery infrastructure feels almost unreal. The speed, variety, and affordability are genuinely world-leading.
 
----
-
-## 3. 挨拶と感謝の表現が終わらない
-
-日本のサービス業で感じる一番大きな違いは、**挨拶の回数と丁寧さ**です。
-
-コンビニに入れば「いらっしゃいませ！」、会計のときに「ありがとうございます」、出るときにまた「ありがとうございます、またお越しくださいませ」。デパートやホテルでは深々とお辞儀をするスタッフを頻繁に見かけます。
-
-韓国でももちろん「감사합니다（カムサハムニダ＝ありがとうございます）」とは言いますが、日本のように繰り返し深いお辞儀をすることはめったにありません。最初は「ここまでする必要があるのかな？」と思いましたが、受ける側としては気持ちが良くなるのは確かです。
-
-また面白いのは、日本の**「すみません」文化**です。この一言で「ごめんなさい」「失礼します」「ありがとう」「すみませーん（呼びかけ）」まで、さまざまな意味で使われます。食堂で店員さんを呼ぶときも、狭い道ですれ違うときも、誰かに助けてもらったときも「すみません」。韓国では場面ごとに違う表現を使うのですが、日本ではこの万能ワードひとつでほぼすべての状況をカバーできるのが興味深いです。
-
-逆に、日本人が韓国に行くと店員さんの態度が「ぶっきらぼうだ」と感じることがあるかもしれませんが、韓国ではそれが自然なことなので誤解しないでくださいね！韓国式のサービスは、形式的な丁寧さよりも素早く効率的な対応が持ち味です。「お姉さん、ここにお水ください！」と言えばすぐ出てくる韓国の食堂のスピード感は、日本人がむしろうらやむポイントだったりもします。
+And the delivery riders? They navigate Seoul's hills and traffic with a fearlessness that's both impressive and slightly terrifying.
 
 ---
 
-## 4. トイレがどこに行ってもきれい
+## 2. Free Side Dishes — And They Keep Coming
 
-日本のトイレのレベルは世界的にも有名ですが、実際に体験すると噂以上です。
+Walk into almost any Korean restaurant, and before your main dish arrives, your table will be covered with small plates of **banchan (반찬)** — side dishes. Kimchi, pickled radish, seasoned spinach, bean sprouts, dried anchovies, japchae, and more.
 
-駅でもコンビニでも公園でも、**どこに行ってもトイレがきれいで、しっかり管理されています**。便座に暖房機能とウォシュレットが標準装備されていて、音姫（おとひめ）まで付いているところも多いです。
+**These are all free. And they're refillable.**
 
-最初に一番驚いたのは、便座リモコンの**ボタンの数**でした。ウォシュレットの水圧調節、便座の温度調節、乾燥機能、脱臭機能まで…。韓国にもウォシュレットはありますが、日本のように公共のトイレにまでここまでの機能が備わっているところはめったにありません。最初はどのボタンを押せばいいかわからなくて戸惑ったこともあります。
+For foreigners used to paying for every item on the table, this is a revelation. You sit down, order one main dish, and suddenly you have a full spread. Need more kimchi? Just ask. Want another plate of that spicy radish? Wave down the server.
 
-韓国もここ数年で公衆トイレがだいぶきれいになりましたが、日本のコンビニや駅のトイレの清潔さはもう一段上という印象です。特に高速道路のサービスエリア（SA/PA）のトイレは、韓国人の間でも「日本旅行の感動ポイント」のひとつに挙げられるほどです。あるサービスエリアではトイレ自体が観光スポットのように装飾されていて、「トイレのためにこのSAに寄った」という口コミがあるくらいです。
+The variety and generosity of banchan culture is one of the most delightful aspects of eating in Korea. Even a simple lunch at a neighborhood restaurant feels like a feast because of all the side dishes that come with it.
 
-そして日本のトイレでもうひとつ印象的なのは、**赤ちゃん連れへの配慮**です。多くのトイレに折りたたみ式のベビーチェアやおむつ交換台が設置されていて、男性トイレにもこうした設備があるところが少なくありません。子どもを連れて外出するパパの立場からすると、本当にありがたい心配りです。
-
----
-
-## 5. 四季の行事とお祭りが豊富
-
-日本で感じる大きな魅力のひとつは、**四季ごとにさまざまな行事やお祭り（まつり）がある**ということです。
-
-春にはお花見、夏には花火大会と盆踊り、秋には紅葉狩り、冬にはイルミネーションとお正月。季節が変わるたびに街の雰囲気、コンビニの商品、人々の服装まですべてが変わります。
-
-韓国にももちろん季節の行事はありますが、日本のように**地域ごとに固有のお祭りがあり、町全体が参加する**規模と熱意は、韓国ではなかなか見られない光景です。小さな町でも夏になれば浴衣を着て屋台で焼きそばを食べながら花火を楽しむ姿は、日本でしか味わえない特別な雰囲気です。
-
-特に感心するのは、**コンビニの季節マーケティング**です。春になると桜味のお菓子や飲み物が一気にあふれ出し、夏には冷やし中華やかき氷関連の商品、秋にはさつまいもや栗味のスイーツ、冬にはおでんやクリスマスケーキの予約が始まります。韓国のコンビニも新商品の発売は早いですが、日本ほど季節感を徹底的に反映しているレベルではありません。コンビニに入るだけで「あ、季節が変わったんだな」と感じられるのは、日本ならではのユニークな体験です。
-
-また、日本のお祭りは**子どもたちにとっても特別な思い出**になります。金魚すくい、射的、わたあめ、チョコバナナといった屋台がずらりと並ぶ光景は、子どもにとって夢の世界のような体験です。韓国にはこうした伝統的なお祭り屋台の文化がほとんどないため、子どもと一緒に日本のお祭りに行くと、子どもより親の方がテンションが上がってしまうこともあります。
+A tip: the quality of the banchan is often a reliable indicator of the restaurant's overall quality. If the side dishes are fresh and well-prepared, the main course is usually excellent too.
 
 ---
 
-## まとめ
+## 3. Internet Speed That Spoils You Forever
 
-こうして5つを振り返ってみましたが、いかがでしたか？
+Korea has some of the **fastest internet in the world**, and once you've experienced it, going back to anything slower feels painful.
 
-驚くことが多いからといって、「日本の方がいい」とか「韓国の方がいい」という話ではありません。韓国には韓国の良さがあり、日本には日本の良さがあります。その**違いを知って楽しむこと**が、お隣の国を理解する第一歩ではないかと思います。
+Average broadband speeds in Korea are among the highest globally, and public Wi-Fi is available almost everywhere — in subways, buses, cafes, parks, and public buildings. Streaming, video calls, and large file downloads happen almost instantaneously.
 
-実は逆に「日本人が韓国に来て驚いたこと」もたくさんあります。デリバリー文化のスピード、無料のおかずが次々と出てくる食堂、チムジルバン（韓国式サウナ）文化、どこでもキャッシュレス決済ができる便利さなどなど…。これは次の機会に改めてご紹介したいと思います。
+Even more impressive is mobile data. Korean 5G coverage is extensive, and mobile speeds routinely exceed what counts as "high-speed broadband" in many other countries.
 
-皆さんも日本に来る機会があれば、この記事で紹介したことをぜひ実際に体験してみてください。そして韓国人の友人がいる日本の方は、「韓国ではどうなの？」と聞いてみると、きっと面白い話がたくさん聞けるはずです。
+For remote workers and digital nomads, Korea is paradise. You can work from virtually any cafe in Seoul with a stable, blazing-fast connection. The idea of "buffering" becomes a distant memory.
+
+Koreans themselves tend to take this for granted — many are genuinely shocked when they travel abroad and experience the internet speeds that the rest of the world considers normal. If you move to Korea, be warned: your expectations for internet speed will be permanently recalibrated.
+
+---
+
+## 4. Jimjilbang: The Korean Bath House Experience
+
+One of Korea's most unique cultural experiences is the **jimjilbang (찜질방)** — a Korean-style bathhouse and sauna that's part spa, part community center, part sleepover destination.
+
+For a surprisingly low entry fee (usually around 10,000-15,000 KRW / $7-11 USD), you get access to multiple hot and cold pools, saunas at various temperatures, steam rooms, and relaxation areas. Most jimjilbangs also have a common area where you can lounge in provided pajamas, watch TV, eat snacks, nap, or even sleep overnight.
+
+Foreigners are often surprised by a few things:
+
+- **The bathing areas are nude** (separated by gender). This takes some getting used to if you're not from a bathing culture.
+- **Families and friends go together** as a social activity. It's not just about getting clean — it's about hanging out.
+- **You can literally sleep there**. Need a cheap place to crash? Jimjilbang. Missed the last subway? Jimjilbang. Just want to relax for 12 hours? Jimjilbang.
+
+The signature jimjilbang experience includes wearing the sheep-horn towel on your head, eating **sikhye** (sweet rice drink) and **hard-boiled eggs** from the snack bar, and sweating it out in the salt room or the charcoal kiln.
+
+For a culture that moves at breakneck speed, the jimjilbang is where Koreans slow down. It's communal, unpretentious, and surprisingly restorative.
+
+---
+
+## 5. The City That Never Sleeps
+
+Korea — especially Seoul — operates on a schedule that shocks visitors from many Western countries where everything closes by 9 or 10 PM.
+
+In Seoul, it's perfectly normal to eat dinner at 10 PM, go shopping at midnight, or grab coffee at 1 AM. **Convenience stores are everywhere** (there are over 50,000 nationwide), and many restaurants, cafes, and shops stay open well past midnight.
+
+The nightlife scene is famous, of course — areas like Hongdae, Gangnam, and Itaewon pulse with energy until the early morning hours. But it's not just about bars and clubs. Late-night culture includes 24-hour study cafes, PC bangs (gaming cafes), noraebang (karaoke), late-night food stalls, and the aforementioned jimjilbangs.
+
+The subway stops running around midnight, but an extensive **night bus network** fills the gap until service resumes around 5:30 AM. And taxis are plentiful and affordable enough for late-night rides.
+
+For foreigners coming from cities where the streets empty after dark, Seoul's relentless energy is both exhilarating and slightly overwhelming. There's always something open, always something happening, always somewhere to go.
+
+---
+
+## Final Thoughts
+
+These five things only scratch the surface. Korea is a country full of surprises — from the technology to the food to the social rhythms of daily life.
+
+None of this is about saying Korea is "better" or "worse" than anywhere else. Every country has its unique strengths and quirks. But **discovering and appreciating these differences** is what makes living abroad — or even just visiting — such a rich experience.
+
+If you ever get the chance to spend time in Korea, I hope you'll experience these things firsthand. And if you have Korean friends, ask them what surprised them when they traveled abroad — you'll get some great stories in return.

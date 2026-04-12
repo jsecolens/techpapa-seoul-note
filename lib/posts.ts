@@ -6,11 +6,9 @@ const postsDirectory = path.join(process.cwd(), 'content/posts')
 
 export interface PostFrontmatter {
   title: string
-  titleKo?: string
   date: string
   category: string
   description?: string
-  descriptionKo?: string
   excerpt?: string
   thumbnail?: string
   tags?: string[]
@@ -86,12 +84,10 @@ export function searchPosts(query: string): PostPreview[] {
   const lowerQuery = query.toLowerCase()
 
   return allPosts.filter((post) => {
-    const { title, titleKo, description, descriptionKo, tags } = post.frontmatter
+    const { title, description, tags } = post.frontmatter
     const searchableText = [
       title,
-      titleKo,
       description,
-      descriptionKo,
       ...(tags || []),
     ]
       .filter(Boolean)

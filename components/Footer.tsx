@@ -9,7 +9,7 @@ export default function Footer() {
           <Link href="/" className="text-lg font-bold text-white hover:text-primary transition-colors">
             {SITE_CONFIG.name}
           </Link>
-          <p className="text-sm mt-1">{SITE_CONFIG.nameKo}</p>
+          <p className="text-sm mt-1">{SITE_CONFIG.description}</p>
         </div>
 
         <div className="flex justify-center gap-6 mt-6 text-sm">
@@ -17,7 +17,7 @@ export default function Footer() {
             About
           </Link>
           <Link href="/privacy" className="hover:text-white transition-colors">
-            プライバシーポリシー
+            Privacy Policy
           </Link>
         </div>
 

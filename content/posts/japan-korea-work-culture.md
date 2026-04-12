@@ -1,117 +1,113 @@
 ---
-title: '韓国と日本のサラリーマン文化比較 ― 出退勤、残業、休暇の違い'
+title: 'Work Culture in South Korea: What Office Life Is Really Like'
 date: '2026-01-27'
 category: 'korea-culture'
-excerpt: '韓国と日本、似ているようで違う職場文化。出勤時間、残業、飲み会、雇用形態まで、韓国人会社員の視点から両国の違いを詳しく比較します。'
-tags: ['韓国文化', '職場文化', '日韓比較', 'サラリーマン', '働き方']
+description: 'A deep dive into South Korean work culture from an insider perspective — commute habits, overtime, office drinking culture, employment norms, and how things are changing.'
+tags: ['Korean culture', 'work culture', 'office life', 'career', 'work-life balance']
 thumbnail: '/images/posts/japan-korea-work-culture.jpg'
 ---
 
-韓国と日本。地理的に近く、文化的にも似ている点が多い両国ですが、職場生活では意外と大きな違いがあります。
+South Korea is known globally for its rapid economic development, tech giants like Samsung and Hyundai, and its incredibly hard-working population. But what is day-to-day office life actually like for Korean workers?
 
-私も日本文化に興味を持つようになり、両国の職場文化の違いについて色々と調べてみました。今日は韓国人会社員の視点から見た、日韓の職場文化の違いをまとめてみたいと思います。
+As a Korean office worker myself, I want to share an honest look at the realities of work culture here — the good, the bad, and the changing.
 
-![日韓サラリーマン文化比較](/images/posts/japan-korea-work-culture.jpg)
-
----
-
-## 出勤文化：10分前出社 vs ギリギリ出社
-
-日本の会社でまず感じる違いは、**時間に対する厳格さ**です。
-
-日本では出勤時間の10〜15分前に到着するのが一般的だと聞いています。9時出勤なら8時45分には席に着いて業務の準備をしている必要があるそうです。さらに10〜20秒でも遅れると遅刻とみなされ、信頼を失うことになるとか。電車が遅延した場合は「遅延証明書」を発行してもらい、会社に提出しなければならないほどです。
-
-一方、韓国では9時出勤なら9時までに到着すれば大丈夫です。もちろん会社によって異なりますが、日本のように15分前到着を暗黙のうちに求められる雰囲気は比較的少ないです。最近ではフレックスタイム制を導入する会社も増え、出勤時間自体が柔軟な場合も多くなっています。
+![Work culture in South Korea](/images/posts/japan-korea-work-culture.jpg)
 
 ---
 
-## 退勤と残業：それぞれ異なる悩み
+## Commute Culture: Getting to Work on Time
 
-残業文化にも興味深い違いがあります。
+In Korea, if your start time is 9 AM, arriving by 9 AM is generally fine. Unlike some countries where showing up 10-15 minutes early is an unwritten expectation, Korean workplaces tend to be more relaxed about this — as long as you're not late.
 
-日本は伝統的に「残業」が多いことで有名です。**「過労死」という言葉が日本で生まれた**ほど、長時間労働が社会問題になってきました。しかし最近では「働き方改革」が導入され、変化が起きています。厚生労働省の報告によると、週40時間以下の勤務企業が全体の97%以上を占めるようになり、残業代も比較的しっかり支給されるようになっているそうです。
-
-韓国も週52時間勤務制が導入され、多くの変化がありました。しかし**「包括賃金制」が広く浸透しており、残業しても別途手当をもらえないケース**がまだ多いです。「칼퇴근（カルテグン＝定時退社）」という言葉が存在すること自体、定時退社が当たり前ではないことの表れでもあります。
-
-興味深いのは、最近日本のZ世代の間で**「残業キャンセル」**というトレンドが広がっているという点です。定時になったら残りの業務に関係なく退勤し、それをSNSで共有してお互いを応援する文化だそうです。ワークライフバランスを重視する若い世代の意識変化を示す現象ですね。
+That said, things are changing even more. Many companies, especially in the tech sector, have adopted **flexible working hours**. Some offices let you start anywhere between 7 AM and 10 AM, as long as you put in your required hours. This shift has been a huge quality-of-life improvement for workers with long commutes or family obligations.
 
 ---
 
-## 勤務時間中の雰囲気：集中と余裕の違い
+## Overtime: The Ongoing Battle
 
-勤務時間中の雰囲気もかなり異なります。
+South Korea has historically been known for long working hours, and overtime culture has been a significant social issue.
 
-日本の会社では、勤務時間中の個人的なメールやSNSの使用を厳しく制限する場合が多いと聞きます。トイレやタバコに行く回数も上司の目に留まると良くないため、気を遣わなければならないそうです。コンビニのアルバイトでさえ勤務中はスマホを絶対に触らないと聞きますので、業務時間に対する意識が確実に違いますね。
+The government introduced a **52-hour workweek cap** (40 regular hours + 12 overtime hours) in 2018, which brought major changes. Before that, working 60-70 hour weeks was not uncommon.
 
-韓国の会社でももちろん業務に集中する必要がありますが、合間にコーヒーを飲みに行ったり、ちょっとした私用を済ませたりすることについては比較的寛容な雰囲気があります。カカオトーク（韓国のメッセンジャーアプリ）で知人と連絡を取ったり、ちょっとニュースを確認したりする程度は大きく問題視されない傾向があります。
+However, challenges remain. Many companies use a **"comprehensive wage" (pogoal imgeum) system**, where overtime pay is bundled into the base salary — meaning you often don't get extra compensation for staying late. The fact that there's a specific Korean word, **"kaltogeun" (칼퇴근)**, meaning "leaving work exactly on time," tells you something: leaving at the scheduled time still feels like a notable act rather than the default.
 
----
-
-## 休暇文化：取りにくいのは同じ？
-
-休暇に対する認識にも共通点と相違点があります。
-
-日本では年間最低5日の有給休暇を義務的に使用するよう法律で定められています。祝日も年間16日で韓国（15日）と同程度です。しかし実際に休暇を取るのは難しい面があります。**「休暇を取ると同僚に迷惑」という意識、「苦労が美徳」という文化**がまだ存在するからです。使用期限が迫ってやっと休暇を取る人が多いと聞きます。
-
-韓国も事情は似ています。法的に年次休暇が保障されていますが、気兼ねして取りにくいという声が多いです。ただし最近ではMZ世代（ミレニアル世代とZ世代）を中心に、年次休暇の使用に対する認識がかなり変わってきています。2025年の調査によると、夏休み期間中に仕事を完全に忘れて休むという会社員が半数以上でした。
+Interestingly, younger workers — Korea's MZ generation (Millennials and Gen Z) — are pushing back hard against overtime culture. Work-life balance has become a top priority, and many openly refuse to stay late without good reason.
 
 ---
 
-## 飲み会文化：自由な日本、義務的な韓国？
+## The Office Atmosphere: How the Workday Feels
 
-飲み会文化では明確な違いがあります。
+During working hours, the atmosphere varies quite a bit depending on the company. Traditional large corporations (chaebols) tend to be more formal, while startups and tech companies are considerably more relaxed.
 
-日本では飲み会への参加は事前に個人の意思で決めます。参加しなくても特にプレッシャーを与えられることはなく、飲み会の費用も**割り勘が基本**です。一次会で終わることが多く、強制的な雰囲気は比較的少ないとのことです。
+In most Korean offices, it's fairly common to take a coffee break, check your phone briefly, or handle a quick personal errand during the day. **KakaoTalk** — Korea's dominant messaging app — is used for both work and personal conversations, so the line between work chat and personal chat can get blurry.
 
-一方、韓国の会食は参加が事実上義務である場合が多くありました。一次会、二次会、三次会と続く**「会食マラソン」**が日常でした。もちろん最近は韓国も大きく変わりました。コロナ禍以降、会食文化自体が減り、参加するかどうかも個人の選択を尊重する方向に変わってきています。
-
----
-
-## 雇用安定性：終身雇用 vs 転職
-
-雇用形態での最大の違いは**終身雇用文化**です。
-
-日本は伝統的に一つの会社で定年まで働く終身雇用制が強かったです。転職経験が多いとかえってネガティブなイメージを持たれ、就職に不利だったそうです。もちろん最近はこうした認識も変わってきていますが、依然として雇用安定性は日本の大きなメリットとして挙げられます。60歳まで解雇なく働けるという安心感があります。
-
-韓国では転職が比較的自由です。3〜5年ごとに転職しながらキャリアを積むのが一般的で、むしろ一つの会社に長くいすぎると「成長がない」という評価を受けることもあります。一方で40〜50代での早期退職のプレッシャーがあり、雇用安定性の面では不安な部分があります。
+Compared to workplaces in some other countries where personal device use is strictly monitored, Korean offices generally have a more relaxed attitude about these small breaks, as long as your work gets done.
 
 ---
 
-## OECD労働時間比較：数字の裏にある真実
+## Vacation Culture: Earned but Hard to Use
 
-よく韓国がOECD加盟国の中で労働時間が最も長い国だと言われています。
+Korean workers are legally entitled to **15 days of paid annual leave** in their first year, with an additional day added every two years (up to a maximum of 25 days). On top of that, there are about **15 public holidays** per year.
 
-| 国 | 年間労働時間（2024年） |
+On paper, that's pretty generous. In practice? Many workers hesitate to use their full vacation allotment. There's a lingering cultural pressure — a sense that taking time off burdens your colleagues or signals a lack of dedication.
+
+The good news is that this is changing, especially among younger workers. A 2025 survey found that more than half of Korean office workers completely disconnected from work during their summer vacation. The shift toward actually using your entitled leave is well underway.
+
+---
+
+## Hoesik: The Korean Company Dinner
+
+One of the most distinctive aspects of Korean work culture is **hoesik (회식)** — the company dinner and drinking gathering.
+
+Traditionally, hoesik was practically mandatory. A typical evening might go through **multiple rounds**: first stop for dinner, second stop for drinks at a bar or karaoke, sometimes a third stop at yet another venue. This "hoesik marathon" was a major part of corporate bonding culture.
+
+In Western work cultures, after-work drinks are usually optional and casual. In Korea, declining a hoesik invitation — especially one organized by a senior colleague — used to be seen as a serious social misstep.
+
+However, things have shifted dramatically, particularly after COVID-19. The number of hoesik events has decreased significantly, and when they do happen, they're more likely to end after one round. Individual choice is increasingly respected, and younger workers feel less pressure to attend.
+
+---
+
+## Employment: Stability vs. Mobility
+
+Korean career culture has its own distinct character. Unlike countries with strong traditions of lifetime employment at a single company, **job-hopping every 3-5 years is quite normal** in Korea. In fact, staying at one company for too long can sometimes be viewed negatively — as if you've stopped growing professionally.
+
+This mobility has its advantages: workers can advance their careers more quickly and negotiate better compensation. But there's a flip side. **Early retirement pressure hits hard in your 40s and 50s**, and job security — especially for older workers — remains a significant concern.
+
+Many Koreans in their 50s find themselves starting small businesses or taking on entirely new careers, not always by choice. The contrast between the dynamic early career years and the uncertainty of later years is one of the defining tensions of Korean work life.
+
+---
+
+## Working Hours by the Numbers
+
+South Korea consistently ranks among the countries with the longest working hours in the OECD.
+
+| Country | Annual Working Hours (2024) |
 |---|---|
-| 韓国 | 1,865時間 |
-| 日本 | 1,607時間 |
-| **差** | **約250時間** |
+| South Korea | 1,865 hours |
+| United States | ~1,810 hours |
+| United Kingdom | ~1,530 hours |
+| Germany | ~1,340 hours |
 
-しかしこの統計には注意が必要です。日本は時間給労働者やパートタイムのアルバイトの割合が高いため、平均労働時間が短く出る可能性があるからです。また韓国は自営業者の割合が高く、彼らの労働時間が長いため平均が上がる側面もあります。
-
-幸いなことに、韓国の労働時間は急速に減少しています。10年前は2,000時間を超えていましたが、現在は200時間以上減少しました。政府も週4.5日制を導入する企業に奨励金を支給するなど、労働時間短縮政策を推進しています。
-
----
-
-## 変化する両国の職場文化
-
-韓国も日本も職場文化が変化しています。
-
-日本は伝統的な長時間労働と忠誠心の文化から脱却し、**ワークライフバランスを重視する方向**に変わりつつあり、韓国も週52時間制やフレックスタイム制の導入などで仕事と生活のバランスを見つけようとしています。
-
-結局、どちらの国が良いと断定するのは難しいです。
-
-| 項目 | 日本の強み | 韓国の強み |
-|------|----------|----------|
-| 雇用 | 安定性が高い | 転職でキャリアアップしやすい |
-| 残業 | 残業代がしっかり支給される | 勤務中の雰囲気が比較的自由 |
-| 飲み会 | 参加は自由 | 最近は変化中 |
-| 課題 | 堅苦しい雰囲気 | 無給残業、雇用不安 |
-
-大切なのは、**両国ともより良い労働環境に向かって進んでいる**という点です。
-
-次の記事では、韓国のまた別の文化についてご紹介したいと思います。
+The good news is that Korean working hours are declining rapidly. A decade ago, the average exceeded 2,000 hours. The government is also incentivizing shorter workweeks — some companies are now experimenting with a **4.5-day workweek**, with government subsidies to support the transition.
 
 ---
 
-この記事が日韓両国の職場文化を理解する上で参考になれば幸いです。
+## A Work Culture in Transition
+
+Korean work culture is in the middle of a significant transformation. The traditional emphasis on long hours, hierarchy, and company loyalty is giving way to a new set of values centered on **work-life balance, individual autonomy, and efficiency**.
+
+| Aspect | Traditional Korean Work Culture | Emerging Trends |
+|--------|-------------------------------|-----------------|
+| Hours | Long overtime expected | 52-hour cap, flexible schedules |
+| Drinking culture | Mandatory hoesik | Optional, fewer rounds |
+| Employment | Lifetime loyalty valued | Job-hopping normalized |
+| Communication | Top-down, hierarchical | Flatter structures in tech/startups |
+| Vacation | Hesitant to use | Increasing usage, especially among younger workers |
+
+The pace of change is remarkable. What was considered normal even five years ago would feel outdated in many Korean workplaces today.
+
+For anyone interested in working in Korea or doing business with Korean companies, understanding both the traditional norms and the direction of change will serve you well.
+
+---
+
+I hope this gives you a useful window into what Korean office life is really like. In future posts, I'll continue sharing more about Korean culture and daily life.

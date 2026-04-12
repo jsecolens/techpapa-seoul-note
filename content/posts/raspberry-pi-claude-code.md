@@ -1,94 +1,94 @@
 ---
-title: "電気の素人がラズベリーパイとClaude Codeに挑戦中｜3ヶ月後の自分に期待して"
+title: "An Electrical Novice Takes On Raspberry Pi and Claude Code | Betting on Myself 3 Months From Now"
 date: "2026-03-02"
 category: "dev"
-description: "ラズベリーパイとClaude Codeを組み合わせたハードウェア開発に挑戦中。ソフトウェアエンジニアが電気回路の世界に踏み出した記録です。"
+description: "My journey combining Raspberry Pi with Claude Code for hardware development. A software engineer's first steps into the world of electrical circuits."
 thumbnail: "/images/posts/raspberry-pi-claude-code.jpg"
 tags:
-  - ラズベリーパイ
+  - Raspberry Pi
   - Claude Code
-  - ハードウェア
+  - Hardware
   - IoT
 ---
 
-![電気の素人がラズベリーパイとClaude Codeに挑戦中](/images/posts/raspberry-pi-claude-code.jpg)
+![An electrical novice takes on Raspberry Pi and Claude Code](/images/posts/raspberry-pi-claude-code.jpg)
 
-最近、ラズベリーパイとClaude Codeを組み合わせたテストを繰り返しています。まだ本格的な実装段階ではなく、アイデアを形にするための企画を練っている段階です。しかし、この初期段階でも「AIって本当にコーディングしてくれるんだ」という実感が日に日に強くなっています。
-
----
-
-## ソフトウェアだけでは終わらない世界
-
-ウェブ開発の場合、コードを書いてデプロイすればひとまず動きます。エラーが出ても画面上で確認できますし、修正もすぐにできます。しかし、ラズベリーパイやArduinoの世界は全く違います。
-
-PythonやArduinoのコーディングについて、Claude Codeは本当に驚くほどしっかり対応してくれます。構文の説明はもちろん、GPIOの制御コードやセンサーの読み取りロジックまで、具体的なコードを提示してくれます。「こういう動作をさせたい」と伝えれば、必要なライブラリの導入方法から実装コードまで一貫して教えてくれるのです。
-
-ただし、ここからが問題です。ソフトウェアのコーディングが完璧でも、それだけでは何も動きません。ラズベリーパイのGPIOピンに実際の配線をつなげなければなりません。そして、この「物理的な接続」こそが、ソフトウェア開発とハードウェア開発の決定的な違いだと痛感しています。
+Lately, I've been running test after test combining Raspberry Pi with Claude Code. I'm not at the full implementation stage yet — still in the planning phase, shaping ideas into something concrete. But even at this early stage, the realization that "AI really does write code for you" grows stronger every day.
 
 ---
 
-## 電線一本のミスが命取りになる緊張感
+## A World Where Software Alone Isn't Enough
 
-ウェブ開発でコードを間違えても、最悪の場合はアプリがクラッシュするだけです。データが消える可能性はありますが、物理的な危険はほぼありません。
+In web development, you write code, deploy it, and things work. If there's an error, you can see it on screen and fix it quickly. But the world of Raspberry Pi and Arduino is completely different.
 
-しかし、ハードウェアの世界は違います。ピン番号を一つ間違えただけで、センサーが壊れる可能性があります。抵抗値の計算を誤れば、部品に過電流が流れて焼損します。最悪の場合、ラズベリーパイ本体が壊れることもあります。
+When it comes to Python and Arduino coding, Claude Code performs remarkably well. Beyond syntax explanations, it provides concrete code for GPIO control and sensor reading logic. Say "I want it to do this," and it walks you through everything from library installation to implementation code.
 
-だから、配線作業のたびに何度も確認します。GPIOのピン配置図を横に置き、コードで指定したピン番号と実際に差し込むピンが一致しているか、一本ずつ確認します。抵抗値は計算式と照らし合わせ、データシートで許容範囲内かどうかを確認します。この慎重さは、ウェブ開発では経験したことのない類のものです。
-
-正直に申し上げますと、最初の頃はブレッドボードに配線するだけでも手が震えました。「この接続で本当に合っているのか」「逆に繋いでいないか」「ショートしていないか」——一つひとつの接続に神経を使う感覚は、キーボードでコードを打つのとは全く異なる種類の緊張感でした。
+But here's where things get tricky. Even with perfect software, nothing actually happens without physical wiring. You have to connect real wires to the Raspberry Pi's GPIO pins. And this "physical connection" is where I'm feeling the fundamental difference between software and hardware development most acutely.
 
 ---
 
-## 5Vの先にある220Vの恐怖
+## The Tension of One Wrong Wire
 
-そして、さらに緊張感が増すのが、家庭用電源の制御です。
+In web development, a code mistake crashes the app at worst. You might lose some data, but there's virtually no physical danger.
 
-ラズベリーパイのGPIOは3.3Vまたは5Vの低電圧で動作します。この範囲であれば、万が一配線を間違えても、人体に危険が及ぶことはまずありません。せいぜい部品が壊れる程度です。
+Hardware is a different story. Get one pin number wrong and you might fry a sensor. Miscalculate a resistance value and excessive current could burn out components. Worst case, the Raspberry Pi itself gets destroyed.
 
-しかし、実際にモノを動かそうとすると、どうしても家庭用電源との接続が必要になる場面があります。韓国の家庭用電源は220Vです。日本の100Vと比べても倍以上の電圧であり、感電すれば重大な事故につながりかねません。
+So every time I wire something up, I check and double-check. I keep the GPIO pinout diagram right next to me, verifying that the pin numbers in my code match the physical pins I'm connecting to, wire by wire. I cross-reference resistance values against formulas and datasheets to confirm they're within tolerance. This level of caution is something I never experienced in web development.
 
-この220Vをラズベリーパイから制御するには、リレーモジュールを使います。リレーは、低電圧の信号で高電圧の回路をオン・オフできるスイッチのようなものです。ラズベリーパイのGPIOから3.3Vの信号を送り、リレーが動作して220Vの回路が切り替わります。理屈はシンプルですが、実際に220Vの配線を扱うとなると、電気を専門としていない私にとっては正直怖いです。
-
-「本当にリレーで絶縁されているのか」「配線が緩んでいないか」「万が一漏電したらどうなるのか」——こうした不安が常に頭をよぎります。それでも、一つずつ安全を確認しながら進めています。リレーモジュールの仕様書を読み込み、許容電流と実際の負荷を照合し、念のためテスターで通電状態を確認してから電源を入れます。この手順を省略することは絶対にしません。
+I'll be honest — in the early days, my hands literally trembled just plugging wires into the breadboard. "Is this connection actually right?" "Did I wire it backwards?" "Is there a short circuit?" Every single connection demanded a kind of nervous attention that's completely different from typing code on a keyboard.
 
 ---
 
-## 独学を支える5冊の本とAI
+## Beyond 5V Lies the Fear of 220V
 
-現在、この分野の基礎を固めるために5冊ほどの本を並行して読んでいます。ラズベリーパイの活用に関する書籍、電気回路の基礎を解説した書籍、そしてハードウェア製作に必要な実践的な電気の知識をまとめた書籍です。
+And the tension ratchets up even further when dealing with household power.
 
-これらの本を、それぞれ最低でも5回は読み返すつもりです。1回目はざっと全体像を把握し、2回目は重要な箇所にマーカーを引きながら読み、3回目以降は実際に手を動かしながら内容を確認します。この反復学習のスタイルが、私には一番合っていると感じています。本を一度読んだだけでは、表面的な理解しか得られません。何度も読み返し、そのたびに手を動かして実験することで、ようやく「自分の知識」として定着するのです。
+Raspberry Pi's GPIO operates at 3.3V or 5V. At these low voltages, even a wiring mistake won't pose any danger to a person — at worst, you blow a component.
 
-そして、本だけでは解決できない疑問や、最新の情報についてはAIとYouTubeが強力な味方になってくれています。特にClaude Codeは、コーディングの質問だけでなく、回路設計の相談にも対応してくれます。「このセンサーに適した抵抗値は何Ωか」「リレーモジュールの接続方法を教えてほしい」といった具体的な質問に対して、根拠とともに回答してくれるのはありがたいです。
+But when you actually want to make things move, you inevitably hit situations where you need to connect to household power. In Korea, that's 220V (in the US it's 120V, but even that demands serious respect). A shock from mains voltage can cause serious injury.
 
-もちろん、AIの回答をそのまま鵜呑みにするわけにはいきません。特にハードウェアに関しては、間違った情報を基に配線すれば物理的な損害が発生します。だからこそ、AIの回答は必ず書籍やデータシートと照合します。この「AI＋書籍＋実験」の三本柱が、現在の私の学習スタイルです。
+To control high voltage from a Raspberry Pi, you use a relay module. A relay is essentially a switch that lets a low-voltage signal turn a high-voltage circuit on and off. The Raspberry Pi sends a 3.3V signal through GPIO, the relay activates, and the high-voltage circuit switches. The theory is simple, but actually handling mains wiring as someone without an electrical background is frankly scary.
 
----
-
-## 3ヶ月後の自分への投資
-
-この学習ペースを続ければ、約3ヶ月後にはある程度一人で開発を進められるレベルに到達できるのではないかと考えています。
-
-もちろん、3ヶ月で電気のプロになれるわけではありません。しかし、基本的な回路設計ができ、GPIOの制御に迷わず、リレーを使った高電圧制御も安全に行えるレベルには達したいと思っています。そのためには、毎日少しずつでも手を動かし続けることが重要です。
-
-実は、ウェブ開発を始めた時も同じような道のりでした。最初は右も左もわからず、エラーメッセージを見ても何が問題なのか理解できませんでした。しかし、毎日コードを書き続け、エラーを一つずつ解決していくうちに、いつの間にか自分でアプリケーションを構築できるようになっていました。
-
-ハードウェア開発も同じだと信じています。最初の恐怖心は、知識と経験の不足から来るものです。正しい知識を身につけ、安全な手順を体に叩き込めば、恐怖は自然と薄れていくはずです。
+"Is the relay actually providing proper isolation?" "Are any connections loose?" "What if there's a current leak?" These worries are always in the back of my mind. But I keep moving forward, verifying safety at each step. I read through relay module spec sheets, compare rated current against actual load, and test with a multimeter before powering anything on. Skipping these steps is never an option.
 
 ---
 
-## ソフトウェアとハードウェアの融合がもたらす可能性
+## Self-Teaching with Five Books and AI
 
-ウェブ開発のスキルとハードウェア制御のスキル。この二つが組み合わさった時、実現できることの幅は一気に広がります。
+Right now, I'm reading about five books in parallel to build my foundation in this space. Books on Raspberry Pi applications, electrical circuit fundamentals, and practical electronics knowledge for hardware projects.
 
-例えば、センサーから取得したデータをリアルタイムでウェブダッシュボードに表示したり、スマートフォンから家電を遠隔操作したり、AIによる画像認識の結果に基づいてモーターを制御したりすることが可能になります。ソフトウェアだけ、あるいはハードウェアだけでは実現できないことが、両方のスキルを持つことで可能になるのです。
+I plan to read each one at least five times. First pass: get the big picture. Second pass: highlight key sections. Third pass and beyond: work through the material hands-on. This repetitive learning style works best for me. Reading a book once gives you only surface-level understanding. It's through multiple reads, each accompanied by hands-on experimentation, that knowledge truly becomes your own.
 
-これは、プログラミング未経験からウェブ開発を学んだ私にとって、次のステップとして非常にワクワクする挑戦です。
+For questions the books can't answer and for the latest information, AI and YouTube are invaluable resources. Claude Code in particular handles not just coding questions but circuit design consultations too. Asking specific questions like "What resistance value is appropriate for this sensor?" or "How should I connect this relay module?" and getting reasoned answers is tremendously helpful.
 
-もちろん、道のりは簡単ではありません。220Vの配線を扱う緊張感は今後もなくならないでしょう。しかし、正しい知識と慎重な姿勢があれば、電気の専門家でなくても安全にハードウェア開発に取り組めるはずです。
-
-今はまだ基礎を固めている段階ですが、3ヶ月後にはこのブログで「こんなものを作りました」と報告できることを目標にしています。その時が来るまで、本を読み、手を動かし、AIに相談し、一歩ずつ前に進んでいきます。
+Of course, I don't take AI's answers at face value — especially when it comes to hardware, where wrong information can cause physical damage. That's why I always cross-reference AI's responses against books and datasheets. This "AI + books + experimentation" triangle is my current learning framework.
 
 ---
 
-*この記事が、同じようにハードウェア開発に挑戦しようとしている方の参考になれば幸いです。*
+## Investing in the Me of Three Months From Now
+
+If I maintain this pace, I believe I can reach a level where I'm developing fairly independently in about three months.
+
+Three months obviously won't make me an electrical expert. But I want to get to where I can design basic circuits, handle GPIO control confidently, and safely manage high-voltage control through relays. Getting there requires moving my hands every single day, even if just a little.
+
+The truth is, my web development journey started the exact same way. At first, I was completely lost — I couldn't even understand error messages. But by writing code every day and solving problems one by one, I gradually became capable of building applications on my own.
+
+I believe hardware development follows the same path. The initial fear stems from lack of knowledge and experience. Build the right knowledge and internalize safe procedures, and that fear will naturally fade.
+
+---
+
+## The Possibilities Where Software Meets Hardware
+
+Web development skills combined with hardware control skills. When these two come together, the range of what you can build expands dramatically.
+
+Imagine displaying sensor data on a real-time web dashboard, remotely controlling home appliances from a smartphone, or having AI image recognition results drive motor control. Things that aren't possible with software alone or hardware alone become achievable when you have both skill sets.
+
+For someone like me who went from zero programming experience to web development, this is an exhilarating next chapter.
+
+The road won't be easy, of course. The tension of handling mains wiring probably won't ever fully disappear. But with the right knowledge and a careful approach, even non-electrical-engineers can safely take on hardware development.
+
+I'm still in the foundation-building phase, but my goal is to come back to this blog in three months and report, "Here's what I built." Until then, I'll keep reading, keep tinkering, keep consulting AI, and keep moving forward one step at a time.
+
+---
+
+*If you're also thinking about diving into hardware development, I hope this article gives you some useful perspective.*

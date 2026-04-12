@@ -1,155 +1,155 @@
 ---
-title: "韓国の交通カード T-money 完全ガイド ― 韓国旅行の必須アイテム"
+title: "The Complete Guide to Korea's T-money Transit Card -- A Must-Have for Any Visitor"
 date: "2026-02-16"
 category: "korea-culture"
-description: "韓国旅行に欠かせないT-moneyカードの購入方法、チャージ、使い方、乗り換え割引、払い戻しまで完全解説。WOWPASSやNAMANEとの違いも紹介します。"
+description: "Everything you need to know about Korea's T-money card: where to buy it, how to load money, how to use it, transfer discounts, refunds, and how it compares to WOWPASS and NAMANE."
 thumbnail: "/images/posts/korea-tmoney-guide.jpg"
 tags:
-  - 韓国旅行
+  - Korea Travel
   - T-money
-  - 交通カード
-  - ソウル交通
-  - 韓国文化
+  - Transit Card
+  - Seoul Transportation
+  - Korean Culture
 ---
 
-![T-money交通カードの使い方と活用術](/images/posts/korea-tmoney-guide.jpg)
+![How to use and get the most out of T-money](/images/posts/korea-tmoney-guide.jpg)
 
-韓国旅行を準備されているなら、ぜひ知っておいていただきたいものがあります。交通カード「T-money（ティモニ）」です。
+If you're planning a trip to Korea, there's one item you absolutely need to know about: the **T-money** transit card.
 
-日本のSuicaやPASMOと同じ交通系ICカードで、韓国ではこれ一枚あれば地下鉄、バス、タクシーはもちろん、コンビニでの決済まで可能です。韓国旅行の移動を圧倒的に便利にしてくれる必須アイテムです。
+Think of it as Korea's equivalent of London's Oyster card or a contactless transit card. With just this one card, you can ride the subway, buses, and taxis, and even pay at convenience stores. It's the single most useful thing you can have for getting around Korea.
 
-今回は、T-moneyの購入方法からチャージ、使い方、払い戻し、そして知っておくと役立つ豆知識まで、すべてまとめてご紹介します。
-
----
-
-## T-moneyとは？
-
-T-moneyは、韓国で最も広く使われているプリペイド式の交通カードです。2004年にソウルで初めて導入されて以来、現在は韓国全土で利用できます。
-
-日本のSuicaに似ていると考えていただくと分かりやすいです。あらかじめ好きな金額をチャージしておけば、地下鉄やバスに乗るときに改札機や端末にカードをタッチするだけで、自動的に運賃が差し引かれます。
-
-T-moneyを使うと現金で乗るよりも運賃が割引され、乗り換え時にも追加の割引が適用されます。毎回切符を買う手間もなくなるので、韓国旅行ではほぼ必須と言えます。
+In this guide, I'll cover everything: where to buy T-money, how to load it, how to use it, how to get a refund, and some insider tips that'll save you money.
 
 ---
 
-## どこで買えますか？
+## What Is T-money?
 
-T-moneyカードは韓国のさまざまな場所で簡単に購入できます。
+T-money is Korea's most widely used prepaid transit card. First introduced in Seoul in 2004, it now works across the entire country.
 
-### 空港
+It works just like a contactless transit card in most major cities around the world. Load money onto it in advance, then tap it on the reader at subway gates or bus terminals -- the fare is automatically deducted.
 
-仁川空港や金浦空港に到着すると、空港鉄道の改札付近にT-moneyの自動販売機が設置されています。空港からソウル市内への移動からすぐに使えるので、到着したらまず購入するのがおすすめです。
-
-### コンビニ
-
-GS25、CU、セブンイレブン、emart24など、韓国の主要コンビニで購入できます。コンビニはどこにでもあるので、最も手軽に入手できる方法です。レジカウンターで「T-money 주세요（ティモニ ジュセヨ）＝T-moneyください」と言えばOKです。
-
-### 地下鉄の駅
-
-地下鉄の駅構内にある自動券売機や案内所でも購入可能です。ソウル駅、弘大入口駅、明洞駅など観光客が多い駅では、外国語対応の自動販売機も設置されているので安心です。
-
-### カードの価格
-
-一般的な無地カードは約3,000ウォン（約330円）、キャラクターデザインのカードは4,000〜5,000ウォンほどです。カカオフレンズやBT21などかわいいデザインも多く、旅行のお土産としても人気があります。最近ではキーホルダータイプのT-moneyも登場していて、バッグにつけて使っている方も多いです。
+Using T-money gives you a discount compared to paying cash, and you also get additional savings from the transfer discount system. It eliminates the hassle of buying individual tickets each time, making it practically essential for any visit to Korea.
 
 ---
 
-## チャージ方法
+## Where to Buy
 
-T-moneyカードを購入した時点では残高が0ウォンなので、使用前にチャージが必要です。
+T-money cards are easy to find at several locations throughout Korea.
 
-### 地下鉄駅のチャージ機
+### Airport
 
-地下鉄の駅にはT-money専用のチャージ機があります。画面に日本語ガイドも表示されるので、案内に沿って操作すれば簡単にチャージできます。カードを置いて、チャージしたい金額の現金を入れるだけで完了です。
+At Incheon or Gimpo Airport, you'll find T-money vending machines near the airport railroad gates. Since you can start using it immediately for your ride into Seoul, buying one right when you land is the smart move.
 
-### コンビニ
+### Convenience Stores
 
-コンビニのカウンターでもチャージできます。カードとチャージしたい金額の現金を渡しながら「충전해 주세요（チュンジョネ ジュセヨ）＝チャージしてください」と言えば、店員さんが処理してくれます。
+GS25, CU, 7-Eleven, emart24 -- all major Korean convenience store chains sell T-money cards. Since there's a convenience store on virtually every block, this is the easiest way to get one. Just say "T-money juseyo" (T-money, please) at the register.
 
-### チャージ時の注意点
+### Subway Stations
 
-現在、T-moneyのチャージは**現金のみ対応**です。海外発行のクレジットカードではチャージできないので、ある程度の現金をあらかじめ用意しておくことをおすすめします。チャージは1,000ウォン単位で可能で、観光目的であれば2万〜3万ウォンほどチャージしておけば数日間の移動には十分です。
+Ticket machines and information desks inside subway stations also sell T-money cards. Major tourist stations like Seoul Station, Hongik University Station, and Myeongdong Station have machines with English-language options.
 
-ちなみに2025年7月からiPhoneのAppleウォレットにT-moneyを追加できるようになりました。ただし、チャージ時に韓国発行のクレジットカードが必要になるなど制約があるため、観光客にはまだ物理カードの方が便利です。
+### Card Prices
 
----
-
-## 使い方
-
-### 地下鉄
-
-日本とまったく同じです。改札のセンサーにカードをタッチするだけです。乗るときに1回、降りるときに1回、合計2回タッチします。「ピッ」と音が鳴れば正常に処理された証拠です。
-
-### バス
-
-バスに乗るとき、入口横の端末にカードをタッチします。降りるときも必ずタッチしてください。降車時にタッチし忘れると乗り換え割引が適用されず、次の乗車時にペナルティが課される場合があるので注意が必要です。
-
-### タクシー
-
-ソウルのほとんどのタクシーでT-moneyでの支払いが可能です。目的地に着いたら運転手に「카드로 할게요（カドゥロ ハルケヨ）＝カードで払います」と伝えて端末にタッチすればOKです。
-
-### コンビニなど
-
-T-moneyマークがあるコンビニやお店では、電子マネーのように買い物の決済にも使えます。少額の支払いに便利です。
+A standard plain card costs about 3,000 won (~$2 USD). Character-themed cards (Kakao Friends, BT21, etc.) run 4,000-5,000 won and make popular souvenirs. There are even keychain-style T-money tags you can clip onto your bag.
 
 ---
 
-## T-moneyの最大のメリット ― 乗り換え割引
+## How to Load Money
 
-T-moneyの最大のメリットは乗り換え割引システムです。
+Your T-money card starts with a zero balance, so you'll need to load (charge) it before use.
 
-現金で乗る場合、地下鉄からバスに乗り換えるたびにそれぞれ運賃がかかります。しかしT-moneyを使えば、地下鉄とバス間の乗り換えが**通し運賃**として扱われ、追加料金が発生しません。
+### Subway Station Charging Machines
 
-乗り換え割引の基本ルールは以下のとおりです。下車後30分以内（夜21時〜翌朝7時は60分以内）に乗り換えれば割引が適用されます。最大4回の乗り換えまで割引を受けることができます。
+Every subway station has dedicated T-money charging machines. Many have English-language guides on screen. Just place your card on the reader, insert cash for the amount you want to add, and you're done.
 
-例えば、地下鉄を降りてバスに乗り換える場合、現金だと2回分の運賃を払わなければなりませんが、T-moneyなら地下鉄の基本料金だけでバスまで利用できます。この差は旅行中に何度も移動しているとかなり大きく感じます。
+### Convenience Stores
 
----
+You can also load money at any convenience store counter. Hand the clerk your card and the cash you want to add, and say "chungjeon hae juseyo" (please charge this). They'll handle the rest.
 
-## 残高確認と払い戻し
+### Important Notes
 
-### 残高確認
+Currently, T-money can only be charged with **cash** -- foreign credit cards don't work for loading. So make sure you have some Korean won bills on hand. You can load in increments of 1,000 won, and for sightseeing purposes, 20,000-30,000 won (~$14-21 USD) should last several days of transit.
 
-地下鉄の改札を通るときに残高が画面に表示されます。また、地下鉄駅のチャージ機にカードを置くことでも残高を確認できます。
-
-### 払い戻し
-
-韓国を離れる前に残高の払い戻しを受けることができます。ソウルの地下鉄駅のサービスセンターや一部のコンビニ（セブンイレブン、CU、emart24）で払い戻しが可能です。ただし払い戻し手数料500ウォンが差し引かれ、コンビニでは払い戻し上限があります（セブンイレブン2万ウォン、CU・emart24は3万ウォンまで）。
-
-カードの残高に有効期限はないので、次に韓国を訪れる予定があるなら残高を残したまま持っておくのも良い方法です。
+As of July 2025, T-money can be added to Apple Wallet on iPhones. However, charging still requires a Korean-issued credit card, so the physical card remains more practical for most tourists.
 
 ---
 
-## WOWPASSとNAMANE ― 他の選択肢もあります
+## How to Use
 
-最近では、T-money機能が搭載された外国人観光客向けカードも登場しています。
+### Subway
+
+Just like using a contactless card anywhere in the world. Tap your card at the turnstile when entering and again when exiting -- two taps total. A beep confirms the transaction.
+
+### Bus
+
+Tap your card on the reader near the entrance when you board. Tap again when you exit. Forgetting to tap off is important to avoid -- it can prevent the transfer discount from applying and may result in a penalty on your next ride.
+
+### Taxi
+
+Most Seoul taxis accept T-money. When you arrive at your destination, tell the driver "kaduro halgeyo" (I'll pay by card) and tap your card on the terminal.
+
+### Convenience Stores and More
+
+Any store displaying the T-money logo accepts it as payment, just like using a debit card. Handy for small purchases.
+
+---
+
+## T-money's Biggest Perk -- Transfer Discounts
+
+The real magic of T-money is its transfer discount system.
+
+If you pay cash, each subway-to-bus transfer costs a separate fare. But with T-money, transfers between subway and bus are treated as a **single continuous fare** -- meaning you pay little or no additional cost.
+
+The basic rule: transfer within 30 minutes of exiting (60 minutes between 9 PM and 7 AM), and the discount applies. You can make up to 4 discounted transfers per trip.
+
+For example, if you exit the subway and transfer to a bus, cash riders would pay two separate fares. With T-money, the subway base fare covers the bus as well. Over the course of a multi-day trip with many transfers, this adds up to real savings.
+
+---
+
+## Checking Your Balance and Getting a Refund
+
+### Balance Check
+
+Your balance appears on the screen every time you tap through a subway turnstile. You can also check it by placing your card on any charging machine at a subway station.
+
+### Refund
+
+Before leaving Korea, you can get your remaining balance refunded. This can be done at subway station service centers or at certain convenience stores (7-Eleven, CU, emart24). Note that a 500-won processing fee is deducted, and convenience stores have refund limits (20,000 won at 7-Eleven; 30,000 won at CU and emart24).
+
+Your T-money balance never expires, so if you plan to return to Korea, you can simply keep the card with its remaining balance for next time.
+
+---
+
+## WOWPASS and NAMANE -- Other Options Worth Knowing
+
+Recently, tourist-friendly cards with built-in T-money functionality have appeared.
 
 ### WOWPASS
 
-T-money機能に加えて、プリペイドカードとしてショッピングやレストランでの決済にも使えるカードです。空港や主要観光地に設置された専用キオスクで購入でき、外貨をウォンに両替する機能もあるので便利です。
+Combines T-money transit with a prepaid shopping card you can use at stores and restaurants. Available at dedicated kiosks in airports and major tourist areas. It also has a built-in foreign currency exchange feature, making it very convenient.
 
 ### NAMANE
 
-オリジナルデザインのカードを作れるのが特徴です。好きな写真で自分だけのカードを作れるため、K-POPファンの間で人気があります。海外発行のクレジットカードから直接チャージできるという利点もあります。
+The standout feature is the ability to create a custom-designed card with your own photo. This has made it popular among K-pop fans who design cards featuring their favorite artists. It also supports loading from foreign-issued credit cards, which is a significant advantage for visitors.
 
-交通機能だけが必要ならT-money、交通とショッピングを一枚で済ませたいならWOWPASSやNAMANEを検討してみると良いでしょう。
-
----
-
-## 知っておくと役立つ豆知識
-
-**最初のチャージ金額は2万ウォンくらいが適切です。** ソウルの地下鉄基本料金はT-money利用で1,550ウォン（2025年6月時点）なので、2万ウォンあれば約10回以上移動できます。足りなくなったらその都度チャージすれば大丈夫です。
-
-**早朝には追加割引があります。** 始発から午前6時30分までは、T-money利用でさらに20%の割引が適用されます。朝早くから動かれる方には嬉しいポイントです。
-
-**カードをバッグや財布に入れたままタッチしても大丈夫です。** 取り出さなくても認識されるので便利です。ただし他のICカードと一緒に入れると認識エラーが起きることがあるので注意してください。
+If you only need transit, T-money is sufficient. If you want transit and shopping in one card, consider WOWPASS or NAMANE.
 
 ---
 
-## まとめ ― T-money一枚あれば韓国の移動は自由自在です
+## Insider Tips
 
-T-moneyは韓国旅行で一番最初に手に入れるべきアイテムの一つです。カード一枚で地下鉄、バス、タクシー、コンビニまで、ほとんどの移動と少額決済をカバーできます。
+**Start with about 20,000 won (~$14).** Seoul's base subway fare with T-money is 1,550 won (as of June 2025), so 20,000 won covers 10+ rides. Just add more as needed.
 
-購入も簡単ですし、使い方も日本の交通カードとほぼ同じなので難しくありません。乗り換え割引まで活用すれば、交通費もかなり節約できます。
+**Early-bird discount.** Between the first train and 6:30 AM, T-money users get an additional 20% discount. Great if you're an early riser.
 
-韓国に到着したら、まずT-moneyを手に入れてください。それだけで韓国での移動がずっと自由で快適になるはずです。
+**You can tap through your bag or wallet.** No need to take the card out -- it reads through most materials. Just be careful not to keep other contactless cards right next to it, which can cause read errors.
+
+---
+
+## Summary -- One T-money Card and You're Set
+
+T-money should be one of the very first things you pick up when arriving in Korea. A single card covers subway, bus, taxi, and convenience store purchases -- virtually all your transit and small-payment needs.
+
+It's easy to buy, works just like any contactless transit card you may have used elsewhere, and the transfer discount system can save you a meaningful amount on transportation.
+
+When you land in Korea, grab a T-money card first. It'll make getting around the country much easier and more affordable.

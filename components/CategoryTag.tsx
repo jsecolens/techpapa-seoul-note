@@ -15,7 +15,7 @@ export default function CategoryTag({ category, size = 'md' }: CategoryTagProps)
     <span
       className={`inline-block rounded-full font-medium ${category.color} ${sizeClasses[size]} transition-opacity hover:opacity-80`}
     >
-      {category.nameJa}
+      {category.name}
     </span>
   )
 }

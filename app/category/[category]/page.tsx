@@ -20,19 +20,19 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   const category = getCategoryBySlug(categorySlug)
 
   if (!category) {
-    return { title: 'カテゴリーが見つかりません' }
+    return { title: 'Category not found' }
   }
 
   const categoryUrl = `${SITE_CONFIG.url}/category/${categorySlug}`
 
   return {
-    title: `${category.nameJa} | カテゴリー`,
+    title: `${category.name} | Category`,
     description: category.description,
     alternates: {
       canonical: categoryUrl,
     },
     openGraph: {
-      title: `${category.nameJa} - 記事一覧`,
+      title: `${category.name} - All Posts`,
       description: category.description,
       url: categoryUrl,
     },
@@ -53,14 +53,14 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     <div className="max-w-6xl mx-auto px-4 py-8">
       <div className="mb-8">
         <div className={`inline-block px-4 py-2 rounded-full ${category.color} mb-4`}>
-          {category.nameJa} / {category.nameKo}
+          {category.name}
         </div>
         <h1 className="text-3xl font-bold text-text-primary">
-          {category.nameJa}の記事一覧
+          {category.name}
         </h1>
         <p className="text-text-secondary mt-2">{category.description}</p>
         <p className="text-sm text-text-secondary mt-1">
-          {posts.length}件の記事
+          {posts.length} {posts.length === 1 ? 'post' : 'posts'}
         </p>
       </div>
 

@@ -1,85 +1,85 @@
 ---
-title: "ラズベリーパイ4と初めて挨拶を交わした日"
+title: "The Day I First Said Hello to My Raspberry Pi 4"
 date: "2026-02-27"
 category: "dev"
-description: "3年前に出会ったラズベリーパイに、AI時代の今ついに自ら挑戦。OS初期セットアップからSSH設定まで、ハードウェア開発の第一歩を記録します。"
+description: "After seeing a Raspberry Pi in action 3 years ago, I finally took the plunge myself in the AI era. Documenting my first steps — from OS setup to SSH configuration."
 thumbnail: "/images/posts/raspberry-pi-4-first-day.jpg"
 tags:
-  - ラズベリーパイ
+  - Raspberry Pi
   - Raspberry Pi 4
-  - 開発日記
-  - AI活用
-  - 初期セットアップ
+  - Dev Diary
+  - AI Tools
+  - Initial Setup
 ---
 
-![ラズベリーパイ4とブレッドボードで電子工作に取り組む様子](/images/posts/raspberry-pi-4-first-day.jpg)
+![Getting started with Raspberry Pi 4 and a breadboard](/images/posts/raspberry-pi-4-first-day.jpg)
 
-## 3年前、ラズベリーパイとの出会い
+## My First Encounter with Raspberry Pi, 3 Years Ago
 
-ラズベリーパイを初めて目にしたのは、約3年前のことでした。当時、会社で機器開発を外注先に依頼したのですが、納品された機器の中核コンピュータがまさにラズベリーパイだったのです。クレジットカードほどの大きさのこの小さなボードが、実際の産業用機器を動かしているとは、かなり衝撃的でした。
+The first time I ever laid eyes on a Raspberry Pi was about three years ago. At the time, my company had outsourced the development of a piece of equipment, and when it was delivered, the core computer inside turned out to be a Raspberry Pi. The fact that this tiny board — no bigger than a credit card — was actually running industrial equipment was genuinely shocking.
 
-しかし、当時の私にとってラズベリーパイは「他人の領域」でした。Webサービス中心の仕事しかしてこなかった私には、Arduinoやラズベリーパイといったものは名前こそ知っていたものの、「電子工学科や機械工学科出身の人が扱うもの」という固定観念がありました。
-
----
-
-## AIが変えた挑戦のハードル
-
-正直に言えば、AIがなければ今でもその考えは変わっていなかったと思います。
-
-しかし、AI時代が到来して状況が変わりました。AIがラズベリーパイを活用したC、C++、Pythonのコーディングまで一緒にサポートしてくれるので、自分が求める成果物を作り出せるという強い確信が生まれたのです。専門家でなくても、基礎知識とAIの助けがあれば十分にやれる——そう判断しました。
-
-こうして、挑戦が始まりました。
+But back then, Raspberry Pi felt like "someone else's territory." Having spent my career focused on web services, I'd heard of Arduino and Raspberry Pi, but always assumed they were "things for people with electrical or mechanical engineering degrees."
 
 ---
 
-## ラズベリーパイ4の購入、そして価格への驚き
+## AI Lowered the Bar for Taking the Leap
 
-ラズベリーパイ4を購入して最初に驚いたのは価格でした。3年前に外注を依頼した頃はそこまで高くなかった記憶があるのですが、今ではラズベリーパイ4の4GBモデルが約15万ウォン（日本円で約1万5千円相当）ほどで販売されていました。
+Honestly, if AI hadn't come along, I probably would have never changed that mindset.
 
-「こうなると分かっていたら、3年前に会社でもっと在庫を確保しておけばよかった…」
+But the AI era arrived and changed everything. With AI supporting everything from C and C++ to Python coding on Raspberry Pi, I developed real confidence that I could build what I wanted. Even without being a specialist, basic knowledge plus AI assistance would be enough — that was my assessment.
 
-開発原価をもっと抑えられたのではないかという後悔はありますが、それでも今こそAIの力を借りて自分で挑戦できることに感謝しています。
-
----
-
-## 初期セットアップ：OSインストールからSSH設定まで
-
-ラズベリーパイ4を受け取って最初にやったことは、OS（オペレーティングシステム）のインストールでした。手順を簡単にまとめると以下の通りです。
-
-1. **SDカードの準備** — 32GBのmicroSDカードを用意
-2. **Raspberry Pi Imagerのダウンロード** — 公式イメージャーを使ってOSイメージをSDカードに書き込み
-3. **SSHの有効化** — イメージャーの設定段階でSSHを事前に有効化
-4. **起動とアップデート** — 初回起動後、システムを最新の状態に更新
-
-ここで特に強調したいのがSSHの設定です。SSHを有効にしておけば、ラズベリーパイに別途モニターを接続しなくても、ノートPCや他のパソコンからリモートで接続して作業ができます。開発効率が大幅に上がるポイントですね。
+And so the challenge began.
 
 ---
 
-## 本当に便利な時代になった
+## Buying a Raspberry Pi 4 — and Getting a Price Shock
 
-セットアップをしながら、ふとこんなことを思いました。
+The first thing that surprised me after purchasing a Raspberry Pi 4 was the price. I remember it not being that expensive when my company outsourced that project three years ago, but now the 4GB model was selling for around 150,000 Korean won (roughly $110-120 USD).
 
-子供の頃、Windows 95やXPの時代には、周辺機器を一つ接続するだけでも、対応するドライバーをいちいち探してインストールしなければなりませんでした。インターネット検索もままならない時代、ドライバーCDをなくしてしまった時の絶望感は今でも覚えています。
+"If I'd known prices would go up like this, I would have stockpiled more units at the company back then..."
 
-それが今では、ラズベリーパイにUSBデバイスを繋ぐだけで自動的に認識されます。こうした些細な部分からも技術の進歩を実感しますね。
-
-ラズベリーパイOSは初めて触れるOSなので多少戸惑いはありますが、基本的にGUI環境が用意されているため、慣れるのにそう時間はかからなさそうです。
+There's a twinge of regret about the development costs we could have saved, but I'm grateful that now I can take on this challenge myself with AI's help.
 
 ---
 
-## 今後の計画：基礎からコツコツと
+## Initial Setup: From OS Installation to SSH Configuration
 
-ここからが本番です。私が目指す機器開発のためのプログラミングに取り組んでいきます。
+The first thing I did after unboxing the Raspberry Pi 4 was install the operating system. Here's a quick summary of the steps:
 
-これから集中的に学ぶべき分野は大きく二つあります。
+1. **Prepare the SD card** — Got a 32GB microSD card ready
+2. **Download Raspberry Pi Imager** — Used the official imager tool to flash the OS image to the SD card
+3. **Enable SSH** — Pre-enabled SSH during the imager configuration step
+4. **Boot and update** — Ran system updates after the first boot
 
-- **Pythonコーディング** — ラズベリーパイで最も広く使われる言語であり、AIとの協業にも最適
-- **電気・電子の基礎** — GPIOピンの制御やセンサーの接続など、ハードウェアを扱うための基本知識
-
-AIに助けてもらうにしても、この二つの基礎知識がなければ正確にリクエストすることもできませんし、AIが出した結果を理解して次のステップに進むこともできません。「AIが全部やってくれるだろう」という考えは危険です。基礎がなければ、AIの回答すら活かせないのですから。
-
-これから1週間ほどは関連書籍を読みながら、簡単なサンプルを一つずつ試していく期間にするつもりです。LEDを一つ点けるところから始めて、少しずつ範囲を広げていきたいと思います。
+I want to especially highlight the SSH setup. With SSH enabled, you can work on the Raspberry Pi remotely from your laptop or another computer without needing to connect a separate monitor. It's a huge boost to development efficiency.
 
 ---
 
-*専門外の人間でも、AIと一緒ならハードウェア開発に挑戦できる時代。ラズベリーパイ4との出会いは、その第一歩でした。*
+## What a Convenient Era We Live In
+
+While going through the setup, something struck me.
+
+Back in the Windows 95 and XP days, just connecting a single peripheral required hunting down and installing the matching driver. In an age when internet searches were limited, the despair of losing a driver CD is something I still remember vividly.
+
+Now, you plug a USB device into a Raspberry Pi and it's automatically recognized. Even small things like this remind you how far technology has come.
+
+Raspberry Pi OS is new territory for me, so there's a bit of a learning curve, but it provides a GUI environment out of the box, so getting comfortable shouldn't take long.
+
+---
+
+## The Plan Going Forward: Building Up From the Basics
+
+Here's where the real work begins. Time to dive into the programming needed for the device development I have in mind.
+
+There are two major areas I need to focus on:
+
+- **Python coding** — The most widely used language on Raspberry Pi, and ideal for working alongside AI
+- **Electrical and electronics fundamentals** — Essential knowledge for GPIO pin control, sensor connections, and working with hardware
+
+Even with AI assistance, without these foundational skills you can't make proper requests, and you can't understand AI's output well enough to take the next step. The idea that "AI will handle everything" is dangerous. Without the basics, you can't even make use of AI's answers.
+
+For the next week or so, I plan to read through relevant books and work through simple examples one by one. Starting with lighting up a single LED, and gradually expanding from there.
+
+---
+
+*Even someone outside the field can tackle hardware development with AI as a partner. Meeting the Raspberry Pi 4 was my first step.*

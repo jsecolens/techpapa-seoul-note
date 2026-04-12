@@ -1,7 +1,7 @@
 {
   "name": "tech-papa-blog",
   "version": "1.0.0",
-  "description": "テックパパの韓日ノート - Tech Papa's Korea-Japan Blog",
+  "description": "Tech Papa Seoul Notes - AI, Gadgets, Korean Culture & Daily Life Blog",
   "private": true,
   "scripts": {
     "dev": "next dev",

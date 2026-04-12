@@ -29,13 +29,13 @@ export default function Sidebar() {
             href="/about"
             className="inline-block mt-3 text-primary hover:underline text-sm"
           >
-            詳しく見る →
+            Learn more →
           </Link>
         </div>
       </div>
 
       <div className="bg-surface rounded-lg p-6 shadow-sm">
-        <h3 className="font-bold text-lg text-text-primary mb-4">カテゴリー</h3>
+        <h3 className="font-bold text-lg text-text-primary mb-4">Categories</h3>
         <div className="flex flex-wrap gap-2">
           {categories.map((category) => (
             <Link key={category.slug} href={`/category/${category.slug}`}>
@@ -46,7 +46,7 @@ export default function Sidebar() {
       </div>
 
       <div className="bg-surface rounded-lg p-6 shadow-sm">
-        <h3 className="font-bold text-lg text-text-primary mb-4">人気の記事</h3>
+        <h3 className="font-bold text-lg text-text-primary mb-4">Popular Posts</h3>
         <ul className="space-y-3">
           {popularPosts.map((post, index) => (
             <li key={post.slug}>

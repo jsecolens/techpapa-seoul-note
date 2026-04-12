@@ -1,57 +1,57 @@
 ---
-title: "なぜAIを活用してサイトを作ったのか？【シリーズ第1回】"
+title: "Why I Used AI to Build My Website [Series Part 1]"
 date: "2026-02-03"
 category: "ai"
-description: "プラットフォーム依存からの脱却を目指して、AIを活用した自分だけのサイト作りを決意するまでの経緯。過去の経験から学んだ教訓と、Claude Codeとの出会いについて。"
+description: "How I decided to break free from platform dependency and build my own site using AI. Lessons learned from past experiences and my encounter with Claude Code."
 thumbnail: "/images/posts/why-ai-for-website.jpg"
 tags:
   - AI
-  - サイト制作
-  - ブログ運営
+  - Web Development
+  - Blogging
   - AdSense
   - Claude Code
 ---
 
-![AIを活用してサイトを作る](/images/posts/why-ai-for-website.jpg)
+![Building a website with AI](/images/posts/why-ai-for-website.jpg)
 
-## はじめに
+## Introduction
 
-日本ではサイトを作る時、どのように作りますか？また、ブログを運営する際にはどのプラットフォームを利用しますか？
+When you want to create a website or blog, what approach do you take? Which platform do you use?
 
-韓国ではティストリー、ワードプレス、ネイバーブログなどのプラットフォームを使ってブログを運営することが多いです。日本にも、現地で多く使われているプラットフォームがあると思います。ただ、どのプラットフォームを使うかに関係なく、**アドセンスを考えているなら、広告収益化も考慮せざるを得ません。**
+There are plenty of popular blogging platforms to choose from — WordPress, Medium, Substack, and many others depending on your region. But regardless of which platform you pick, **if you're thinking about AdSense, you inevitably have to consider ad monetization.**
 
-## プラットフォームに依存することのリスク
+## The Risk of Platform Dependency
 
-私も韓国で最も有名なプラットフォームを活用してブログを運営していました。一日の訪問者が平均2,000人程度のブログを運営していたのですが、ある時からプラットフォームのサイトポリシーが変更され始め、このポリシー変更がサイトを運営するユーザーにとってどんどん不利になっていきました。
+I used to run a blog on one of the most popular platforms in Korea. I had around 2,000 daily visitors on average, and things were going well — until the platform started changing its policies. These changes kept making things worse for content creators.
 
-そして何度か不安定な状況を経験し、「ああ、もうここでの運営は難しいな」と判断し、ブログ運営を中断しました。
+After several rounds of instability, I decided, "I can't keep running my blog here," and I stopped publishing altogether.
 
-## 失ってしまったコンテンツ
+## Content Lost Forever
 
-今だったら、自分のドメインを通じて簡単に移行できたと思いますが、当時は関連知識がなかったため、ブログを生かして移行することは不可能でした。**結局、自分のコンテンツを失ってしまいました。**
+Looking back, I could have easily migrated to my own domain today. But at the time, I didn't have that knowledge, so migrating my blog while keeping everything intact was impossible. **I ended up losing all my content.**
 
-その後、会社生活も忙しく、色々なことがあって、私にとっては徐々に忘れ去られていく、ただ昔「やっていた」程度の話として残っています。
+After that, between a busy work life and various life events, blogging gradually faded into the background — just something I "used to do."
 
-## AIとの出会い、そして再挑戦
+## Meeting AI and Starting Over
 
-しかし、AIが活性化し始め、私がClaude Codeと出会ってからは、「あれ、これまたやってみる価値があるかも？」と思うようになりました。
+But then the AI wave hit, and everything changed when I discovered Claude Code. Suddenly I thought, "Wait — maybe it's worth giving this another shot?"
 
-Claude Codeを通じてなら、**自分が望むサイトを一日で開設でき、数日程度投資してサイトを磨いていけば、誰が見てもなかなか良いサイトがあっという間に出来上がる**のを、この目で直接見ました。
+With Claude Code, **I could spin up the site I wanted in a single day, and with a few more days of polish, end up with something genuinely impressive** — I saw it happen with my own eyes.
 
-だから、ずっと頭の中にだけ抱えていたあのコンテンツたちを、再び世に出せるという思いが湧いてきました。会社から帰宅して、寝る前の2〜3時間程度を再び投資して、ブログサイトを作り、また運営を始めました。
+That reignited the desire to take all those content ideas I'd been carrying around in my head and put them back out into the world. So I started spending 2-3 hours after work each evening building a blog site and running it again.
 
-（ちなみに、そのブログはこのブログではありません。そのブログは韓国で情報を提供するサイトです。）
+(For the record, that blog isn't this one. That one is a Korean-language information site.)
 
-## なぜワードプレスではなくAIなのか
+## Why AI Instead of WordPress?
 
-AIを活用したら、やはり私が思っていた通りに制作できる点が本当に良かったです。
+Using AI to build my site was great because I could make it exactly the way I envisioned.
 
-実はワードプレスを使ってみようかとも考えましたが、これも結局は何かを新たに学び直し、設定し直さなければならない。いくら自由な環境を提供するといっても、結局はどこかに依存しなければならない。
+I considered going with WordPress, but that would still mean learning a new system, configuring everything from scratch, and ultimately depending on yet another platform. No matter how much freedom it offers, there's still a dependency.
 
-**以前あまりにも大きなダメージを受けたので、すべてを自分自身でやりたかったのです。**
+**Having been burned so badly before, I wanted full ownership of everything.**
 
-そしてAI（Gemini、Claude Code、ChatGPT）と出会い、サイトを作って再び運営を始めました。そして再びアドセンス承認を受けました。
+So I teamed up with AI tools (Gemini, Claude Code, ChatGPT), built my site, started running it again, and got AdSense approved once more.
 
-## 次回予告
+## Next Up
 
-次の投稿では、AIを活用してどのようにサイトを作ったのか、そのプロセスをお伝えする投稿をしたいと思います。
+In the next post, I'll share the actual process of how I used AI to build the site.

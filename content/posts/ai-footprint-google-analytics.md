@@ -1,70 +1,70 @@
 ---
-title: "Googleアナリティクスに記録され始めたAIの足跡、サイト運営者として感じること"
+title: "AI Footprints Are Showing Up in Google Analytics — What It Means for Site Owners"
 date: "2026-03-04"
 category: "ai"
-description: "GoogleアナリティクスにChatGPTやPerplexityの訪問記録が。AI時代のサイト運営で感じる変化と、これからの対応について考えます。"
+description: "ChatGPT and Perplexity visits are appearing in my Google Analytics data. Reflections on the changing landscape of site management in the AI era."
 thumbnail: "/images/posts/ai-footprint-google-analytics.jpg"
 tags:
   - AI
-  - Googleアナリティクス
-  - サイト運営
+  - Google Analytics
+  - Site Management
   - SEO
 ---
 
-![AIの足跡、Googleアナリティクスに刻まれる](/images/posts/ai-footprint-google-analytics.jpg)
+![AI Footprints in Google Analytics](/images/posts/ai-footprint-google-analytics.jpg)
 
-サイトを運営していると、Googleアナリティクスはほぼ毎日チェックするツールになっています。どの記事にアクセスが多いのか、平均滞在時間はどのくらいか、どの経路から流入しているのかを確認しながら、コンテンツの方向性を決めていく上で重要な役割を果たしてくれています。
+When you run a website, Google Analytics becomes a tool you check almost every day. Which articles are getting traffic, what's the average time on page, where are visitors coming from — it plays a crucial role in shaping my content strategy.
 
-ところが最近、以前には見かけなかった不思議なデータが目に留まるようになりました。それは、AIが私のサイトを訪問した形跡がアナリティクスに記録されているということです。
-
----
-
-## ChatGPTとPerplexity、なぜ私のサイトに？
-
-トラフィックソースを確認していたところ、ChatGPTとPerplexity AIが私のサイトを訪問した記録を発見しました。最初は驚きました。人間ではなくAIがサイトを訪問するということ自体が、初めての経験だったからです。
-
-もちろん、GooglebotやNaverクローラーのような検索エンジンのボットがサイトを訪問するのは日常茶飯事です。しかし今回の記録はそれとは性質が異なります。AIチャットボットがユーザーの質問に回答を生成する過程で、私のサイトを参照したということを意味しているからです。
-
-考えられる可能性は二つあります。一つ目は、AIが回答を生成する際にリアルタイムでウェブ検索を行い、その過程で私のサイトのコンテンツを参考にしたケースです。ChatGPTのブラウジング機能やPerplexityのリアルタイム検索機能がこれに該当します。
-
-二つ目は、AIが回答の出典として私のサイトのURLを表示し、ユーザーがそのリンクをクリックして直接訪問したケースです。Perplexityは回答の横に出典を明確に表示するため、ユーザーがより詳しい内容を確認しようとリンクをクリックした可能性があります。
+But recently, I started noticing data I'd never seen before. AI services had visited my site, and the visits were being recorded in Analytics.
 
 ---
 
-## 前者なら心配、後者ならチャンス
+## ChatGPT and Perplexity — Why Are They Visiting My Site?
 
-もしAI自体がクローリングのようにサイトを訪問したのであれば、運営者としては少し心配になります。AIは必要な情報だけを素早く抽出するため、滞在時間が極めて短くなる可能性が高く、こうした訪問が増えるとサイトのエンゲージメント指標が下がりかねません。さらに、手間をかけて書いたコンテンツがAIの回答に溶け込んでしまい、肝心のサイトへの直接訪問が減ってしまう状況も考えられます。
+While reviewing my traffic sources, I discovered visit records from ChatGPT and Perplexity AI. I was surprised at first. Having non-human AI visit your site is a novel experience.
 
-一方で、AIが出典リンクを提供し、ユーザーが直接クリックして訪問したのであれば、これは新しい流入経路が生まれたことを意味します。従来のGoogle検索、Naver検索、SNS共有に加えて、AIチャットボットが一つの流入チャネルとして加わったわけです。質の高いコンテンツを持っていれば、AIを通じた流入が今後ますます増える可能性もあり、これは明らかにポジティブなシグナルです。
+Of course, search engine bots like Googlebot and other crawlers visit sites all the time. But these records were different in nature. They indicate that AI chatbots referenced my site while generating answers to user questions.
 
----
+There are two likely explanations. First, the AI performed real-time web searches while generating a response and referenced my site's content in the process. ChatGPT's browsing feature and Perplexity's real-time search function fall into this category.
 
-## わずか3年で世界はまた変わった
-
-ほんの3年前には、今のような状況は想像もできませんでした。ChatGPTが登場したのは2022年末のことで、それ以降のAI技術の進化のスピードには目を見張るものがあります。
-
-先日読んだ記事では、検索エンジンにキーワードを入力して検索結果をクリックするユーザーの数が著しく減少しているという内容がありました。いわゆる「ゼロクリック検索」が増えているのです。Google自体もAIオーバービューを通じて検索結果ページで直接回答を表示していますし、AIツールを使って検索エンジンを介さずに答えを得る人も急速に増えています。
-
-これまでサイト運営の核心戦略はSEOでした。いかにして検索結果の上位に表示されるかを考えることがコンテンツ戦略の中心でしたが、人々が検索結果をクリックしなくなるのであれば、上位表示の意味そのものが変わってきます。
+Second, the AI displayed my site's URL as a source citation, and the user clicked through to visit directly. Perplexity clearly shows source links alongside its answers, so users may have clicked through wanting more detail.
 
 ---
 
-## AI時代にサイトを運営するということ
+## The First Scenario Is Concerning; The Second Is an Opportunity
 
-こうした変化の中で、いくつか思うことがあります。
+If AI itself is visiting the site in a crawling-like fashion, that's somewhat worrying from an operator's perspective. AI extracts only the information it needs very quickly, which likely means extremely short dwell times. If these visits increase, they could drag down site engagement metrics. Worse, carefully crafted content might get absorbed into AI-generated answers, reducing direct visits to the actual site.
 
-まず、コンテンツの質がこれまで以上に重要になるということです。AIがウェブ上の膨大なコンテンツの中から参考にするものを選び出すのであれば、結局は正確で深みのある記事が選ばれるはずです。表面的な情報を並べた記事よりも、実体験や専門性が詰まったコンテンツがAIにも人間にも価値あるものとして評価されるでしょう。AIが出典として引用しやすいよう、明確な構造と正確なデータを備えたコンテンツを作ることも一つの戦略になり得ます。
-
-また、一つのチャネルだけに依存しないことが大切です。過去にあるプラットフォームのポリシー変更一つで、それまで積み上げてきたものが崩れてしまった経験がある方なら共感できるはずです。検索エンジンからの流入だけに頼るのも同じことです。AI経由の流入、SNS、ニュースレター、コミュニティなど、多様な経路を確保しておくことが、今後のサイト運営においてますます重要な戦略となるでしょう。
-
-もちろん、検索エンジンを通じた流入が完全になくなったわけではありません。依然として多くの人がGoogleやNaverで検索してサイトを訪問しています。しかしその割合が減少しているのは否定できない流れであり、この変化に早めに備えるかどうかの差は、時間が経つほど大きくなっていくはずです。
+On the other hand, if AI provides source links and users click through to visit directly, that represents a brand-new traffic channel. Beyond traditional Google search, social media shares, and other search engines, AI chatbots have joined as a referral source. If you have quality content, AI-driven traffic could grow substantially — and that's a clearly positive signal.
 
 ---
 
-## 3年後、また何が変わるのか
+## The World Changed Again in Just Three Years
 
-2022年から2025年までの変化がこれほどのものであったなら、これからの3年にどんな変化が訪れるのか予測するのは困難です。もしかしたらAIがコンテンツを生成し配信する主体になっているかもしれませんし、今とはまったく異なる形の情報消費の仕方が登場しているかもしれません。
+Just three years ago, this scenario was unimaginable. ChatGPT launched in late 2022, and the pace of AI advancement since then has been staggering.
 
-確かなのは、変化は続くということ、そしてそのスピードはますます速くなっているということです。今できることは、良いコンテンツを地道に作り続け、新しいトレンドをオープンな姿勢で受け入れ、必要であれば方向転換する準備をしておくことだと考えています。
+I recently read an article noting that the number of users who type keywords into search engines and click on results has dropped significantly. "Zero-click searches" are on the rise. Google itself now provides direct answers on the search results page through AI Overviews, and more people are using AI tools to get answers without going through search engines at all.
 
-Googleアナリティクスに記録されたAIの訪問記録は、これから訪れるさらに大きな変化の小さな前兆なのかもしれません。きっとまた方向を定め直す時が来るでしょう。その時のために今から少しずつ備えておくのが賢明な選択ではないかと思いながら、今日もアナリティクスのデータを眺めています。
+Until now, the core strategy for site management was SEO — figuring out how to rank higher in search results was the centerpiece of any content strategy. But if people are no longer clicking on search results, the very meaning of ranking high starts to change.
+
+---
+
+## What It Means to Run a Site in the AI Era
+
+In the midst of these changes, a few things come to mind.
+
+**Content quality matters more than ever.** If AI is selecting which content to reference from the vast ocean of information on the web, it stands to reason that accurate, in-depth articles will be the ones chosen. Surface-level information won't cut it — content packed with real experience and expertise will be valued by both AI and human readers. Structuring content clearly and backing it with accurate data, making it easy for AI to cite as a source, could itself become a strategy.
+
+**Don't rely on a single channel.** Anyone who's had a platform's policy change wipe out everything they'd built can relate to this. Depending solely on search engine traffic is the same risk. AI-driven traffic, social media, newsletters, communities — diversifying your traffic sources is becoming an increasingly critical strategy.
+
+Of course, search engine traffic hasn't disappeared entirely. Many people still use Google and other search engines to find and visit sites. But the declining share is an undeniable trend, and the gap between those who prepare for this shift early and those who don't will only widen over time.
+
+---
+
+## What Changes in Another Three Years?
+
+If the changes from 2022 to 2025 were this dramatic, predicting what the next three years will bring is nearly impossible. Perhaps AI will become both the creator and distributor of content. Perhaps entirely new forms of information consumption will emerge.
+
+What's certain is that change will continue, and the pace is accelerating. What we can do now is keep creating quality content, embrace new trends with an open mind, and be ready to pivot when necessary.
+
+The AI visit records in my Google Analytics might be small harbingers of much bigger changes to come. The time to recalibrate will arrive again. Being the kind of person who prepares gradually for that moment seems like the smart play — that's what I'm thinking as I review my Analytics data today.

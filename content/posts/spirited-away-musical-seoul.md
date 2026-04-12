@@ -1,137 +1,135 @@
 ---
-title: '舞台「千と千尋の神隠し」ソウル公演を観てきました ― 中学生時代の思い出が蘇る感動の舞台化'
+title: 'I Saw the "Spirited Away" Stage Show in Seoul — A Middle School Memory Brought Back to Life'
 date: '2026-01-28'
 category: 'daily'
-excerpt: '2026年1月、ソウル芸術の殿堂で上演中の舞台「千と千尋の神隠し」を観劇。中学生の頃に映画館で感じた感動が、20年以上の時を経て蘇りました。'
-tags: ['千と千尋の神隠し', 'ジブリ', 'ミュージカル', 'ソウル', '観劇']
+description: 'In January 2026, I attended the stage production of "Spirited Away" at the Seoul Arts Center. The magic I felt watching the film as a middle schooler over 20 years ago came rushing back.'
+tags: ['Spirited Away', 'Studio Ghibli', 'theater', 'Seoul', 'stage production']
 thumbnail: '/images/posts/spirited-away-musical-1.jpg'
 ---
 
-皆さん、こんにちは。
+Hello, everyone.
 
-先日、韓国ソウルの芸術の殿堂オペラハウスで上演中の舞台「千と千尋の神隠し」を観劇してきました。
+I recently attended the stage production of "Spirited Away" at the Opera House in the Seoul Arts Center.
 
-2001年7月20日に公開された映画「千と千尋の神隠し」。私にとってこの作品は、中学生時代の大切な思い出の一つです。当時、映画館で初めてこの作品を観た時の衝撃は今でも鮮明に覚えています。あれから20年以上の歳月が流れ、まさかその作品が舞台化され、しかも韓国で観られるとは夢にも思いませんでした。
+The animated film "Spirited Away" was released on July 20, 2001. For me, it's one of my most cherished middle school memories. I still vividly remember the impact of seeing it for the first time in a movie theater. More than 20 years later, I never imagined that this film would be adapted for the stage — let alone that I'd get to see it performed live in Korea.
 
-今回はその感動的な観劇体験を皆さんにお伝えしたいと思います。
+Here's what that unforgettable experience was like.
 
-![芸術の殿堂での公演ポスター](/images/posts/spirited-away-musical-1.jpg)
-
----
-
-## 舞台「千と千尋の神隠し」とは
-
-舞台「千と千尋の神隠し」は、2022年3月に東宝創立90周年記念作品として東京の帝国劇場で世界初演を迎えました。演出・脚色を担当したのは、ミュージカル「レ・ミゼラブル」の演出で知られるイギリスの名匠ジョン・ケアード氏。トニー賞受賞の実績を持つ彼が、宮崎駿監督の傑作アニメーションをどう舞台化するのか、世界中のジブリファンが注目していました。
-
-2024年にはロンドン・コロシアムで135回公演のロングランを成功させ、約2300席を毎日満席にして30万人以上を動員。日本人キャストによる日本語海外公演としては演劇史上最大規模となりました。
-
-そして2025年には中国上海公演を経て、**2026年1月から3月まで、ここ韓国ソウルの芸術の殿堂オペラハウスで上演**されています。
+![Performance poster at the Seoul Arts Center](/images/posts/spirited-away-musical-1.jpg)
 
 ---
 
-## 芸術の殿堂オペラハウスという特別な空間
+## What Is the "Spirited Away" Stage Production?
 
-今回の公演会場である芸術の殿堂は、ソウル市瑞草区に位置する韓国を代表する複合文化芸術施設です。7つの劇場と3つの美術館・博物館が集まったこの施設の中でも、2283席を擁するオペラハウスは韓国最大級の舞台芸術空間として知られています。
+The stage version of "Spirited Away" premiered in March 2022 at Tokyo's Imperial Theatre as a 90th anniversary production by Toho. The adaptation was directed by John Caird, the British theater legend known for his work on "Les Miserables" and a Tony Award winner. Ghibli fans worldwide watched closely to see how he would bring Hayao Miyazaki's masterpiece to the stage.
 
-会場に足を踏み入れた瞬間から、特別な体験が始まることを予感させる荘厳な雰囲気がありました。開演前のロビーでは、日本からわざわざ観劇に来たファンの姿も多く見られ、この作品への期待の高さが伝わってきました。
+In 2024, the show completed a 135-performance run at the London Coliseum, filling nearly 2,300 seats every night and attracting over 300,000 audience members — making it the largest-ever overseas run of a Japanese-language stage production.
 
----
-
-## 圧巻のクオリティ ― アニメーションが目の前で蘇る
-
-正直に申し上げると、観劇前には若干の不安もありました。
-
-あの幻想的な世界観、異形の神々、空を飛ぶシーン、カオナシの奇妙な存在感…。CGさえ使わず、生身の人間がどうやってあの世界を再現できるのだろうかと。
-
-**しかし、その不安は開演直後に吹き飛びました。**
-
-### タイトルロゴから始まる魔法
-
-オープニングで「千と千尋の神隠し」のタイトルが映し出され、「千」という漢字2つが残ってそれが鳥居に変形する演出。この瞬間から私は完全にジブリの世界に引き込まれました。
-
-### パペットと黒子が生み出す独創的な表現
-
-この舞台の最大の特徴は、あえて「アナログ」にこだわった演出です。
-
-釜爺の6本の腕は黒子たちが巧みに操り、まるで本当に6本の腕があるかのように動きます。白竜に変身したハクと千尋が空を飛ぶシーンでは、俳優たちの身体表現と照明、そして黒子の連携によって、確かに彼らが空を飛んでいるように見えます。
-
-**タネも仕掛けも見えるのに、それが全く世界観を損なわない。** むしろ人の手によって魔法が作られる様子を見ることで、より深い感動が生まれる。これこそ舞台芸術の真髄だと実感しました。
-
-### オクサレサマの変身シーン
-
-特に印象的だったのは、オクサレサマ（腐れ神）が河の神に戻るシーンです。映画でも名場面として知られるこのシーンが舞台上でどう表現されるのか興味津々でしたが、見事な演出で会場全体から感嘆の声が漏れました。汚れた姿から美しい河の神へと変貌していく様は、まるで目の前で魔法を見ているようでした。
-
-### カオナシの存在感
-
-カオナシが暴走してどんどん大きくなっていくシーンも、舞台ならではの工夫が光っていました。映画では当たり前のように描かれていたものが、人の手と工夫によって再現される様子は新鮮な驚きに満ちていました。
-
-![キャスト紹介パネル](/images/posts/spirited-away-musical-2.jpg)
+After a run in Shanghai, China in 2025, **the show came to the Seoul Arts Center Opera House from January to March 2026**.
 
 ---
 
-## 久石譲の音楽を生演奏で聴く贅沢
+## The Seoul Arts Center Opera House: A Special Venue
 
-この舞台のもう一つの大きな魅力は、**久石譲氏のオリジナルスコアを生演奏で聴ける**ということです。
+The Seoul Arts Center, located in Seocho-gu, is one of Korea's premier cultural complexes, housing seven theaters and three galleries/museums. The Opera House, with its 2,283 seats, is one of Korea's largest performing arts venues.
 
-映画で何度も聴いた馴染みの旋律が、ライブオーケストラによって演奏されます。その音楽が舞台上の演技と完璧にシンクして、感動を何倍にも増幅してくれました。
-
-あの印象的なメロディが流れ出した瞬間、中学生の頃映画館で感じた胸の高鳴りが蘇り、思わず目頭が熱くなりました。
+From the moment I stepped into the building, the atmosphere signaled something special. In the lobby before the show, I noticed many fans who had traveled from abroad specifically for this production — a testament to the level of anticipation surrounding it.
 
 ---
 
-## キャストの素晴らしさ
+## Stunning Quality — The Animation Comes to Life Before Your Eyes
 
-千尋役の上白石萌音さん、川栄李奈さんをはじめ、ハク役、湯婆婆/銭婆役の夏木マリさんなど豪華キャストが揃っています。
+I'll be honest: I had some anxiety going in.
 
-特筆すべきは、皆の演技が原作の声に対する違和感がほとんどないことです。立っているだけでも小学生に見える佇まい、歩き方、表情…。大人が10歳の少女を演じるという難題を見事にクリアしていました。
+The fantastical world, the otherworldly spirits, the flying scenes, the eerie presence of No-Face... Without CGI, how could live performers recreate any of this?
 
-リン役の咲妃みゆさんや花風みなさんの男勝りで凛々しい演技も、映画のリンそのもの。釜爺役の橋本さとしさんの演技も深みがあり、舞台オリジナルの魅力を加えていました。
+**Those doubts vanished within minutes of the curtain rising.**
 
-湯婆婆を演じる夏木マリさんは、映画版でも声優を担当された方。舞台でも圧倒的な存在感であの独特の雰囲気を完璧に再現していました。「千と千尋の神隠し」に欠かせない存在だと改めて実感しました。
+### The Magic Starts with the Title
 
----
+The opening sequence projects the "Spirited Away" title, and the two kanji characters for "Sen" (千) remain on screen before transforming into a torii gate. From that moment, I was completely transported into Ghibli's world.
 
-## 韓国の観客の反応
+### Puppetry and Stagehands Create Something Extraordinary
 
-初のソウル公演ということで、韓国の観客がどんな反応を示すか気になっていました。
+The production's defining choice is its commitment to **analog craftsmanship**.
 
-会場は約2000席が満席。若い観客層が多く、各シーンでリアクションが大きいのが印象的でした。感動的なシーンでは会場全体が静かに沈み、コミカルなシーンでは笑い声が響き渡りました。カーテンコールではスタンディングオベーションで迎えられ、**言語の壁を超えて作品の魅力が伝わっている**ことを実感しました。
+Kamaji's six arms are operated by stagehands in black (kuroko), moving so seamlessly that you genuinely forget they're there. The scene where Haku transforms into a dragon and flies with Chihiro uses nothing but physical performance, lighting, and coordinated stagecraft — yet they truly appear to be soaring.
 
-日本語上演にもかかわらず、字幕を通じてストーリーを追いながら目の前で繰り広げられるパフォーマンスに引き込まれている様子が伝わってきました。宮崎駿監督の作品が持つ普遍的な魅力、そして舞台芸術の力を改めて感じた瞬間でした。
+**You can see the mechanisms, but they never break the illusion.** If anything, watching magic being created by human hands deepens the emotional impact. This is the essence of live theater.
 
----
+### The River Spirit Transformation
 
-## 中学生の頃の自分に伝えたいこと
+One scene that particularly stood out was the Stink Spirit (Okusare-sama) revealing itself to be a River God. This iconic moment from the film was brilliantly adapted for the stage, drawing audible gasps from the audience. Watching the creature transform from filth to majesty felt like witnessing real magic.
 
-2001年7月20日。映画「千と千尋の神隠し」が公開された日、私は中学生でした。
+### No-Face's Presence
 
-当時この映画は社会現象となり、興行収入316億円という驚異的な記録を打ち立てました。ベルリン国際映画祭で金熊賞を受賞し、アカデミー賞長編アニメーション映画賞を獲得した初の日本映画となりました。
+No-Face's rampage — growing larger and more monstrous — was handled with incredible ingenuity specific to the stage format. Seeing something that animation renders effortlessly being recreated through human craft and creativity brought a fresh sense of wonder.
 
-**あの頃の私は、まさかこの作品が舞台化されて、20年以上経った今、韓国で観ることになるとは想像もできなかったでしょう。**
-
-千尋と同じように、私たちも毎日未知の世界に飛び込み、困難に立ち向かいながら成長していきます。この作品が時代を超えて愛される理由は、そんな普遍的なテーマが込められているからだと思います。
+![Cast introduction panel](/images/posts/spirited-away-musical-2.jpg)
 
 ---
 
-## 最後に ― これは「実写化」ではなく「舞台化」
+## Joe Hisaishi's Score, Performed Live
 
-最後に強調したいのは、**この舞台は単なる「実写化」ではない**ということです。
+Another major highlight was hearing **Joe Hisaishi's original score performed by a live orchestra**.
 
-映画をそのまま再現しようとするのではなく、舞台という表現形式の特性を最大限に活かしながら「千と千尋の神隠し」の世界観を新しい形で表現しています。だからこそ、映画を何度も観たファンも新鮮な感動を味わえるのです。
+Those familiar melodies — heard countless times through the film — took on entirely new life in a live setting. The music synced perfectly with the on-stage action, amplifying the emotion tenfold.
 
-舞台装置、照明、音響、パペット、そして何より俳優たちの演技。すべてが一つになって、私たちを不思議の町へと導いてくれます。
+When that iconic theme began to play, the excitement I'd felt in a movie theater as a middle schooler came flooding back. I won't pretend my eyes didn't get a little misty.
 
 ---
 
-## 公演情報
+## Outstanding Cast
 
-**ソウル公演は2026年3月22日まで続きます。**
+The production featured a stellar cast including Mone Kamishiraishi and Rina Kawaei as Chihiro, and the legendary Mari Natsuki as Yubaba/Zeniba.
 
-日本からも近い韓国、美味しいものも食べがてら、ぜひこの特別な体験をしに来てください。きっとあの頃の自分に会えるはずです。
+What's remarkable is how naturally the performers embody their characters. Watching an adult convincingly portray a 10-year-old girl — through posture, movement, and expression — was a masterful achievement.
 
-| 項目 | 詳細 |
+Miyu Sakihi and Mina Kazakaze delivered bold, spirited performances as Lin. Satoshi Hashimoto brought new depth to Kamaji. And Mari Natsuki, who voiced Yubaba in the original film, brought an overwhelming stage presence that confirmed she is inseparable from the character.
+
+---
+
+## The Korean Audience's Response
+
+I was curious to see how a Korean audience would receive the show.
+
+The roughly 2,000-seat venue was packed. The audience skewed young, and reactions were strong throughout — hushed silence during emotional scenes, open laughter during comedic moments. The curtain call brought a standing ovation that confirmed the production's **ability to transcend language barriers**.
+
+Despite being performed entirely in Japanese (with Korean subtitles), the audience was fully immersed. It was a powerful reminder of the universal appeal of Miyazaki's storytelling and the power of live performance.
+
+---
+
+## What I'd Tell My Middle School Self
+
+July 20, 2001. The day "Spirited Away" was released, I was in middle school.
+
+The film became a cultural phenomenon — earning 31.6 billion yen at the Japanese box office, winning the Golden Bear at the Berlin International Film Festival, and becoming the first Japanese film to win the Academy Award for Best Animated Feature.
+
+**My middle school self could never have imagined that over 20 years later, I'd be watching this story performed live on a stage in Seoul.**
+
+Like Chihiro, we all step into unfamiliar worlds every day, face challenges, and grow through them. The reason this story endures across generations is that it carries universal themes we never stop relating to.
+
+---
+
+## One Last Thing — This Is Not a "Live-Action Remake"
+
+I want to emphasize: **this production is not a "live-action version" of the film.**
+
+Rather than trying to replicate the movie frame by frame, it leverages the unique strengths of live theater to express the world of "Spirited Away" in an entirely new way. That's exactly why even die-hard fans of the film can experience something fresh and deeply moving.
+
+Set design, lighting, sound, puppetry, and above all, the performers themselves — everything combines to transport you to the spirit world.
+
+---
+
+## Show Information
+
+**The Seoul run continues through March 22, 2026.**
+
+If you're visiting Seoul and have the chance, this is an experience worth making time for. You just might reconnect with a part of yourself you'd forgotten.
+
+| Detail | Info |
 |------|------|
-| 公演期間 | 2026年1月7日〜3月22日 |
-| 会場 | 芸術の殿堂オペラハウス（ソウル） |
-| 上演時間 | 約3時間（休憩含む） |
-| 言語 | 日本語上演、韓国語字幕 |
+| Run Dates | January 7 - March 22, 2026 |
+| Venue | Seoul Arts Center Opera House |
+| Runtime | Approximately 3 hours (including intermission) |
+| Language | Performed in Japanese with Korean subtitles |

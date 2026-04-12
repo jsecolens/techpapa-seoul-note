@@ -1,92 +1,92 @@
 ---
-title: "Claude Cowork Windows版がついにリリース！実際に仕事で使ってみた正直レビュー"
+title: "Claude Cowork for Windows Is Finally Here! My Honest Review After Using It at Work"
 date: "2026-02-13"
 category: "ai"
-description: "Claude Cowork Windows版を実際の業務で使ってみた正直レビュー。PPT作成テストから実戦投入まで、1週間かかっていた発表資料を1日で完成させた体験談。"
+description: "An honest review of Claude Cowork for Windows after using it in real work scenarios. From PowerPoint creation tests to actual deployment — how I finished a presentation that used to take a week in just one day."
 thumbnail: "/images/posts/claude-cowork-windows-review.jpg"
 tags:
-  - AI活用
+  - AI Tools
   - Claude
   - Cowork
-  - PPT
-  - 業務効率化
+  - PowerPoint
+  - Productivity
 ---
 
-![Claude Coworkで業務中](/images/posts/claude-cowork-windows-review.jpg)
+![Working with Claude Cowork](/images/posts/claude-cowork-windows-review.jpg)
 
-ついにClaude（クロード）からWindows版のCowork（コワーク）がリリースされました。
+Claude has finally released the Windows version of Cowork.
 
-Mac版はすでに先行リリースされていましたが、私はずっとClaude Code（クロードコード）だけを使い続けていました。今回Windows版が出たということで、さっそくインストールして実際の業務で試してみました。果たして一般的なオフィス業務にも使えるのか、いくつかテストしてみた感想をお伝えします。
-
----
-
-## Claude Codeで感じたAIの本当の可能性
-
-これまでClaude Codeは本当に重宝してきました。
-
-初めてChatGPTのようなチャット型AIに触れた時、大きな衝撃を受けましたが、Claude Codeを使い始めた時にも同じくらいの衝撃がありました。「ついにAIが人間の仕事を実質的に代替できる時代が来たんだな」と実感したのが、まさにClaude Codeを使い始めてからでした。
-
-Claude Codeで、頭の中にしかなかったアイデアが次々と形になっていくのを体験するうちに、自然とこんな思いが芽生えました。
-
-> 「コーディングだけでなく、一般的な会社の業務、特に繰り返しの事務作業もAIにやってもらえないだろうか？」
-
-そして、まさにその思いを実現してくれるCoworkが登場したのです。
+The Mac version had already been out for a while, but I'd been sticking exclusively with Claude Code. When the Windows version dropped, I installed it right away and put it through its paces with real work tasks. Can it actually handle typical office work? Here are my impressions after running some tests.
 
 ---
 
-## Coworkの第一印象 — CLIへの恐怖なく、誰でも使えるインターフェース
+## How Claude Code Showed Me AI's Real Potential
 
-Coworkをインストールして初めて起動した時、最も良かった点はWindowsアプリとして動作することでした。
+Claude Code has been an invaluable tool for me.
 
-Claude CodeはCLI（コマンドラインインターフェース）ベースのため、黒い画面に白い文字という環境は、開発者以外の方にとってはやや馴染みにくく、心理的なハードルがあります。しかしCoworkは一般的なWindowsアプリのような親しみやすいUIになっていて、開発経験がない方でも気軽に使えます。
+When I first tried chat-based AI like ChatGPT, it was a big moment. But starting to use Claude Code hit me with the same level of impact. "AI can now genuinely do the work that humans do" — that realization truly sank in once I began working with Claude Code.
 
-実行画面を見ると「あれ？これって実質Claude Codeでは？」という印象を受けつつも、UIとUXが一般ユーザー向けにしっかり作り込まれていると感じました。開発者ではない事務職や企画職の方にとって、特に嬉しいアップデートではないでしょうか。
+As I watched ideas from my head take shape one after another through Claude Code, a natural thought emerged:
 
----
+> "What if AI could handle not just coding, but regular office work too — especially the repetitive administrative tasks?"
 
-## PPT作成テスト — ついに実用レベルのAIパワーポイントが登場
-
-### なぜPPTでテストするのか
-
-私はAIを評価する際、まずパワーポイントのスライド作成能力をテストします。
-
-Excelのようなデータ処理はAIの基本スキルですし、文書作成もほとんどのAIが得意です。しかしパワーポイントは事情が異なります。まともなPPTを作るには以下の要素がすべて揃っている必要がありますが、これを総合的にこなせるAIは意外にも少ないのが現状です。
-
-- **参考資料に基づく正確性** — ハルシネーションなく、提供した資料を忠実に反映できるか
-- **文章の配置と構成力** — スライドごとに情報が論理的に整理されているか
-- **デザインセンス** — 基本的なレイアウトと視覚的な完成度があるか
-- **pptxファイルの直接生成** — 実際に編集可能な.pptxファイルを作成できるか
-
-Google NotebookLMはそこそこ良かったのですが、生成されたスライドが編集できないため、実務では使いづらいという問題がありました。結局、今までPPTは初稿なしで、既存のテンプレートを使ってゼロから自分で作業していました。
-
-### Coworkで作ったPPT、何が違ったのか
-
-ところが、Claude Coworkで作ったPPTは違いました。
-
-**ついにPPTらしいPPTを作ってくれるAIが登場した**という感覚です。個人的には、初稿のスライドさえしっかり作ってもらえれば、残りの調整作業はずっと楽になります。Coworkはまさにその役割を果たしてくれました。
-
-具体的に良かった点は以下の通りです。
-
-- 提供した参考ファイルの内容を、ハルシネーションなくそのまま正確に反映してくれた
-- 過剰な装飾や不要な内容の追加なく、すっきりした初稿を作成してくれた
-- 実際に編集可能な.pptxファイルとして出力され、すぐに修正作業に取りかかれた
-
-もちろん、フォントの選択、文字サイズ、画像の配置などにはまだ改善の余地があります。ただ、この程度は手動で十分対応できるレベルですし、写真は会社が保有する実際の写真を差し替えれば済むので大きな問題ではありませんでした。むしろ、AIが推測で生成する画像の方が実務では違和感があることが多いですからね。
+And then Cowork arrived — the tool that makes that vision a reality.
 
 ---
 
-## 実戦投入 — 1週間かかっていた発表資料を1日で完成
+## First Impressions of Cowork — An Interface Anyone Can Use
 
-こうしてCoworkで作成したPPTを、実際の事業発表会で使用しました。
+When I first launched Cowork after installing it, the best part was that it runs as a native Windows application.
 
-以前は発表資料を1つ作るのに1週間かかっていました。資料の整理、スライドの構成、デザインの修正を繰り返していると、あっという間に時間が過ぎていきます。ところが今回は、Coworkを活用して**わずか1日で初稿の作成から修正、完成まで終わらせることができました。**
+Claude Code is CLI-based (command-line interface), and the black screen with white text can feel intimidating for non-developers. But Cowork has a familiar, approachable UI — like any other Windows app — making it accessible even for people with zero development experience.
 
-この経験を通じて、ようやく「AIと一緒に仕事をしている」という実感が湧きました。本当に、Claudeを使っていると事務スタッフ1人と開発者1人を追加で雇って一緒に働いているような感覚です。
+Looking at the interface, my first thought was, "Wait, isn't this basically Claude Code?" But the UI and UX have been carefully polished for general users. For office workers and project managers who aren't developers, this is a particularly welcome update.
 
 ---
 
-## 今後の予定
+## PowerPoint Creation Test — Finally, an AI That Makes Real Slides
 
-PPT以外にも、現在Coworkでさまざまな業務をテスト中です。自分が思い描いていることがどこまで実現できるのか、私自身もとても楽しみにしています。
+### Why I Test with PowerPoint
 
-追加のテストを行った後、次回のレビューでさらに詳しい活用事例をお伝えしたいと思います。
+When evaluating AI tools, I always start by testing their ability to create PowerPoint slides.
+
+Data processing in Excel is a basic AI skill, and most AI tools handle document writing well. But PowerPoint is a different beast. Making a decent presentation requires all of the following, and surprisingly few AI tools can deliver on all fronts:
+
+- **Accuracy based on reference materials** — Can it faithfully reflect provided sources without hallucination?
+- **Text layout and structure** — Is the information logically organized across slides?
+- **Design sense** — Does it have basic layout quality and visual polish?
+- **Direct .pptx generation** — Can it create an actually editable .pptx file?
+
+Google NotebookLM was decent, but the slides it generated weren't editable, making them impractical for real work. Until now, I'd been building presentations from scratch using existing templates, with no AI-generated first draft to work from.
+
+### What Made Cowork's PowerPoint Different
+
+Claude Cowork's PowerPoint output was on another level.
+
+**This is the first AI that actually creates PowerPoint slides that look and feel like real PowerPoint slides.** Personally, as long as I get a solid first draft, the rest of the refinement work becomes much easier. Cowork delivered exactly that.
+
+Specifically, here's what impressed me:
+
+- It accurately reflected the content from my reference files without any hallucination
+- It created a clean first draft without excessive decoration or unnecessary additions
+- It output an editable .pptx file that I could immediately start refining
+
+Sure, there's still room for improvement in font selection, text sizing, and image placement. But these are things I can easily fix by hand, and real company photos just need to be swapped in. In fact, AI-generated images often feel more out of place in professional settings than having placeholder slots to fill.
+
+---
+
+## Real-World Deployment — A Week's Work Done in One Day
+
+I actually used the PowerPoint created with Cowork in a real business presentation.
+
+Previously, creating a single presentation deck would take me a full week. Organizing materials, structuring slides, iterating on design — time just evaporates. But this time, using Cowork, **I went from first draft to revisions to final version in just one day.**
+
+This experience finally gave me the tangible feeling of "working alongside AI." Honestly, using Claude feels like having an extra admin assistant and a developer on the team.
+
+---
+
+## What's Next
+
+Beyond PowerPoint, I'm currently testing Cowork with various other work tasks. I'm genuinely excited to see how far I can push the things I've been envisioning.
+
+After running more tests, I'll share detailed use cases in a follow-up review.

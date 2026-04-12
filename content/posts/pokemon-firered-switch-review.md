@@ -1,62 +1,62 @@
 ---
-title: "ニンテンドースイッチでポケモン ファイアレッドをプレイしてみた – 30周年で蘇る初代151匹の思い出"
+title: "Playing Pokemon FireRed on Nintendo Switch -- The Original 151 Come Alive for the 30th Anniversary"
 date: "2026-03-01"
 category: "gadget"
-description: "ポケモン30周年を記念して発売されたファイアレッドをニンテンドースイッチでプレイ。予約購入から初プレイまでの感想と、親子で楽しむポケモンの魅力をお届けします。"
+description: "Pokemon FireRed launched on Nintendo Switch for the franchise's 30th anniversary. From pre-ordering to my first play session, here are my impressions -- plus what it's like enjoying Pokemon with my kid."
 thumbnail: "/images/posts/pokemon-firered-switch-review.jpg"
 tags:
-  - ポケモン
+  - Pokemon
   - Nintendo Switch
-  - ゲームレビュー
-  - ファイアレッド
+  - Game Review
+  - FireRed
 ---
 
-![ニンテンドースイッチでポケモン ファイアレッドをプレイ](/images/posts/pokemon-firered-switch-review.jpg)
+![Playing Pokemon FireRed on Nintendo Switch](/images/posts/pokemon-firered-switch-review.jpg)
 
-正直に言うと、こんなにゲームの発売を心待ちにしたのは何年ぶりだろうか。先週の発表を見た瞬間、すぐに予約購入を済ませ、そこから発売日までの毎日が本当に長く感じられた。子どもの頃、近所のおもちゃ屋の前で新しいゲームソフトの入荷日を指折り数えて待っていたあの感覚。大人になったらもう二度と味わえないと思っていたのに、ポケモン ファイアレッドがニンテンドースイッチで復活するというニュースを聞いて、あの頃のときめきがそのまま蘇ってきた。
+Honestly, I can't remember the last time I was this excited for a game release. The moment I saw last week's announcement, I pre-purchased immediately, and every day until launch felt painfully long. It was exactly like being a kid again, counting down the days outside a toy store waiting for a new game to drop. I thought that feeling was gone forever -- but hearing that Pokemon FireRed was coming to Nintendo Switch brought it all rushing back.
 
-そして今回は、自分一人だけのワクワクではなかった。子どもと一緒に「いつ出るの？」「早くやりたい！」と繰り返しながら待っていたということが、親としてとても幸せな体験だった。自分が子どもの頃に好きだったものを、今度は自分の子どもと分かち合えるなんて。ポケモンというコンテンツが世代を超えてつながる力を、改めて実感した瞬間だった。
-
----
-
-## ポケモン30周年記念ライブ、そして新作情報も
-
-27日の夜11時、ポケモン30周年記念ライブ配信がスタートした。久しぶりにゲーム関連のライブをリアルタイムで視聴したのだが、画面の前でドキドキしながら新しい情報を待つこの感覚がとても懐かしかった。普段はニュースや記事で間接的に触れていたゲーム情報を、世界中のファンと一緒にリアルタイムで共有しながら盛り上がる体験は、やはり格別なものがある。
-
-ライブでは、2027年にポケモンの完全新作が発売されるという情報も公開された。ファイアレッドを再びプレイできるだけでも感激なのに、新作まで予告されるとは。これからポケモンファンとして楽しみにできることが本当にたくさん増えた。子どもにも「これから新しいポケモンのゲームも出るんだよ！」と伝えたら、目をキラキラさせて喜んでいた。
+And this time, the excitement wasn't mine alone. Waiting with my kid, hearing "When does it come out?" and "I want to play!" on repeat -- that made it an even more special experience. Getting to share something I loved as a child with my own kid? Pokemon's power to connect generations really hit home.
 
 ---
 
-## いよいよファイアレッド、プレイ開始
+## Pokemon 30th Anniversary Livestream and New Game Announcement
 
-ライブが終わり、いよいよ本格的にファイアレッドのプレイが始まった。韓国では残念ながら韓国語版がないため、英語版を購入してプレイすることにした。韓国語対応がないのは少し残念だが、実はポケモンは基本的な流れを知っていれば言語がそれほど障壁にならないゲームでもある。むしろ英語の勉強を兼ねると思えば、悪くないかもしれない。
+At 11 PM on the 27th, the Pokemon 30th Anniversary livestream kicked off. It had been ages since I watched a gaming event in real time, and that familiar feeling of sitting on the edge of my seat, heart pounding, waiting for each new reveal was wonderfully nostalgic. Following game news through articles is fine, but sharing the moment live with fans around the world is something else entirely.
 
-ゲームを始めてすぐ目に飛び込んできたのは、やはりドット絵のグラフィックだった。最近のゲームの華やかな3Dグラフィックに慣れた目で見れば、確かに素朴に見えるかもしれない。しかし、自分にとってこのドット絵は、それ自体が思い出そのものだ。一つ一つのピクセルが記憶の中の場面を呼び起こしてくれる感覚とでも言おうか。特にファイアレッドに登場する151匹のポケモンたちは、自分にとって最も馴染み深いポケモンたちだ。
-
-正直に告白すると、ポケモンも世代を重ねるごとに、だんだん知らないポケモンが増えていった。自分は金・銀世代までのポケモンが限界で、それ以降の世代のポケモンたちは名前もデザインもよく分からない。だから最近のポケモンシリーズをプレイする時は、知らないポケモンが出てくるたびに少し距離感を感じていた。でもファイアレッドは違う。ピカチュウ、フシギダネ、ゼニガメ、ヒトカゲ…名前を聞くだけで頭の中にすぐ浮かぶポケモンたちばかりだから、プレイしている間ずっと心が穏やかだった。
+The livestream also revealed that a brand-new Pokemon title is coming in 2027. As if getting to replay FireRed wasn't exciting enough, now there's a new game on the horizon. When I told my kid about the new Pokemon announcement, his eyes lit up with pure joy.
 
 ---
 
-## オーキド博士、ヒトカゲ、そして最初のジムクリア
+## Let the Adventure Begin: Playing FireRed
 
-ゲームを始めると最初に出会うのがオーキド博士。久しぶりにお会いするオーキド博士の姿に、なんだか嬉しい気持ちになった。そして御三家の選択の瞬間、自分はやっぱりヒトカゲを選んだ。フシギダネもゼニガメも良いけれど、自分の心の中の最初のパートナーはいつもヒトカゲだ。子どもの頃もヒトカゲを選んだし、今もヒトカゲを選ぶ自分を見て、「人はなかなか変わらないな」と思わず笑ってしまった。
+After the livestream ended, it was finally time to dive in. Since there's no Korean language option, I went with the English version. The lack of Korean support is a minor disappointment, but Pokemon is the kind of game where knowing the basic flow means language is barely a barrier. If anything, it's a chance to pick up some English along the way.
 
-今日の初プレイでは、タケシ（ニビシティジムリーダー）を倒すところまで進めた。ヒトカゲを一生懸命育ててレベル16まで上げ、ついにリザードへの進化シーンを見ることができた。リザードに進化するあのエフェクトを見た瞬間、なんだか誇らしい気持ちになった。だいたい30分くらいプレイしたと思うが、体感では5分しか経っていないような感覚だった。それだけ集中して、本当に久しぶりにゲームにどっぷりハマってプレイしたということだろう。
+The first thing that hit me when the game started was the pixel-art graphics. If you're used to today's slick 3D visuals, sure, it looks simple. But for me, those pixels are pure nostalgia. Each one triggers memories of scenes I'd nearly forgotten. And the original 151 Pokemon that appear in FireRed? These are the ones I know best -- the ones closest to my heart.
 
----
-
-## 大画面テレビ vs スイッチ携帯モード、どっちがいい？
-
-初プレイはリビングの大きなテレビにスイッチを接続して行った。大画面でポケモンを楽しむということ自体は確かに良かったのだが、正直に言うと少し違和感があった。ドット絵の特性上、大きな画面で拡大されるとピクセルがそのまま見えてしまうため、最近の高解像度グラフィックに慣れた目には少し違和感を覚えてしまう。
-
-一方、スイッチ本体の画面でプレイすると話が変わる。昔のゲームボーイアドバンスの4インチにも満たない小さな画面でプレイしていた頃と比べれば、スイッチの画面サイズと解像度は確実に目に優しい。ドット絵が適度なサイズの画面で見ると、むしろ可愛らしくてエモーショナルに見えるのだが、この点はかなり満足だった。個人的には、ファイアレッドのようなレトロゲームはテレビモードよりもスイッチの携帯モードの方がしっくりくると思う。
+I'll admit something: as Pokemon kept adding new generations, I gradually lost track of the newer ones. I'm comfortable up through Gold & Silver, but beyond that, the names and designs start blurring together. Playing recent Pokemon games, I'd sometimes feel a disconnect when unfamiliar Pokemon appeared. FireRed is different. Pikachu, Bulbasaur, Squirtle, Charmander -- I hear a name and the image instantly pops into my head. Playing the entire game felt like being wrapped in a warm blanket.
 
 ---
 
-## まとめ
+## Professor Oak, Charmander, and the First Gym Victory
 
-今回のファイアレッドプレイを通じて改めて感じたのは、ポケモンというゲームが持つ力は単なるゲーム性を超えているということだ。幼い頃の思い出を呼び起こす力、世代を超えて親と子が一緒に楽しめるコンテンツとしての力、そして30年経っても変わらずときめきを与えてくれるブランドとしての力。ポケモン30周年を迎え、こうして再びファイアレッドをプレイできるようにしてくれた任天堂に感謝の気持ちでいっぱいだ。
+The game begins with meeting Professor Oak. Seeing him again after all these years genuinely put a smile on my face. When it came time to choose a starter, I picked Charmander -- of course. Bulbasaur and Squirtle are great, but my first partner has always been Charmander. Choosing Charmander again as an adult made me chuckle: "Some things never change."
 
-これからゆっくりストーリーを進めながら、子どもと一緒にポケモン図鑑も埋めていき、昔捕まえられなかったポケモンたちも今回こそ全部ゲットしたいと思っている。もしまだ購入を迷っている方がいたら、特に初代ポケモンに思い出がある方にはぜひ一度プレイしてみてほしい。あの頃の感動がそのまま蘇る体験ができるはずだ。
+In my first session, I made it through Brock (the Pewter City Gym Leader). I trained Charmander hard, got him to Level 16, and watched the evolution into Charmeleon. Seeing that evolution animation stirred up a surprising surge of pride. I played for about 30 minutes, but it felt like 5 -- that's how deeply absorbed I was. It's been a long time since a game pulled me in that completely.
 
-次回はもう少し進めてから、続きのレビューも書いてみようと思う。最後まで読んでいただき、ありがとうございました！
+---
+
+## Big Screen TV vs. Switch Handheld Mode -- Which Is Better?
+
+My first play session was on the living room TV with the Switch docked. Playing Pokemon on a big screen was appealing in theory, but I'll be honest -- it felt slightly off. Pixel art blown up on a large display makes individual pixels very visible, which can feel jarring if you're accustomed to modern high-resolution graphics.
+
+In handheld mode, though? Completely different story. Compared to the original GBA's sub-4-inch screen, the Switch's display offers a significant upgrade in both size and resolution while being much kinder on the eyes. The pixel art at this more moderate screen size actually looks charming and nostalgic rather than dated. I was pleasantly surprised. Personally, I think retro games like FireRed feel best in handheld mode rather than on a TV.
+
+---
+
+## Wrapping Up
+
+What struck me most playing FireRed again is that Pokemon's appeal goes far beyond just gameplay. It has the power to revive childhood memories, to bring parents and kids together across generations, and to deliver genuine excitement after 30 years. As Pokemon celebrates its 30th anniversary, I'm deeply grateful to Nintendo for making it possible to experience FireRed again.
+
+I plan to take my time with the story, work through the Pokedex with my kid, and catch all the Pokemon that eluded me the first time around. If you're on the fence about picking this up -- especially if you have memories of the original 151 -- I'd strongly encourage you to give it a try. The nostalgia hits hard, in the best possible way.
+
+I'll write a follow-up review once I've progressed further. Thanks for reading!

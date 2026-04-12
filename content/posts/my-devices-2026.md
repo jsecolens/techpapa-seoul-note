@@ -1,75 +1,75 @@
 ---
-title: "私が使っているデバイスたち"
+title: "All the Devices I Use as an Engineer Dad"
 date: "2026-01-29"
 category: "gadget"
-description: "Mac、Windowsデスクトップ、Windowsノートパソコン。IT仕事をしているエンジニアパパが普段使っている3台のパソコンとその理由を紹介します。"
+description: "Mac, Windows desktop, Windows laptop -- here's a look at the three computers this engineer dad uses daily, and why each one earns its spot."
 thumbnail: "/images/posts/my-devices.jpg"
 tags:
-  - ガジェット
+  - Gadgets
   - MacBook
   - Windows
-  - デバイス
-  - 開発環境
+  - Devices
+  - Dev Setup
 ---
 
-こんにちは、hitechpapaです。
+Hi, I'm hitechpapa.
 
-今日は私が普段使っているデバイスたちを紹介してみようと思います。IT関連の仕事をしているので、自然といろいろと機材が増えていきました。周りから「なんでそんなにパソコン持ってるの？」とよく言われるんですが、使っていると全部それなりの理由があるんですよね。
+Today I want to walk you through the devices I use on a daily basis. Working in IT, my collection of gear has naturally grown over the years. People often ask me, "Why do you have so many computers?" But honestly, each one has a genuine reason for being there.
 
-現在メインで使っているパソコンは全部で3台です。Mac1台、Windowsデスクトップ1台、Windowsノートパソコン1台。こういう構成になった理由と、それぞれの用途を一つずつお話ししていきますね。
+I currently use three main computers: one Mac, one Windows desktop, and one Windows laptop. Let me explain how I ended up with this setup and what each machine is for.
 
-![私のデスク環境](/images/posts/my-devices.jpg)
+![My desk setup](/images/posts/my-devices.jpg)
 
 ## Apple MacBook Air M2
 
-1台目はApple MacBook Air M2です。私が初めて買ったMacでもあります。それまではずっとWindowsだけを使ってきたんですが、周りでMacがいいという話をあまりにもたくさん聞いたので、一度使ってみようかなという気持ちで購入しました。
+First up is the Apple MacBook Air M2 -- my very first Mac. I'd been a lifelong Windows user, but after hearing so many people rave about Mac, I decided to give it a try.
 
-結論から言うと、本当に満足しています。まず軽いです。持ち歩いても負担になりません。以前使っていたWindowsノートパソコンは重さが2kg近くあったんですが、MacBook Airは1.2kgくらいしかないので、カバンに入れても肩が痛くならないんですよ。
+Long story short: I'm genuinely thrilled with it. It's light -- carrying it around is no burden at all. My previous Windows laptop weighed close to 2kg, but the MacBook Air comes in at roughly 1.2kg. My shoulder thanks me.
 
-バッテリーも本当に長持ちします。カフェで3〜4時間作業しても、バッテリーが半分も減らないことが多いです。充電器を持ち歩かなくていいというのがこんなに楽なことだとは初めて知りました。
+The battery life is incredible. I can work at a cafe for 3-4 hours and often still have more than half the battery left. Not having to carry a charger is a freedom I didn't know I was missing.
 
-M2チップの性能も思っていたよりずっといいです。最初は「AirはProより弱いんじゃないか？」と心配していたんですが、私がやる作業レベルでは全く不足がありません。コードエディタを開いて、ブラウザのタブを複数開いて、ターミナルであれこれ動かしても、もたつきがないんです。何よりファンがないので常に静かなのが気に入っています。集中して作業するとき、パソコンのファン音が聞こえないと確実に疲れにくいですね。
+The M2 chip performs better than I expected. I was initially worried that the Air might feel underpowered compared to the Pro, but for my workload, it's more than enough. I can run a code editor, multiple browser tabs, and terminal processes simultaneously without any lag. Best of all, the fanless design means it's completely silent. When you're deep in focus work, not hearing fan noise makes a real difference in reducing fatigue.
 
-外で作業することがあったり、軽く持ち出す必要があるときは、必ずMacBook Airを持っていきます。私にとっては「移動用メインパソコン」みたいな存在です。
+Whenever I need to work outside or take my computer on the go, the MacBook Air is always the one I grab. It's essentially my "mobile main machine."
 
-## Windowsデスクトップ
+## Windows Desktop
 
-2台目はWindowsデスクトップです。スペックはIntel i7にRAM 16GB、ストレージ1TBという構成です。派手なスペックではありませんが、私がやる作業には十分です。
+Second is my Windows desktop. It's running an Intel i7 with 16GB RAM and 1TB storage. Nothing flashy, but more than adequate for what I do.
 
-このデスクトップは家で本格的に作業するときに使っています。27インチモニターを接続して使っているんですが、やっぱり画面が大きいと作業効率がグッと上がりますね。ノートパソコンの画面で作業していて大きなモニターに移ると、「ああ、だからみんなモニター、モニターって言うんだな」って思います。
+This is my workhorse for serious tasks at home. Connected to a 27-inch monitor, the productivity boost from a large screen is hard to overstate. After working on a laptop screen and switching to a big monitor, you immediately understand why everyone makes such a fuss about monitor size.
 
-特にコードを書くとき、画面サイズの違いがはっきり感じられます。左側にコードエディタ、右側にブラウザやドキュメントを開いて作業できるので、行ったり来たりする時間が減ります。複数のファイルを比較しながら見るときも大きな画面が便利ですね。
+The difference is especially noticeable when coding. I can have the code editor on the left and browser or documentation on the right, cutting down on constant window-switching. Comparing files side by side is so much easier on a big screen.
 
-あとやっぱりデスクトップなので、発熱管理がうまくいきます。ノートパソコンは長時間作業すると熱くなるんですが、デスクトップはケースが大きくて冷却がしっかりしているので、長時間作業しても安定しています。重い作業や複数のプログラムを同時に動かすときは、やっぱりデスクトップが最高です。
+Thermal management is another desktop advantage. Laptops heat up during extended sessions, but a desktop with proper cooling stays stable even under sustained heavy loads. For intensive tasks or running multiple programs simultaneously, the desktop is king.
 
-ただ、デメリットといえば当然移動ができないということですね。だから外での作業用にノートパソコンが必要なわけです。
+The obvious trade-off? Zero portability. Which is exactly why I also need a laptop.
 
-## Windowsノートパソコン（Intel Ultra5 125H）
+## Windows Laptop (Intel Ultra5 125H)
 
-3台目はWindowsノートパソコンで、これが一番最近買ったやつです。Intel Ultra5 125HにRAM 24GB、ストレージ512GBです。
+Third is my Windows laptop -- the most recent addition. It's got an Intel Ultra5 125H, 24GB RAM, and 512GB storage.
 
-「MacBookがあるのになんでWindowsノートパソコンがまた必要なの？」こういう質問をよく受けます。理由は簡単です。**Windowsでしか動かないプログラムがあるからです。** 特に業務用ソフトウェアの中にはMacに対応していないものが結構あります。それに開発していると、Windows環境でテストしなければならないこともありますし。
+"Why do you need a Windows laptop when you have a MacBook?" I get this question a lot. The answer is simple: **some software only runs on Windows.** Certain work applications don't have Mac versions, and development sometimes requires testing in a Windows environment.
 
-このノートパソコンに入っているIntel Ultra5 125Hは比較的最近出たCPUです。使ってみると電力効率がかなりいいです。バッテリーも思ったより長持ちするし、発熱も適度な方です。以前の世代のIntelノートパソコンは発熱がひどいという話が多かったんですが、これはそこまでではないですね。
+The Intel Ultra5 125H is a relatively recent CPU, and its power efficiency has impressed me. Battery life is better than expected, and heat management is reasonable. Earlier Intel laptop generations had a reputation for running hot, but this one keeps things under control.
 
-RAMを24GBと余裕を持たせたのも気に入っています。開発作業をしていると、RAMを思ったより多く食うんですよ。コードエディタ、ローカルサーバー、ブラウザのタブ複数、あれこれ開いていると16GBだとちょっと厳しいときがあります。24GBあると余裕があっていいです。
+Having 24GB of RAM was a deliberate choice. Development work eats more memory than you'd think. Between a code editor, local server, and a dozen browser tabs, 16GB can start feeling tight. 24GB gives me comfortable headroom.
 
-ストレージが512GBなのでちょっと足りないんじゃないかと心配しましたが、最近はクラウドもよく使うし外付けSSDもあるので、そこまで不便ではないです。必要なら後で交換すればいいですしね。
+The 512GB storage seemed potentially tight, but between cloud storage and an external SSD, it hasn't been an issue. And if needed, the drive is swappable down the road.
 
-## なぜこんなに複数台を使うようになったのか
+## Why I Ended Up with Multiple Machines
 
-実は最初からパソコンを複数台使うつもりはありませんでした。でも仕事をしていると自然とこうなりました。
+I never planned to use this many computers. It just happened naturally as work demands evolved.
 
-MacとWindowsはそれぞれ長所と短所があります。Macは開発環境のセットアップが楽で、Unix系なのでターミナル作業がスムーズです。デザインもきれいだし、トラックパッドも本当によくできています。一方、Windowsは互換性が良くて、ゲームや特定のソフトウェアを使うときには必須です。
+Mac and Windows each have their strengths. Mac offers an easier dev environment setup, Unix-based terminal workflows, beautiful design, and an outstanding trackpad. Windows wins on compatibility, gaming support, and access to specialized software.
 
-ノートパソコンとデスクトップも同じです。ノートパソコンは携帯性がいいけど画面が小さいし、デスクトップは移動ができないけど作業環境が快適です。結局、**状況に合った道具を使うのが効率的**なんですよね。
+The laptop vs. desktop distinction is similar. Laptops are portable but screen-limited; desktops can't travel but provide a superior work environment. Ultimately, **using the right tool for the situation is the most efficient approach.**
 
-開発の仕事をしていると、最高スペックまでは必要なくても、ある程度快適な環境は必要です。スペックが低すぎるとビルドに時間がかかるし、複数のウィンドウを開いて作業するときにもたつくとストレスを感じますから。だから「そこそこいい」スペックを維持するように心がけています。
+In development work, you don't necessarily need top-tier specs, but you do need a comfortable baseline. Slow builds and laggy window-switching create real friction. So I aim to keep all my machines at a "comfortably capable" level.
 
-## おわりに
+## Final Thoughts
 
-こうして私はMacBook Air、Windowsデスクトップ、Windowsノートパソコンの3台を状況に応じて使い分けています。
+So that's how I use my MacBook Air, Windows desktop, and Windows laptop -- switching between them based on the situation.
 
-次回はスマートフォンやタブレット、そしてキーボードやマウスなどの周辺機器も紹介してみようと思います。ガジェットオタクの道には終わりがなさそうです。
+Next time, I'll cover my smartphone, tablet, and peripherals like keyboards and mice. The gadget rabbit hole truly has no bottom.
 
-読んでいただきありがとうございました！
+Thanks for reading!

@@ -42,7 +42,7 @@ export default function ShareButtons({ title, slug }: ShareButtonsProps) {
 
   return (
     <div className="flex items-center space-x-2">
-      <span className="text-sm text-text-secondary mr-2">シェア:</span>
+      <span className="text-sm text-text-secondary mr-2">Share:</span>
       {shareLinks.map(({ name, icon: Icon, href, color }) => (
         <a
           key={name}
@@ -50,7 +50,7 @@ export default function ShareButtons({ title, slug }: ShareButtonsProps) {
           target="_blank"
           rel="noopener noreferrer"
           className={`p-2 rounded-full bg-gray-100 text-text-secondary ${color} hover:text-white transition-colors`}
-          aria-label={`${name}でシェア`}
+          aria-label={`Share on ${name}`}
         >
           <Icon className="w-4 h-4" />
         </a>
@@ -58,7 +58,7 @@ export default function ShareButtons({ title, slug }: ShareButtonsProps) {
       <button
         onClick={copyToClipboard}
         className="p-2 rounded-full bg-gray-100 text-text-secondary hover:bg-gray-600 hover:text-white transition-colors"
-        aria-label="リンクをコピー"
+        aria-label="Copy link"
       >
         {copied ? <Check className="w-4 h-4 text-green-500" /> : <LinkIcon className="w-4 h-4" />}
       </button>

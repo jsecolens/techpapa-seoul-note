@@ -1,58 +1,56 @@
 ---
-title: "AIを活用したサイト開設からAdSense承認までの道のり【シリーズ序章】"
+title: "From Building a Site with AI to AdSense Approval — The Full Journey [Series Introduction]"
 date: "2026-02-02"
 category: "ai"
-description: "AIを活用してサイトを開設し、Google AdSense承認を受けるまでの過程を段階別に紹介するシリーズの序章。3回の拒否を乗り越え、1ヶ月で承認を獲得した体験記。"
+description: "The introduction to a series documenting how I used AI to build a website from scratch and get Google AdSense approval. After three rejections, I got approved in one month."
 thumbnail: "/images/posts/adsense-approval-journey.jpg"
 tags:
   - AI
   - AdSense
-  - ブログ運営
-  - サイト開設
-  - 収益化
+  - Blog Management
+  - Site Building
+  - Monetization
 ---
 
-![AIを活用したサイト開設からAdSense承認まで](/images/posts/adsense-approval-journey.jpg)
+![From Building a Site with AI to AdSense Approval](/images/posts/adsense-approval-journey.jpg)
 
-こんにちは、hitechpapaです。
+Hi, I'm hitechpapa.
 
-今日からいくつかのシリーズとして連載を始めていこうと思います。それは、**AIを活用してサイトやブログを開設し、AdSense承認を受けるまでの過程**を段階別に書いていこうというものです。
+Starting today, I'm kicking off a series where I document **the entire process of using AI to build a site or blog from scratch and getting AdSense approval**, broken down step by step.
 
-## AdSenseへの関心が高まっている時代
+## A Time of Growing Interest in AdSense
 
-YouTubeが活性化される前までは、AdSenseについて（もちろん開発者、企画、マーケターの方々はよくご存知だったと思いますが）あまり知られていませんでした。しかし、YouTubeが活性化し、AI時代に入るにつれて、このAdSenseでお金を稼ぐことについて、以前よりも多くの人々がその存在を知り、挑戦し、実際に運営されている方が多いようです。
+Before YouTube really took off, AdSense wasn't widely known outside of developers, planners, and marketers. But as YouTube grew and we entered the AI era, more and more people have become aware of earning money through AdSense — and many are now actively trying it out.
 
-## 私のAdSense歴
+## My AdSense History
 
-私の場合は2019年にAdSenseというものを初めて知り、2020年以降から運営してきました。ただ残念ながら5年以上ずっと継続していたわけではなく、途中で私がブログを開設したプラットフォームがポリシーの変更により、私はそのプラットフォームから離れて運営をしていませんでした。
+I first learned about AdSense back in 2019 and started running ads from 2020 onward. Unfortunately, I didn't maintain it continuously for over five years — the platform where I'd set up my blog changed its policies, so I left that platform and stopped operating for a while.
 
-しかし今、**AIを活用して改めてしっかりとしたサイトを作り、運営を始めています。**
+But now, **I've started fresh, using AI to build a proper site from the ground up.**
 
-## プラットフォームの選択
+## Choosing a Platform
 
-日本ではAdSense運営のためにどのプラットフォームが最も有名なのか、どうなのかはよくわかりません。しかしインターネットサイトという特性上、おそらく韓国と似た構造ではないかと思っています。
+I'm not entirely sure which platforms are most popular for AdSense in different regions, but the structure is probably similar everywhere. There are well-known blogging platforms that allow AdSense ads, and then there's WordPress — arguably the world's most popular option — for people who want to own their own site.
 
-韓国ではAdSense広告を許可する有名なプラットフォームが一つあり、これとは反対に自分だけのサイトを持ちたい人たちが運営する（ある意味世界で最も有名な）WordPressがあります。
+Of course, there's also AdSense through YouTube channels. Personally, I'd love to try YouTube, but I haven't found the right video content yet. I think of running a YouTube channel as owning your own broadcasting station, so once I have something great to show on video, I definitely want to give it a shot.
 
-もちろんYouTubeチャンネルを運営しながら広告を受けるAdSenseもありますが、個人的にはYouTubeをやりたいのですが、動画で見せられるコンテンツがなくてまだ挑戦できていません。個人的にYouTubeチャンネルを運営することは自分だけの放送局を持つことだと思っているので、私も動画で見せられる素敵なコンテンツができたらぜひ挑戦してみたいです。
+## Series Outline
 
-## このシリーズの目次
+Getting back on track — I'm going to document the process of building my own site with AI and getting AdSense approval, step by step.
 
-話が少しそれましたが、私がAIを活用して自分だけのサイトを作り、AdSenseの承認を受ける過程を段階別に書いていこうと思います。
+Here's the outline:
 
-目次は以下の通りです。
+1. **Why I decided to build a site using AI**
+2. **Planning and structuring the site with AI**
+3. **Purchasing a server and domain, registering Search Console and Analytics**
+4. **Submitting the AdSense application and the review period**
+5. **Three rejections (low-value content)**
+6. **Approved in one month**
 
-1. **なぜAIを活用してサイトを作り始めたのか？**
-2. **AIと一緒にサイトの企画と構成をする**
-3. **サーバーとドメインの購入、サーチコンソール・アナリティクスの登録**
-4. **AdSense承認申請と審査期間**
-5. **3回の承認拒否（価値のないコンテンツ）**
-6. **1ヶ月で承認**
+I'll be covering these six stages across the series.
 
-このように6つに分けて記事を書いていこうと思います。
+## Wrapping Up
 
-## おわりに
+If you're currently waiting on an AdSense approval, I hope my posts will be helpful to you in some way.
 
-AdSenseの承認申請をして待っている方々であれば、きっと私の記事が少しでも参考になるのではないかと思っています。
-
-それでは早速、私のAdSense承認を受けるまでのストーリーを本格的に始めていきましょう。
+So let's jump right in and begin the story of my road to AdSense approval.

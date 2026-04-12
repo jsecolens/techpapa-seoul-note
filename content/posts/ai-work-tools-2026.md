@@ -1,115 +1,115 @@
 ---
-title: '2026年、AIツールで働き方が完全に変わった ― 韓国の現場から'
-date: '2026-01-25'
-category: 'ai'
-excerpt: 'ChatGPT、Gemini、Claude、Claude Code。4つのAIツールを使い分けながら、韓国で働くエンジニアパパが体験した生産性革命について紹介します。'
-tags: ['AI活用', 'ChatGPT', 'Claude', 'Gemini', '生産性']
+title: "2026: AI Tools Have Completely Changed How I Work — From an Engineer in Seoul"
+date: "2026-01-25"
+category: "ai"
+excerpt: "ChatGPT, Gemini, Claude, Claude Code. Here's how an engineer dad in Seoul uses four AI tools to revolutionize his productivity."
+tags: ['AI', 'ChatGPT', 'Claude', 'Gemini', 'Productivity']
 thumbnail: '/images/posts/ai-work-tools.jpg'
 ---
 
-## 信じられない変化
+## An Unbelievable Transformation
 
-2026年1月、私は毎日仕事をしながら驚きを隠せずにいます。
+January 2026 — and I'm still amazed every single day at work.
 
-わずか1年前と比べても、AIツールを活用した業務の生産性が比べものにならないほど向上したからです。以前なら数日かかっていた作業が、今では数時間で終わります。専門知識が必要だった領域にも、AIの助けでより早くアクセスできるようになりました。
+Compared to just a year ago, productivity with AI tools has improved beyond comparison. Tasks that used to take days now wrap up in hours. Areas that required specialized knowledge are now accessible much faster with AI assistance.
 
-![AIツールを活用した業務風景](/images/posts/ai-work-tools.jpg)
+![AI tools in daily work](/images/posts/ai-work-tools.jpg)
 
-韓国では今、AI活用が急速に広がっています。大企業だけでなく中小企業、そして個人レベルまで、さまざまな場所でAIツールが使われています。私自身も日常業務で**ChatGPT、Gemini、Claude、そしてClaude Code**という4つのAIツールを基本として活用しています。
-
----
-
-## 私が使っている4つのAIツール
-
-### ChatGPT ― 進化した万能アシスタント
-
-ChatGPTは最も汎用性の高いツールとして、日常的に使用しています。
-
-素早いブレインストーミング、アイデア整理、簡単な文書作成など、「ちょっと聞きたいとき」に最初に頼る相手です。特に韓国語と日本語の両方で自然な会話ができるため、翻訳や言語学習にも便利です。
-
-2026年1月現在、OpenAIはGPT-5シリーズを運用しています。2025年8月にGPT-5がリリースされ、続いて11月にGPT-5.1、12月にはGPT-5.2がリリースされました。GPT-5.2はInstant、Thinking、Proの3つのモードで提供され、特にプロフェッショナルな知識業務で優れた性能を発揮します。
-
-### Gemini ― Google AIエコシステムの中心
-
-Googleが提供するGeminiは、単なるチャットボットを超えた総合AIプラットフォームへと進化しました。
-
-2025年11月にGemini 3 Proがリリースされ、2026年1月にはGemini 3 Flashがリリースされて、現在Geminiアプリのデフォルトモデルに設定されています。**特に画像分析で優れた性能を発揮しながらもAPI使用料金が非常に安価**なため、大量の画像を処理する業務で大きなメリットがあります。
-
-さらに注目すべきは、Geminiと一緒に使えるさまざまなAIツールです。NotebookLMは文書分析や研究に優れており、Google検索、YouTube、Google Driveなどとの完璧な統合は、業務効率をさらに高めてくれます。
-
-### Claude ― 深い思考のパートナー
-
-Anthropic社のClaudeは、私にとって最も信頼できる思考のパートナーです。
-
-2025年11月にClaude Opus 4.5がリリースされ、これが現在最も強力なフロンティアモデルです。長い文章を読む能力、論理的な分析力、そして何より**「文脈を理解して適切に応答する」能力**に優れています。複雑な問題について深く考えたいとき、長い文書を分析したいときにClaudeと相談します。
-
-日本語の自然さも素晴らしく、このブログ記事もClaudeと一緒に作成しています。韓国語で書いた下書きを日本語に翻訳してもらうだけでなく、表現の自然さや文化的な配慮についてもアドバイスをもらえます。
-
-### Claude Code ― ゲームチェンジャー
-
-そして最も衝撃的だったのがClaude Codeです。
-
-Claude Codeはターミナルで直接操作できるAI開発アシスタントで、コード作成、デバッグ、ファイル操作まで開発作業のほぼすべてをサポートしてくれます。2025年2月に初めてリリースされ、5月に正式版となり、現在はバージョン2.1まで進化しました。
-
-開発時間を大幅に短縮し、複雑な問題を一緒に解決してくれる頼もしいパートナーです。**Googleのプリンシパルエンジニアが1年かけて作業した分散システムアーキテクチャを、Claude Codeが1時間で再現した**という事例は、このツールの可能性をよく示しています。
+AI adoption is spreading rapidly in Korea right now. Not just in large corporations, but small and medium businesses and even individuals are using AI tools in all sorts of ways. In my own daily work, I rely on four core AI tools: **ChatGPT, Gemini, Claude, and Claude Code**.
 
 ---
 
-## なぜ複数のAIツールを使い分けるのか
+## The Four AI Tools I Use
 
-「1つのAIツールがあれば十分じゃない？」と思われるかもしれません。
+### ChatGPT — The Evolved All-Purpose Assistant
 
-しかし実際に使ってみると、それぞれのツールに得意分野があることがわかります。料理に例えるなら、包丁、フライパン、鍋がそれぞれ用途が違うのと同じです。
+ChatGPT is my go-to general-purpose tool for everyday use.
 
-| 用途 | 使用ツール |
+Quick brainstorming, organizing ideas, drafting simple documents — it's the first thing I turn to when I just need to ask something. It handles multiple languages naturally, which makes it great for translation and language learning too.
+
+As of January 2026, OpenAI is running the GPT-5 series. GPT-5 launched in August 2025, followed by GPT-5.1 in November and GPT-5.2 in December. GPT-5.2 is available in three modes — Instant, Thinking, and Pro — and excels particularly in professional knowledge work.
+
+### Gemini — The Hub of Google's AI Ecosystem
+
+Google's Gemini has evolved well beyond a simple chatbot into a comprehensive AI platform.
+
+Gemini 3 Pro launched in November 2025, and Gemini 3 Flash followed in January 2026 as the default model in the Gemini app. **Its image analysis capabilities are excellent while API pricing remains very affordable**, making it especially valuable for tasks involving large volumes of images.
+
+What's even more noteworthy is the ecosystem of AI tools that work alongside Gemini. NotebookLM excels at document analysis and research, and seamless integration with Google Search, YouTube, and Google Drive pushes work efficiency even higher.
+
+### Claude — A Deep-Thinking Partner
+
+Anthropic's Claude is my most trusted thinking partner.
+
+Claude Opus 4.5 launched in November 2025 and remains the most powerful frontier model available. Its ability to read long texts, analyze logically, and — most importantly — **understand context and respond appropriately** is outstanding. When I need to think deeply about a complex problem or analyze a lengthy document, Claude is where I turn.
+
+Claude's natural English output is excellent, and this blog is written with Claude's help as well. Beyond translation, it advises on natural phrasing and cultural nuance.
+
+### Claude Code — The Game Changer
+
+The most impactful tool by far has been Claude Code.
+
+Claude Code is an AI development assistant that operates directly in the terminal — it handles code writing, debugging, and file operations, covering nearly every aspect of development work. First released in February 2025, it went GA in May, and has since evolved to version 2.1.
+
+It dramatically cuts development time and serves as a reliable partner for solving complex problems. **A case where a Google principal engineer's year-long work on a distributed systems architecture was replicated by Claude Code in one hour** illustrates just how powerful this tool can be.
+
+---
+
+## Why Use Multiple AI Tools?
+
+"Isn't one AI tool enough?" you might wonder.
+
+In practice, each tool has its own strengths. It's like cooking — a knife, a frying pan, and a pot all serve different purposes.
+
+| Use Case | Tool |
 |------|------------|
-| 素早い応答と日常業務 | ChatGPT |
-| 画像処理とリサーチ | Gemini・NotebookLM |
-| 深い分析と翻訳 | Claude |
-| コーディングと開発 | Claude Code |
+| Quick responses and daily tasks | ChatGPT |
+| Image processing and research | Gemini / NotebookLM |
+| Deep analysis and writing | Claude |
+| Coding and development | Claude Code |
 
-このように使い分けることで、業務効率が飛躍的に向上します。
-
----
-
-## 2024年から2026年への変化
-
-2024年初頭、AIツールはまだ「便利だけど完璧ではない」レベルでした。
-
-ChatGPTは時々事実と異なることを言い、画像認識の精度も今ほど高くありませんでした。コード生成も簡単なスクリプトは書けましたが、複雑なアプリケーションは難しい状況でした。
-
-しかし**2026年1月現在、状況は完全に変わりました。**
-
-GPT-5.2、Gemini 3、Claude Opus 4.5などの最新モデルの登場により、AIの回答精度が大幅に向上し、「使えるレベル」から「信頼できるレベル」へと進化しました。最大の変化は、AIが「ツール」から「協力者」になったことです。
+Using each tool for what it does best dramatically boosts overall efficiency.
 
 ---
 
-## 生産性の飛躍的向上
+## The Shift from 2024 to 2026
 
-具体的にどれだけ生産性が上がったのか。
+In early 2024, AI tools were at a "useful but imperfect" stage.
 
-以前は外注していた作業を、今では自分で完成させることができます。専門家に相談しなければならなかった技術的な問題も、AIと対話しながら解決できます。
+ChatGPT would sometimes state things incorrectly. Image recognition wasn't as sharp as it is today. Code generation could handle simple scripts but struggled with complex applications.
 
-**時間の節約だけではありません。できることの範囲が劇的に広がりました。**
+**As of January 2026, the landscape has completely changed.**
 
-- 複雑なデータ分析はNotebookLMで
-- 多言語コンテンツ制作はClaudeで
-- Webアプリケーション開発はClaude Codeで
-
-それぞれのツールの強みを活かして、一人でも多くのことを成し遂げられるようになりました。これは単なる効率化ではなく、**個人の能力の拡張**です。
+With the arrival of GPT-5.2, Gemini 3, Claude Opus 4.5, and other latest-generation models, AI response accuracy has improved massively — evolving from "usable" to "reliable." The biggest shift is that AI has gone from being a "tool" to being a "collaborator."
 
 ---
 
-## これからのAI時代に向けて
+## A Dramatic Leap in Productivity
 
-2026年の今もAIの進化は止まりません。
+So how much has productivity actually improved?
 
-OpenAI、Google、Anthropicの間で競争が激化し、モデルの発展速度がさらに加速しています。この変化のスピードについていくのは簡単ではありませんが、だからこそ面白いとも言えます。
+Tasks I used to outsource, I now complete myself. Technical problems that required consulting an expert, I solve through AI conversation.
 
-このブログでは、これから実際にAIツールを使いながら経験したこと、学んだこと、そして韓国のAI活用の最前線を共有していきたいと思います。
+**It's not just about saving time. The range of what I can do has expanded dramatically.**
 
-日本の読者の皆さんにも、お隣の国・韓国のAI活用事例が何かのヒントになれば幸いです。
+- Complex data analysis with NotebookLM
+- Multilingual content creation with Claude
+- Web application development with Claude Code
 
-**次回は、各AIツールの具体的な使い方や実際の活用事例について詳しく紹介します。**
+By leveraging each tool's strengths, I can accomplish far more as an individual. This isn't mere efficiency — it's **an expansion of personal capability**.
 
-お楽しみに。
+---
+
+## Looking Ahead in the AI Era
+
+Even now in 2026, AI evolution shows no signs of slowing.
+
+Competition between OpenAI, Google, and Anthropic is intensifying, and model development is accelerating. Keeping up with the pace of change isn't easy, but that's also what makes it exciting.
+
+On this blog, I'll continue sharing what I learn from hands-on experience with AI tools, along with a front-row view of AI adoption here in Korea.
+
+I hope these perspectives from Seoul offer some useful insights for readers everywhere.
+
+**Next time, I'll dive into specific use cases and practical examples for each AI tool.**
+
+Stay tuned.

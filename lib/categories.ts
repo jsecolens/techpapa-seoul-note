@@ -1,7 +1,6 @@
 export interface Category {
   slug: string
-  nameJa: string
-  nameKo: string
+  name: string
   description: string
   color: string
 }
@@ -9,44 +8,32 @@ export interface Category {
 export const CATEGORIES: Category[] = [
   {
     slug: 'ai',
-    nameJa: 'AI活用',
-    nameKo: 'AI 활용',
-    description: 'ChatGPT、Claude、Geminiなど生成AIの実践的な活用方法',
+    name: 'AI & Tech',
+    description: 'Practical tips on using ChatGPT, Claude, Gemini, and other generative AI tools',
     color: 'bg-blue-100 text-blue-800',
   },
   {
     slug: 'gadget',
-    nameJa: 'ガジェット',
-    nameKo: '가젯',
-    description: '最新ガジェットのレビューと使いこなし術',
+    name: 'Gadgets',
+    description: 'Reviews and tips for the latest gadgets and devices',
     color: 'bg-green-100 text-green-800',
   },
   {
     slug: 'korea-culture',
-    nameJa: '韓国文化',
-    nameKo: '한국 문화',
-    description: '日本の皆さんに紹介したい韓国の美',
+    name: 'Korean Culture',
+    description: 'Discover the beauty and uniqueness of Korean culture',
     color: 'bg-rose-100 text-rose-800',
   },
   {
-    slug: 'japanese',
-    nameJa: '日本語学習',
-    nameKo: '일본어 학습',
-    description: '外国人向け日本語学習のコツとリソース',
-    color: 'bg-orange-100 text-orange-800',
-  },
-  {
     slug: 'dev',
-    nameJa: '開発日記',
-    nameKo: '개발 일기',
-    description: '個人開発の記録と学び',
+    name: 'Dev Journal',
+    description: 'Notes and learnings from personal development projects',
     color: 'bg-pink-100 text-pink-800',
   },
   {
     slug: 'daily',
-    nameJa: '日常',
-    nameKo: '일상',
-    description: 'ソウルでの日常生活と子育ての記録',
+    name: 'Daily Life',
+    description: 'Stories from daily life and parenting in Seoul',
     color: 'bg-amber-100 text-amber-800',
   },
 ]

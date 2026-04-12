@@ -1,80 +1,80 @@
 ---
-title: 'Google NotebookLMのスライド、ついに個別修正が可能に！Revise機能アップデートレビュー'
-date: '2026-02-24'
-category: 'ai'
-description: 'Google NotebookLMにスライド個別修正「Revise」機能が追加。PPTX書き出しにも対応し、実用性が大幅アップしたアップデートをレビューします。'
-thumbnail: '/images/posts/notebooklm-revise-update.jpg'
+title: "Google NotebookLM Slides Can Finally Be Edited Individually! Revise Feature Update Review"
+date: "2026-02-24"
+category: "ai"
+description: "Google NotebookLM adds individual slide editing with its new Revise feature. Now with PPTX export support too, this update significantly boosts practical usability."
+thumbnail: "/images/posts/notebooklm-revise-update.jpg"
 tags:
   - Google NotebookLM
-  - Revise機能
-  - スライド作成
-  - AI活用
+  - Revise Feature
+  - Slide Creation
+  - AI Tools
 ---
 
-![Google NotebookLMのRevise機能](/images/posts/notebooklm-revise-update.jpg)
+![Google NotebookLM Revise feature](/images/posts/notebooklm-revise-update.jpg)
 
-Google NotebookLM（ノートブックLM）を使ったことがある方なら、一度はこんな経験があるのではないでしょうか。スライド資料を生成すると、デザインは本当に感動するほど素晴らしいのに、たった1枚だけ修正したいのに方法がなくてもどかしかった経験です。私もまさにそうでした。しかし、ついに、本当にようやくこの問題が解決されました。
+If you've ever used Google NotebookLM, chances are you've experienced this: the AI generates slides with absolutely gorgeous design, but you want to fix just one slide and there's no way to do it. That was exactly my frustration. But finally — *finally* — this problem has been solved.
 
-2026年2月、GoogleがNotebookLMにスライドの個別修正機能「Revise」を追加しました。今日はこのアップデートがなぜそんなに嬉しいのか、そして実際にどのように動くのかを詳しくお話しします。
-
----
-
-## 見た目だけ良くて中身が伴わなかったNotebookLMスライド
-
-NotebookLMのスライド生成機能は、初登場の時から大きな話題になりました。資料をアップロードすると、AIが自動的に美しいインフォグラフィックスタイルのプレゼンテーションを作ってくれます。デザインのセンスがまったくない人でも、プロのデザイナーが作ったようなスライドを簡単に手に入れることができたのですから。
-
-問題はその後でした。
-
-生成されたスライドをよく見ると、テキストに誤字があったり、特定の表現を変えたかったり、画像の雰囲気が意図と違ったりすることがよくありました。しかし、NotebookLMのスライドは基本的にAIが画像形式で生成するものなので、PowerPointのようにテキストボックスをクリックして文字を直接修正することが不可能でした。
-
-では、どうすればよかったのか？方法はたった一つ、スライド全体を最初から作り直すことだけでした。
-
-これがどれだけもどかしいことか、実際に経験した方ならお分かりでしょう。10枚のスライドの中で3枚目のテキスト一つだけ変えたいのに、全体を新しく作ると残りの9枚まですべて変わってしまいます。以前気に入っていたスライドのデザインは消え去り、まったく新しい結果物が出てくるのです。
-
-そのため、満足のいくスライドが出るまで生成ボタンを繰り返し押すしかありませんでした。運が良ければ数回で良い結果が出ますが、運が悪ければ何十回やっても、すべてのスライドが満足いく結果を得るのは困難でした。まさに「仏作って魂入れず」という状態でした。見た目は本当に素晴らしいのに、実際に業務で使うには不便すぎたのです。
+In February 2026, Google added an individual slide editing feature called "Revise" to NotebookLM. Today, I want to explain why this update is such a big deal and how it actually works.
 
 ---
 
-## Revise機能、何が変わったのか
+## NotebookLM Slides: Beautiful on the Outside, Frustrating on the Inside
 
-今回のアップデートで追加されたRevise機能は、その名の通りスライドを個別に修正できるようにしてくれます。使い方はシンプルです。
+NotebookLM's slide generation feature made waves from the moment it launched. Upload your materials, and AI automatically creates beautiful infographic-style presentations. Even people with zero design sense could get slides that looked like a professional designer made them.
 
-NotebookLMのスタジオ（Studio）パネルで既存のスライドデッキを開き、タイトルの横にある鉛筆アイコン（Revise）をクリックします。すると全画面インターフェースが開き、各スライドごとに「Change Slide」というプロンプト入力欄が表示されます。
+The problem came after that.
 
-ここで重要なポイントがあります。文字を一つ一つ直接クリックして修正することは、依然としてできません。スライド自体が画像ベースで生成される構造だからです。その代わり、プロンプトを通じて修正指示を出す方式で動作します。
+When you looked closely at the generated slides, you'd often find typos, expressions you wanted to change, or images that didn't match your intent. But since NotebookLM generates slides as images, it was impossible to click on a text box and edit the text directly like in PowerPoint.
 
-例えば「3枚目のスライドのタイトルを『2026年戦略方針』に変更してください」とか、「5枚目のスライドの背景色を青系に変えてください」といった形で、変更したい内容をテキストで入力すればOKです。テキストの修正はもちろん、画像の差し替え、色の変更、レイアウトの調整など、さまざまな修正が可能です。
+So what could you do? There was only one option: regenerate the entire deck from scratch.
 
-複数のスライドに対して同時に修正指示を出すこともできます。修正内容をすべて入力した後、「Generate new deck」ボタンを押すと、修正が反映された新しいスライドデッキが生成されます。ゼロから全体を作り直すよりもずっと速く処理されるのも大きなメリットです。
+If you've experienced this, you know the frustration. You want to change just one piece of text on slide 3 out of 10, but regenerating the whole thing changes the other 9 slides too. The designs you liked are gone, replaced by completely new results.
 
----
-
-## 実際に使ってみた感想
-
-実際に使ってみると、以前のもどかしさがかなり解消されました。
-
-最も満足している点は、気に入っているスライドはそのまま残しつつ、問題のあるスライドだけを選んで修正できることです。以前のように全体を白紙に戻してやり直すギャンブルをしなくて済みます。10枚中8枚が気に入っていて2枚だけ修正したい場合は、その2枚についてだけプロンプトを入力すればいいのです。
-
-もちろん限界もあります。プロンプトベースの修正なので、自分の思い通りに正確に反映されない場合もあります。「タイトルのフォントサイズを2ポイントだけ小さくして」というような細かい調整は難しいです。また、スライドの追加や削除はまだサポートされていません。AIに言葉で説明して修正する方式なので、ピクセル単位の細かい調整よりは、内容や雰囲気レベルの修正に向いています。
-
-それでも以前と比べれば、とてつもない進歩です。以前は修正という概念自体が存在しなかったのですから。
+So you'd end up hitting the generate button over and over, hoping for a lucky run. Sometimes you'd get decent results in a few tries. Other times, even after dozens of attempts, it was nearly impossible to get every single slide right. It was all style and no substance — stunning visuals that were just too impractical for real work.
 
 ---
 
-## PPTX書き出しもついに対応
+## What the Revise Feature Changes
 
-今回のアップデートでもう一つ嬉しいニュースがあります。PPTX形式でのエクスポートが可能になったことです。これまではPDFでしかダウンロードできませんでしたが、PowerPointファイルとしても保存できるようになりました。
+The Revise feature added in this update does exactly what the name suggests: it lets you edit slides individually. Here's how it works.
 
-ただし一つ残念な点があります。PPTXでエクスポートしても、各スライドが画像としてレンダリングされているため、PowerPoint上でテキストを直接編集するのは難しい状態です。それでも、プレゼン資料としてそのまま活用したり、他の人に共有したりする際にはPDFよりずっと便利になったのは確かです。Google スライドへのエクスポート機能も近日中に追加予定とのことなので、こちらも楽しみです。
+Open an existing slide deck in NotebookLM's Studio panel and click the pencil icon (Revise) next to the title. A full-screen interface opens with a "Change Slide" prompt field for each individual slide.
+
+One important caveat: you still can't directly click on text to edit it, since the slides are still generated as images. Instead, the editing works through prompts — you type your modification instructions.
+
+For example, you might write "Change the title on slide 3 to '2026 Strategic Direction'" or "Change the background color of slide 5 to a blue tone." You can modify text, swap images, change colors, adjust layouts, and more.
+
+You can even submit modification instructions for multiple slides at once. After entering all your changes, hit the "Generate new deck" button and a new slide deck with your modifications applied is generated. It processes much faster than creating everything from scratch, which is a major plus.
 
 ---
 
-## これからの期待
+## My Hands-On Impressions
 
-NotebookLMのスライド機能は、登場当初からデザインのクオリティだけは誰もが認めるレベルでした。問題はただ一つ、修正ができないということだけだったのですが、今回のRevise機能アップデートで、その最大の弱点がかなり補われました。
+After using it, a lot of my previous frustration has been resolved.
 
-もちろんまだ完璧ではありません。直接テキストを編集することはできず、スライドの追加・削除も不可能で、プロンプトによる修正が常に意図通りに反映されるわけでもありません。しかし、Googleがこの方向で改善を続けているという点で、今後さらに強力なスライド編集機能が追加されることが期待されます。
+What I'm happiest about is being able to keep the slides I like while selectively fixing only the problematic ones. No more gambling by wiping the slate clean and starting over. If 8 out of 10 slides are great and 2 need work, you just enter prompts for those 2.
 
-現在この機能はGoogle AI ProおよびUltraの加入者に先行提供されており、無料ユーザーにも数週間以内に順次適用される予定です。
+Of course, there are limitations. Since editing is prompt-based, results don't always match your intent exactly. Fine-grained adjustments like "make the title font 2 points smaller" are difficult. Slide addition and deletion aren't supported yet either. Since you're describing changes in words for AI to interpret, it's better suited for content and mood-level modifications than pixel-perfect adjustments.
 
-NotebookLMでスライドを作ってみたけれど、修正できなくて諦めていた方は、今こそもう一度試してみることをおすすめします。見た目だけの「張りぼて」だったスライド機能が、ようやく実用的なツールへと進化し始めています。
+Still, compared to before, this is an enormous improvement. Previously, the very concept of editing didn't exist.
+
+---
+
+## PPTX Export Is Finally Here Too
+
+There's another piece of great news in this update: PPTX export is now available. Previously, you could only download slides as PDF, but now you can save them as PowerPoint files too.
+
+One caveat though: even in the exported PPTX, each slide is rendered as an image, so directly editing text in PowerPoint is still difficult. That said, for using slides as-is in presentations or sharing with colleagues, it's far more convenient than PDF. Google Slides export is reportedly coming soon as well, which is something to look forward to.
+
+---
+
+## Looking Ahead
+
+NotebookLM's slide feature has always been recognized for its design quality since day one. The only real problem was the inability to make edits, and this Revise update significantly addresses that biggest weakness.
+
+It's still not perfect — you can't directly edit text, you can't add or delete slides, and prompt-based edits don't always land exactly as intended. But the fact that Google is pushing improvements in this direction gives me confidence that even more powerful editing features are on the way.
+
+This feature is currently available first to Google AI Pro and Ultra subscribers, with rollout to free users expected within a few weeks.
+
+If you've tried making slides with NotebookLM but gave up because you couldn't edit them, now is the time to give it another shot. What used to be little more than a pretty facade is finally evolving into a practical tool.

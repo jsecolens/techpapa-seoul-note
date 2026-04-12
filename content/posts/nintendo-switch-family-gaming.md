@@ -1,80 +1,80 @@
 ---
-title: "子どもと一緒にNintendo Switchで遊ぶ日々 ― 親子でつなぐゲームの思い出"
+title: "Playing Nintendo Switch with My Kids — Building Memories One Game at a Time"
 date: "2026-02-17"
 category: "daily"
-description: "仕事帰りに子どもとNintendo Switchで遊ぶ毎日。ポケモンやマリオカートを通じて親子の思い出をつなぐ、テックパパの育児日記です。"
+description: "After work, my kids and I play Nintendo Switch together every evening. From Pokemon to Mario Kart, these gaming sessions have become our most treasured family time."
 thumbnail: "/images/posts/nintendo-switch-family-gaming.jpg"
 tags:
-  - 日常
+  - daily life
   - Nintendo Switch
-  - ポケモン
-  - マリオカート
-  - 子育て
-  - 親子時間
+  - Pokemon
+  - Mario Kart
+  - parenting
+  - family time
 ---
 
-![子どもと一緒にNintendo Switchで遊ぶ親子](/images/posts/nintendo-switch-family-gaming.jpg)
+![Playing Nintendo Switch together as a family](/images/posts/nintendo-switch-family-gaming.jpg)
 
-こんにちは、hitechpapaです。
+Hi, I'm hitechpapa.
 
-仕事が終わって家に帰ると、玄関で子どもが待っています。「パパ、今日もやろう！」。手に持っているのはNintendo SwitchのJoy-Con。こうして、我が家の夜のルーティンが始まります。
-
----
-
-## ポケモンに夢中な子ども
-
-我が家で一番プレイ時間が長いのは、間違いなく**ポケットモンスター**シリーズです。
-
-まだ幼稚園児なので、文字はうまく読めません。ストーリーの会話も「パパ、これ何て書いてあるの？」と毎回聞いてきます。でも、ポケモンのデザインや鳴き声で名前を覚えるのは本当に早い。ピカチュウ、イーブイ、リザードン…。お気に入りのポケモンは絵まで描いてくれます。
-
-バトルの操作はまだ難しいので、僕がサポートしながら一緒に進めています。「どの技を使う？」と聞くと、「一番強そうなやつ！」と元気よく答える姿がたまらなくかわいい。勝ったときの「やったー！」という歓声は、家中に響き渡ります。
+When I get home from work, my kid is waiting at the door. "Daddy, let's play!" — Joy-Con already in hand. And just like that, our nightly routine begins.
 
 ---
 
-## マリオカートは親子のふれあいタイム
+## Pokemon-Obsessed Kids
 
-もう一つの定番が**マリオカート**です。
+The game that gets the most play time in our house is, without question, **Pokemon**.
 
-幼稚園児にとってマリオカートの操作はまだまだ難しいです。まっすぐ走るのも一苦労で、壁にぶつかったり、コースの外に落ちたりするのは日常茶飯事。でも、それがまた面白い。
+My kid is still in kindergarten and can't read well yet. Every dialogue box means "Daddy, what does this say?" But when it comes to recognizing Pokemon by their design and cries? Lightning fast. Pikachu, Eevee, Charizard... They've memorized their favorites and even draw pictures of them.
 
-僕はこっそりスピードを落としたり、わざとアイテムを使わなかったりしながら、子どもの少し後ろを走ります。そして最後のストレートで子どもが先にゴールできるように調整。「パパに勝った！」と大喜びする姿を見ると、こっちまで嬉しくなります。
-
-たまに本当にうまくいって、僕の助けなしでゴールできることも。そのときの子どもの誇らしげな表情は、何物にも代えがたいです。少しずつ上達していく姿を隣で見られるのも、親ならではの特権だなと思います。
+Battle mechanics are still a bit advanced, so I help out while we play together. When I ask "Which move should we use?" the answer is always a confident "The strongest-looking one!" The victory cheer when we win echoes through the entire house.
 
 ---
 
-## 思い出のバトンをつなぐ感覚
+## Mario Kart: Family Bonding Time
 
-子どもと一緒にポケモンやマリオといった任天堂のゲームを遊んでいると、ふと不思議な気持ちになることがあります。
+Our other go-to game is **Mario Kart**.
 
-かつて自分が小学生だった頃、テレビやゲームボーイの前で必死にコントローラーを握っていたあの時間。あの時の興奮やワクワク感を、今、隣にいる子どもも同じように感じている。
+For a kindergartener, the controls are still a challenge. Driving straight is an achievement. Hitting walls and flying off the course is just part of the experience. But that's what makes it fun.
 
-**自分の思い出を、子どもと「共有」しているような感覚。**
+I quietly slow down, "forget" to use my items, and hang back just a little. Then on the final stretch, I make sure my kid crosses the finish line first. "I beat Daddy!" — that look of pure joy is worth everything.
 
-普段、仕事の話や昔の思い出を子どもに話しても、まだ幼稚園児だからほとんど理解できません。でもゲームなら、同じ体験を一緒にできる。「パパも子どもの頃、ここで何回もやられたんだよ」と言うと、子どもは「パパもー？」とケラケラ笑ってくれる。
-
-言葉では伝えきれない「あの頃の気持ち」を、ゲームが橋渡ししてくれている。これは自分にとって、とても嬉しい発見でした。
+Every now and then, they genuinely pull off a great race without my help. The pride on their face in those moments is priceless. Watching them gradually improve, race by race — that's a privilege only a parent gets to enjoy.
 
 ---
 
-## ゲームは「一緒の時間」を作ってくれる
+## Passing the Torch
 
-子育てをしていると、子どもとの時間の大切さを痛感します。幼稚園児の今は、「パパ、パパ」とまとわりついてくれるけれど、やがて成長して友達との時間が増え、親と遊ぶことも少なくなっていく。
+Playing Nintendo games with my kids gives me this strange, wonderful feeling.
 
-だからこそ、今のこの時間を大切にしたい。
+When I was a kid, I sat in front of a TV gripping a Game Boy, completely absorbed. That same excitement and wonder I felt back then — my kid is feeling it right now, sitting right next to me.
 
-Nintendo Switchの電源を入れて、Joy-Conを子どもに渡して、一緒にソファに座る。たったそれだけのことが、かけがえのない親子の時間になっている。ポケモンを交換したり、マリオカートで競争したり、昔のゲームで一緒に笑ったり。
+**It's like sharing my childhood memories in real time.**
 
-ゲームは単なる娯楽ではなく、**家族の「一緒の時間」を作ってくれるツール**なんだと、最近つくづく感じています。
+Most of the time, my kids can't understand stories about work or my past — they're kindergarteners, after all. But through games, we share the same experience. When I say "Daddy used to lose at this part over and over when he was little," they laugh and say "You too, Daddy?" 
+
+What words can't convey, games bridge perfectly. That was a genuinely happy discovery for me.
 
 ---
 
-## さいごに
+## Games Create "Together Time"
 
-テクノロジーに関わる仕事をしている身として、ゲームの教育的な価値についても色々と考えることはあります。でも今日のこの記事では、そういう難しい話は置いておきます。
+Parenting makes you acutely aware of how precious time with your kids is. Right now, they cling to me and want to play constantly. But someday they'll grow up, spend more time with friends, and less time with dad.
 
-ただ単純に、**子どもと一緒にゲームをする時間が楽しい。**
+So I want to treasure this time.
 
-自分が子どもの頃にワクワクしたものを、今の子どもも同じようにワクワクしている。それを隣で見ていられることが、親としてとても幸せです。
+Turning on the Switch, handing over a Joy-Con, sitting on the couch together. It's such a simple thing, but it becomes irreplaceable family time. Trading Pokemon, racing in Mario Kart, laughing at old games together.
 
-今夜も仕事が終わったら、子どもと一緒にSwitchの電源を入れようと思います。
+Games aren't just entertainment — they're a **tool for creating "together time" as a family.** I've come to feel this more deeply with each passing day.
+
+---
+
+## To Wrap Up
+
+As someone who works in tech, I have plenty of thoughts about the educational value of gaming. But I'll save that for another post.
+
+For now, it's simple: **playing games with my kids is fun.**
+
+The things that made me excited as a child still make my kids excited today. Being there to witness that, side by side — that's one of the great joys of being a parent.
+
+Tonight, after work, I'll turn on the Switch with my kids again.

@@ -1,105 +1,105 @@
 ---
-title: "韓国テックパパのカバンの中身を公開 ― 毎日持ち歩く6つのアイテム"
+title: "What's in My Bag: 6 Everyday Carry Items of a Tech Dad in Seoul"
 date: "2026-02-18"
 category: "gadget"
-description: "IT企業で働く韓国人パパが毎日持ち歩くカバンの中身を公開。MacBook、Galaxy Tab、モバイルバッテリーなど6つのアイテムを紹介します。"
+description: "A peek inside the daily bag of an engineer dad in Seoul -- from MacBook and Galaxy Tab to the surprising essentials of Korean daily life."
 thumbnail: "/images/posts/whats-in-my-bag.jpg"
 tags:
-  - ガジェット
+  - Gadgets
   - EDC
   - MacBook
   - Galaxy Tab
-  - 韓国生活
+  - Life in Korea
 ---
 
-![韓国テックパパのカバンの中身](/images/posts/whats-in-my-bag.jpg)
+![What's in my bag](/images/posts/whats-in-my-bag.jpg)
 
-こんにちは、hitechpapaです。
+Hi, I'm hitechpapa.
 
-「カバンの中に何が入っていますか？」と聞かれると、意外と答えに困ります。毎日当たり前のように入れているから、特に意識していないんですよね。そこで今日は、自分のカバンをひっくり返してみることにしました。
+"What's in your bag?" is one of those questions that's oddly hard to answer. You carry the same things every day without really thinking about them. So today, I decided to actually dump out my bag and take inventory.
 
-IT関連の会社で働きながら、退勤後はブログを書いたり、開発の勉強をしたり、幼稚園児の子どもと任天堂で遊んだりしている普通の韓国人パパ。そんな僕が毎日持ち歩いているアイテムたちを紹介します。
-
----
-
-## 1. MacBook ― 仕事と勉強の中心
-
-カバンの中で一番大きなスペースを占めているのは**MacBook**です。
-
-会社では業務用として、退勤後はWeb開発の勉強やブログの執筆に使っています。Claude Codeでコーディングをしたり、ブログの記事を書いたり、会社のプロジェクト資料を整理したり。一日の中でこいつに触らない時間がほとんどありません。
-
-MacBookとの初めての出会いを思い出します。Windowsを20年以上使い続けてきた僕が、初めてMacBookを触ったときは、なかなか慣れなくて戸惑いました。でも今では、MacBookが自分の生産性を一番高めてくれるコンピュータだと言い切れます。
+I work at an IT company during the day. After work, I write blog posts, study development, and play Nintendo games with my kindergartner. Just an ordinary dad in Seoul. Here's what I carry every day.
 
 ---
 
-## 2. Galaxy Tab ― ノート筆記の革命
+## 1. MacBook -- The Center of Work and Study
 
-MacBookの次によく取り出すのは**Galaxy Tab**です。Sペンと一緒に使っています。
+The biggest item in my bag is my **MacBook**.
 
-これを主に何に使っているかというと、**ノート筆記**です。会議中のメモ、勉強の整理、アイデアが浮かんだときにサッと書き留める。紙のノートを完全に置き換えました。
+At the office, it's my work machine. After hours, it's where I study web development and write blog posts. Coding with Claude Code, drafting articles, organizing project materials -- there's barely a moment in the day when I'm not using it.
 
-手で書くという行為そのものが、考えをまとめるのに役立つと感じる方なのですが、Galaxy Tabはその「手書きのメリット」をデジタルに移してくれます。書いた内容を検索できるし、フォルダごとに整理できるし、間違えた部分をきれいに消せるので。
-
-MacBookはタイピング、Galaxy Tabは手書き。この組み合わせが僕には最適です。
-
-たまに子どもに奪われてYouTube再生機になることもありますが…それもまた一つの活用法ということにしておきます（笑）。
+I still remember my first encounter with MacBook. After 20-plus years of Windows, the switch was genuinely disorienting. But now, I can confidently say the MacBook is the computer that maximizes my productivity.
 
 ---
 
-## 3. モバイルバッテリー ― 現代人の命綱
+## 2. Galaxy Tab -- A Revolution in Note-Taking
 
-これは説明不要かもしれません。**モバイルバッテリー**は現代人の生存装備です。
+The second thing I reach for most often is my **Galaxy Tab** with S Pen.
 
-MacBook、Galaxy Tab、スマートフォンと一日中電子機器を使っていると、バッテリー残量がいつも気になります。特に外出先での仕事がある日や、退勤後にカフェで作業するときは、モバイルバッテリーがないと不安になります。
+Its primary purpose? **Handwritten notes.** Meeting memos, study summaries, jotting down ideas on the fly -- it has completely replaced paper notebooks for me.
 
-10,000mAhくらいのコンパクトな製品を使っていて、スマートフォンを2回ほど充電できます。USB-Cケーブル1本でスマートフォンもGalaxy Tabも充電できるのが便利です。
+I'm someone who finds that the physical act of writing helps organize my thoughts, and the Galaxy Tab brings that "handwriting advantage" into the digital world. I can search my notes, organize them into folders, and cleanly erase mistakes.
 
-モバイルバッテリーは使わない日でも安心感を与えてくれます。「念のため」という気持ちで毎日入れているアイテムです。
+MacBook for typing, Galaxy Tab for handwriting. This combination works perfectly for me.
 
----
-
-## 4. リップクリーム ― 些細だけど無いと困るもの
-
-カバンの中のガジェットたちの間に、ひっそりと収まっている**リップクリーム**。
-
-これはテクノロジーとはまったく関係ありませんが、無いと一日が不快になる必需品です。韓国の冬はとにかく乾燥するんです。特にオフィスは暖房のせいでさらに乾燥して、唇がすぐに荒れ始めます。
-
-ヴァセリンのリップクリームをカバンに1つ、ポケットに1つ、こうやって配置しています。一種の生存戦略です。
-
-女性の方には当たり前かもしれませんが、韓国では男性の間でもリップクリームはかなり一般的です。特に冬は、男女問わず必須アイテムですよ。
+It does occasionally get commandeered by my kid as a YouTube machine... but I suppose that counts as a use case too.
 
 ---
 
-## 5. 財布 ― だんだん薄くなっていく存在
+## 3. Portable Charger -- The Modern Lifeline
 
-**財布**は持ち歩いてはいますが、正直あまり開くことがありません。
+This one probably needs no explanation. A **portable charger** is essential survival gear in the modern world.
 
-以前の記事でも紹介しましたが、韓国ではほぼすべての支払いをスマートフォンやカードで済ませます。コンビニ、カフェ、食堂、タクシー、さらには屋台までカードが使えます。なので、財布の中の現金はいつも1万ウォン札が1〜2枚ある程度です。
+When you're running a MacBook, Galaxy Tab, and smartphone all day long, battery anxiety is real. Especially on days when I'm working outside the office or heading to a cafe after work -- going without a portable charger feels genuinely risky.
 
-じゃあなぜ持ち歩くのか？身分証、運転免許証、そして「万が一」の現金のためです。たまに伝統市場や古いお店で、現金しか使えないところがあるんです。
+I carry a compact 10,000mAh unit that can charge my phone about twice. A single USB-C cable handles both my phone and Galaxy Tab, which keeps things simple.
 
-財布がどんどん薄くなって、スマートフォンがどんどん厚くなっていく時代。いつかは財布なしで出かける日が来そうですが、まだ心配で手放せずに持ち歩いています。
-
----
-
-## 6. ティッシュ（ポケットティッシュ） ― 韓国人の国民アイテム
-
-最後は**ティッシュ**、正確にはポケットティッシュです。カバンに入れて持ち歩くのはちょっと面白く感じるかもしれませんが、韓国ではごく普通のことです。
-
-韓国でティッシュは、単に鼻をかむためだけのものではありません。食堂でナプキンの代わりに使い、手を拭くときに使い、子どもが何かをこぼしたときに使い、本当に万能に活躍します。
-
-実は、韓国の多くの食堂ではテーブルにナプキンの代わりにトイレットペーパーのロールやティッシュが置いてあります。日本から来た方は最初ちょっと驚くかもしれない文化の違いですが、韓国ではこれがごく自然な光景なんです。
-
-特に幼稚園児の子どもを連れていると、なおさら必須です。子どもはいつどこで何をこぼすか予測不可能ですからね。ポケットティッシュ1つあれば、たいていの危機的状況に対応できます。
+Even on days I don't use it, just having it in my bag provides peace of mind. It's my "just in case" item that I never leave behind.
 
 ---
 
-## さいごに
+## 4. Lip Balm -- Small but Essential
 
-こうして見ると、僕のカバンの中身は「デジタル機器＋生存グッズ」で構成されていますね。
+Tucked quietly among all the gadgets is a **lip balm**.
 
-MacBookとGalaxy Tabは仕事と勉強のためのツール、モバイルバッテリーはそのツールたちを生かしておくための命綱、そしてリップクリーム・財布・ティッシュは韓国生活のちょっとした必需品。
+This has nothing to do with technology, but going without it makes for a miserable day. Winters in Korea are brutally dry. Office heating makes it even worse -- your lips start cracking almost immediately.
 
-華やかではありませんが、これらが僕の一日を回してくれるアイテムたちです。
+I keep one Vaseline lip balm in my bag and another in my pocket. It's a survival strategy.
 
-皆さんのカバンの中には何が入っていますか？
+In Korea, lip balm is extremely common among men too, especially during winter. It's considered a basic essential regardless of gender.
+
+---
+
+## 5. Wallet -- Getting Thinner by the Year
+
+I carry a **wallet**, but honestly, I rarely open it.
+
+Korea is one of the most cashless societies in the world. Convenience stores, cafes, restaurants, taxis, even street food vendors -- almost everything accepts cards or mobile payment. So the cash in my wallet is usually just a bill or two, kept around for emergencies.
+
+Why carry it at all? My ID, driver's license, and "just-in-case" cash. Occasionally I'll encounter a traditional market stall or an old shop that's cash-only.
+
+The wallet keeps getting thinner while the phone keeps getting thicker. Someday I might leave the wallet behind entirely -- but I'm not quite there yet.
+
+---
+
+## 6. Pocket Tissues -- A Korean Essential
+
+Last but not least: **pocket tissues.** It might seem like a quirky thing to mention, but in Korea, this is completely normal.
+
+Tissues in Korea aren't just for blowing your nose. They sub in for napkins at restaurants, work for wiping hands, and save the day when your kid spills something. They're genuinely multi-purpose.
+
+Here's a fun cultural note: many Korean restaurants put a roll of toilet paper or tissue box on the table instead of napkins. It might surprise visitors at first, but in Korea it's a perfectly ordinary sight.
+
+With a kindergartner in tow, tissues become absolutely non-negotiable. Kids are unpredictable spill machines. One pack of pocket tissues can handle most minor crises.
+
+---
+
+## Final Thoughts
+
+Looking at it all laid out, my bag is basically "digital gear + survival essentials."
+
+MacBook and Galaxy Tab are the tools for work and study. The portable charger is the lifeline keeping those tools alive. And lip balm, wallet, and tissues are the small necessities of daily life in Seoul.
+
+Nothing glamorous, but these are the items that keep my day running smoothly.
+
+What's in your bag?

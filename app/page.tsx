@@ -10,7 +10,7 @@ export default function HomePage() {
       <div className="flex flex-col lg:flex-row gap-8">
         <div className="flex-grow lg:w-2/3">
           <h1 className="text-3xl font-bold text-text-primary mb-8">
-            最新の記事
+            Latest Posts
           </h1>
           <PostList posts={posts} />
         </div>

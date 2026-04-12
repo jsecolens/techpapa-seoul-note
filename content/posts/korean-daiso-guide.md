@@ -1,92 +1,90 @@
 ---
-title: "韓国の国民的ショップ「ダイソー」 ― 週に一度は立ち寄るパパのダイソー活用記"
+title: "Korea's Daiso -- A Dad's Weekly Pilgrimage to the Country's Favorite Budget Store"
 date: "2026-02-18"
 category: "korea-culture"
-description: "韓国のダイソーは日本とは別会社。価格の仕組み、有名ブランドコラボ、おすすめ商品まで、韓国在住パパが週一で通うダイソーの魅力を紹介します。"
+description: "Korean Daiso is a separate company from the Japanese original. Here's how the pricing works, what brand collaborations to look for, and what this Seoul dad buys on his weekly visits."
 thumbnail: "/images/posts/korean-daiso-guide.jpg"
 tags:
-  - 韓国文化
-  - ダイソー
-  - 韓国ダイソー
-  - 韓国旅行
-  - 韓国生活
-  - コスパ
+  - Korean Culture
+  - Daiso
+  - Korean Daiso
+  - Korea Travel
+  - Life in Korea
+  - Budget Shopping
 ---
 
-![韓国ダイソーおすすめ商品完全ガイド](/images/posts/korean-daiso-guide.jpg)
+![Korean Daiso complete guide](/images/posts/korean-daiso-guide.jpg)
 
-こんにちは、hitechpapaです。
+Hi, I'm hitechpapa.
 
-韓国で暮らしていると、自然と足が向くお店があります。それが**ダイソー（DAISO）**です。
+There's one store in Korea that I keep gravitating toward. It's **Daiso**.
 
-日本にもダイソーがあるので名前は馴染みがあると思いますが、韓国のダイソーは日本のダイソーとは別の会社です。2023年に資本関係が完全に解消され、今は100%韓国企業になっています。同じ名前ですが、商品ラインナップやお店の雰囲気はけっこう違います。
+If you're familiar with Daiso in Japan (or its smaller presence in the US, Australia, and elsewhere), the name will ring a bell -- but Korean Daiso is actually a separate company. In 2023, the capital ties with the Japanese parent were fully dissolved, making it a 100% Korean enterprise. Same name, but the product lineup and store vibe are quite different.
 
-今日は韓国のダイソーがどんなところなのか簡単に紹介しながら、僕が実際にどう利用しているかお話ししてみます。
-
----
-
-## 週に一度は立ち寄るお店
-
-大げさではなく、本当に週に一度くらいはダイソーに行っています。
-
-何か大きな買い物をしに行くわけではありません。「あ、家にテープがなかった」「収納ボックスがもう1つ欲しいな」「子どもの色鉛筆がなくなった」――そんなちょっとした必要が出てきたとき、一番に思い浮かぶのがダイソーです。
-
-値段が手頃なので「とりあえず行ってみよう」という気持ちで気軽に立ち寄れます。そして立ち寄るたびに「こんなものもあったの？」と、予定になかったものを一つ二つ手に取ってしまう。結局、毎回レジで予想より多くの商品を抱えて出てくるのが、ダイソーの魔法です。
+Today I'll give you a quick tour of what Korean Daiso is all about, and share how I actually use it.
 
 ---
 
-## 価格の仕組み ― 全部100円ではありません
+## A Store I Visit Every Week
 
-日本のダイソーは基本的に100円（+税）均一のイメージが強いですよね。
+This isn't an exaggeration -- I genuinely end up at Daiso about once a week.
 
-韓国のダイソーは少し違います。**1,000ウォン、2,000ウォン、3,000ウォン、5,000ウォン**と、価格帯が幅広いんです。韓国のお金で1,000ウォンは約100円なので、一番安い商品は日本と近い感覚ですが、実際には2,000〜3,000ウォン台の商品が一番多いです。
+It's never for a big planned shopping trip. It's more like: "Oh, we're out of tape." "I could use one more storage box." "My kid's colored pencils are running low." Whenever a small need pops up, Daiso is the first place that comes to mind.
 
-それでも、一般的なマートやネット通販で買うよりは確実に安い。「この値段でこれだけのものなら十分だな」という満足感を与えてくれる価格帯が、ダイソーの魅力です。
-
----
-
-## 昔と今ではまったく別のお店
-
-実は、韓国にダイソーが入ってきた当初は、正直なところ商品のクオリティが良くありませんでした。「安かろう悪かろう」がそのまま当てはまる感じだったんです。ボールペンは何回か使うとインクが出なくなり、収納ボックスはすぐに壊れる。「やっぱり安いものには安い理由がある」と思っていた時代がありました。
-
-でも、今のダイソーは**まったく別のお店**になりました。
-
-品質が目に見えて上がったんです。生活用品、キッチン用品、文房具、どれも「この値段でこのクオリティ？」と驚かされる商品が増えました。かつての「安いけどちょっと残念」というイメージは完全に払拭されています。
+The prices are low enough that you feel comfortable just popping in on a whim. And every time you do, you spot something unexpected -- "Wait, they have this too?" -- and end up picking up one or two things you didn't plan on buying. Leaving the register with more items than expected is the Daiso magic.
 
 ---
 
-## 有名ブランドとのコラボが続々
+## How the Pricing Works -- Not Everything Is a Dollar
 
-最近の韓国ダイソーの一番大きな変化は、**有名ブランドとのコラボレーション**です。
+If you're used to American dollar stores where everything is $1.25, Korean Daiso works a bit differently. Items are priced at **1,000, 2,000, 3,000, or 5,000 won** (~$0.70, $1.40, $2.10, or $3.50 USD). The cheapest items are roughly dollar-store territory, but most products actually fall in the 2,000-3,000 won range.
 
-特にコスメ（化粧品）の分野がすごいです。VT、エチュード、too cool for schoolといった韓国の人気コスメブランドが、ダイソー専用の商品を作って販売しています。有名ブランドのミニサイズや専用ラインが1,000〜5,000ウォン（約100〜500円）で手に入るので、若い世代の間では「ダイソーコスメショッピング」が一つの文化になりました。
-
-キャラクターコラボも豊富です。カカオフレンズ、サンリオ、ディズニーなどのキャラクター商品がシーズンごとに新しく登場します。子どもがキャラクターグッズを見て喜ぶので、僕も自然とつい一つ手に取ってしまいます。
-
-健康食品やお菓子の分野でも有名ブランドの少量パッケージがどんどん増えていて、今やダイソーは単なる雑貨店ではなく、一つの総合ショッピング空間になった感じです。
+Even so, everything is noticeably cheaper than buying the same items at a regular store or online. It hits that sweet spot of "for this price, this is more than good enough" -- and that's what keeps people coming back.
 
 ---
 
-## 僕がダイソーでよく買うもの
+## A Completely Different Store Than It Used to Be
 
-参考までに、僕がダイソーでよく買うものを紹介します。
+When Daiso first came to Korea, the product quality honestly wasn't great. "Cheap stuff, cheap quality" was the fair assessment. Pens would run out of ink after a few uses, storage boxes would break quickly. It felt like you were paying for exactly what you got.
 
-**生活用品**：収納ボックス、収納カゴ、掃除用品、ゴミ袋。家の中を整理したいとき、ダイソーに行けばだいたい解決します。
+But **today's Daiso is a completely different store.**
 
-**文房具・事務用品**：ペン、ノート、付箋、ファイル。会社で使う事務用品もダイソーで十分調達できます。
-
-**子ども関連**：色鉛筆、シール、小さなおもちゃ、お絵かき帳。幼稚園児の子どもと一緒に行くと、子どもがあれこれ選ぶ楽しみもあるし、値段が気にならないので「好きなの選んでいいよ〜」と気軽に言えます。
-
-**IT小物**：充電ケーブル、スマホスタンド、イヤホンケース。急に必要になったとき、値段を気にせず買えるので助かります。
-
-**季節用品**：夏はミニ扇風機、冬はカイロや保温グッズ。シーズンごとに必要なものがちゃんと出てきます。
+The quality has visibly improved. Household goods, kitchen items, stationery -- you keep running into products that make you think "this quality for this price?" The old reputation of "cheap but disappointing" has been fully left behind.
 
 ---
 
-## 韓国に来たらぜひ立ち寄ってみてください
+## Brand Collaborations Are Everywhere
 
-韓国のダイソーは全国に本当にたくさんの店舗があります。ソウルのミョンドン（明洞）にはビル丸ごとダイソーという12階建ての大型店舗もありますし、ホンデ（弘大）にも7階建ての店舗があります。観光地の近くにはほぼ必ずダイソーがあると思っていただいて大丈夫です。
+The biggest recent change at Korean Daiso is the wave of **collaborations with well-known brands.**
 
-韓国旅行中に「急に傘が必要になった」「充電ケーブルを忘れた」「ちょっとしたお土産を買いたい」といった場面があれば、ダイソーを思い出してみてください。手頃な値段でたいていのものは手に入ります。
+The cosmetics section is especially impressive. Popular Korean beauty brands like VT, Etude, and too cool for school are creating Daiso-exclusive products. Mini sizes and dedicated lines from name brands for just 1,000-5,000 won (~$0.70-3.50 USD) have turned "Daiso beauty shopping" into a real phenomenon among younger consumers.
 
-韓国では、ダイソーのことを「ダ イッソ（全部ある）」という言葉遊びで呼ぶこともあります。本当に何でもありますからね。
+Character collaborations are also big. Kakao Friends, Sanrio, Disney -- new character merchandise rotates in with the seasons. My kid loves spotting the latest character items, and I inevitably end up tossing one into the cart.
+
+The health food and snack sections have also expanded with smaller-portion packs from popular brands. At this point, Daiso is less of a simple dollar store and more of a comprehensive budget shopping destination.
+
+---
+
+## What I Actually Buy at Daiso
+
+For reference, here's what ends up in my basket most often:
+
+**Household items:** Storage boxes, bins, cleaning supplies, trash bags. Whenever I need to organize something at home, Daiso has the answer.
+
+**Stationery and office supplies:** Pens, notebooks, sticky notes, file folders. Perfectly adequate for office use, and you can't beat the price.
+
+**Kids' stuff:** Colored pencils, stickers, small toys, drawing pads. Going to Daiso with my kindergartener is a little adventure -- the prices are low enough that "pick whatever you want" doesn't cause any stress.
+
+**Tech accessories:** Charging cables, phone stands, earphone cases. When you need something in a pinch and don't want to overthink the price, Daiso delivers.
+
+**Seasonal items:** Mini fans in summer, hand warmers and thermal gear in winter. The right stuff shows up at the right time of year.
+
+---
+
+## Worth a Visit When You're in Korea
+
+Korean Daiso has an enormous number of locations nationwide. In Seoul's Myeongdong, there's a 12-story mega-store that takes up an entire building. Hongdae has a 7-story location. If you're near any tourist area, there's almost certainly a Daiso within walking distance.
+
+If you're traveling in Korea and suddenly need an umbrella, realize you forgot a charging cable, or want to pick up some affordable souvenirs, remember Daiso. You'll find what you need at a great price.
+
+There's even a Korean pun about the store: "Daiso" sounds like "da isseo" in Korean, which means "they have everything." And honestly? They pretty much do.

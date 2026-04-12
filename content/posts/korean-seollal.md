@@ -1,187 +1,179 @@
 ---
-title: "韓国のお正月「ソルラル（설날）」を徹底解説！日本との違いが面白い"
+title: "Seollal: Korea's Lunar New Year -- A Deep Dive into Korea's Biggest Holiday"
 date: "2026-02-15"
 category: "korea-culture"
-description: "韓国最大の伝統行事「ソルラル（설날）」を徹底解説。茶礼・セベ・トッククなど韓国のお正月文化を、日本のお正月との違いを交えてリアルにお伝えします。"
+description: "A thorough guide to Seollal, Korea's most important traditional holiday. From ancestral rites and deep bows to rice cake soup and gift-giving, here's what Lunar New Year really looks like in Korea."
 thumbnail: "/images/posts/korean-seollal.jpg"
 tags:
-  - 韓国文化
-  - ソルラル
-  - 설날
-  - 韓国のお正月
-  - 旧正月
-  - トックク
-  - セベ
+  - Korean Culture
+  - Seollal
+  - Lunar New Year
+  - Korean New Year
+  - Tteokguk
+  - Sebae
 ---
 
-![韓国のお正月ソルラル](/images/posts/korean-seollal.jpg)
+![Korea's Lunar New Year: Seollal](/images/posts/korean-seollal.jpg)
 
-韓国には、日本のお正月とはまったく違う「もうひとつのお正月」があります。
+Korea has its own version of New Year's that's quite different from the January 1st celebrations most Westerners are used to.
 
-それが**ソルラル（설날）**。旧暦の1月1日を祝う韓国最大の伝統行事です。
+It's called **Seollal** -- the Lunar New Year, celebrated on the first day of the lunar calendar. It's Korea's single biggest traditional holiday.
 
-今回は毎年家族で過ごしているソルラルについて、日本のお正月との違いを交えながらリアルにお伝えします。
-
----
-
-## ソルラル（설날）とは？
-
-ソルラルは、旧暦（太陰暦）の1月1日に当たる日で、韓国では**1年で最も大切な祝日**のひとつです。
-
-ソルラル当日を挟んで前後1日ずつ、合計**3日間が公休日**になります。毎年、新暦での日付が変わるため、「今年のソルラルはいつ？」と確認するのが韓国人の年明けの習慣でもあります。
-
-だいたい**1月下旬〜2月中旬**の間になることが多く、中国の春節（旧正月）とほぼ同じ時期です。
-
-> **日本との違い：** 日本は新暦の1月1日にお正月を祝いますが、韓国では旧暦のお正月のほうがずっと重要。新暦の1月1日は「シンジョン（신정）」と呼ばれ、1日だけの休日で、比較的あっさりと過ごします。
+Today I'll walk you through how our family celebrates Seollal, with a look at what makes it unique.
 
 ---
 
-## 韓国の大移動「帰省ラッシュ」がすごい
+## What Is Seollal?
 
-ソルラル連休が近づくと、韓国全土で**大規模な帰省ラッシュ**が始まります。
+Seollal falls on the 1st day of the 1st month of the lunar calendar, making it **one of the most important holidays of the year** in Korea.
 
-普段はソウルや首都圏に住んでいる人たちが一斉に実家へ向かうため、高速道路は大渋滞。通常3〜4時間の距離が**8時間以上**かかることも珍しくありません。KTX（韓国高速鉄道）やバスのチケットは発売と同時に売り切れる争奪戦です。
+Koreans get **three consecutive days off** -- the day before, the day of, and the day after Seollal. Since the lunar calendar shifts relative to the Western calendar, the exact dates change each year. Checking "when is Seollal this year?" is practically a January ritual for every Korean.
 
-この光景は日本のお盆やお正月の帰省ラッシュと似ていますが、韓国では**国民の大半が同じ3日間に集中して移動する**ため、そのスケールは想像以上です。
+It usually falls between **late January and mid-February**, roughly the same time as Chinese New Year (Spring Festival) and Vietnamese Tet.
 
-最近では渋滞を避けるために連休の前日深夜に出発したり、連休をずらして帰省する家庭も増えています。
+> **For context:** While Korea does observe January 1st (called "Sinjeong"), it's just a single-day holiday with minimal fanfare. The real celebration -- the equivalent of Christmas and Thanksgiving rolled into one -- is Seollal.
 
 ---
 
-## ソルラル当日の過ごし方
+## The Great Migration: Korea's Holiday Traffic
 
-ソルラルの朝は、韓国の家庭ならではの伝統的な流れがあります。ここでは一般的な一日の過ごし方をご紹介します。
+As the Seollal break approaches, the entire country experiences a **massive homecoming rush.**
 
-### ① 新しい服に着替える「ソルビム（설빔）」
+Millions of people who live and work in Seoul and the capital region all head to their hometowns at once. Highways that normally take 3-4 hours become 8-hour odysseys. KTX (Korea's bullet train) and bus tickets sell out the moment they go on sale.
 
-ソルラルの朝、家族みんなが**新しい服**に着替えます。これを「ソルビム」と呼びます。
+Americans might compare it to Thanksgiving travel -- but imagine if nearly the entire country was trying to travel on the same three days. The scale is staggering.
 
-昔は韓服（ハンボク／한복）を着ていましたが、今では新しい洋服やきれいめの服を着る家庭がほとんど。「新年を清々しい気持ちで迎えよう」という意味が込められています。
+To avoid the worst of the traffic, some families now leave in the middle of the night before the holiday or shift their travel to off-peak times.
 
-子どもたちにとっては、ソルラルのために買ってもらった新しい服を着られるのも楽しみのひとつです。
+---
 
-### ② ご先祖様への感謝「茶礼（チャレ／차례）」
+## How Seollal Day Unfolds
 
-家族が揃ったら、まず行うのが**茶礼（チャレ）**と呼ばれるご先祖様への祭祀です。
+The morning of Seollal follows a traditional sequence that has been passed down through generations. Here's what a typical day looks like.
 
-テーブルの上に、果物・ナムル・ジョン（チヂミのような焼き物）・お餅・お酒などを**決まった配置**で並べ、ご先祖様に感謝と新年の挨拶を捧げます。
+### 1. New Clothes: "Seolbim"
 
-この配置にはルールがあり、例えば：
-- **「魚東肉西（어동육서）」**：魚は東側、肉は西側に置く
-- **「紅東白西（홍동백서）」**：赤い果物は東、白い果物は西に置く
+On Seollal morning, the whole family puts on **new clothes** -- a tradition called "seolbim."
 
-地域や家庭によって細かいルールが異なるため、嫁いだばかりのお嫁さんが戸惑うことも…。韓国のお正月あるあるです。
+In the old days, everyone would wear hanbok (traditional Korean attire). Nowadays, most families just wear something new and presentable. The idea is to welcome the new year feeling fresh and clean.
 
-> **日本との違い：** 日本のお正月には初詣で神社やお寺に行きますが、韓国では家庭内でご先祖様に手を合わせるのが中心。「家」が祈りの場になるのが特徴的です。
+For kids, it's a simple pleasure: getting to wear the new outfit that was bought just for the occasion.
 
-### ③ 新年の挨拶「セベ（세배）」とお年玉「セベットン（세뱃돈）」
+### 2. Ancestral Rites: "Charye"
 
-茶礼が終わると、いよいよ子どもたちが一番楽しみにしている**セベ（세배）**の時間です。
+Once the family gathers, the first order of business is **charye** -- a formal ritual honoring ancestors.
 
-セベとは、韓国式の**深いお辞儀（큰절／クンジョル）**のこと。子どもや若い世代が、両親・祖父母・親戚の年長者に対してひざまずいて深々とお辞儀をし、
+An elaborate spread of food is arranged on a table according to specific rules: fruits, seasoned vegetables (namul), jeon (pan-fried savory pancakes), rice cakes, and rice wine, all placed in a prescribed layout. For example:
 
-> **「새해 복 많이 받으세요（セヘ ボン マニ パドゥセヨ）」**
-> （新年にたくさんの福をお受けください）
+- **"Eo-dong yuk-seo"** -- Fish goes on the east side, meat on the west
+- **"Hong-dong baek-seo"** -- Red fruits go east, white fruits go west
 
-と挨拶します。
+These rules vary by region and family, which can be daunting for newlyweds figuring out their in-laws' specific traditions -- a classic Seollal challenge.
 
-お辞儀を受けた年長者は、「今年も健康でね」「勉強がんばってね」といった**温かい言葉（徳談／トクダム）**をかけてくれます。
+> **Cultural note:** While many Western holidays involve going to a church or public gathering, Seollal's spiritual element is centered in the home. The family table becomes the place of reverence.
 
-そして子どもたちへのご褒美が**セベットン（세뱃돈）**、つまり**お年玉**です！
+### 3. The Deep Bow: "Sebae" and New Year's Money: "Sebaetdon"
 
-日本のお年玉と同じく現金を渡す文化ですが、いくつか違いがあります：
+After charye comes the moment kids look forward to most: **sebae**.
 
-| | 韓国（セベットン） | 日本（お年玉） |
+Sebae is a deep, formal bow -- children and younger family members kneel and bow deeply to their parents, grandparents, and elder relatives, saying:
+
+> **"Saehae bok mani badeuseyo"**
+> (May you receive many blessings in the new year)
+
+The elders respond with warm words of encouragement: "Stay healthy," "Study hard," "Have a great year."
+
+Then comes the reward: **sebaetdon** -- New Year's money!
+
+Like the tradition of red envelopes during Chinese New Year or gifts during Christmas, sebaetdon is cash given to younger family members. Here's how it works:
+
+| | Korea (Sebaetdon) |
+|---|---|
+| Packaging | White envelopes or gift envelopes |
+| Timing | Immediately after performing sebae |
+| Typical amount (elementary school) | 10,000-50,000 won (~$7-35 USD) |
+| Requirement | You must bow first -- no bow, no money! |
+
+Kids with large extended families can walk away with a significant haul. In a sign of the times, some families now send sebaetdon digitally via bank transfer or KakaoPay (Korea's mobile payment app).
+
+---
+
+## The Essential Seollal Foods
+
+### Tteokguk -- Korea's New Year Soup
+
+The signature dish of Seollal is **tteokguk** -- a soup made with thinly sliced oval rice cakes simmered in a clear beef bone broth.
+
+In Korea, there's a saying: **"You don't age a year until you've eaten your tteokguk."** It's that integral to the holiday. Visually, it might remind you of chicken noodle soup or wonton soup, but the oval-sliced rice cakes and clear, savory broth give it a unique character. It's typically topped with shredded egg and dried seaweed.
+
+The broth is clean and mild -- very approachable for any palate.
+
+### Other Seollal Dishes
+
+Beyond tteokguk, the Seollal table is loaded with delicious food:
+
+- **Japchae** -- Glass noodles stir-fried with vegetables. A celebration staple
+- **Jeon** -- Savory pancakes made with vegetables, seafood, and egg batter. Think small, flat fritters
+- **Galbi-jjim** -- Braised short ribs. Every family has their own secret recipe for this show-stopper
+- **Sujeonggwa** -- A sweet, cinnamon-ginger punch served as a traditional after-meal drink
+
+Preparation starts days in advance, with the whole family pitching in. The jeon requires so much frying that many Koreans say "when you smell jeon frying, you know Seollal is here."
+
+---
+
+## Traditional Games the Whole Family Plays
+
+Once everyone is full, it's time for traditional games.
+
+### Yutnori -- Korea's Team Board Game
+
+Four wooden sticks are thrown, and players advance tokens on a board based on how the sticks land. It's a **team-based strategy game** -- simple rules, but surprisingly competitive. When extended family gathers for Seollal, teams form up and sometimes even put money on the line. The shouting and laughter make it a true Seollal tradition.
+
+### Neolttwigi -- Seesaw Jumping
+
+Two people stand on opposite ends of a long board and take turns jumping, launching each other into the air. Traditionally a women's game.
+
+### Yeon Nalligi -- Kite Flying
+
+Flying kites is a traditional Seollal pastime. Korean kites have a distinctive shield-shaped design called "bangpaeyeon" that's quite different from the diamond kites common in the West.
+
+---
+
+## Modern Seollal -- How Traditions Are Evolving
+
+While Korea deeply values its traditions, the way people celebrate Seollal has been changing with the times.
+
+**Simplified charye:** The elaborate ancestral rites that once required dozens of dishes are being scaled back. More families are ordering pre-made "charye sets" from department stores or online, reflecting the realities of dual-income households.
+
+**Travel instead of homecoming:** Some families now use the long holiday for international vacations. Korea's airports get noticeably busier with outbound travelers during Seollal.
+
+**Video call sebae:** Performing sebae over video call to distant relatives has become commonplace, a practice that took root during the COVID pandemic and stuck around.
+
+**"Holiday syndrome" (myeongjeol jeunghugun):** The stress of cooking, cleaning, and navigating family dynamics during Seollal has a name -- "holiday syndrome." It disproportionately affects women, and there's a growing movement to share responsibilities more equitably.
+
+---
+
+## Seollal Phrases to Know
+
+If you have Korean friends or acquaintances, sending one of these messages around Seollal will definitely make them smile:
+
+| Korean | Romanization | Meaning |
 |---|---|---|
-| 渡し方 | 白い封筒やご祝儀袋 | ポチ袋 |
-| タイミング | セベ（お辞儀）の直後 | お正月に会ったとき |
-| 相場（小学生） | 1万〜5万ウォン（約1,000〜5,000円） | 3,000〜5,000円 |
-| セベの有無 | 必須（お辞儀しないともらえない！） | 特に決まりなし |
+| 새해 복 많이 받으세요 | Saehae bok mani badeuseyo | May you receive many new year blessings |
+| 즐거운 설날 보내세요 | Jeulgeoun Seollal bonaeseyo | Have a happy Seollal |
+| 건강하세요 | Geonganghaseyo | Stay healthy |
+| 올해도 잘 부탁합니다 | Olhaedo jal butakamnida | Looking forward to another great year together |
 
-親戚が多い子どもは、ソルラルだけでかなりの金額を手にすることも。最近ではキャッシュレス化が進み、**銀行振込やカカオペイ（韓国のスマホ決済）でセベットンを送る**家庭も増えています。時代ですね。
-
----
-
-## ソルラルに欠かせない料理
-
-### トックク（떡국）— 韓国のお雑煮
-
-ソルラルの代表料理といえば**トックク（떡국）**。薄く切ったお餅（カレトック）を牛骨や牛肉のスープで煮込んだ料理です。
-
-韓国では**「トッククを食べてはじめて歳をひとつとる」**と言われており、まさにお正月に欠かせない一品。見た目は日本のお雑煮に似ていますが、お餅の形が丸ではなく**楕円形のスライス**なのが特徴です。
-
-スープはあっさりとした透明な味わいで、日本人の口にもとても合います。海苔や卵の錦糸をトッピングして食べるのが定番です。
-
-> **日本との違い：** 日本のお雑煮は地域によって味噌ベース・すまし汁・丸餅・角餅…とバリエーションが豊富ですが、韓国のトッククは全国的にほぼ同じスタイル。牛骨ベースのスープに楕円形のお餅、というのがスタンダードです。
-
-### その他のソルラル料理
-
-トッククのほかにも、ソルラルの食卓には美味しいものがたくさん並びます：
-
-- **チャプチェ（잡채）**：春雨と野菜の炒め物。お祝いの席に欠かせない定番料理
-- **ジョン（전）**：野菜や海鮮に卵をつけて焼いたもの。チヂミの小さい版のようなイメージ
-- **カルビチム（갈비찜）**：骨付きカルビの煮込み。各家庭に秘伝のレシピがある贅沢メニュー
-- **スジョングァ（수정과）**：シナモンと生姜の甘い伝統飲料。食後のデザートとして
-
-ソルラルの準備は数日前から始まり、家族総出で料理を作ります。特にジョンは大量に焼くため、「ジョンの匂いがするとソルラルが来たなと感じる」という韓国人は多いです。
+"Saehae bok mani badeuseyo" is the classic Seollal greeting -- the one everyone uses. It's worth memorizing.
 
 ---
 
-## 家族みんなで楽しむ伝統遊び
+## Summary
 
-お腹がいっぱいになったら、家族で伝統的な遊びを楽しみます。
+Seollal is more than just a holiday -- it's a time for **reaffirming family bonds and expressing gratitude to ancestors.**
 
-### ユンノリ（윷놀이）— 韓国版すごろく
+It shares some surface-level similarities with other New Year celebrations around the world (gift-giving, special food, family gatherings), but traditions like sebae and charye are **distinctly Korean** and offer a fascinating window into the culture.
 
-4本の木の棒を投げて、出た目に応じて駒を進める**チーム対抗のボードゲーム**です。ルールはシンプルですが、戦略性があって大人も本気で盛り上がります。
+The way Seollal is celebrated is gradually modernizing, but the core -- "the family comes together and shares a meal" -- hasn't changed.
 
-親戚が集まるソルラルでは、チームに分かれて賞金をかけて対戦することも。笑い声と悲鳴が飛び交う、ソルラルの風物詩です。
-
-### ノルティギ（널뛰기）— 板跳ね遊び
-
-シーソーのような長い板の両端に1人ずつ立ち、交互に跳ねる遊びです。伝統的には女性が楽しむ遊びとされていました。
-
-### ヨンナルリギ（연날리기）— 凧揚げ
-
-日本のお正月と同じく、韓国でも凧揚げは伝統的な正月遊びのひとつ。韓国の凧は「パンペヨン（방패연）」という盾の形をした独特のデザインが特徴的です。
-
----
-
-## 最近のソルラル事情 — 変わりゆく伝統
-
-伝統を大切にする韓国ですが、ソルラルの過ごし方も時代とともに変化しています。
-
-**簡素化する茶礼：** 以前は何十種類もの料理を準備していた茶礼ですが、最近は品数を減らしたり、デパートやオンラインで「茶礼セット」を注文する家庭が増えています。共働き世帯が増えたことも背景にあります。
-
-**海外旅行に行く家庭も：** 連休を利用して家族で海外旅行に出かけるケースも。日本は近くて人気の旅行先で、ソルラル時期に日本の空港で韓国語をよく聞くのはこのためです。
-
-**スマホでセベ：** 遠方に住む親戚にはビデオ通話でセベをする「非対面セベ」も一般的に。コロナ禍をきっかけに定着しました。
-
-**名節症候群（명절증후군）：** ソルラルの準備や親戚付き合いのストレスから体調を崩す「名節症候群」という言葉もあります。特に料理の準備を担う女性の負担が問題視され、「みんなで分担しよう」という意識が広がっています。
-
----
-
-## ソルラルでよく使う韓国語フレーズ
-
-韓国の友人や知人がいる方は、ソルラルの時期にこんなメッセージを送ると喜ばれます：
-
-| 韓国語 | 読み方 | 意味 |
-|---|---|---|
-| 새해 복 많이 받으세요 | セヘ ボン マニ パドゥセヨ | 新年にたくさんの福をお受けください |
-| 즐거운 설날 보내세요 | チュルゴウン ソルラル ポネセヨ | 楽しいソルラルをお過ごしください |
-| 건강하세요 | コンガンハセヨ | お元気で |
-| 올해도 잘 부탁합니다 | オレド チャル プタカムニダ | 今年もよろしくお願いします |
-
-特に「새해 복 많이 받으세요」は、ソルラルの挨拶の定番中の定番。覚えておいて損はありません。
-
----
-
-## まとめ
-
-韓国のソルラルは、単なる休日ではなく、**家族の絆を確認し、ご先祖様への感謝を伝える大切な行事**です。
-
-日本のお正月と共通する部分（お年玉、お雑煮、凧揚げなど）もありながら、セベや茶礼など**韓国ならではの文化**が色濃く残っているのが魅力的です。
-
-時代とともに過ごし方は少しずつ変わっていますが、「家族が集まって一緒にご飯を食べる」という根本は今も変わりません。
-
-韓国の友人や同僚がソルラルの時期にお休みをとっていたら、ぜひ「새해 복 많이 받으세요！」と声をかけてみてください。きっと笑顔が返ってくるはずです。
+If you have Korean friends or colleagues who take time off around Seollal, try greeting them with "saehae bok mani badeuseyo!" You're sure to get a warm smile in return.

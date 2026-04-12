@@ -1,97 +1,97 @@
 ---
-title: "韓国サラリーマンパパのリアルな一日 — 育児と仕事、その間のコーヒー一杯の余裕"
+title: "A Real Day in the Life of a Korean Working Dad — Juggling Kids and Career, One Coffee at a Time"
 date: "2026-02-11"
 category: "daily"
-description: "韓国で暮らすサラリーマンパパのリアルな一日を綴りました。朝の育児戦争から、育児時間制度を使った出勤、退勤後の第二の戦争、そしてコーヒー一杯の余裕まで。"
+description: "A day in the life of a Korean office worker dad — from the morning chaos of getting kids ready, to using Korea's childcare work hours, to the 'second shift' after coming home, and that precious cup of coffee in between."
 thumbnail: "/images/posts/korean-salaryman-papa-real-day.jpg"
 tags:
-  - 育児
-  - サラリーマン
-  - 韓国パパ
-  - 日常
-  - ワークライフバランス
+  - parenting
+  - office life
+  - Korean dad
+  - daily life
+  - work-life balance
 ---
 
-![韓国サラリーマンパパのリアルな一日](/images/posts/korean-salaryman-papa-real-day.jpg)
+![A real day in the life of a Korean working dad](/images/posts/korean-salaryman-papa-real-day.jpg)
 
-朝6時30分。アラームが鳴ります。いや、アラームより先に子どもに起こされます。韓国で暮らすサラリーマンパパのリアルな一日を綴ります。
-
----
-
-## パパの朝は戦争です
-
-朝6時30分。アラームが鳴ります。いや、アラームより先に子どもに起こされます。
-
-「パパ、お水ちょうだい。」
-
-目をこすりながら起き上がって水を渡し、ここから朝の戦争がスタートです。
-
-子どもたちをお風呂に入れるのは毎日のことなのに、毎日新しいドラマが生まれるんですよね。上の子は「自分でできる！」と言いながら石鹸を使わないし、下の子は水遊びモードに突入して、洗面所の床がプールになっちゃいます。やっと洗い終わったと思ったら、今度は朝ごはんの戦いです。
-
-「これイヤ。あっちが食べたい。」
-
-韓国のパパたちなら全員うなずくと思います。一生懸命用意したごはんを前に、子どもがスプーンを持つまでの長い長い交渉タイム。結局なんとかごはんを食べさせて、着替えさせて、カバンを持たせて、幼稚園に送り届けます。
-
-幼稚園の前で「パパ、バイバイ〜！」と手を振る子どもたちの後ろ姿を見ると、戦争のような朝の時間が一瞬で温かい記憶に変わります。そして束の間の解放感を味わいます。
+6:30 AM. The alarm goes off. Actually, the kids wake me up before the alarm does. Here's what a real day looks like for a working dad in Korea.
 
 ---
 
-## 育児時間制度を使った遅めの出勤
+## Morning Is a Battlefield
 
-韓国には「育児時間」という制度があって、小さい子どもがいる社員は勤務時間を短縮できるんです。おかげで朝は子どもたちを幼稚園に送ってから出勤できます。出勤時間は10時。
+6:30 AM. The alarm goes off. No wait — the kids beat it to the punch.
 
-幼稚園の送りを終えて家に戻ると、一日の中で一番静かな時間がやってきます。コーヒーを一杯淹れて、ちょっと座って息をつきます。このたった10分が、一日を乗り切るための充電タイムなんです。温かいコーヒーを一口飲みながら、「今日もやるぞ」と自分に言い聞かせます。
+"Daddy, water please."
 
-そして10時、出勤。
+I drag myself out of bed, hand over the water, and the morning battle begins.
 
----
+Bathing the kids is a daily routine, yet somehow every day brings new drama. The older one insists "I can do it myself!" but skips the soap entirely. The younger one shifts into full splash-zone mode and turns the bathroom floor into a swimming pool. Once they're finally clean, the breakfast negotiations begin.
 
-## 午後6時まで、集中して仕事
+"I don't want this. I want that instead."
 
-会社に着いたら、休む暇なく仕事に取りかかります。遅めに出勤している分、勤務時間中は最大限集中しないといけません。
+Every Korean dad is nodding right now. You prepare breakfast with care, set it on the table, and then comes the long, drawn-out negotiation before the kids even pick up a spoon. Somehow you get them fed, dressed, bags packed, and off to kindergarten.
 
-お昼休みは韓国のサラリーマンにとっての小さな楽しみです。同僚と一緒に近くの食堂でごはんを食べて、コーヒーを飲みながらちょっとおしゃべり。この短いコーヒータイムが午後の仕事へのエネルギーチャージになります。
-
-そうやってバタバタ仕事をしていると、あっという間に5時半。そろそろ帰る準備を始めます。なぜなら、6時には必ず会社を出ないといけないからです。子どもたちが待っていますからね。
+At the kindergarten gate, watching them wave "Bye bye, Daddy!" and run inside — all the chaos of the morning transforms into a warm memory in an instant. And then comes a brief moment of freedom.
 
 ---
 
-## 退勤後、第二の戦争が始まる
+## A Later Start Thanks to Childcare Hours
 
-6時に退勤したら、急いで子どもたちを幼稚園に迎えに行きます。幼稚園の門から走ってくる子どもたちを見ると、一日の疲れが一瞬吹き飛びます。
+Korea has a **"childcare hours" (육아시간) system** that allows employees with young children to reduce their work hours. Thanks to this, I can drop the kids off at kindergarten before heading to the office. My start time is 10 AM.
 
-「パパ！今日幼稚園でこれ作ったの！」
+After the kindergarten drop-off, I come home to the quietest part of my entire day. I make a cup of coffee, sit down, and just breathe for a moment. These 10 minutes are my recharge time — the fuel that gets me through the rest of the day. One sip of warm coffee, a deep breath, and I tell myself: "Let's do this."
 
-子どもたちの話を聞きながら家に向かいます。でも、家に着いたら本当の第二の戦争が始まるんです。
-
-晩ごはんを食べさせて、お風呂に入れて、子どもたちとの時間。韓国のパパたちの間では「退勤後が本当の勤務」という言葉があるんですが、本当にその通りです。
-
-ごはんを食べさせて、お風呂に入れて、絵本を読んで、遊んであげて、寝かしつける。文字にすると一行ですが、これがスムーズにいく日はほとんどありません。絵本を読んでほしいと言ったのに急にブロック遊びをしたいと言い出すし、歯磨きしようと言えば逃げ回るし、「寝ようね」と言えば「もう一回だけ！」の連続です。
-
-それでも、子どもが腕の中でスーッと眠りに落ちる瞬間、「今日も一日がんばった」という達成感がこみ上げてきます。
+Then at 10, off to work.
 
 ---
 
-## 子どもが寝た後、自分だけの時間
+## Focused Work Until 6 PM
 
-夜9時ごろ、子どもたちがやっと寝ます。ここからが本当の自分の時間です。
+Once I'm at the office, there's no time to waste. Starting later means I need to make every minute count during working hours.
 
-疲れていますが、この時間だけは諦められません。もう一杯コーヒーを淹れて（今日3杯目）、自己研鑽の時間をスタートします。
+Lunch is a small highlight in any Korean office worker's day. Heading to a nearby restaurant with colleagues, grabbing a quick meal, then a coffee and some casual conversation. That short coffee break is the energy boost that powers the afternoon.
 
-ブログの記事を書いたり、新しい技術を勉強したり、個人プロジェクトを進めたり。この時間があるからこそ、毎日がただの繰り返しではなく、少しずつ前に進んでいる実感が持てるんです。
-
-もちろん、疲れすぎてソファに横になったままYouTubeを観て、そのまま寝落ちしちゃう日もあります。それでもいいんです。パパだって人間ですから。
+Before I know it, it's 5:30 and time to start wrapping up. I need to be out the door by 6 — no exceptions. The kids are waiting.
 
 ---
 
-## まとめ
+## After Work, the Second Shift Begins
 
-振り返ってみると、毎日が一瞬で過ぎていきます。朝目を覚ましたら、あっという間に夜になっている。「今日何したっけ？」と思うくらい時間が早いです。
+I leave the office at 6 and rush to pick up the kids from kindergarten. Seeing them run toward me from the school gate, the day's fatigue evaporates for a moment.
 
-でも、その忙しい一日の中で見つける小さな余裕たち——登園後のコーヒー一杯、お昼休みの同僚とのおしゃべり、子どもが寝た後の静かな夜——こういう瞬間が積み重なって、一日を乗り越える力になっています。
+"Daddy! Look what I made at school today!"
 
-韓国にはこんな似たような日々を過ごしているパパたちがたくさんいると思います。育児と仕事のバランスを取ろうとがんばって、そのすき間で自分だけの時間を作り出そうと努力しているパパたち。
+I listen to their stories as we head home. But once we're through the front door, the real second shift begins.
 
-今日もお疲れさまでした、パパたち。
+There's a saying among Korean dads: **"The real work starts after you clock out."** It's completely true.
 
-明日もファイト。
+Dinner, bath time, quality time with the kids. Written out, it's one sentence. In reality, it almost never goes smoothly. They ask for a picture book, then suddenly want to play with blocks instead. You say "let's brush teeth" and they bolt. You say "time for bed" and get an endless chorus of "just one more time!"
+
+But when they finally drift off to sleep in your arms, a quiet sense of accomplishment washes over you. "Made it through another day."
+
+---
+
+## After the Kids Are Asleep — My Own Time
+
+Around 9 PM, the kids are finally out. This is where my real personal time begins.
+
+I'm exhausted, but I refuse to give up this time. I brew another cup of coffee (that's three for the day) and start my self-improvement hour.
+
+Writing blog posts, studying new tech, working on a personal project. Having this time is what keeps each day from feeling like pure repetition — it gives me the sense that I'm moving forward, even if slowly.
+
+Of course, some nights I collapse on the couch, open YouTube, and fall asleep right there. And that's okay too. Dads are human.
+
+---
+
+## Looking Back
+
+When I reflect on it, every day flies by in a blur. I open my eyes in the morning and suddenly it's night. "What did I even do today?" — that's how fast time moves.
+
+But within those hectic days, I find small pockets of peace: the coffee after drop-off, the lunchtime chat with colleagues, the quiet night after the kids are asleep. These tiny moments stack up and become the fuel that gets me through each day.
+
+I know there are countless dads across Korea living similar days. Trying their best to balance parenting and work, carving out slivers of personal time in whatever gaps they can find.
+
+To all the working dads out there — great job today.
+
+Let's do it again tomorrow.

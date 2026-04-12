@@ -1,129 +1,125 @@
 ---
-title: "韓国のお金（ウォン, ₩）完全ガイド ― 韓国旅行前に知っておきたい通貨の基礎知識"
+title: "A Complete Guide to Korean Money (Won, ₩) -- What You Need to Know Before Your Trip"
 date: "2026-02-17"
 category: "korea-culture"
-description: "韓国ウォンの基本から物価感覚、両替のコツまで。韓国在住パパが、日本人旅行者のために韓国のお金事情をわかりやすく解説します。"
+description: "Everything about Korean won -- from the basics of bills and coins to real-world price sense and currency exchange tips. A practical guide from a dad living in Seoul."
 thumbnail: "/images/posts/korea-money-won-guide.jpg"
 tags:
-  - 韓国文化
-  - 韓国旅行
-  - 韓国ウォン
-  - 両替
-  - 韓国の物価
-  - 旅行準備
+  - Korean Culture
+  - Korea Travel
+  - Korean Won
+  - Currency Exchange
+  - Cost of Living
+  - Trip Planning
 ---
 
-![韓国のお金完全ガイド](/images/posts/korea-money-won-guide.jpg)
+![A complete guide to Korean money](/images/posts/korea-money-won-guide.jpg)
 
-こんにちは、hitechpapaです。
+Hi, I'm hitechpapa.
 
-韓国旅行を準備する日本の方が最初にぶつかる壁の一つが、「お金」ではないでしょうか。韓国の通貨単位は**ウォン（원, ₩）**ですが、日本円とは桁数がまったく違うため、最初は戸惑いがちです。「1万ウォンっていくら？」「5万ウォンって高いの？」――こうした疑問を旅行前に解消しておけば、現地でのお買い物や食事がぐっと楽になります。
+One of the first hurdles when planning a trip to Korea is figuring out the money. Korea's currency is the **won (won, ₩)**, and the denominations look very different from US dollars -- the numbers are much bigger, which can be confusing at first. "How much is 10,000 won?" "Is 50,000 won a lot?" -- getting these questions sorted before you go will make shopping and dining much smoother once you arrive.
 
-今回は、韓国に実際に住んでいる僕の視点から、韓国のお金の基本から感覚的な価値まで整理してみます。
-
----
-
-## 韓国の通貨の基本 ― 硬貨と紙幣
-
-韓国の通貨単位は**ウォン（₩）**です。現在流通している硬貨と紙幣は以下のとおりです。
-
-**硬貨**：10ウォン、50ウォン、100ウォン、500ウォン
-
-**紙幣**：1,000ウォン、5,000ウォン、10,000ウォン、50,000ウォン
-
-日本には1円玉や5円玉がありますが、韓国では10ウォン未満の硬貨はほとんど使われていません。1ウォン硬貨や5ウォン硬貨も存在はしますが、日常で見かけることはまずありません。実質的に一番小さい単位は**10ウォン**だと思ってください。
-
-そして最も大きい紙幣は**50,000ウォン札**です。日本の10,000円札に近い感覚の高額紙幣で、2009年に発行が始まった比較的新しいお札です。表面には朝鮮時代の女性芸術家、申師任堂（シン・サイムダン）が描かれています。
+Today, I'll break down Korean money from the basics to practical price sense, based on my own experience living here.
 
 ---
 
-## 日本円との為替レート ― ポイントは「だいたい10倍」
+## Korean Currency Basics -- Coins and Bills
 
-韓国ウォンと日本円の為替レートを理解するための最も簡単な方法がこちらです。
+Korea's currency unit is the **won (₩)**. Here's what's currently in circulation:
 
-**100ウォン ≈ 約10円**
+**Coins:** 10 won, 50 won, 100 won, 500 won
 
-つまり、韓国ウォンの金額から**ゼロを1つ取る**と、だいたいの日本円の金額になります。
+**Bills:** 1,000 won, 5,000 won, 10,000 won, 50,000 won
 
-これを覚えておくだけで、計算がとても楽になります。
+There are technically 1-won and 5-won coins, but they've virtually disappeared from everyday use. For all practical purposes, the smallest unit is **10 won**.
 
-- 1,000ウォン → 約100円
-- 5,000ウォン → 約500円
-- 10,000ウォン（만원/マノン） → 約1,000円
-- 50,000ウォン（오만원/オマノン） → 約5,000円
-
-もちろん為替レートは毎日変動するので正確な金額は変わりますが、**「ゼロを1つ取る」**という法則を覚えておけば、現地で大まかな金額感覚をつかむのに十分です。
+The largest bill is the **50,000-won note**. It's roughly equivalent in role to a $50 bill and was first issued in 2009, making it relatively new. It features Shin Saimdang, a renowned female artist from the Joseon Dynasty.
 
 ---
 
-## 韓国での物価感覚 ― このお金で何ができる？
+## Exchange Rate -- The Quick Mental Math
 
-数字だけではピンとこないかもしれないので、実際の韓国の物価を紹介します。
+The simplest way to convert Korean won to US dollars in your head:
 
-**1,000ウォン（約100円）でできること**
-- コンビニでお水1本
-- 公共交通の基本料金（バス・地下鉄は1,400ウォンほど）
-- 自動販売機のコーヒー1杯
+**1,000 won ≈ roughly $0.70 USD** (this fluctuates, but it's a handy ballpark)
 
-**5,000ウォン（約500円）でできること**
-- キンパ（韓国風海苔巻き）1本 ＋ ドリンク
-- コンビニ弁当1つ
-- トッポッキ1人前
+An even easier rule of thumb: **divide by 1,400** for a rough dollar amount, or just remember these benchmarks:
 
-**10,000ウォン（約1,000円）でできること**
-- 一般的な食堂で1食（キムチチゲ、テンジャンチゲ、ビビンバなど）
-- カフェでアメリカーノ2杯
-- タクシーの初乗り ＋ 短距離移動
+- 1,000 won → ~$0.70
+- 5,000 won → ~$3.50
+- 10,000 won (manwon) → ~$7
+- 50,000 won (omanwon) → ~$35
 
-**50,000ウォン（約5,000円）でできること**
-- サムギョプサル2人前 ＋ ドリンク
-- 韓定食（コース料理）1人分
-- KTX（高速鉄道）ソウル↔テジョン片道チケットくらい
-
-こう見ると、韓国の一般的な食堂での1食が約1,000円前後という感覚がつかめると思います。日本と比べると同じくらいか、やや安いといった印象ですが、ここ数年で韓国の物価もかなり上がりました。
+Exchange rates change daily, of course, but keeping these rough conversions in mind will help you quickly gauge prices on the ground.
 
 ---
 
-## 硬貨と紙幣、これだけ覚えておけばOK
+## What Things Actually Cost in Korea
 
-日本の旅行者が韓国のお金で混乱しやすいポイントを整理します。
+Numbers alone don't tell the full story, so here's what different amounts of won actually buy:
 
-**500ウォン硬貨にご注意！**
-韓国の500ウォン硬貨は、日本の500円玉とサイズがよく似ています。かつてはこの類似性を悪用した自動販売機の不正使用が問題になったほどです。しかし、価値はまったく違います。韓国の500ウォン ≈ 日本の約50円程度の価値です。混同しないように気をつけてください。
+**1,000 won (~$0.70) gets you:**
+- A bottle of water at a convenience store
+- Close to a basic public transit fare (subway/bus is about 1,400 won)
+- A cup of vending machine coffee
 
-**紙幣は色で見分ける**
-韓国の紙幣はすべて色が異なるので、簡単に見分けられます。
-- 1,000ウォン → 青色
-- 5,000ウォン → オレンジ／茶色
-- 10,000ウォン → 緑色
-- 50,000ウォン → 黄色
+**5,000 won (~$3.50) gets you:**
+- A roll of kimbap (Korean rice roll) plus a drink
+- A convenience store lunch box
+- A serving of tteokbokki (spicy rice cakes)
 
-最初は桁数が多くて混乱しますが、色を覚えておけばお財布からサッと取り出せます。
+**10,000 won (~$7) gets you:**
+- A full meal at an everyday restaurant (kimchi stew, soybean paste stew, bibimbap, etc.)
+- Two Americanos at a cafe
+- A short taxi ride
 
----
+**50,000 won (~$35) gets you:**
+- Samgyeopsal (Korean BBQ pork belly) for two plus drinks
+- A Korean set meal (hanjeongsik) for one
+- A one-way KTX (bullet train) ticket from Seoul to Daejeon
 
-## 実は現金がほとんどいらない国
-
-ここまで韓国のお金について説明しましたが、正直に言うと、韓国は**現金がほとんど必要ない国**です。
-
-韓国は世界でも指折りのキャッシュレス社会です。コンビニ、カフェ、食堂、タクシー、さらには屋台まで、カード決済ができるところがほとんどです。韓国人の中には、お財布に現金をまったく入れていない人も珍しくありません。
-
-日本からの旅行者であれば、**VISAやMastercardなどの海外クレジットカード**を持ってくれば、ほとんどの場所で決済できます。ただし、伝統市場や一部の小さなお店では現金のみという場合もあるので、**30,000～50,000ウォン程度の現金**は念のため用意しておくのがおすすめです。
-
-両替はインチョン空港よりも、ソウル市内の両替所（特にミョンドンやホンデ周辺）の方がレートが良い傾向にあります。また、WOWPASSのような外国人向けプリペイドカードを事前に調べておくのも良い方法です。
+So a typical restaurant meal runs about $7-10, which is comparable to or slightly cheaper than similar meals in the US, though Korean prices have risen noticeably in recent years.
 
 ---
 
-## さいごに
+## Bills and Coins -- Quick Tips
 
-まとめると、韓国のお金を理解するためのポイントは3つです。
+A few things that often trip up visitors:
 
-1つ目は、**「ゼロを1つ取る」法則**。韓国ウォンからゼロを1つ取れば、だいたいの日本円の金額になります。
+**Watch out for the 500-won coin.** The Korean 500-won coin is similar in size to the old Japanese 500-yen coin, which led to fraud issues in the past. But in terms of value, 500 won is only about $0.35 -- far less than its size might suggest.
 
-2つ目は、**1万ウォン ≈ 千円**という感覚。これさえ覚えておけば、ほとんどの価格判断ができます。
+**Bills are color-coded for easy identification:**
+- 1,000 won → Blue
+- 5,000 won → Orange/Brown
+- 10,000 won → Green
+- 50,000 won → Yellow
 
-3つ目は、**現金よりカード**。韓国はキャッシュレス大国なので、カード1枚あればほとんど事足ります。
+The large numbers on Korean bills can be overwhelming at first, but once you associate each denomination with its color, pulling out the right bill becomes second nature.
 
-韓国ウォンは桁数が多いので最初は驚くかもしれませんが、一度二度使ってみればすぐに慣れます。この記事が、韓国旅行を準備している方に少しでもお役に立てれば嬉しいです。
+---
 
-次回は、韓国での実践的な決済のコツについても紹介してみたいと思います！
+## You Actually Barely Need Cash
+
+After all that explanation about Korean money, here's the honest truth: **you barely need cash in Korea.**
+
+Korea is one of the most cashless societies in the world. Convenience stores, cafes, restaurants, taxis, and even most street food vendors accept card payments. It's not unusual for Koreans to carry zero cash in their wallets.
+
+As a visitor, a **Visa or Mastercard** will work at the vast majority of places. That said, some traditional markets and very small shops may be cash-only, so it's wise to keep about **30,000-50,000 won (~$20-35)** on hand just in case.
+
+For currency exchange, rates tend to be better at exchange offices in Seoul (especially in Myeongdong and Hongdae) than at Incheon Airport. You might also look into WOWPASS, a prepaid card designed for foreign tourists that includes built-in currency exchange features.
+
+---
+
+## In Summary
+
+Three things to remember about Korean money:
+
+First, use a **quick conversion rule** -- roughly divide won by 1,400 to get US dollars, or just memorize that 10,000 won is about $7.
+
+Second, anchor on **10,000 won ≈ $7**. With that benchmark, you can quickly evaluate most prices.
+
+Third, **bring a card, not cash.** Korea is a cashless powerhouse, and a single credit card will cover almost everything you need.
+
+The big numbers on Korean won can be startling at first, but you'll get comfortable with them after just a purchase or two. I hope this guide helps you feel more prepared for your trip to Korea.
+
+Next time, I'll share some practical tips on making payments while in Korea!

@@ -31,7 +31,7 @@ export default function Header() {
             <Link
               href="/search"
               className="p-2 text-text-secondary hover:text-primary transition-colors"
-              aria-label="検索"
+              aria-label="Search"
             >
               <Search className="w-5 h-5" />
             </Link>
@@ -40,7 +40,7 @@ export default function Header() {
           <button
             className="md:hidden p-2"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
-            aria-label="メニュー"
+            aria-label="Menu"
           >
             {isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
           </button>
@@ -65,7 +65,7 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 <Search className="w-5 h-5" />
-                <span>検索</span>
+                <span>Search</span>
               </Link>
             </div>
           </nav>

@@ -1,87 +1,87 @@
 ---
-title: '韓国人はどんなスマホを使っている？2025年最新データで見る韓国スマートフォン事情'
-date: '2026-01-26'
-category: 'gadget'
-excerpt: '日本ではiPhoneが主流ですが、韓国では？2025年最新データで見る韓国のスマートフォン市場。サムスン72%、アップル24%の背景にある世代間の違いを解説します。'
-tags: ['スマートフォン', 'サムスン', 'iPhone', '韓国', 'ガジェット']
-thumbnail: '/images/posts/korea-smartphone-share.jpg'
+title: "What Smartphones Do Koreans Use? A Look at Korea's 2025 Mobile Market"
+date: "2026-01-26"
+category: "gadget"
+description: "Samsung holds 72% and Apple 24% of Korea's smartphone market. Here's a deep dive into the 2025 data, revealing fascinating generational differences and emerging trends."
+tags: ["Smartphones", "Samsung", "iPhone", "Korea", "Gadgets"]
+thumbnail: "/images/posts/korea-smartphone-share.jpg"
 ---
 
-日本でスマートフォンといえば、iPhoneを思い浮かべる方が多いのではないでしょうか。実際、日本はiPhoneのシェアが非常に高い国として知られています。
+When you think of smartphones, iPhone might be the first thing that comes to mind -- especially if you live in the US or other markets where Apple dominates.
 
-では、韓国はどうでしょうか？
+But what about South Korea?
 
-今日は2025年の最新データをもとに、韓国のスマートフォン市場の現状をご紹介します。
+Today, let's look at the latest 2025 data on Korea's smartphone market.
 
-![韓国スマートフォンシェア2025](/images/posts/korea-smartphone-share.jpg)
-
----
-
-## 韓国スマホシェア：サムスン72%、アップル24%
-
-韓国ギャラップが2025年7月に実施した調査によると、韓国人が使用しているスマートフォンブランドは**サムスン（Galaxy）72%、アップル（iPhone）24%**です。残りの2%はその他のブランドを使用しています。
-
-日本とはかなり違う風景ですよね。
-
-サムスンは2012年の59%から2025年の72%へとシェアが着実に上昇しました。2021年にLGがスマートフォン事業から撤退した後、LGユーザーの多くがサムスンに移行したことで、シェアがさらに高まりました。
+![Korea Smartphone Market Share 2025](/images/posts/korea-smartphone-share.jpg)
 
 ---
 
-## 年齢別に見ると景色が全く違う
+## Korea's Smartphone Share: Samsung 72%, Apple 24%
 
-興味深いのは年齢別の違いです。
+According to a survey conducted by Korea Gallup in July 2025, the smartphone brands used by Koreans break down to **Samsung (Galaxy) at 72% and Apple (iPhone) at 24%**. The remaining 2% use other brands.
 
-| 年代 | サムスン | アップル |
-|------|----------|----------|
-| 20代 | 40% | **60%** |
-| 30代 | 50% | 47%（接戦）|
-| 40代 | **67%** | - |
-| 50代 | **89%** | - |
-| 60代以上 | **92%** | - |
+Quite a different picture from markets like the US, right?
 
-20代ではiPhoneが圧倒的で、30代ではほぼ互角、40代以上ではサムスンが主流です。このような世代間の差は日本でも似たような傾向があるかもしれませんが、韓国ではより顕著な違いが見られます。
+Samsung's share has steadily climbed from 59% in 2012 to 72% in 2025. After LG exited the smartphone business in 2021, many former LG users migrated to Samsung, further boosting its share.
 
 ---
 
-## なぜこのような差が生まれるのか？
+## The Picture Changes Dramatically by Age
 
-いくつかの理由が考えられます。
+The generational breakdown is where things get really interesting.
 
-### 1. サムスンは韓国企業
-特に上の世代では「国産ブランドを使うべき」という意識がまだ残っています。
+| Age Group | Samsung | Apple |
+|-----------|---------|-------|
+| 20s | 40% | **60%** |
+| 30s | 50% | 47% (near tie) |
+| 40s | **67%** | - |
+| 50s | **89%** | - |
+| 60s+ | **92%** | - |
 
-### 2. 若い世代はグローバルトレンドに敏感
-SNS、AirDrop、iMessageなど、iPhone特有のエコシステムが若者文化の中で重要な役割を果たしています。
-
-### 3. 価格帯の問題
-中低価格スマートフォン市場ではサムスンのGalaxy Aシリーズが強く、コスパを重視する層ではサムスンを選ぶ人が多いです。
-
----
-
-## 2025年韓国スマホ市場の変化
-
-カウンターポイントリサーチによると、**2024年第4四半期の韓国スマートフォン市場でアップルが過去最高シェアの39%を記録**しました。これはiPhone 16シリーズの発売と共に、韓国が初回発売国に含まれた影響が大きいです。
-
-また、2025年1月には**シャオミが韓国市場への正式参入**を発表しました。まだシェアは小さいですが、今後中低価格市場でどのような変化があるか注目されます。
+iPhone is overwhelmingly popular among people in their 20s, the 30s age group is essentially a toss-up, and Samsung dominates from the 40s onward. You might see similar generational trends in other countries, but in Korea the divide is particularly stark.
 
 ---
 
-## スマートウォッチとワイヤレスイヤホンは？
+## Why Does This Gap Exist?
 
-ちなみに、スマートウォッチの使用率は**33%**、ワイヤレスイヤホンの使用率は**58%**です。
+Several factors are at play.
 
-面白いのは、iPhoneユーザーの46%がスマートウォッチを使用している一方、サムスンユーザーは31%のみという点です。アップルのエコシステム戦略が効果を発揮しているようです。
+### 1. Samsung Is a Korean Company
+Especially among older generations, there's still a strong sense of supporting domestic brands.
+
+### 2. Younger Generations Follow Global Trends
+Social media culture, AirDrop, iMessage -- the iPhone ecosystem plays an important role in youth culture, making it a social default for many young Koreans.
+
+### 3. Price Points
+Samsung's Galaxy A series is strong in the mid-to-low price range. Budget-conscious consumers tend to gravitate toward Samsung, which offers more options at accessible price points.
 
 ---
 
-## 最後に
+## Shifts in Korea's 2025 Smartphone Market
 
-韓国はサムスンの本拠地らしくGalaxyのシェアが高いですが、若い世代を中心にiPhoneの人気も着実に上昇しています。
+According to Counterpoint Research, **Apple hit a record-high 39% share in Q4 2024** in the Korean market. This was largely driven by the iPhone 16 series launch, with Korea included as a first-wave launch country.
 
-皆さんの国ではどんなスマートフォンが人気ですか？
+Additionally, **Xiaomi announced its official entry into the Korean market** in January 2025. Its share is still small, but it will be worth watching how it shakes up the budget and mid-range segments going forward.
 
 ---
 
-**出典**
-- 韓国ギャラップ「スマートフォン使用現況 2012-2025」（2025年7月）
-- カウンターポイントリサーチ 韓国スマートフォンシェアデータ
+## What About Smartwatches and Wireless Earbuds?
+
+Interestingly, smartwatch adoption in Korea sits at **33%**, while wireless earbud usage is at **58%**.
+
+Here's a fun detail: 46% of iPhone users wear a smartwatch, compared to only 31% of Samsung users. Apple's ecosystem strategy clearly seems to be working.
+
+---
+
+## Final Thoughts
+
+As Samsung's home country, Korea naturally has high Galaxy market share. But iPhone's popularity is steadily rising, particularly among younger generations.
+
+What does the smartphone landscape look like where you live?
+
+---
+
+**Sources**
+- Korea Gallup "Smartphone Usage Survey 2012-2025" (July 2025)
+- Counterpoint Research Korea Smartphone Market Share Data

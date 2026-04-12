@@ -1,122 +1,122 @@
 ---
-title: '韓国の軍隊文化 — 日本にはない「徴兵制」のリアル'
-date: '2026-02-22'
-category: 'korea-culture'
-description: '韓国の兵役制度の仕組みから軍隊生活のリアル、社会への影響まで。日本にはない徴兵制を詳しく解説します。'
-thumbnail: '/images/posts/korea-military-service.jpg'
+title: "Korea's Military Service -- The Reality of Mandatory Conscription"
+date: "2026-02-22"
+category: "korea-culture"
+description: "From how the draft works to what military life is really like and its impact on society -- a detailed look at South Korea's mandatory military service system."
+thumbnail: "/images/posts/korea-military-service.jpg"
 tags:
-  - 韓国文化
-  - 兵役
-  - 徴兵制
-  - 軍隊
+  - Korean Culture
+  - Military Service
+  - Conscription
+  - Korean Military
   - BTS
 ---
 
-![韓国の兵役制度を解説](/images/posts/korea-military-service.jpg)
+![Explaining Korea's military service system](/images/posts/korea-military-service.jpg)
 
-韓国の成人男性にとって、軍隊は避けて通れない道です。日本では1945年以降、徴兵制が廃止されていますが、韓国では今も現役の制度として存在しています。この記事では、韓国の兵役制度の仕組みから、軍隊が韓国社会や文化に与える影響まで、わかりやすくまとめました。
-
----
-
-## 1. 基本制度 — 誰が、いつ、どれくらい？
-
-韓国の男性は満18歳で兵役義務が発生し、通常は19歳〜28歳の間に入隊します。多くの大学生は1〜2年生の間に休学して入隊するパターンが一般的です。
-
-### 服務期間（2025年現在）
-
-| 軍種 | 服務期間 |
-|------|----------|
-| 陸軍・海兵隊 | 18ヶ月 |
-| 海軍 | 20ヶ月 |
-| 空軍 | 21ヶ月 |
-
-以前は陸軍で21ヶ月以上でしたが、段階的に短縮されてきました。それでも約1年半〜2年近くを軍隊で過ごすことになります。
+For Korean men, military service is an unavoidable rite of passage. Unlike the United States and most Western countries, where military service is voluntary, South Korea maintains mandatory conscription to this day. In this article, I'll cover the basics of Korea's draft system, what military life is actually like, and how it shapes Korean society and culture.
 
 ---
 
-## 2. 入隊から除隊まで — 軍隊生活の流れ
+## 1. The Basics -- Who Serves, When, and For How Long?
 
-### 訓練所（훈련소）— 最初の5週間
+All Korean males become eligible for military duty at age 18 and typically enlist between the ages of 19 and 28. Most college students take a leave of absence during their first or second year to serve.
 
-入隊するとまず「訓練所（フンリョンソ）」と呼ばれる基礎軍事訓練を受けます。ここでは体力訓練、射撃訓練、団体行動の基本を叩き込まれます。携帯電話は没収され、外部との連絡は手紙のみ。韓国の若者にとって、この5週間が最も辛い期間だと言われています。
+### Service Periods (as of 2025)
 
-### 自隊配置（자대배치）
+| Branch | Duration |
+|--------|----------|
+| Army / Marine Corps | 18 months |
+| Navy | 20 months |
+| Air Force | 21 months |
 
-訓練所を終えると、各部隊に配属されます。ここからが本格的な軍隊生活の始まりです。歩兵、砲兵、通信兵など、さまざまな役割に分かれて任務につきます。
-
-### 階級制度
-
-韓国軍の兵士の階級は4段階あります。
-
-| 階級 | 韓国語 | 期間の目安 |
-|------|--------|-----------|
-| 二等兵 | 이등병（イドゥンビョン） | 入隊〜約3ヶ月 |
-| 一等兵 | 일등병（イルドゥンビョン） | 〜約7ヶ月 |
-| 上等兵 | 상등병（サンドゥンビョン） | 〜約13ヶ月 |
-| 兵長 | 병장（ビョンジャン） | 〜除隊まで |
-
-二等兵の時期は最も立場が低く、先輩兵士の指示に従う日々が続きます。兵長になると後輩の指導役を担い、除隊が近づく喜びもあって比較的余裕のある生活になります。
+The Army used to require 21+ months, but the duration has been gradually reduced. Still, it amounts to roughly 1.5 to 2 years spent in the military.
 
 ---
 
-## 3. 軍隊生活のリアル
+## 2. From Enlistment to Discharge -- The Flow of Military Life
 
-### 給料
+### Basic Training (Hullyeonso) -- The First 5 Weeks
 
-韓国軍の兵士の月給は長年かなり低い水準でしたが、近年大幅に引き上げられています。2025年現在、兵長の月給は約125万ウォン（約13万円）です。以前は数万円程度だったことを考えると、大きな改善です。
+Upon enlistment, new recruits go through basic military training at a facility called the hullyeonso. This involves physical conditioning, rifle training, and learning the fundamentals of group discipline. Cell phones are confiscated, and the only contact with the outside world is through letters. For young Koreans, these first 5 weeks are widely considered the hardest part.
 
-### 食事
+### Unit Assignment (Jadae Baechi)
 
-軍隊の食事は以前から「まずい」というイメージがありましたが、最近はかなり改善されています。ビュッフェ式の食堂を導入する部隊も増え、メニューの多様化も進んでいます。
+After completing basic training, soldiers are assigned to their units. This is where real military life begins. They're assigned roles as infantry, artillery, communications, and various other specialties.
 
-### 携帯電話の使用
+### The Rank System
 
-2020年頃から、平日の日課後や休日に個人の携帯電話を使用できるようになりました。これは軍隊文化の大きな変化で、家族や友人との連絡が取りやすくなり、兵士たちの精神的な負担軽減にもつながっています。
+Enlisted soldiers progress through four ranks:
 
-### 休暇
+| Rank | Korean | Approximate Timeline |
+|------|--------|---------------------|
+| Private | Ideungbyeong | Enlistment to ~3 months |
+| Private First Class | Ildeungbyeong | ~3 to ~7 months |
+| Corporal | Sangdeungbyeong | ~7 to ~13 months |
+| Sergeant | Byeongjang | ~13 months to discharge |
 
-服務期間中、合計で約25〜30日程度の休暇が与えられます。正月やお盆（추석）などの名節休暇、定期休暇、報償休暇などがあります。除隊が近づくと「전역 휴가（除隊前休暇）」があり、実質的に除隊日より前に帰宅できます。
-
----
-
-## 4. 代替服務と免除
-
-### 代替服務制度
-
-すべての男性が現役軍人として服務するわけではありません。
-
-- **社会服務要員（사회복무요원）**: 健康上の理由で現役判定を受けられなかった場合、公共機関で勤務（約21ヶ月）
-- **産業技能要員**: 特定の産業分野で働きながら兵役義務を果たす
-- **芸術・体育要員**: オリンピックメダリストやアジア大会金メダリストなど、国威を宣揚した選手・芸術家は兵役が軽減される
-
-### BTS と兵役
-
-K-POPグループBTSのメンバーが順番に入隊したことは世界的なニュースになりました。韓国では大スターでも例外なく兵役に就くことが原則であり、これは韓国社会における兵役の重みを象徴しています。
+As a Private, you're at the bottom and spend your days following orders from senior soldiers. As a Sergeant, you take on a mentoring role for junior soldiers, and with discharge approaching, life becomes relatively more relaxed.
 
 ---
 
-## 5. 軍隊が韓国社会に与える影響
+## 3. What Military Life Is Actually Like
 
-### 「共通体験」としての軍隊
+### Pay
 
-韓国の成人男性のほとんどが軍隊を経験しているため、軍隊の話題は世代を超えた共通言語になっています。「どこの部隊だった？」「何年に入隊した？」は初対面の男性同士でよくある会話です。
+Military pay was notoriously low for decades, but it has been raised significantly in recent years. As of 2025, a Sergeant earns about 1.25 million won (~$870 USD) per month. Considering that pay used to be only a few hundred dollars, this is a major improvement.
 
-### 先輩・後輩文化の強化
+### Food
 
-韓国の厳格な上下関係は軍隊で一層強化されます。軍隊での経験が、社会に出た後の職場文化にも影響を与えていると言われています。
+Military food has long carried a reputation for being terrible, but things have improved considerably. Some units have adopted buffet-style dining halls, and menus have become more diverse.
 
-### 男女間の認識の違い
+### Cell Phone Access
 
-兵役義務は男性のみにあるため、これが男女間の議論の種になることもあります。「男性だけが約2年間のキャリアブランクを強いられるのは不公平」という意見は、特に若い世代で強くなっています。
+Starting around 2020, soldiers were allowed to use personal cell phones during off-duty hours on weekdays and on weekends. This was a major cultural shift -- it made staying in touch with family and friends much easier and has helped reduce the psychological burden of service.
 
-### ドラマ・映画での描写
+### Leave
 
-韓国ドラマや映画では、軍隊を題材にした作品が数多くあります。「太陽の末裔」「D.P.—脱走兵追跡官—」などは日本でも人気があり、韓国の軍隊文化を知る入り口になっています。
+During their service, soldiers receive a total of about 25-30 days of leave. This includes holiday leave (Lunar New Year, Chuseok), regular leave, and merit-based leave. Near the end of service, there's a "pre-discharge leave" that effectively lets soldiers go home a few days before their official discharge date.
 
 ---
 
-## まとめ
+## 4. Alternatives and Exemptions
 
-韓国の兵役制度は単なる国防の仕組みではなく、韓国人男性のアイデンティティや社会文化を形作る重要な要素です。日本にはない制度だからこそ、知ることで韓国の社会や人々への理解がより深まるのではないでしょうか。
+### Alternative Service
 
-韓国人の友人や同僚がいる方は、ぜひ軍隊の話を聞いてみてください。きっと興味深い体験談を聞かせてくれるはずです。
+Not every man serves as an active-duty soldier.
+
+- **Social Service Workers (Sahoe Bokmuyowon):** Those who don't pass the physical for active duty serve at public institutions for about 21 months
+- **Industrial Technical Personnel:** Work in designated industries while fulfilling their military obligation
+- **Arts and Sports Personnel:** Olympic medalists and Asian Games gold medalists who have brought honor to the country can receive reduced or exempted service
+
+### BTS and Military Service
+
+The members of BTS enlisting one by one made global headlines. The fact that even Korea's biggest superstars serve without exception underscores just how seriously Korean society takes military service.
+
+---
+
+## 5. How the Military Shapes Korean Society
+
+### A Shared Experience
+
+Since virtually all Korean men have served, the military is a universal conversation starter that transcends generations. "Which unit were you in?" and "What year did you enlist?" are standard getting-to-know-you questions among Korean men.
+
+### Reinforcing Hierarchical Culture
+
+Korea's strict seniority-based social hierarchy is intensified by military experience. The rigid chain of command during service is widely believed to carry over into workplace culture after discharge.
+
+### The Gender Divide
+
+Because only men are required to serve, military service is a source of ongoing debate between genders. The argument that "men are forced to lose roughly two years of their career" has become particularly vocal among younger generations.
+
+### Portrayal in Media
+
+Korean dramas and movies frequently feature military settings. Shows like *Descendants of the Sun* and *D.P.* (about military deserter chasers) have gained international popularity and offer a window into Korean military culture.
+
+---
+
+## Summary
+
+Korea's military service system is more than a national defense mechanism -- it's a foundational element that shapes Korean men's identities and the broader social fabric. Understanding it gives you much deeper insight into Korean society and the people within it.
+
+If you have Korean friends or colleagues, ask them about their military experience sometime. You're almost guaranteed to hear some fascinating stories.

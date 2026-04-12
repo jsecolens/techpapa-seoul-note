@@ -1,122 +1,120 @@
 ---
-title: "私が愛用しているマウスとキーボードを紹介します｜ロジテック製品レビュー"
+title: "My Favorite Mouse and Keyboard: A Logitech Review"
 date: "2026-03-07"
 category: "gadget"
-description: "ロジテックのMX KEYS SキーボードとG102IC有線ゲーミングマウスの使用感を徹底レビュー。有線マウスの軽さや静音キーボードの魅力、デバイス選びのポイントを詳しく紹介します。"
+description: "An in-depth review of the Logitech MX KEYS S keyboard and G102IC wired gaming mouse. From the lightness of a wired mouse to the quiet comfort of a premium keyboard, here's what makes these my daily drivers."
 thumbnail: "/images/posts/logitech-keyboard-mouse-review.jpg"
 tags:
-  - ロジテック
-  - キーボード
-  - マウス
+  - Logitech
+  - Keyboard
+  - Mouse
   - MX KEYS S
   - G102IC
-  - ガジェット
+  - Gadgets
 ---
 
-![私が愛用しているマウスとキーボード](/images/posts/logitech-keyboard-mouse-review.jpg)
+![My favorite mouse and keyboard](/images/posts/logitech-keyboard-mouse-review.jpg)
 
-皆さんは普段、パソコンで仕事をしたり、ゲームをしたり、趣味の時間を過ごす時に、どんなキーボードとマウスを使っていますか？「別にこだわりはない」「最初からついてきたものをそのまま使っている」という方も多いかもしれません。実は、私も最初はそうでした。しかし、長時間パソコンに向き合う日々を過ごしているうちに、自分に合ったデバイスを見つけることがどれほど大切かを実感するようになりました。
+What keyboard and mouse do you use for work, gaming, or just everyday computing? If your answer is "whatever came with the computer" or "I've never really thought about it," I completely understand -- I used to be the same way. But after spending long hours at my desk day after day, I realized just how much the right peripherals matter.
 
-今回は、私が現在愛用しているロジテックのキーボードとマウスについて、選んだ理由や実際の使用感を詳しくお伝えしたいと思います。
-
----
-
-## デバイス選びに目覚めたきっかけ
-
-パソコンを使い始めた頃は、正直なところキーボードやマウスにこだわりはありませんでした。「動けばいい」「文字が打てればいい」くらいの感覚で、特に意識せずに使っていたのです。
-
-ところが、仕事でもプライベートでもパソコンを使う時間がどんどん増えていくと、少しずつ違和感を覚えるようになりました。長時間マウスを握っていると手が疲れる、キーボードを打ち続けていると指が痛くなる。そんな経験を繰り返すうちに、「もしかして、今使っているデバイスが自分に合っていないのでは？」と考えるようになったのです。
-
-それからは、家電量販店で実際にさまざまな製品を触ってみたり、レビュー記事を読んだり、少しずつ自分に合うデバイスを探す旅が始まりました。いくつかのメーカーの製品を試した結果、最終的にたどり着いたのがロジテック（Logicool）の製品でした。
+Today, I want to share the Logitech keyboard and mouse I use daily, why I chose them, and what they're actually like to use.
 
 ---
 
-## 愛用マウス：ロジテック G102IC 有線ゲーミングマウス
+## How I Started Caring About Peripherals
 
-まず、マウスから紹介します。私が使っているのは「ロジテック G102IC 有線ゲーミングマウス」です。ゲーミングマウスというと、ゴリゴリのゲーマー向けという印象を持つ方もいるかもしれませんが、実は普段使いにも非常に優れた製品です。
+When I first started using computers, I honestly didn't care about keyboards or mice. "As long as it works" was my philosophy, and I never gave it a second thought.
 
-![ロジテック G102IC 有線ゲーミングマウス](/images/posts/logitech-keyboard-mouse-review-mouse.jpg)
+But as my screen time kept growing -- both for work and personal projects -- I started noticing discomfort. My hand would ache after hours of mousing. My fingers would hurt from extended typing sessions. Eventually, I asked myself: "Maybe the devices I'm using just aren't right for me?"
 
-### なぜ有線マウスにこだわるのか
-
-最近はワイヤレスマウスが主流になりつつありますよね。Bluetooth接続やUSBレシーバー式など、コードのないスッキリとした見た目は確かに魅力的です。しかし、私はあえて有線マウスを選んでいます。
-
-その一番の理由は「重さ」です。ワイヤレスマウスの多くは、単三電池（AA電池）を入れて使うタイプが主流です。電池を入れた分、どうしてもマウス本体が重くなります。たかが電池1本の重さと思うかもしれませんが、これが長時間の作業では意外と手首や腕への負担になるのです。
-
-1日に何時間もマウスを動かし続けていると、ほんの数十グラムの差が疲労感として蓄積されていきます。私の場合、ワイヤレスマウスを使っていた時期は、夕方になると手がだるく感じることがありました。それが有線マウスに変えてからは、その疲労感が明らかに軽減されたのです。
-
-もちろん、最近では充電式で軽量なワイヤレスマウスも増えていますし、人によってはワイヤレスの方が快適という方もいると思います。これはあくまで私個人の感覚ですが、有線マウスの軽さは一度体感するとなかなか手放せないものがあります。
-
-### G102ICの使用感
-
-G102ICを選んだもう一つの大きな理由は、マウスの反応速度と操作性です。ゲーミングマウスならではの高い応答性があり、カーソルの動きが自分の手の動きに正確についてくる感覚があります。
-
-普段の作業では、エクセルでのデータ入力やウェブブラウジング、画像編集など、さまざまな操作を行いますが、G102ICはどの場面でもストレスなく使えます。特に細かいカーソル操作が必要な時に、思い通りの位置にピタッと止まってくれるのは本当に気持ちがいいです。
-
-また、マウス本体のサイズ感も私の手にちょうどよくフィットします。大きすぎず小さすぎず、自然な形で握ることができるので、長時間使用しても手が疲れにくいのです。
-
-価格帯も比較的手頃で、コストパフォーマンスの高さもこの製品の魅力の一つだと思います。高性能なゲーミングマウスの中には数万円するものもありますが、G102ICは手の届きやすい価格でありながら、十分な性能を発揮してくれます。
+That kicked off my journey of visiting electronics stores to try different products, reading reviews, and gradually narrowing down what worked. After testing gear from several brands, I landed on Logitech.
 
 ---
 
-## 愛用キーボード：ロジテック MX KEYS S
+## My Mouse: Logitech G102IC Wired Gaming Mouse
 
-続いて、キーボードの紹介です。私が使っているのは「ロジテック MX KEYS S」です。こちらはロジテックの中でも上位モデルに位置するキーボードで、特にタイピングの快適さを重視する方に人気の製品です。
+Let's start with the mouse. I use the Logitech G102IC wired gaming mouse. The "gaming mouse" label might conjure images of hardcore gamers, but it's actually an excellent everyday mouse too.
 
-![ロジテック MX KEYS S](/images/posts/logitech-keyboard-mouse-review-keyboard.jpg)
+![Logitech G102IC Wired Gaming Mouse](/images/posts/logitech-keyboard-mouse-review-mouse.jpg)
 
-### MX KEYS Sを選んだ理由
+### Why I Stick with a Wired Mouse
 
-私がキーボードに求める最大のポイントは「タイピングのしやすさ」です。仕事柄、文章を書く機会が多く、タイピング速度が作業効率に直結します。だからこそ、自分の打鍵スタイルに合ったキーボードを選ぶことは非常に重要でした。
+Wireless mice are increasingly popular these days, and the clean, cord-free look is undeniably appealing. But I deliberately chose a wired mouse.
 
-MX KEYS Sは、その点で私の期待を大きく上回ってくれました。まず感動したのが「キータッチの心地よさ」です。キーの中央がわずかにくぼんだ球面形状になっていて、指先が自然とキーの中心に導かれる設計になっています。これにより、タイプミスが減り、スムーズなタイピングが可能になります。
+The main reason? Weight. Many wireless mice still use AA batteries, which add noticeable heft to the device. You might think one battery's weight is negligible, but over hours of continuous use, those extra grams accumulate as real fatigue in your wrist and forearm.
 
-### キー感触と打鍵音
+When I was using a wireless mouse, my hand would feel sluggish by late afternoon. Switching to wired eliminated that fatigue noticeably. Of course, there are now lightweight rechargeable wireless options, and some people genuinely prefer going wireless. This is just my personal experience -- but once you feel the lightness of a good wired mouse, it's hard to go back.
 
-キーボードを選ぶ際に意外と重要なのが「打鍵音」です。オフィスや自宅で長時間タイピングする場合、カチャカチャと大きな音がするキーボードは、周囲の迷惑になるだけでなく、自分自身も疲れてしまいます。
+### How the G102IC Feels in Use
 
-MX KEYS Sの打鍵音は非常に静かです。パンタグラフ方式のキーを採用しており、軽い力でキーが沈み込み、音も控えめです。深夜に作業をしていても家族を起こす心配がないほど静かなので、時間を気にせず集中して作業に取り組むことができます。
+Another major reason I chose the G102IC is its responsiveness and precision. As a gaming mouse, it offers excellent tracking -- the cursor follows my hand movement with satisfying accuracy.
 
-それでいて、キーを押した時の「打っている」という確かなフィードバックはしっかりあります。ペコペコした安っぽい感触ではなく、適度な反発力があるので、リズミカルにタイピングができるのです。
+Whether I'm working in spreadsheets, browsing the web, or editing images, the G102IC handles everything without friction. When I need precise cursor placement, it stops exactly where I want it -- and that feels great.
 
-### ボタン配列とデザイン
+The size fits my hand naturally. Not too big, not too small, it allows for a comfortable grip that doesn't tire me out during extended sessions.
 
-MX KEYS Sのキー配列は、標準的な日本語配列をベースにしつつ、無駄のないレイアウトになっています。テンキーが付いているフルサイズキーボードなので、数字入力が多い作業にも対応できます。
-
-また、キーボード全体のデザインもスタイリッシュで、デスクの上に置いておくだけでワークスペースが洗練された雰囲気になります。薄型でスリムな設計なので、デスクのスペースも取りません。
-
-価格は確かに安くはありません。キーボードとしてはやや高めの部類に入ると思います。しかし、毎日何時間も使うデバイスだからこそ、ここにはしっかり投資する価値があると考えています。実際に使ってみると、その価格に見合った、いやそれ以上の満足感を得られるはずです。
+The price is also reasonable. While some high-end gaming mice cost a small fortune, the G102IC delivers impressive performance at an accessible price point. Great value all around.
 
 ---
 
-## デバイス選びで大切にしていること
+## My Keyboard: Logitech MX KEYS S
 
-ここまで私の愛用デバイスを紹介してきましたが、最後にデバイス選びで私が大切にしているポイントをまとめたいと思います。
+Now for the keyboard. I use the Logitech MX KEYS S, one of Logitech's premium models that's particularly popular among people who prioritize typing comfort.
 
-### 実際に触って確かめる
+![Logitech MX KEYS S](/images/posts/logitech-keyboard-mouse-review-keyboard.jpg)
 
-スペックや口コミだけで判断せず、できれば実際に店舗で触ってみることをおすすめします。手の大きさや指の長さ、タイピングの癖は人それぞれです。数字上のスペックがどれだけ優れていても、自分の手に合わなければ意味がありません。
+### Why I Chose the MX KEYS S
 
-### 長時間使用を想定する
+The number one thing I look for in a keyboard is typing feel. I write a lot for work, so typing speed directly impacts my productivity. Choosing a keyboard that matches my typing style was crucial.
 
-30分程度の使用なら、どんなデバイスでも大きな差は感じないかもしれません。しかし、4時間、6時間と使い続けた時に初めて見えてくる違いがあります。デバイス選びの際は、「長時間使っても疲れないか」という視点を持つことが大切です。
+The MX KEYS S exceeded my expectations. The key caps have a subtle concave shape that naturally guides your fingertips to the center of each key. This reduces mistypes and enables smoother, more fluid typing.
 
-### 価格と品質のバランス
+### Key Feel and Noise
 
-高ければ良いというわけではありませんが、安すぎる製品は耐久性や使用感に難がある場合もあります。特にキーボードとマウスは毎日使うものなので、ある程度の品質を確保することで、結果的に長く快適に使い続けることができます。
+Something people often overlook when choosing a keyboard is how loud it is. In an office or at home during late hours, a clacky keyboard bothers everyone around you -- and drains your own energy too.
 
-### 自分だけの「正解」を見つける
+The MX KEYS S is remarkably quiet. It uses scissor-switch keys that require light pressure and produce minimal sound. I can work late at night without worrying about waking my family. It's that quiet.
 
-デバイスの好みは本当に人それぞれです。有線が好きな人もいれば、ワイヤレスが好きな人もいます。メカニカルキーボードが好きな人もいれば、パンタグラフが好きな人もいます。大切なのは、他人の評価に流されず、自分にとっての「正解」を見つけることです。
+Yet despite the low noise, the tactile feedback is satisfying. There's a solid, responsive feel when you press each key -- not mushy or cheap. It strikes the perfect balance, letting you type with a nice rhythm.
+
+### Layout and Design
+
+The MX KEYS S features a clean, efficient layout. It's a full-size keyboard with a number pad, which is essential for number-heavy work.
+
+The overall design is sleek and stylish -- it genuinely elevates your workspace aesthetic. The slim, low-profile build doesn't eat up desk space either.
+
+The price isn't cheap -- it's definitely in the premium category for keyboards. But for a device I use for hours every day, I consider it a worthwhile investment. Once you try it, the value becomes immediately apparent.
 
 ---
 
-## まとめ
+## What I Value When Choosing Peripherals
 
-今回は、私が愛用しているロジテックのキーボード「MX KEYS S」とマウス「G102IC 有線ゲーミングマウス」を紹介しました。
+Before wrapping up, here are the principles that guide my peripheral choices.
 
-マウスは有線の軽さと正確な操作性を重視してG102ICを選び、キーボードは快適なキータッチと静かな打鍵音を求めてMX KEYS Sを選びました。どちらも毎日の作業を支えてくれる、私にとって欠かせないパートナーです。
+### Try Before You Buy
 
-パソコン作業が多い方は、ぜひ一度自分のキーボードとマウスを見直してみてください。「自分に本当に合ったデバイス」に出会えた時、作業の快適さが驚くほど変わるかもしれません。
+Don't rely solely on specs and reviews. If possible, visit a store and get your hands on the actual product. Hand size, finger length, and typing habits are unique to everyone. No amount of impressive specs matters if the device doesn't fit your hands.
 
-皆さんも、自分だけのベストデバイスを見つけてみてはいかがでしょうか？
+### Think About Extended Use
+
+In a 30-minute test, most peripherals feel fine. The real differences emerge after 4 or 6 hours of continuous use. Always ask yourself: "Will this still be comfortable after a long session?"
+
+### Balance Price and Quality
+
+Expensive doesn't always mean better, but extremely cheap products often compromise on durability and feel. Since keyboards and mice are daily-use items, investing in reasonable quality pays off through years of comfortable use.
+
+### Find Your Own "Right Answer"
+
+Peripheral preferences are deeply personal. Some people love wired, others wireless. Some swear by mechanical keyboards, others by scissor switches. The key is finding what works for you, not what's trending online.
+
+---
+
+## Wrapping Up
+
+Today I shared my daily drivers: the Logitech MX KEYS S keyboard and G102IC wired gaming mouse.
+
+I chose the G102IC for its wired lightness and precise control, and the MX KEYS S for its comfortable key feel and whisper-quiet typing. Both have become indispensable partners that power me through every workday.
+
+If you spend significant time at a computer, I'd encourage you to take a fresh look at your keyboard and mouse. Finding peripherals that truly fit you can transform your work experience in ways you might not expect.
+
+Why not start your own search for the perfect setup?

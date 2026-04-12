@@ -1,55 +1,55 @@
 ---
-title: "AIでソフトウェアだけでなく、ハードウェア機器も作れるのか？"
+title: "Can AI Help You Build Hardware Devices, Not Just Software?"
 date: "2026-02-26"
 category: "dev"
-description: "ソフトウェア領域でAIの可能性を実感した今、ラズベリーパイとArduinoでハードウェア開発にも挑戦します。AIと一緒に自分だけの機器を作る開発研究ノートの始まり。"
+description: "After experiencing AI's potential in software, I'm diving into hardware development with Raspberry Pi and Arduino. The beginning of a dev journal on building custom devices with AI."
 thumbnail: "/images/posts/ai-hardware-dev-start.jpg"
 tags:
-  - ハードウェア開発
-  - ラズベリーパイ
+  - Hardware Development
+  - Raspberry Pi
   - Arduino
-  - AI活用
-  - 開発日記
+  - AI
+  - Dev Journal
 ---
 
-![ラズベリーパイ4とカメラモジュール3、アクティブクーラー、カメラケーブル](/images/posts/ai-hardware-dev-start.jpg)
+![Raspberry Pi 4 with camera module 3, active cooler, and camera cable](/images/posts/ai-hardware-dev-start.jpg)
 
-## ソフトウェア領域でのAI、その可能性を自ら確認した
+## AI in Software — I've Seen the Potential Firsthand
 
-この数ヶ月間AIを活用してみた結果、一つ確実にわかったことがあります。ソフトウェア、つまりパソコンのモニターを見ながら作業するこのデジタル空間では、AIで自分が考えていることをほぼすべて実現できるということです。
+After months of working with AI, one thing has become crystal clear: in the software world — this digital space where you're staring at a monitor — AI can help you bring virtually any idea to life.
 
-ホームページを一つ作るのは、もう大したことではなくなりました。AIと1〜2時間ほど自然言語で会話をやり取りすれば、かなりクオリティの高いウェブサイトが完成します。コードを一行一行自分で書く必要もなく、「こんな機能がほしい」「ここにボタンを入れて」「色をこう変えて」と言えば、AIが自動的にコードを書いてくれます。わずか1年前には想像しにくかったことです。
+Building a website is no big deal anymore. Spend an hour or two chatting with AI in plain language, and you'll have a surprisingly polished website. No need to write code line by line. Just say "I want this feature," "put a button here," "change this color" — and AI writes the code automatically. This would have been hard to imagine just a year ago.
 
-サーバーが必要なアプリケーションも同様でした。もちろんAIがすべてを代わりにやってくれるわけではありません。しかし「こうしてみて」「このコマンドを入力してみて」と方法を案内してくれるので、それを一つずつ従ってやっていくと、本当にサービスが構築される経験をしました。ドメイン接続、サーバーデプロイ、API連携まで。自分の手で実現できたという事実が、今でも不思議です。
-
----
-
-## でも、ハードウェアは？
-
-ソフトウェア領域でAIの可能性を十分に実感した今、一つ気になることと、挑戦してみたいことができました。それはこれです。
-
-**「AIと一緒に、ラズベリーパイやArduinoでも開発をして、自分が望む機器を作ることができるのか？」**
-
-ソフトウェアはモニターの中ですべてが完結します。コードを書いて実行すれば、すぐに結果を確認できます。しかしハードウェアは違います。実際の部品を接続しなければならず、はんだ付けも必要で、センサーがちゃんと動作しているか物理的に確認しなければなりません。画面の外の世界で起きることなので、AIが助けられる領域が限られるかもしれません。
-
-それでも挑戦してみることにしました。考えてみれば、ハードウェア開発でもAIが助けてくれる部分は確実にあります。回路設計をどうすればいいのか、どのセンサーをどのピンに接続すればいいのか、駆動のためのコードはどう書けばいいのか。こうした知識的な部分はAIが十分にガイドしてくれるはずです。自分の手がやるべきことと、AIの頭がやってくれることをうまく分ければ、何かを作り出せるのではないかと思います。
+Server-based applications were the same story. Of course, AI doesn't do literally everything for you. But it guides you — "try this," "run this command" — and as you follow along step by step, a working service actually comes together. Domain connection, server deployment, API integration — all of it. The fact that I did it with my own hands still amazes me.
 
 ---
 
-## 機材を購入した
+## But What About Hardware?
 
-決心がついたらすぐに行動に移しました。Raspberry Pi 4とArduino Unoを購入しました。Arduinoは学習キットも一緒に注文しました。各種センサーやLED、モーターなどが含まれたキットで、初めて始めるにはこれ以上のものはないそうです。
+Having fully experienced AI's potential in software, a question started nagging at me — something I wanted to try.
 
-ラズベリーパイを購入して感じたのですが、数年前より価格がむしろ上がっていました。半導体の需給問題やメモリ価格の上昇の影響が大きいようです。以前は「5万ウォンのコンピューター」という修飾語がついていたラズベリーパイが、今ではそれ以上の投資が必要になりました。それでも一般的なパソコンと比べればまだまだリーズナブルな価格ですし、これでできることを考えれば十分に価値のある投資だと思います。
+**"Can I use AI to develop with Raspberry Pi and Arduino and actually build my own devices?"**
+
+Software lives entirely on screen. Write code, run it, see the result instantly. But hardware is different. You have to physically connect components, solder things together, and verify that sensors are actually working. It happens outside the screen, so there might be limits to how much AI can help.
+
+Still, I decided to go for it. When I thought about it, there are definitely areas where AI can assist with hardware development. How to design circuits, which sensor goes on which pin, how to write the driver code — AI can absolutely guide the knowledge side of things. If I split the work between what my hands need to do and what AI's brain can handle, I should be able to create something.
 
 ---
 
-## 自分だけの開発研究ノートを始める
+## I Bought the Gear
 
-今日からこの過程を一つ一つ記録として残していこうと思います。いわば自分だけの開発研究ノートと言えるかもしれません。AIと会話しながら回路を設計し、コードを書き、実際に機器を組み立ててテストするすべての過程を記録していきます。
+Once I made up my mind, I acted fast. I picked up a Raspberry Pi 4 and an Arduino Uno. I also ordered a learning kit for the Arduino — it comes with various sensors, LEDs, motors, and more. Apparently it's the perfect starter package.
 
-ソフトウェア開発をAIと一緒にやった経験があるので、ハードウェアも同じようなアプローチで取り組んでみるつもりです。わからないことが出てきたらAIに聞いて、案内してくれる通りにやってみて、うまくいかなければまた聞く。この繰り返しの中で、きっと何かが生まれると信じています。
+One thing I noticed when buying the Raspberry Pi: prices have actually gone up compared to a few years ago. Semiconductor supply issues and rising memory costs seem to be the main factors. The Raspberry Pi used to be known as "the $35 computer," but now it requires a bit more investment. Still, compared to a regular PC it's very affordable, and considering what you can do with it, it's well worth it.
 
-最終的な目標は、単にLEDを点滅させるレベルではなく、実際の業務に活用できる機器を作ることです。AIカメラを活用した分類システムや、IoTセンサーを活用したモニタリング機器など。ソフトウェアから始まった可能性を、ハードウェアまで広げてみたいと思います。
+---
 
-果たしてAIと一緒なら、自分だけの機器を作ることができるのでしょうか？その答えを自ら見つけていく旅を、今日から始めます。
+## Starting My Own Dev Journal
+
+From today, I'm going to document this journey step by step. Think of it as my own personal development lab notebook. I'll record everything — chatting with AI to design circuits, writing code, assembling actual devices, and testing them.
+
+Since I already have experience doing software development with AI, I plan to take the same approach with hardware. When I don't know something, I'll ask AI. Follow its guidance. If it doesn't work, ask again. Through that cycle of iteration, I believe something will come to life.
+
+The end goal isn't just blinking an LED — I want to build devices that are actually useful. An AI camera-based classification system, IoT sensor monitoring devices, things like that. I want to extend the possibilities that started in software all the way into the hardware world.
+
+So can AI really help me build my own devices? I'm setting out to find the answer myself, starting today.

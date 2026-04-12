@@ -9,7 +9,7 @@ interface SearchBarProps {
   placeholder?: string
 }
 
-export default function SearchBar({ onSearch, placeholder = '記事を検索...' }: SearchBarProps) {
+export default function SearchBar({ onSearch, placeholder = 'Search posts...' }: SearchBarProps) {
   const router = useRouter()
   const searchParams = useSearchParams()
   const [query, setQuery] = useState(searchParams.get('q') || '')

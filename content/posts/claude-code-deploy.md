@@ -1,109 +1,97 @@
 ---
-title: "Claude Codeで作ったサイトを世界に公開する——デプロイという関門"
+title: "Launching Your Claude Code Site to the World — The Deployment Gateway"
 date: "2026-02-06"
 category: "ai"
-description: "Claude Codeで作ったサイトをVercelとSupabaseを使って世界に公開する方法。デプロイサービスの選び方から、Vercel+Supabaseの組み合わせのメリットまで詳しく解説します。"
+description: "How to take a site built with Claude Code and deploy it to the world using Vercel and Supabase. From choosing a deployment service to the benefits of the Vercel + Supabase combo, here's everything you need to know."
 thumbnail: "/images/posts/claude-code-deploy.jpg"
 tags:
   - AI
-  - デプロイ
+  - Deployment
   - Vercel
   - Supabase
   - Claude Code
-  - サイト制作
+  - Web Development
 ---
 
-![Claude Codeで作ったサイトを世界に公開する](/images/posts/claude-code-deploy.jpg)
+![Launching your Claude Code site to the world](/images/posts/claude-code-deploy.jpg)
 
-こんにちは、hitechpapaです。
+Hi, I'm hitechpapa.
 
-今日は、サイトやブログを作り、いよいよインターネットという世界にデプロイ（公開）するまでの過程についてお話ししたいと思います。
+Today, I want to talk about the journey from building a site or blog to finally deploying it — putting it out there on the internet for the world to see.
 
-## ローカルから世界へ
+## From Local to Global
 
-Claude Codeが一生懸命サイトを作ってくれて、自分の好みに合うように修正作業を重ねていくと、ある瞬間、「おお、これなら世に出しても大丈夫だ」と思えるタイミングがやってきます。心の準備ができる瞬間です。それまではローカル環境（自分のパソコン上）でしか見られなかったサイトを、いよいよ世界に送り出す時が来たということです。
+After Claude Code diligently builds your site and you go through rounds of tweaking it to your liking, there comes a moment when you think, "Alright, this is ready to go live." That's when you know it's time to take what's been living only on your local machine and send it out into the world.
 
-デプロイ（deploy）とは、簡単に言えば、自分のパソコンだけで動いていたサイトをインターネットに接続されたサーバーにアップロードして、誰でもアクセスできるようにする作業のことです。アドレスバーにURLを入力すれば、世界中どこからでも自分のサイトにアクセスできるようになるわけです。開発の中で最もワクワクする瞬間でもあり、同時に「本当にこのままで大丈夫かな？」という緊張感が共存する瞬間でもあります。
+Deployment, in simple terms, means uploading your site — which has been running only on your own computer — to a server connected to the internet so that anyone can access it. Type a URL into the address bar and people anywhere in the world can visit your site. It's one of the most exciting moments in development, but also one that comes with a healthy dose of "Is this really ready?" nervousness.
 
-## デプロイサービスの2つの選択肢
+## The Major Cloud and Server Services
 
-韓国の場合、サイトをデプロイする際に大きく2つの選択肢があります。
+There are a huge number of hosting and cloud services available worldwide. Let's organize the most well-known ones by category.
 
-1つ目は、**韓国国内企業のクラウドやサーバー**を利用する方法です。韓国にも大手企業が運営するクラウドサービスがいくつかあります。韓国語のサポートが充実しており、国内のデータセンターを使用するため、韓国のユーザーを対象としたサービスであればレスポンス速度の面で有利になることがあります。また、韓国の法律に準拠したデータ管理ができるというメリットもあります。
+**The Big Three Cloud Infrastructure Providers**
 
-2つ目は、**海外（主にアメリカ）企業のクラウドやサーバー**を利用する方法です。世界中で広く使われているサービスのほとんどがこちらに該当します。グローバルなサービスを目指すなら、エコシステムやリファレンスの面でこちらの方がはるかに充実しています。
+These three companies account for roughly 63% or more of the global cloud infrastructure market.
 
-おそらく日本でも同じような2つの選択肢があるのではないかと思います。日本にも国内のクラウドやホスティングサービスがありますし、同時にAWSやGoogle Cloudといったグローバルサービスも広く使われていますよね。
+- **Amazon Web Services (AWS)** — About 30% market share. The oldest and largest cloud service, offering over 200 services.
+- **Microsoft Azure** — About 20% market share. Strong in enterprise solutions and AI services.
+- **Google Cloud Platform (GCP)** — About 13% market share. Particularly strong in data analytics and machine learning.
 
-どちらが良い、悪いというよりも、状況によってそれぞれのメリット・デメリットがあるので、自分のサイト運営計画に合わせて選べば良いと思います。
+**Other Major Cloud Services**
 
-## 世界の主要クラウド・サーバーサービス
+- **Alibaba Cloud** — Largest cloud in Asia, about 4% global share
+- **Oracle Cloud** — Specializes in databases and enterprise solutions
+- **IBM Cloud** — Strong in hybrid cloud and AI (Watson)
+- **DigitalOcean** — Developer-friendly, simple cloud service
 
-海外が提供するサービスは本当に多くの種類があり、有名な企業も数多く存在します。世界的に有名なサービスをカテゴリー別に整理してみましょう。
+**Frontend Deployment and Hosting Specialists**
 
-**大手クラウドインフラ（Big 3）**
+- **Vercel** — Run by the creators of Next.js, optimized for frontend deployment
+- **Netlify** — Specializes in JAMstack-based site deployment
+- **Cloudflare Pages** — Deployment platform with strong CDN and security features
+- **GitHub Pages** — Free static site hosting
 
-この3社で世界のクラウドインフラ市場の約63%以上を占めています。
+**Backend and Database Services**
 
-- **Amazon Web Services (AWS)** — 市場シェア約30%。最も歴史があり最大のクラウドサービスで、200以上のサービスを提供しています。
-- **Microsoft Azure** — 市場シェア約20%。法人向けソリューションとAIサービスに強みがあります。
-- **Google Cloud Platform (GCP)** — 市場シェア約13%。データ分析や機械学習の分野で特に強いです。
+- **Supabase** — Open-source alternative to Firebase, PostgreSQL-based backend service
+- **Firebase (Google)** — Integrated backend platform for mobile and web apps
+- **PlanetScale** — Serverless MySQL database platform
+- **Railway** — Easy backend deployment and database management
 
-**その他の主要クラウドサービス**
+## My Choice: Vercel + Supabase
 
-- **Alibaba Cloud** — アジア市場最大のクラウド、グローバルシェア約4%
-- **Oracle Cloud** — データベースとエンタープライズソリューションに特化
-- **IBM Cloud** — ハイブリッドクラウドとAI（Watson）分野に強み
-- **DigitalOcean** — 開発者フレンドリーでシンプルなクラウドサービス
+With so many services available, I went with the **Vercel and Supabase combination** to run my sites. Here's why.
 
-**フロントエンドデプロイ・ホスティング特化**
+**Why Vercel**
 
-- **Vercel** — Next.jsの開発元が運営、フロントエンドデプロイに最適化
-- **Netlify** — JAMstackベースのサイトデプロイに特化
-- **Cloudflare Pages** — CDNとセキュリティに強みを持つデプロイプラットフォーム
-- **GitHub Pages** — 静的サイトを無料でホスティング
+- **Perfect compatibility with Next.js**: Vercel is the company behind Next.js, so it provides the most optimized environment for deploying Next.js projects. Since I develop with Next.js, it was a natural fit.
+- **Easy deployment**: Connect your GitHub repo and every push automatically triggers a deployment. No complex server configuration — just a few clicks to go live.
+- **Global CDN**: Vercel's Edge Network distributes your site across servers worldwide, ensuring fast load times no matter where visitors are located.
+- **Preview deployments**: Every code change automatically generates a preview URL, so you can review changes before they go live.
 
-**バックエンド・データベースサービス**
+**Why Supabase**
 
-- **Supabase** — Firebaseのオープンソース代替として、PostgreSQLベースのバックエンドサービス
-- **Firebase (Google)** — モバイル・Webアプリ向けの統合バックエンドプラットフォーム
-- **PlanetScale** — サーバーレスMySQLデータベースプラットフォーム
-- **Railway** — バックエンドデプロイとデータベースを手軽に管理
+- **PostgreSQL-based**: Built on PostgreSQL, one of the most trusted open-source databases in the world, offering excellent stability and scalability.
+- **All-in-one backend**: Beyond just a database, it provides authentication, storage (file hosting), and real-time features all in one platform. No need to build a separate backend server.
+- **Open source**: Unlike Firebase, Supabase is open source, meaning you can self-host it on your own server if needed.
+- **Intuitive dashboard**: Supabase Studio lets you manage database tables visually, making data management accessible even without deep SQL knowledge.
 
-## 私の選択：Vercel + Supabase
+**Why This Combo Works So Well**
 
-これだけ多くのサービスがある中で、私は**VercelとSupabaseの組み合わせ**を選んでサイトを運営しています。この組み合わせを選んだのにはそれなりの理由があります。
+Vercel and Supabase aren't competitors — they complement each other. Vercel handles the frontend (what users see), Supabase handles the backend (data storage and processing), and together they form a full-stack web application. Vercel's marketplace even officially supports Supabase integration, automatically syncing environment variables for added convenience.
 
-**Vercelのメリット**
+Most importantly, for indie developers like me who build with Claude Code, the ability to focus purely on coding without worrying about complex server management is the biggest win.
 
-- **Next.jsとの完璧な互換性**：VercelはNext.jsを作った会社なので、Next.jsプロジェクトをデプロイする際に最も最適化された環境を提供してくれます。私もNext.jsで開発しているので、自然な選択でした。
-- **簡単なデプロイ**：GitHubリポジトリと連携しておけば、コードをプッシュ（push）するたびに自動的にデプロイが行われます。複雑なサーバー設定なしに、数クリックでサイトを世界に公開できます。
-- **グローバルCDN**：世界中に分散されたサーバー（Edge Network）を通じて、どこからアクセスしても高速な表示を実現します。
-- **プレビューデプロイ**：コードを修正するたびにプレビュー用のURLが自動生成されるので、本番サイトに反映する前に変更内容を確認できます。
+## Free Plans vs. Paid Plans
 
-**Supabaseのメリット**
+I've been running my sites with this combo and haven't had any major issues so far. One important thing to know: both Vercel and Supabase offer free tiers, but **free plans are limited to non-commercial (personal hobby) use**. If you're running a site for commercial purposes, you'll need a paid plan. I pay a monthly subscription for both.
 
-- **PostgreSQLベース**：世界で最も信頼されているオープンソースデータベースであるPostgreSQLを基盤としており、安定性と拡張性に優れています。
-- **オールインワンバックエンド**：データベースだけでなく、認証（Auth）、ストレージ（ファイル保存）、リアルタイム機能まで1つのプラットフォームで提供されます。別途バックエンドサーバーを構築する必要がありません。
-- **オープンソース**：Firebaseと違いオープンソースなので、必要であれば自分のサーバーにインストールして運用することも可能です。
-- **直感的なダッシュボード**：Supabase Studioという管理画面でデータベーステーブルをビジュアルに管理でき、SQLに詳しくなくても比較的簡単にデータを扱えます。
+At first, you might think, "Why pay when I can do it for free?" But for stable service and commercial use, it's a worthwhile investment. Compared to the cost of building and managing your own servers the old-fashioned way, it's far more affordable.
 
-**この組み合わせが特に良い理由**
+## Wrapping Up
 
-VercelとSupabaseは競合関係ではなく、互いを補完し合う関係です。Vercelがフロントエンド（ユーザーが見る画面）を、Supabaseがバックエンド（データの保存・処理）を担当し、2つを合わせればフルスタック（Full-stack）Webアプリケーションを構築できます。さらに、VercelのマーケットプレイスでSupabase連携が公式にサポートされており、環境変数の設定などが自動的に同期される便利さもあります。
+Building a site is important, but deploying it to the world is an equally critical part of the development process. In the old days, deployment itself was a major project — buying your own server, installing Linux, configuring the network. But today, thanks to services like Vercel and Supabase, even coding beginners can publish their sites with relative ease.
 
-何よりも、私のようにClaude Codeを活用して開発する個人開発者にとっては、複雑なサーバー管理なしにコーディングだけに集中できるという点が最大の魅力でした。
+Of course, there are still new things to learn during deployment — domain configuration, DNS management, environment variables, and more. But with Claude Code by your side, you can tackle these one by one. I started knowing nothing, learned by bumping into problems along the way, and now I'm running multiple sites.
 
-## 無料プランと有料プラン
-
-そんなわけで、私はこの組み合わせでサイトを運営しており、今のところ大きな問題なく使えています。1つ知っておいていただきたいのは、VercelもSupabaseも無料プラン（Free Tier）を提供していますが、**無料プランは非商用（個人の趣味）用途に限定**されているということです。商用目的でサイトを運営するなら、有料プランを利用する必要があります。私も毎月料金を支払って使っています。
-
-最初は「無料でできるのに、なぜお金を払わないといけないの？」と思うかもしれませんが、安定したサービス運営と商用利用のためには必要な投資だと考えています。従来のようにサーバーを自分で構築・管理するコストと比べれば、はるかにリーズナブルでもあります。
-
-## まとめ
-
-サイトを作ることも大切ですが、それを世界に公開するデプロイの過程も開発の重要な一部です。昔はサーバーを自分で購入して、Linuxをインストールして、ネットワークを設定するなど、デプロイ自体が1つの大きなプロジェクトでした。しかし今はVercelやSupabaseといったサービスのおかげで、コーディング初心者でも自分が作ったサイトを比較的簡単に世界に公開できる時代になりました。
-
-もちろん、デプロイの過程でもドメイン設定、DNS管理、環境変数の設定など、新しく学ぶべきことはあります。しかし、こうした部分もClaude Codeと一緒なら1つずつ解決していけます。私も最初は何も分かりませんでしたが、1つずつぶつかりながら学んでいき、今では複数のサイトを運営しています。
-
-次回は、実際のデプロイの手順をステップバイステップでさらに詳しくご紹介したいと思います。最後まで読んでいただき、ありがとうございました！
+Next time, I'll walk through the actual deployment process step by step. Thanks for reading!

@@ -3,7 +3,7 @@ import { SITE_CONFIG } from '@/lib/constants'
 
 export const metadata: Metadata = {
   title: 'About',
-  description: `${SITE_CONFIG.author.name}について - ${SITE_CONFIG.description}`,
+  description: `About ${SITE_CONFIG.author.name} - ${SITE_CONFIG.description}`,
   alternates: {
     canonical: `${SITE_CONFIG.url}/about`,
   },
@@ -33,11 +33,8 @@ export default function AboutPage() {
             <p className="text-primary font-medium mb-4">
               {SITE_CONFIG.name}
             </p>
-            <p className="text-text-secondary leading-relaxed mb-4">
-              {SITE_CONFIG.author.bio}
-            </p>
             <p className="text-text-secondary leading-relaxed">
-              {SITE_CONFIG.author.bioKo}
+              {SITE_CONFIG.author.bio}
             </p>
           </div>
         </div>
@@ -47,58 +44,39 @@ export default function AboutPage() {
         <div className="space-y-6">
           <section>
             <h3 className="text-xl font-bold text-text-primary mb-3">
-              このブログについて
+              About This Blog
             </h3>
             <p className="text-text-secondary leading-relaxed">
-              「テックパパのソウルノート」は、日本文化が大好きな韓国人エンジニアパパが運営する技術・文化ブログです。
-              AI活用術、最新ガジェットのレビュー、両国の文化紹介、日本語学習のコツなど、
-              多彩なテーマで情報を発信しています。
+              Tech Papa Seoul Notes is a tech and culture blog run by a Korean engineer dad based in Seoul.
+              I cover a wide range of topics including AI productivity tools, gadget reviews,
+              Korean culture insights, and personal development projects.
             </p>
           </section>
 
           <section>
             <h3 className="text-xl font-bold text-text-primary mb-3">
-              이 블로그에 대하여
-            </h3>
-            <p className="text-text-secondary leading-relaxed">
-              「테크파파의 서울 노트」는 일본 문화를 좋아하는 한국인 엔지니어 아빠가 운영하는 기술・문화 블로그입니다.
-              AI 활용법, 최신 가젯 리뷰, 양국의 문화 소개, 일본어 학습 팁 등
-              다양한 주제로 정보를 발신하고 있습니다.
-            </p>
-          </section>
-
-          <section>
-            <h3 className="text-xl font-bold text-text-primary mb-3">
-              主なコンテンツ
+              What You'll Find Here
             </h3>
             <ul className="space-y-2 text-text-secondary">
               <li className="flex items-start">
                 <span className="text-primary mr-2">•</span>
-                <span><strong>AI活用</strong> - ChatGPT、Claude、画像生成AIなどの実践的な使い方</span>
+                <span><strong>AI & Tech</strong> - Hands-on guides for ChatGPT, Claude, image generation AI, and more</span>
               </li>
               <li className="flex items-start">
                 <span className="text-primary mr-2">•</span>
-                <span><strong>ガジェット</strong> - スマートフォン、タブレット、ウェアラブルデバイスのレビュー</span>
+                <span><strong>Gadgets</strong> - Reviews of smartphones, tablets, wearables, and other devices</span>
               </li>
               <li className="flex items-start">
                 <span className="text-primary mr-2">•</span>
-                <span><strong>日本文化</strong> - 私が学んでいる日本文化の発見と気づき</span>
+                <span><strong>Korean Culture</strong> - Discover Korean traditions, food, lifestyle, and travel tips</span>
               </li>
               <li className="flex items-start">
                 <span className="text-primary mr-2">•</span>
-                <span><strong>韓国文化</strong> - 日本の皆さんに紹介したい韓国の美</span>
+                <span><strong>Daily Life</strong> - Stories from everyday life and parenting in Seoul</span>
               </li>
               <li className="flex items-start">
                 <span className="text-primary mr-2">•</span>
-                <span><strong>日常</strong> - ソウルでの日常生活と子育ての記録</span>
-              </li>
-              <li className="flex items-start">
-                <span className="text-primary mr-2">•</span>
-                <span><strong>日本語学習</strong> - 外国人向けの日本語学習リソースとコツ</span>
-              </li>
-              <li className="flex items-start">
-                <span className="text-primary mr-2">•</span>
-                <span><strong>開発日記</strong> - 個人開発プロジェクトの記録</span>
+                <span><strong>Dev Journal</strong> - Notes from personal development projects and experiments</span>
               </li>
             </ul>
           </section>

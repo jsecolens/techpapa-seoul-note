@@ -32,7 +32,7 @@ export default function PostList({ posts, title }: PostListProps) {
 
       {posts.length === 0 ? (
         <div className="text-center py-12 bg-surface rounded-lg">
-          <p className="text-text-secondary">記事がありません</p>
+          <p className="text-text-secondary">No posts found</p>
         </div>
       ) : (
         <>
@@ -48,7 +48,7 @@ export default function PostList({ posts, title }: PostListProps) {
                 onClick={() => goToPage(currentPage - 1)}
                 disabled={currentPage === 1}
                 className="p-2 rounded-lg border border-gray-200 disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-50 transition-colors"
-                aria-label="前のページ"
+                aria-label="Previous page"
               >
                 <ChevronLeft className="w-5 h-5" />
               </button>
@@ -71,7 +71,7 @@ export default function PostList({ posts, title }: PostListProps) {
                 onClick={() => goToPage(currentPage + 1)}
                 disabled={currentPage === totalPages}
                 className="p-2 rounded-lg border border-gray-200 disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-50 transition-colors"
-                aria-label="次のページ"
+                aria-label="Next page"
               >
                 <ChevronRight className="w-5 h-5" />
               </button>

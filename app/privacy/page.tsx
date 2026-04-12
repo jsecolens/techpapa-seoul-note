@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import { SITE_CONFIG } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'プライバシーポリシー',
-  description: `${SITE_CONFIG.name}のプライバシーポリシー`,
+  title: 'Privacy Policy',
+  description: `Privacy Policy for ${SITE_CONFIG.name}`,
   alternates: {
     canonical: `${SITE_CONFIG.url}/privacy`,
   },
@@ -12,104 +12,100 @@ export const metadata: Metadata = {
 export default function PrivacyPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold text-text-primary mb-8">プライバシーポリシー</h1>
+      <h1 className="text-3xl font-bold text-text-primary mb-8">Privacy Policy</h1>
 
       <div className="bg-surface rounded-lg p-8 shadow-sm space-y-8 text-text-secondary leading-relaxed">
         <section>
           <p>
-            「{SITE_CONFIG.name}」（以下、「当サイト」）は、ユーザーの個人情報の取り扱いについて、
-            以下のとおりプライバシーポリシーを定めます。
+            {SITE_CONFIG.name} ("this site") defines its privacy policy regarding the handling of
+            user personal information as follows.
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-bold text-text-primary mb-3">個人情報の収集について</h2>
+          <h2 className="text-xl font-bold text-text-primary mb-3">Collection of Personal Information</h2>
           <p>
-            当サイトは静的なブログサイトであり、会員登録、お問い合わせフォーム、コメント機能等を設けておりません。
-            そのため、当サイトが直接的にユーザーの個人情報を収集することはありません。
-            ただし、以下に記載する第三者サービス（Google Analytics、Google AdSense）を通じて、
-            匿名の利用データが自動的に収集される場合があります。
+            This site is a static blog and does not have membership registration, contact forms, or comment features.
+            Therefore, this site does not directly collect personal information from users.
+            However, anonymous usage data may be automatically collected through third-party services
+            (Google Analytics, Google AdSense) as described below.
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-bold text-text-primary mb-3">アクセス解析ツールについて</h2>
+          <h2 className="text-xl font-bold text-text-primary mb-3">Analytics Tools</h2>
           <p>
-            当サイトでは、Googleによるアクセス解析ツール「Google Analytics」を使用しています。
-            Google Analyticsはデータの収集のためにCookieを使用しています。
-            このデータは匿名で収集されており、個人を特定するものではありません。
+            This site uses Google Analytics, an access analysis tool provided by Google.
+            Google Analytics uses cookies to collect data.
+            This data is collected anonymously and does not identify individuals.
           </p>
           <p className="mt-2">
-            この機能はCookieを無効にすることで収集を拒否することができます。
-            お使いのブラウザの設定をご確認ください。
-            Google Analyticsの利用規約については、
+            You can refuse data collection by disabling cookies in your browser settings.
+            For more information, please refer to the{' '}
             <a
-              href="https://marketingplatform.google.com/about/analytics/terms/jp/"
+              href="https://marketingplatform.google.com/about/analytics/terms/us/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline"
             >
-              Google Analytics利用規約
-            </a>
-            をご覧ください。
+              Google Analytics Terms of Service
+            </a>.
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-bold text-text-primary mb-3">広告配信について</h2>
+          <h2 className="text-xl font-bold text-text-primary mb-3">Advertising</h2>
           <p>
-            当サイトでは、第三者配信の広告サービス「Google AdSense」を使用しています。
-            Google AdSenseは、ユーザーの興味に応じた広告を表示するためにCookieを使用することがあります。
-            Cookieを使用することにより、ユーザーがそのサイトや他のサイトにアクセスした際の情報に基づき、
-            適切な広告を表示します。
+            This site uses Google AdSense, a third-party advertising service.
+            Google AdSense may use cookies to display ads based on user interests.
+            By using cookies, ads are displayed based on information from visits to this site and other sites.
           </p>
           <p className="mt-2">
-            ユーザーは、Googleの
+            You can disable personalized ads through Google's{' '}
             <a
               href="https://adssettings.google.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline"
             >
-              広告設定ページ
-            </a>
-            で、パーソナライズ広告を無効にすることができます。
+              Ad Settings page
+            </a>.
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-bold text-text-primary mb-3">免責事項</h2>
+          <h2 className="text-xl font-bold text-text-primary mb-3">Disclaimer</h2>
           <p>
-            当サイトに掲載されている情報の正確性には万全を期しておりますが、
-            その内容の正確性・安全性を保証するものではありません。
-            当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねますので、ご了承ください。
+            While every effort is made to ensure the accuracy of the information on this site,
+            we do not guarantee its accuracy or safety.
+            We are not responsible for any damages arising from the content published on this site.
           </p>
           <p className="mt-2">
-            また、当サイトからリンクやバナーなどによって他のサイトに移動された場合、
-            移動先サイトで提供される情報やサービス等について一切の責任を負いません。
+            We are also not responsible for information or services provided by other sites
+            accessed through links or banners on this site.
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-bold text-text-primary mb-3">著作権について</h2>
+          <h2 className="text-xl font-bold text-text-primary mb-3">Copyright</h2>
           <p>
-            当サイトで掲載している文章や画像などの著作権は、当サイト運営者に帰属します。
-            無断転載は禁止いたします。引用する場合は、当サイトへのリンクを掲載してください。
+            All text and images on this site are copyrighted by the site operator.
+            Unauthorized reproduction is prohibited. If quoting, please include a link to this site.
           </p>
         </section>
 
         <section>
-          <h2 className="text-xl font-bold text-text-primary mb-3">プライバシーポリシーの変更</h2>
+          <h2 className="text-xl font-bold text-text-primary mb-3">Changes to This Policy</h2>
           <p>
-            当サイトは、個人情報に関して適用される日本の法令を遵守するとともに、
-            本ポリシーの内容を適宜見直し改善に努めます。
-            修正された最新のプライバシーポリシーは常に本ページにて開示されます。
+            This site will comply with applicable laws regarding personal information
+            and will review and improve this policy as needed.
+            The latest privacy policy will always be available on this page.
           </p>
         </section>
 
         <section className="border-t border-gray-200 pt-6 text-sm">
-          <p>制定日：2026年2月26日</p>
-          <p className="mt-1">{SITE_CONFIG.name} 運営者：hitechpapa</p>
+          <p>Effective date: February 26, 2026</p>
+          <p className="mt-1">{SITE_CONFIG.name} operated by hitechpapa</p>
         </section>
       </div>
     </div>

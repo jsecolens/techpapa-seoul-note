@@ -1,13 +1,13 @@
 import type { Metadata } from 'next'
-import { Noto_Sans_JP } from 'next/font/google'
+import { Inter } from 'next/font/google'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import { SITE_CONFIG } from '@/lib/constants'
 import './globals.css'
 
-const notoSansJP = Noto_Sans_JP({
+const inter = Inter({
   subsets: ['latin'],
-  variable: '--font-noto-sans-jp',
+  variable: '--font-inter',
   display: 'swap',
 })
 
@@ -18,16 +18,16 @@ export const metadata: Metadata = {
   },
   description: SITE_CONFIG.description,
   keywords: [
-    'AI活用',
-    'ガジェット',
-    '韓国文化',
-    '日本語学習',
-    'ブログ',
-    '韓国',
-    'ソウル',
-    '韓国生活',
-    '韓国人パパ',
-    'テックパパ',
+    'AI tools',
+    'gadgets',
+    'Korean culture',
+    'Seoul life',
+    'tech blog',
+    'Korea',
+    'tech dad',
+    'AI productivity',
+    'gadget reviews',
+    'Korean lifestyle',
   ],
   authors: [{ name: SITE_CONFIG.author.name }],
   creator: SITE_CONFIG.author.name,
@@ -37,8 +37,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: 'website',
-    locale: 'ja_JP',
-    alternateLocale: 'ko_KR',
+    locale: 'en_US',
     url: SITE_CONFIG.url,
     siteName: SITE_CONFIG.name,
     title: SITE_CONFIG.name,
@@ -80,10 +79,9 @@ export default function RootLayout({
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: SITE_CONFIG.name,
-    alternateName: SITE_CONFIG.nameKo,
     url: SITE_CONFIG.url,
     description: SITE_CONFIG.description,
-    inLanguage: 'ja',
+    inLanguage: 'en',
     author: {
       '@type': 'Person',
       name: SITE_CONFIG.author.name,
@@ -91,7 +89,7 @@ export default function RootLayout({
   }
 
   return (
-    <html lang="ja" className={notoSansJP.variable}>
+    <html lang="en" className={inter.variable}>
       <head>
         {/* Google AdSense Account Verification */}
         <meta name="google-adsense-account" content="ca-pub-5871122852254069" />

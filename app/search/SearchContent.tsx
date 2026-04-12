@@ -14,12 +14,10 @@ function searchPostsClient(posts: PostPreview[], query: string): PostPreview[] {
   const lowerQuery = query.toLowerCase()
 
   return posts.filter((post) => {
-    const { title, titleKo, description, descriptionKo, tags } = post.frontmatter
+    const { title, description, tags } = post.frontmatter
     const searchableText = [
       title,
-      titleKo,
       description,
-      descriptionKo,
       ...(tags || []),
     ]
       .filter(Boolean)
@@ -46,7 +44,7 @@ export default function SearchContent({ initialPosts }: SearchContentProps) {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold text-text-primary mb-8">記事を検索</h1>
+      <h1 className="text-3xl font-bold text-text-primary mb-8">Search</h1>
 
       <div className="mb-8">
         <SearchBar />
@@ -56,8 +54,8 @@ export default function SearchContent({ initialPosts }: SearchContentProps) {
         <>
           <div className="mb-6">
             <p className="text-text-secondary">
-              「<span className="font-medium text-text-primary">{query}</span>」の検索結果：
-              <span className="font-medium text-primary ml-1">{results.length}件</span>
+              Results for "<span className="font-medium text-text-primary">{query}</span>":
+              <span className="font-medium text-primary ml-1">{results.length} {results.length === 1 ? 'post' : 'posts'}</span>
             </p>
           </div>
 
@@ -70,10 +68,10 @@ export default function SearchContent({ initialPosts }: SearchContentProps) {
           ) : (
             <div className="text-center py-12 bg-surface rounded-lg">
               <p className="text-text-secondary">
-                「{query}」に一致する記事が見つかりませんでした。
+                No posts found for "{query}".
               </p>
               <p className="text-sm text-text-secondary mt-2">
-                別のキーワードでお試しください。
+                Try a different keyword.
               </p>
             </div>
           )}
@@ -81,12 +79,12 @@ export default function SearchContent({ initialPosts }: SearchContentProps) {
       ) : (
         <div className="space-y-6">
           <p className="text-text-secondary">
-            キーワードを入力して記事を検索してください。
+            Enter a keyword to search posts.
           </p>
 
           {initialPosts.length > 0 && (
             <div>
-              <h2 className="text-xl font-bold text-text-primary mb-4">最近の記事</h2>
+              <h2 className="text-xl font-bold text-text-primary mb-4">Recent Posts</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {initialPosts.slice(0, 4).map((post) => (
                   <PostCard key={post.slug} post={post} />

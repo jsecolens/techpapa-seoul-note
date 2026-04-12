@@ -1,65 +1,65 @@
 ---
-title: "30代パパが愛する任天堂ゲーム2選 — ポケモンとマリオ、子供と一緒に楽しめる最高のコンテンツ"
+title: "A 30-Something Dad's Favorite Nintendo Games — Why Pokemon and Mario Are the Perfect Family Content"
 date: "2026-02-21"
 category: "daily"
-description: "ポケモンとマリオ、30代パパが子供時代から愛し続ける任天堂ゲーム2選。子供と一緒に楽しめる最高の家族コンテンツとしての魅力を語ります。"
+description: "Pokemon and Mario — two Nintendo franchises I've loved since childhood and now share with my kids. Why these games are the ultimate family-friendly content."
 thumbnail: "/images/posts/papa-favorite-nintendo-pokemon-mario.jpg"
 tags:
-  - 任天堂
-  - ポケモン
-  - マリオ
-  - 子育て
+  - Nintendo
+  - Pokemon
+  - Mario
+  - parenting
   - Nintendo Switch
 ---
 
-![パパと子供が一緒にNintendo Switchを楽しむ様子](/images/posts/papa-favorite-nintendo-pokemon-mario.jpg)
+![A dad and kid enjoying Nintendo Switch together](/images/posts/papa-favorite-nintendo-pokemon-mario.jpg)
 
-僕は30代の韓国人パパです。仕事と育児を両立させる忙しい日々の中でも、ずっと続けている趣味があります。それは任天堂のゲームです。その中でも特に、僕の人生から欠かせない2つのゲームがあります。ポケットモンスターとマリオです。
+I'm a Korean dad in my 30s. Between work and raising kids, my days are packed — but there's one hobby I've never given up: Nintendo games. And two franchises in particular have been with me my entire life: Pokemon and Mario.
 
-子供の頃からずっと一緒に歩んできたこの2つのシリーズは、今では我が子と一緒に楽しむ大切な家族コンテンツになりました。今日は、この2つのゲームがなぜ30代のパパにとってこれほど特別な存在なのか、そしてなぜお子さんがいるご家庭におすすめしたいのか、お話ししてみようと思います。
-
----
-
-## ポケモン — 初代から今まで、一作も欠かさずプレイしてきたシリーズ
-
-ポケットモンスターは、僕が小学生の頃にアニメを通じて初めて出会った作品です。ピカチュウとサトシの冒険に夢中になり、その世界をゲームで直接体験できると知った時のワクワク感は、今でも忘れられません。ゲームボーイを手に持ち、マサラタウンで最初のポケモンを選ぶあの緊張感、草むらで新しいポケモンに出会った時の興奮、ジムバッジを一つずつ集めていく達成感。その全てが僕をポケモンの世界にどっぷりとハマらせました。
-
-それ以降、金・銀、ルビー・サファイア、ダイヤモンド・パール、ブラック・ホワイト、X・Y、サン・ムーン、ソード・シールド、そしてスカーレット・バイオレットまで。一世代も欠かさず全シリーズをプレイしてきました。ゲーム機もゲームボーイからゲームボーイアドバンス、DS、3DS、そしてNintendo Switchへと変わりましたが、ポケモンを捕まえて育ててバトルする根本的な楽しさは、20年以上経っても変わっていません。むしろ世代が変わるたびに新しいポケモンと新しい地方が登場して、毎回新鮮なときめきを与えてくれました。
-
-今は子供と一緒にポケモンを楽しめるようになって、この上なく幸せです。子供がお気に入りのポケモンの名前をスラスラ言えるようになった姿を見ると自然と笑みがこぼれますし、一緒にポケモン図鑑を埋めていく時間は、僕たち親子だけの特別な遊びの時間になっています。子供が初めて伝説のポケモンを捕まえた時に歓声を上げた姿は、一生忘れられないと思います。
-
-自然と我が家にはポケモングッズや関連商品がたくさんあります。ポケモンのフィギュア、トレーディングカード、ぬいぐるみ、文房具、洋服、タンブラーまで…家のあちこちにポケモンが住んでいると言っても過言ではありません。子供の部屋にはピカチュウのぬいぐるみが置いてあり、僕のデスクの上にはリザードンのフィギュアが飾ってあります。妻には「ちょっと多すぎない？」と言われることもありますが、ポケモンのおかげで子供との会話のネタが尽きないので、それだけで十分な価値があると思っています。
-
-そして最近、とても嬉しいニュースがありました。ポケットモンスター ファイアレッド・リーフグリーンがNintendo Switchで発売されるという発表があったんです。2月27日のポケモン30周年記念「ポケモンデー」に合わせて配信が始まりますが、韓国では各20,000ウォン（日本では各2,000円）というお手頃な価格で楽しめます。韓国語には対応していませんが、僕は日本語版を購入して日本語の勉強も兼ねるつもりです。子供の頃の思い出をもう一度味わえるなんて、これ以上の喜びはありません。
+What started as my childhood obsessions have become something I share with my own kids. Today, I want to talk about why these two games are so special to a dad like me, and why I'd recommend them to any family.
 
 ---
 
-## マリオ — マリオカートだけは絶対に外せない
+## Pokemon — Every Generation, Without Fail
 
-マリオもポケモンに負けないくらい、僕にとって大切なゲームです。赤い帽子をかぶったヒゲの配管工がクッパからお姫様を救う物語。シンプルだからこそ魅力的なこの世界観は、何十年経っても飽きることがありません。
+I first discovered Pokemon through the anime as a kid. Ash and Pikachu's adventures hooked me completely, and when I realized I could live that adventure myself through the games, the excitement was indescribable. Picking my first Pokemon in Pallet Town on a Game Boy, the thrill of encountering a new Pokemon in the tall grass, the satisfaction of collecting gym badges one by one — all of it pulled me deep into the Pokemon world.
 
-ポケモンのように全シリーズを欠かさずプレイしているわけではありませんが、マリオカートだけは新作が出るたびに必ず購入しています。Nintendo Switchのマリオカート8 デラックスは、今でも我が家で一番よく遊ぶゲームです。追加コースパックまで購入して楽しんでいるので、コスパで言えばこれ以上のゲームはないと思っています。
+Since then, I've played every single generation. Gold & Silver, Ruby & Sapphire, Diamond & Pearl, Black & White, X & Y, Sun & Moon, Sword & Shield, and Scarlet & Violet. The hardware changed — Game Boy to Game Boy Advance to DS to 3DS to Nintendo Switch — but the core joy of catching, raising, and battling Pokemon hasn't changed in over 20 years. Each new generation brings fresh Pokemon, new regions, and that same spark of excitement all over again.
 
-マリオカートの魅力は、なんといっても家族みんなで一緒に楽しめるところです。Joy-Conを一つずつ持って、子供と並んでレースをする時間が本当に楽しいんです。子供はまだ慣れていなくてコースアウトしたり、アイテムをとんでもない方向に投げたりしますが、そんな一つ一つが笑いを生んでくれます。アシストハンドル機能やオートアクセル機能のおかげで、小さな子供でも無理なくプレイできるのがマリオカートの大きな強みです。操作が難しい子供でもコースを完走できるので、ゲームに対する達成感と楽しさを自然と感じられるんですよね。
+Now I get to share Pokemon with my kids, and it's pure happiness. Watching them rattle off their favorite Pokemon names, filling out the Pokedex together as a team — these are moments that belong just to us. I'll never forget the look on my kid's face when they caught their first legendary Pokemon.
 
-そして今年は、マリオファンとしてもう一つの大きな楽しみが待っています。マリオ映画の第2弾『スーパーマリオギャラクシー』です。2023年に公開された第1作『ザ・スーパーマリオブラザーズ・ムービー』が全世界で13億ドル以上の興行収入を記録する大ヒットを飛ばしましたが、今回は宇宙を舞台にしたさらにスケールアップした冒険が繰り広げられるそうです。ロゼッタやクッパJr.といった新キャラクターの登場も予告されていて、期待が膨らみます。日本では4月24日、韓国では4月29日に公開予定で、子供と一緒に映画館で観る日を今から心待ちにしています。第1作を映画館で観た時、スクリーンの中のマリオを見て子供が歓声を上げていた姿が今でも目に浮かびます。今回もきっと、子供にとって忘れられない体験になるはずです。
+Naturally, our house is overflowing with Pokemon merchandise. Figures, trading cards, plushies, school supplies, clothes, tumblers — Pokemon lives in every corner. My kid's room has a Pikachu plushie, and my desk has a Charizard figure. My wife occasionally says "isn't this a bit much?" — but Pokemon gives me endless conversation material with the kids, so I'd say it's well worth it.
 
----
-
-## ゲームを超えて — ポケモンとマリオが特別な理由
-
-ポケモンとマリオが単なるゲーム以上に、僕の生活の中で特別な存在である理由があります。
-
-一つ目は、ゲーム以外にも一緒に楽しめるコンテンツやグッズが本当に豊富だということです。ポケモンはアニメ、トレーディングカードゲーム、フィギュア、洋服、生活雑貨まで、その世界が無限に広がっています。マリオも映画、レゴシリーズ、テーマパーク、各種キャラクターグッズに至るまで、ゲームの外でも楽しめるものが溢れています。大阪のスーパーニンテンドーワールドも、いつか子供と一緒に必ず行きたい場所の一つです。子供の手を引いて、実際のマリオの世界を歩き回る想像をするだけでワクワクします。
-
-二つ目は、そしてこれが僕が一番強調したい理由なのですが、年齢制限なく子供と一緒に楽しめるということです。最近人気のゲームの中には、暴力的だったりセンシティブな内容が含まれていて、子供と一緒に遊ぶのが難しいものも多いです。しかしポケモンとマリオは全年齢対象の健全なコンテンツなので、子供のそばで安心してプレイでき、一緒に楽しむこともできます。パパの趣味がそのまま子供とのコミュニケーション手段になり、家族共通の関心事になるんです。ゲームを通じて子供と自然に会話し、協力し、時には楽しく競い合いながら絆を深められるのは、本当に大きな幸せだと思います。
+And recently, exciting news dropped: **Pokemon FireRed and LeafGreen are coming to Nintendo Switch**. Released to coincide with Pokemon's 30th anniversary on February 27th, they're priced at about $15 each — an absolute steal. Replaying my childhood memories on a modern console is a joy I didn't think I'd get to experience. I'm planning to play the Japanese version as a way to practice my Japanese too.
 
 ---
 
-## おわりに
+## Mario — Mario Kart Is Non-Negotiable
 
-30代になってパパになった今でも任天堂のゲームを手放せないのは、単なるノスタルジーだけではありません。ポケモンとマリオは、子供時代の思い出を蘇らせてくれると同時に、今この瞬間に子供と一緒に新しい思い出を作ってくれる架け橋のような存在です。
+Mario holds a place in my heart right alongside Pokemon. The red-capped plumber saving the princess from Bowser — a story so simple yet so endlessly charming, even after all these decades.
 
-ゲームボーイで一人でマサラタウンを冒険していた少年が、今では子供と一緒にカントー地方を旅し、マリオカートで笑い合いながらレースを楽しむパパになりました。そしてもうすぐ、映画館で子供の手を握りながらスーパーマリオギャラクシーを一緒に観るでしょう。
+I haven't played every single Mario game the way I have with Pokemon, but **Mario Kart is a day-one purchase every time**. Mario Kart 8 Deluxe on the Nintendo Switch is still the most-played game in our household. With the additional course DLC packs, the value per dollar is unbeatable.
 
-もし僕のように、子供と一緒に楽しめるゲームやコンテンツを探している方がいらっしゃったら、ポケットモンスターとマリオを強くおすすめします。子供との距離を縮めてくれて、家族みんなが笑顔になれる時間をプレゼントしてくれるはずです。任天堂のこの2つのフランチャイズが世代を超えて愛され続けるのには、確かな理由があるのです。
+The beauty of Mario Kart is that **the whole family can play together**. Handing a Joy-Con to my kid and racing side by side on the couch is genuinely fun. My kid still crashes into walls and launches items in random directions, but every moment of chaos becomes a moment of laughter. The assist steering and auto-accelerate features mean even small children can finish a race and feel that sense of accomplishment.
+
+And this year brings another big Mario event: **the second Mario movie, "Super Mario Galaxy."** The first film, "The Super Mario Bros. Movie" (2023), grossed over $1.3 billion worldwide, and the sequel promises an even bigger space-themed adventure featuring new characters like Rosalina and Bowser Jr. It releases on April 24 in Japan and April 29 in Korea — and I'm already counting the days until I can take my kids to see it. The memory of my kid's face lighting up watching the first movie on the big screen is still vivid. This one will be just as unforgettable.
+
+---
+
+## Beyond the Games — What Makes Pokemon and Mario Special
+
+Pokemon and Mario are more than just games to me. Here's why they hold such a special place in my life.
+
+First, **the ecosystem of content and merchandise is enormous**. Pokemon has the anime, trading card game, figures, clothing, and household goods — the world extends far beyond the games. Mario has the movies, LEGO sets, theme parks, and character merchandise. Super Nintendo World in Osaka is high on my bucket list — I can already imagine walking through Mario's world with my kids.
+
+Second — and this is the point I want to emphasize most — **these franchises are truly all-ages**. Many popular modern games contain violence or mature content that makes them inappropriate for young kids. But Pokemon and Mario are wholesome, family-friendly content that I can play right next to my children without worry. My hobby becomes a communication tool with my kids, and a shared family interest. Building bonds through games — cooperating, competing, laughing together — is a kind of happiness I didn't fully appreciate until I became a parent.
+
+---
+
+## Final Thoughts
+
+Being in my 30s and still hooked on Nintendo isn't just nostalgia. Pokemon and Mario bring my childhood memories back to life while simultaneously creating **new memories with my kids right now**. They're a bridge across generations.
+
+The boy who once adventured through Kanto alone on a Game Boy now travels that same region with his child. The kid who raced solo now laughs through Mario Kart with his own kids on the couch. And soon, we'll be sitting in a movie theater together, watching Super Mario Galaxy on the big screen.
+
+If you're a parent looking for games or content you can genuinely enjoy with your kids, I wholeheartedly recommend Pokemon and Mario. They'll bring your family closer and fill your home with laughter. There's a reason these two Nintendo franchises have been loved across generations — and that reason is very real.

@@ -1,96 +1,95 @@
 ---
-title: "AIは誰かに教えるということが、こんなに難しいとは思わなかった"
+title: "I Had No Idea How Hard It Would Be to Introduce AI to Other People"
 date: "2026-02-19"
 category: "ai"
-description: "AIを周りの人に紹介して痛感した「教えることの難しさ」。感動を共有したかっただけなのに、いつの間にか無料AI代行サービスになっていた体験談。"
+description: "What I learned from trying to share AI with people around me. I just wanted to spread the excitement, but somehow I ended up becoming a free AI concierge service."
 thumbnail: "/images/posts/stop-recommending-ai.jpg"
 tags:
-  - AI活用
-  - AIツール
-  - AI体験談
-  - テクノロジー
+  - AI Tools
+  - AI Experience
+  - Technology
 ---
 
-![AIを紹介する様子](/images/posts/stop-recommending-ai.jpg)
+![Introducing AI to others](/images/posts/stop-recommending-ai.jpg)
 
-毎朝、目を覚ましてスマホを開くと、まず最初にすることがあります。
+Every morning when I wake up and grab my phone, there's one thing I do first.
 
-それは、新しいAI技術のニュースを見て驚くことです。
+I look at the latest AI news and let myself be amazed.
 
-「えっ、こんなこともできるようになったの？」——そんな驚きと感動が、もはや僕の朝のルーティンになっています。それくらい、AIの進化は本当にすさまじいスピードで進んでいて、しかもただ「すごいね」と感心するだけの段階はとっくに過ぎています。今では実際に日常生活や会社の業務にもAIを取り入れ、自分でプログラムを作ったり、新しいAIサービスを試したり。毎日が発見の連続です。
-
----
-
-## 「この感動を誰かに伝えたい」という気持ち
-
-人間の本能なのかもしれません。自分が知った素晴らしいことを、周りの人にも教えてあげたくなる。自慢したいわけではなく、純粋に、家族や友人にも同じ感動を味わってほしい。AIを使えば暮らしがもっと便利になるし、仕事も楽になる。そんな善意の気持ちから、僕は周りの人たちにAIを紹介してきました。
-
-「このAI、文章作成がめちゃくちゃ上手だよ」「画像も作れるんだよ」——目を輝かせながら説明していた自分がいました。
-
-でも、もうやめることにしました。
+"Wait, it can do *that* now?" — that daily hit of wonder and excitement has become my morning routine. AI is evolving at a truly staggering pace, and we're well past the point of just being impressed from the sidelines. I'm now actively using AI in my daily life and at work, building my own programs, trying out new AI services. Every day brings new discoveries.
 
 ---
 
-## もう、AIを人に勧めることはしない
+## "I Want to Share This Excitement"
 
-こう書くと冷たく聞こえるかもしれませんが、これは経験から出した結論です。
+Maybe it's just human nature. When you discover something incredible, you want to tell the people around you. It's not about bragging — you genuinely want your family and friends to experience the same sense of wonder. AI makes life more convenient and work easier. With nothing but good intentions, I started introducing AI to the people in my life.
 
-AIを紹介すると、最初はみんな驚いてくれます。「えー、すごい！」と感嘆の声を上げてくれる。その瞬間は嬉しいんです。
+"This AI is amazing at writing." "It can even generate images." I'd explain all of this with wide eyes and obvious enthusiasm.
 
-でも、問題はその後。驚いてはくれるけれど、実際に自分の生活や仕事にAIを取り入れようとする人は驚くほど少ない。せいぜいチャット型AIに質問して答えを得る程度で満足してしまいます。僕のようにプログラムを作ったり、新しいツールを試したりするところまで踏み込む人はほとんどいません。
-
-それ自体は、人それぞれなので別にいいんです。問題は、次に起きることです。
+But I've decided to stop.
 
 ---
 
-## 「じゃあ、お前がやってくれ」問題
+## I'm Done Recommending AI to People
 
-AIを紹介すると、高い確率でこう言われます。
+I know that sounds cold, but it's a conclusion born from experience.
 
-「へー、すごいね。じゃあ、ちょっとそれで○○やってくれない？」
+When I introduce AI, everyone's initial reaction is great. "Wow, that's incredible!" they say. And in that moment, it feels good.
 
-気がつけば、それは完全に「僕の仕事」になっています。相手は自分で学ぶ気はなく、僕が代わりにやることを前提にしている。AIを紹介したつもりが、いつの間にか無料のAI代行サービスになっていたのです。
+But here's the problem: they're amazed, sure, but surprisingly few actually incorporate AI into their own lives or work. At most, they'll ask a chat-based AI a question or two and call it a day. Almost nobody takes the next step — building something with it, experimenting with new tools, really digging in.
 
-そして、さらに厄介な展開が待っています。AIが一発で完璧な結果を出さないと、こう言われます。
-
-「なんだ、一回じゃうまくいかないじゃん」「これ、私が思ってたのと違う」
-
-その批判の矛先が、AIではなく僕に向かってくる。「お前が『すごい』って言ったのに」——まるで僕がAIの品質を保証したかのように責められるのです。
+And honestly, that's fine. People are different. The real issue is what happens next.
 
 ---
 
-## AIとの「付き合い方」を知っているかどうか
+## The "So You Do It for Me" Problem
 
-ここに大きなギャップがあると気づきました。
+After introducing AI, there's a very high probability of hearing this:
 
-僕はAIを日常的に使っているので、AIが最初から完璧な答えを出すものではないことをよく知っています。AIは僕の頭の中にあるイメージを完全に読み取ることはできません。最初のアウトプットはあくまで「たたき台」です。
+"Oh wow, that's cool. So can you use it to do [something] for me?"
 
-そこから「ここをもう少しこうして」「こっちの方向で」と対話を重ねながら、本当に欲しかったものを一緒に見つけていく。むしろ、そのやり取りの中で自分自身が気づいていなかった「本当に欲しかったもの」が見えてくることすらあります。
+Before I knew it, it had become *my* job. The other person has no intention of learning it themselves — they've already assumed I'll handle it. What started as sharing a cool tool somehow turned me into a free AI concierge service.
 
-でも、多くの人はAIに対して最初の一回で完璧な結果を期待しています。しかも僕の紹介で使い始めた場合、その期待値はさらに上がる。「あなたが『すごい』と言ったんだから」というプレッシャーが、そのまま僕にのしかかってくるのです。
+And then comes the really tricky part. When AI doesn't produce a perfect result on the first try, I hear:
 
----
+"See, it didn't even work right the first time." "This isn't what I had in mind."
 
-## だから、自分だけで楽しむことにした
-
-こうした経験を重ねた結果、一つの結論に達しました。
-
-**もう、AIを人に勧めることはしない。家族にも、友人にも。**
-
-これは冷たいようで、実はお互いのためだと思っています。僕はこれからも毎朝AIの進化に驚き、自分の仕事や生活に活かしていきます。その楽しさは、自分の中だけで大切に味わうことにしました。
-
-正直に言うと、特に僕が愛用しているのAIは、「自分だけの秘密兵器」にしておきたい。こんなに素晴らしいツールがあることを、あまり広めたくないという、ちょっとした独占欲のようなものすら芽生えています。
+And the criticism isn't directed at the AI — it's aimed at me. "You're the one who said it was amazing" — as if I'd personally guaranteed the output quality.
 
 ---
 
-## AIは「自分で気づいた人」だけが使いこなせる
+## Knowing How to Work *With* AI Makes All the Difference
 
-最終的に思うのは、AIを本当に活用できるのは、自分自身で「これはすごい」と気づき、自分の意志で学び始めた人だけだということです。
+This is where I realized there's a huge gap.
 
-誰かに「すごいよ」と言われて触ってみるだけでは、AIの本当の力は引き出せません。うまくいかない時に諦めず、対話を繰り返し、試行錯誤を楽しめる人。そんな人だけが、AIの恩恵を最大限に受けることができます。
+Because I use AI every day, I know full well it doesn't produce perfect results on the first try. AI can't read the exact image in my head. The first output is always a starting point — a rough draft.
 
-だからもし周りにAIに興味を持っている人がいたとしても、僕からは積極的に教えません。本人が自分で興味を持ち、自分で調べ、自分で試し始めた時に、そっと背中を押す程度にとどめようと思います。
+From there, you refine through dialogue. "Adjust this part." "Go in this direction." Through that back-and-forth, you gradually arrive at what you actually wanted. Sometimes that iterative process even reveals what you *truly* needed, something you hadn't consciously realized yourself.
 
-AIとの出会いは、押し売りするものではなく、自分で見つけるものだから。
+But most people expect perfection from AI on the very first attempt. And when they started using it because of my recommendation, that expectation is even higher. "You said it was amazing" becomes pressure that lands squarely on my shoulders.
 
-そして僕は今日も、誰にも言わず、静かにAIと向き合い、一人で「すごい……」と感動しています。この秘密の楽しさが、たまらなく心地いいのです。
+---
+
+## So I'm Keeping It to Myself Now
+
+After enough of these experiences, I reached a conclusion.
+
+**I'm done recommending AI to anyone. Family included. Friends too.**
+
+It might sound selfish, but I believe it's actually better for everyone involved. I'll keep waking up every morning amazed by AI's progress, and I'll keep applying it to my work and life. I've just decided to savor that joy privately.
+
+Honestly, the AI tools I rely on most? I want to keep them as my "secret weapon." There's even a small part of me that doesn't want to spread the word about how good these tools really are — a little possessive, maybe, but there it is.
+
+---
+
+## AI Is Truly Powerful Only for Those Who Discover It Themselves
+
+What I've ultimately come to believe is that the only people who can truly harness AI are those who discover its potential on their own and choose to learn of their own volition.
+
+When someone just gives it a try because they were told "it's amazing," they'll never unlock AI's real power. The people who benefit most are the ones who don't give up when things go wrong, who keep iterating, who genuinely enjoy the trial and error.
+
+So even if someone around me shows interest in AI, I won't actively teach them anymore. I'll wait until they develop genuine curiosity on their own, start researching on their own, start experimenting on their own — and then maybe I'll give them a gentle nudge.
+
+Because discovering AI should be something you find for yourself, not something that's pushed on you.
+
+And so today, once again, I sit quietly with AI, telling no one, and whisper to myself, "This is incredible..." That secret pleasure is more satisfying than I can say.

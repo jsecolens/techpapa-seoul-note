@@ -1,61 +1,61 @@
 ---
-title: "連休が終わって出勤する気分というのは…"
+title: "The Holiday Is Over and It's Back to Work..."
 date: "2026-02-19"
 category: "daily"
-description: "ソルラル連休が終わり、再び始まる日常。子育てパパにとって連休は本当に「休み」だったのか。連休明け初出勤の率直な気持ちを綴ります。"
+description: "Seollal (Lunar New Year) break is over, and it's back to the daily grind. Was the holiday really a 'rest' for a dad with young kids? Honest thoughts on the first day back at work."
 thumbnail: "/images/posts/holiday-over-back-to-work.jpg"
 tags:
-  - 日常
-  - ソルラル
-  - 会社員
-  - 子育て
-  - 韓国生活
+  - daily life
+  - Seollal
+  - office worker
+  - parenting
+  - life in Korea
 ---
 
-![連休明けの通勤風景](/images/posts/holiday-over-back-to-work.jpg)
+![Back to work after the holiday](/images/posts/holiday-over-back-to-work.jpg)
 
-ソルラル（旧正月）の連休が終わりました。
+The Seollal (Lunar New Year) holiday is over.
 
-カレンダーを見ながら「え、もう？」という言葉が思わず口から出ます。週末を含めて約5日間の連休。数字だけ見ればなかなか長い休みのように感じますが、いざ過ぎてみると体感は2日くらいしかなかった気がします。時間というのは、休んでいる時だけやたらと早く流れるものですから。
+Looking at the calendar, the words "already?" slipped out of my mouth before I could stop them. About five days off, including the weekend. On paper, that's a decent break. But now that it's passed, it felt more like two days. Time only seems to move fast when you're resting.
 
-そして今日、また出勤です。
-
----
-
-## 連休は本当に「休み」だったのか
-
-正直に告白すると、今回の連休が完全な休息だったかと聞かれたら、自信を持って「はい」とは言えません。
-
-子育て中の親なら共感していただけると思います。連休というのは、子どもたちが幼稚園に行かない日でもあるのです。普段は幼稚園で思いっきりエネルギーを発散している子どもたちが、連休中はずっと家にいます。そのあり余るエネルギーを、親がまるごと一緒に受け止めなければなりません。
-
-「パパ、遊んで」「パパ、これやって」「パパ、暇～」
-
-この3つのフレーズが連休中ずっと絶え間なく繰り返されます。子どもと過ごす時間が大切じゃないと言いたいわけではありません。もちろん大切ですし、一緒に笑っている子どもの顔を見ると幸せです。ただ、体力的には会社で仕事をしているより消耗が大きいのが事実です。
-
-公園に行って、ご飯を作って、おやつを用意して、また遊んで、お風呂に入れて、寝かしつけて。これが一日のすべてです。連休が終わりに近づく頃には、「明日から出勤だ」という事実に妙な安堵感すら覚えました。正直な気持ちです。
+And today, it's back to work.
 
 ---
 
-## それでも連休ならではの特別さ
+## Was the Holiday Really a "Rest"?
 
-とはいえ、連休に意味がなかったわけではありません。普段の有給休暇と連休は明らかに違います。
+If I'm being honest, I can't confidently say this holiday was true rest.
 
-有給を取ると、休んでいるのは自分だけです。世の中は動いていて、メッセンジャーには業務通知が鳴り続け、「もしかして急ぎの案件かも」という不安が頭の片隅にずっと居座っています。体は休んでいるのに頭は休めていない状態。有給の限界です。
+Any parent with young kids will understand. A holiday also means the kids aren't at kindergarten. All that energy they usually burn off at school? During the break, it's all directed at you.
 
-一方、連休はみんなが休みます。取引先も、同僚も、上司もみんな一緒に休んでいるという事実がもたらす心理的な解放感は、想像以上に大きいものです。メッセンジャーが静かで、メールも来なくて、誰も自分を探さないあの静けさ。この時間だけは本当に仕事のストレスから解放されることができました。
+"Daddy, play with me." "Daddy, do this for me." "Daddy, I'm bored."
 
-体力的にはむしろ疲れた連休でしたが、精神的には確かに充電できた部分があります。体は疲れていても、心は少し軽くなったというか。
+These three phrases were on constant repeat for the entire break. I don't mean to say that time with the kids isn't important. Of course it is, and seeing them laugh makes me happy. But physically, it's more exhausting than a day at the office. That's just the truth.
+
+Going to the park, making meals, preparing snacks, playing again, bath time, bedtime. That's the entire day. By the end of the break, I felt a strange sense of relief knowing "tomorrow I go back to work." Honestly.
 
 ---
 
-## また始まる日常
+## But the Holiday Had Its Own Special Quality
 
-でも、もう現実です。
+That said, the break wasn't without meaning. Regular paid leave and a national holiday are clearly different things.
 
-目覚ましの音で目を覚まし、出勤の準備をして、子どもを幼稚園に送り届けて、会社に向かうあの慣れたルーティン。連休中にしばらく忘れていたこの感覚が、今朝一気に押し寄せてきました。パソコンを開けば溜まったメールが待っているでしょう。ため息が先に出ますが、仕方ありません。これが会社員の宿命ですから。
+When you take a personal day off, you're the only one resting. The world keeps moving, messages keep buzzing, and there's always that nagging worry: "what if something urgent comes up?" Your body is resting but your mind isn't. That's the limitation of personal leave.
 
-それでも一つ救いがあるとすれば、今日この気分を感じているのは自分だけではないということ。通勤途中にすれ違う人たちの表情を見ればわかります。みんな似たような顔をしています。まだ連休モードから抜け出せていない、少しぼんやりした表情。「自分だけじゃないんだな」という思いが、不思議な連帯感をくれます。
+During a national holiday, **everyone is resting**. Clients, colleagues, your boss — all off at the same time. The psychological relief that brings is bigger than you'd expect. Quiet messengers, no emails, nobody looking for you. During those moments, I was genuinely free from work stress.
 
-さあ、本当にまた始まりです。次の長い連休がいつなのか、もうカレンダーを確認してしまうのは会社員の本能でしょう。次の休みを楽しみにしながら、今日一日をまた生きてみます。
+So physically, I'm more tired after this break than before. But mentally, I definitely recharged. My body is tired, but my mind feels a little lighter.
 
-みなさん、連休明けの初出勤、お疲れさまでした。
+---
+
+## Back to the Daily Grind
+
+But now, it's reality again.
+
+The alarm goes off, I get ready for work, drop the kids at kindergarten, and head to the office. That familiar routine I'd briefly forgotten during the break hit me all at once this morning. I know a pile of emails is waiting on my computer. A sigh comes first, but what can you do? This is the fate of an office worker.
+
+If there's one consolation, it's knowing I'm not the only one feeling this way. I can see it on the faces of everyone on my commute. They all look the same — slightly dazed, still stuck in holiday mode. "I'm not alone in this" gives a strange sense of solidarity.
+
+Alright, here we go again. Checking the calendar for the next long holiday is just an office worker's instinct at this point. With the next break to look forward to, I'll get through another day.
+
+To everyone heading back to work after the holiday — hang in there.

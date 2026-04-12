@@ -62,7 +62,7 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
     <nav className="bg-surface rounded-lg p-4 shadow-sm">
       <h3 className="flex items-center font-bold text-text-primary mb-3">
         <List className="w-4 h-4 mr-2" />
-        目次
+        Contents
       </h3>
       <ul className="space-y-2">
         {headings.map(({ id, text, level }) => (

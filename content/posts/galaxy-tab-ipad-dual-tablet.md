@@ -1,128 +1,126 @@
 ---
-title: "私が使っているタブレット、Galaxy TabとiPad — 2台を併用する理由と実際の使い方"
+title: "My Two Tablets: Galaxy Tab and iPad -- Why I Use Both and How"
 date: "2026-02-20"
 category: "gadget"
-description: "Galaxy Tab S10 FEとM1 iPad Proを併用する理由と、それぞれの特徴・活用方法を紹介します。"
+description: "Why I use both a Galaxy Tab S10 FE and an M1 iPad Pro, and how each one fits into my daily workflow."
 thumbnail: "/images/posts/galaxy-tab-ipad-dual-tablet.jpg"
 tags:
-  - タブレット
+  - Tablet
   - Galaxy Tab
   - iPad
-  - ガジェット
+  - Gadgets
   - Samsung
   - Apple
 ---
 
-![Galaxy TabとiPadを併用する暮らし](/images/posts/galaxy-tab-ipad-dual-tablet.jpg)
+![Living with both Galaxy Tab and iPad](/images/posts/galaxy-tab-ipad-dual-tablet.jpg)
 
-最近はスマートフォン1台あれば、たいていのことはこなせる時代です。それでも私はタブレットPCを2台も使っています。Galaxy Tab（ギャラクシータブ）とiPad、この2台のデバイスをなぜ併用しているのか、そして実際にどう活用しているのかについてお話ししたいと思います。
-
----
-
-## デバイスごとに役割を分ける理由
-
-私の場合、ノートPC、デスクトップPC、スマートフォン、タブレットPCの役割をそれぞれ明確に分けて使っています。1台のデバイスですべてをこなそうとする方もいらっしゃいますが、私はむしろ各デバイスの役割をはっきり分けたほうが効率的だと感じています。
-
-まずノートPCは、仕事、開発、趣味などほぼすべての領域をカバーするメインデバイスです。出張先や外出先で作業するときも、ノートPC1台あればほとんどの作業は処理できます。Web開発をしたり、ブログ記事を書いたり、YouTube動画の編集をしたり、一番手が伸びるデバイスでもあります。
-
-デスクトップPCは、グラフィックボードを活かした高負荷な作業をするときに使います。映像のレンダリングや重いソフトを動かすとき、ノートPCでは限界がある作業があるのですが、そういうときにデスクトップの存在感が光ります。自宅でしか使えないので携帯性はありませんが、パフォーマンスだけは確実に担保してくれる存在です。
-
-スマートフォンは、仕事やスケジュール管理において最も欠かせないデバイスです。いつでもどこでも手元にあるので、急ぎの連絡や予定の確認、ちょっとしたメモをするときに真っ先に手が伸びます。最近はスマホだけでもかなりの業務をこなせますが、画面サイズの限界があるため、長時間の作業にはやや不便な面もあります。
-
-そしてタブレットPCは、学習、手書きメモ、YouTubeやNetflixなどのOTTコンテンツ視聴用として使っています。ノートPCやデスクトップほど重くなく、スマホよりもずっと大きな画面で使えるので、コンテンツを楽しんだり、軽く勉強したりするにはタブレットに勝るデバイスはないと思っています。
+These days, a single smartphone can handle most things. Even so, I use two tablet PCs -- a Galaxy Tab and an iPad. Let me explain why I use both and how I actually put them to work.
 
 ---
 
-## Galaxy Tab S10 FEとM1 iPad Pro
+## Why I Assign Different Roles to Each Device
 
-現在、Galaxy Tab S10 FEとM1 iPad Pro、この2台のタブレットを使っています。どちらも各ラインナップの最上位モデルではありません。Galaxy TabはS10 UltraやS10+ではなくFEモデル、iPadも最新のM5チップ搭載モデルではなく、M1チップ搭載のProモデルです。
+I keep clear distinctions between my laptop, desktop, smartphone, and tablets. Some people try to do everything on one device, but I find it more efficient to give each device a specific role.
 
-とはいえ、最上位モデルでないからといって不足を感じることはまったくありません。私がタブレットで行う作業を考えると、この2台の性能で十分に満足できる体験を提供してくれています。むしろコストパフォーマンスの面では、最上位モデルよりも合理的な選択と言えるかもしれません。
+My laptop is my primary workhorse, covering almost everything from work and development to hobbies. Whether I'm at the office or on the go, it handles web development, blog writing, YouTube video editing, and more.
 
-Galaxy Tab（ギャラクシータブ）は、Samsung（サムスン）が開発・販売しているAndroidベースのタブレットシリーズです。韓国ではiPadと並んでタブレット市場の二大ブランドとなっており、特にSシリーズはGalaxy Tabのプレミアムラインナップにあたります。その中でFE（Fan Edition）は、フラッグシップの主要機能をお手頃な価格で提供するモデルで、コスパを重視するユーザーに人気があります。日本でもSamsungのスマートフォンGalaxyシリーズは馴染みがあるかと思いますが、タブレットのGalaxy Tabもかなり完成度の高い製品です。
+My desktop comes into play for GPU-heavy tasks. Video rendering and demanding software push laptops to their limits, and that's where the desktop shines. It's not portable, but it delivers consistent, reliable performance.
 
-Galaxy Tab S10 FEは2025年4月に発売されたモデルで、SamsungのExynos 1580チップセットを搭載しています。10.9インチのディスプレイに8GB RAMを備え、厚さわずか6.0mmという非常にスリムなデザインが特徴です。前モデルのS9 FEと比べて厚さが0.5mm薄くなり、重さも497gに軽量化されたので、持ち運びがぐっと楽になりました。さらにIP68等級の防水・防塵にも対応しているので、さまざまな環境で安心して使えるのも気に入っているポイントです。
+My smartphone is the device I can't live without for work and schedule management. It's always within reach for urgent messages, checking appointments, and quick notes. While phones can handle a surprising amount of work these days, the screen size limits extended productivity.
 
-一方、M1 iPad Proは2021年発売のモデルですが、今でも現役として十分に活躍してくれています。M1チップはAppleがMacBookに搭載していたチップをそのままiPadに載せたもので、発売当時は「タブレットにここまでの性能が必要なのか」と話題になったほどの破格なスペックでした。8コアCPUと8コアGPU、8GB RAMを搭載し、120Hz ProMotionディスプレイはスクロールや手書き時に非常に滑らかな体験を提供してくれます。最新のM5チップ搭載モデルと比べるとベンチマークスコアでは差がありますが、正直なところ実際の使用感で体感できる差はそれほど大きくありません。
-
-韓国のコミュニティでもM1 iPad Proユーザーの間では「まだまだ現役」という評価が圧倒的です。OTT視聴、ノート筆記、PDF閲覧、電子書籍リーダーとしてなら、あと数年は余裕で使い続けられるパフォーマンスです。
+And then there are tablets -- my go-to for studying, handwritten notes, and streaming content on YouTube and Netflix. Not as heavy as a laptop or desktop, yet offering a much larger screen than a phone, tablets are unbeatable for consuming content and casual study.
 
 ---
 
-## Galaxy Tab S10 FEの注目ポイント
+## Galaxy Tab S10 FE and M1 iPad Pro
 
-Galaxy Tab S10 FEを使っていて特に気に入っているポイントをいくつか紹介します。まず、Galaxy AI機能が搭載されている点です。「かこって検索（Circle to Search）」機能を使えば、画面上の気になる部分を指で丸く囲むだけで関連情報をすぐに検索できます。タブレットの大画面でこの機能を活用すると、検索結果を確認しながら同時に別の作業もできるので、マルチタスクがかなり快適になります。
+I currently use a Galaxy Tab S10 FE and an M1 iPad Pro. Neither is the top-of-the-line model in its lineup -- the Galaxy Tab is the FE (Fan Edition) rather than the S10 Ultra or S10+, and the iPad runs on the M1 chip rather than the latest M5.
 
-microSDカードに対応しているのもGalaxy Tabの大きなメリットです。最大2TBまで拡張できるため、講義動画や学習資料をたっぷり保存しておけます。一方のiPadは外部メモリスロットがないため、購入時にストレージ容量の選択を慎重にする必要があります。
+That said, I never feel like I'm missing out. For what I do on tablets, both devices deliver more than enough performance. In terms of value for money, they might actually be smarter picks than the flagships.
 
-バッテリーも8,000mAhと大容量で、一日中使ってもバッテリー切れの心配がほとんどありません。45W急速充電に対応しているため、充電時間も思ったより短く済みます。
+The Galaxy Tab S10 FE launched in April 2025 with Samsung's Exynos 1580 chipset. It features a 10.9-inch display, 8GB of RAM, and an impressively slim 6.0mm profile. Compared to the previous S9 FE, it's 0.5mm thinner and lighter at 497g, making it noticeably easier to carry. IP68 water and dust resistance is a nice bonus for peace of mind.
 
----
+The M1 iPad Pro, released in 2021, is still going strong. The M1 chip -- the same one Apple put in MacBooks -- brought desktop-class performance to a tablet. With an 8-core CPU, 8-core GPU, 8GB RAM, and a buttery-smooth 120Hz ProMotion display, it still holds up remarkably well. Sure, the latest M5 models benchmark higher, but in real-world use, the difference is barely noticeable.
 
-## M1 iPad Proならではの魅力
-
-M1 iPad Proにも、独自の強力な魅力があります。まず真っ先に挙げたいのが120Hz ProMotionディスプレイです。画面をスクロールしたりペンで書いたりするとき、60Hzディスプレイとは明らかに異なる滑らかさを感じられます。一度120Hzに慣れてしまうと、60Hzの画面がやや硬く感じられるほどです。
-
-Thunderbolt／USB4ポートに対応しているのもProモデルならではの特権です。外付けSSDを接続したり外部モニターに出力したりする際に、高速な転送速度を実感できます。また、Face IDによるロック解除はパスワード入力よりもはるかに便利でスピーディーです。
-
-iPadOSのアプリエコシステムも見逃せない強みです。GoodNotesやNotabilityといったノートアプリの完成度が非常に高く、Procreateのようなドローイングアプリに至ってはiPadでしか味わえないクオリティを誇っています。こうしたアプリがあるからこそ、iPadを手放せないというのが本音です。
+The consensus among M1 iPad Pro owners is that it's still very much a current device. For streaming, note-taking, reading PDFs, and e-books, it has years of life left.
 
 ---
 
-## 書き心地の違い：SペンvsApple Pencil 2
+## Galaxy Tab S10 FE Highlights
 
-タブレットPCを使う大きな理由のひとつが、ペンによる手書きです。私はGalaxy Tabでは本体に付属するSペンを、iPadでは別売りのApple Pencil 第2世代を使っています。
+A few things I particularly love about the Galaxy Tab S10 FE. First, the Galaxy AI features -- "Circle to Search" lets you circle anything on screen to instantly search for related information. On a tablet's large display, this becomes even more useful since you can view search results while multitasking.
 
-この2本のペンの書き心地は、はっきりと異なります。Galaxy TabのSペンは、画面上でペン先がほんのり引っかかるような、いわば「もちっとした」感触があります。まるで紙の上に実際にペンを当てて書いているかのような手応えがあり、文字をたくさん書く方にはかなり魅力的な書き味です。Galaxy Tab S10 FEには標準でSペンが同梱されているのも大きなメリットで、追加費用なしですぐに手書きを始められます。
+MicroSD card support is another major advantage. With expansion up to 2TB, I can store plenty of lecture videos and study materials. The iPad, by contrast, has no external storage slot, so you have to choose your storage capacity carefully at purchase.
 
-一方、Apple Pencil 第2世代は画面上でよりスムーズに滑る感覚があります。手書きよりもドローイングや素早いメモに向いている印象で、側面をダブルタップするとツールが切り替わる機能も便利です。iPad本体の側面にマグネットで吸着させながらワイヤレス充電できるスタイルもスマートです。
-
-個人的にはGalaxy Tabのもちっとした書き味のほうが好みです。会議ノートを取ったり、学習資料に書き込みをしたりするときは、Sペンのあの適度な抵抗感がきちんとした文字を書くのに適しています。もちろんこれは個人の好みの問題なので、機会があれば実際に両方のペンを試してみることをおすすめします。
+The 8,000mAh battery is generous too -- I can use it all day without worrying about running out. And with 45W fast charging, top-ups don't take long at all.
 
 ---
 
-## タブレットPCの実際の活用シーン
+## What Makes the M1 iPad Pro Special
 
-2台のタブレットがあると、日常生活で本当にさまざまな場面で活用できます。私が実際にタブレットを使っている主なシーンをご紹介します。
+The M1 iPad Pro has its own distinct strengths. The 120Hz ProMotion display is the first thing that comes to mind. Scrolling and writing with a stylus feels noticeably smoother than on a 60Hz screen. Once you get used to 120Hz, going back to 60Hz feels almost jarring.
 
-1つ目は学習です。新しい技術を勉強したり資格試験の準備をしたりするとき、タブレットは最高の学習ツールになります。PDFの教材を開いてそのまま書き込んだり、重要な箇所に蛍光ペンでハイライトを入れたり、余白にメモを書き加えたりできます。紙の教材と違っていつでも修正可能で、検索もできるため、学習効率がぐんと上がります。
+The Thunderbolt/USB4 port is a Pro-exclusive perk. Connecting external SSDs or outputting to external monitors is fast and seamless. Face ID is also far more convenient and quicker than typing a password.
 
-2つ目は会社での会議ノートです。会議中にノートPCを開いてタイピングするのもありですが、タブレットにペンで手書きするほうがずっと自然で、図や絵を描きながらメモできるというメリットがあります。特にGalaxy Tabの「Samsung Notes」アプリは手書き認識機能が優秀で、後から手書き文字をテキストに変換することも可能です。
-
-3つ目は電子書籍です。タブレットの大きな画面は電子書籍を読むのに最適です。スマホでも電子書籍は読めますが、画面が小さいので長時間読むと目が疲れやすくなります。10インチ以上のタブレット画面なら、実際の紙の本に近いサイズでテキストを表示できるため、快適に読書を楽しめます。
-
-4つ目はNetflixやYouTubeなどのOTTコンテンツ視聴です。実はタブレットを購入する最大の理由のひとつがこれではないでしょうか。ベッドに寝転がってNetflixを観たり、移動中にYouTubeを視聴したりするとき、スマホよりもはるかに没入感のある視聴体験ができます。ノートPCやデスクトップはベッドで気軽に使いにくく、スマホは画面がちょっと小さく感じる。タブレットはまさにその隙間をぴったり埋めてくれるデバイスです。
-
-このように、ノートPCやデスクトップは大きすぎて重い、スマホは画面が小さいと感じるとき、タブレットなら学習にも趣味にもちょうどいいサイズ感とパフォーマンスを提供してくれます。私にとってタブレットは、ないと何か物足りないと感じるくらい、日常に欠かせないデバイスになっています。
+Then there's the iPadOS app ecosystem. Note-taking apps like GoodNotes and Notability are incredibly polished, and drawing apps like Procreate offer a quality experience you simply can't get anywhere else. These apps are honestly a big reason why I can't give up my iPad.
 
 ---
 
-## Notionですべてのデバイスを連携する暮らし
+## Writing Feel: S Pen vs. Apple Pencil 2
 
-タブレットを含めて複数のデバイスを使うとき、最も重要なのはデバイス間の連携です。いくら良いデバイスを何台持っていても、それぞれで作ったデータがつながっていなければ、かえって不便さが増すだけです。
+One major reason to use a tablet is handwriting with a stylus. I use the included S Pen with my Galaxy Tab and a separately purchased Apple Pencil 2nd generation with my iPad.
 
-私はこの問題をNotion（ノーション）というアプリで解決しています。NotionはPC、スマートフォン、タブレットなどほぼすべてのプラットフォームで使えるオールインワンのワークスペースアプリです。ノート、タスク管理、データベース、プロジェクト管理など多彩な機能をひとつのアプリで提供してくれるため、これさえあればデバイス間の連携問題はすっきり解決します。
+The writing experience is distinctly different. The Galaxy Tab's S Pen has a slight grip on the screen -- a somewhat "sticky" feel, like pen on paper. It's great for writing lots of text and feels very natural. A big plus: the S Pen comes bundled with the Galaxy Tab S10 FE at no extra cost.
 
-たとえば、通勤中にスマホで思いついたアイデアをNotionにさっとメモしておけば、オフィスに着いてからノートPCで同じNotionページを開いて続きの作業ができます。夜、自宅でタブレットを使ってその日の会議内容を整理したり、翌日のToDoリストを作成したりすることもできます。
+The Apple Pencil 2nd generation glides more smoothly across the screen. It feels better suited for drawing and quick sketches. The double-tap tool-switching gesture on the side is handy, and the magnetic attachment with wireless charging on the iPad's edge is elegantly designed.
 
-こうしてNotionを軸にすべてのデバイスを連携しておくと、いつでもどこでもアイデアが浮かんだときや記録すべきことが出てきたときに即座に対応できて、本当に便利です。特にブログ記事のネタやYouTubeコンテンツの企画などは突然ひらめくことが多いのですが、その都度Notionにメモしておけば、後から整理するときにかなりスムーズです。
-
-Notion以外にも、GoogleドライブやOneDriveといったクラウドストレージを併用すれば、ファイル共有の面でもデバイスの境界がほぼなくなります。Galaxy Tabで作業したファイルをiPadで開いたり、ノートPCで作ったプレゼン資料をタブレットで確認したりすることも、まったく問題なくできます。
+Personally, I prefer the Galaxy Tab's paper-like writing feel. When taking meeting notes or annotating study materials, the S Pen's moderate resistance helps me write neater characters. But this is very much a personal preference -- I'd recommend trying both if you get the chance.
 
 ---
 
-## Galaxy TabとiPad、本当に2台必要なのか？
+## How I Actually Use My Tablets
 
-正直に言うと、「タブレット2台って本当に必要？」「1台で十分じゃない？」とよく聞かれます。合理的に考えればもっともな話で、1台でもカバーできる用途ではあります。
+Having two tablets opens up a surprising number of use cases in daily life. Here are my main ones.
 
-しかし、AndroidベースのGalaxy TabとiPadOSベースのiPadはそれぞれ異なるエコシステムを持っているため、両方のプラットフォームを体験できること自体が大きなメリットだと感じています。Galaxy TabはSamsungスマートフォンとの連携が非常に優れていて、ファイル管理の自由度も高いです。iPadはアプリの最適化レベルが高く、GoodNotesやProcreateといったiPad専用アプリは秀逸なクオリティを誇っています。
+First, studying. When learning new technologies or preparing for certifications, a tablet becomes an amazing study tool. I can open PDF textbooks and write directly on them, highlight key passages, and add margin notes. Unlike paper materials, everything is searchable and editable, which significantly boosts study efficiency.
 
-また、私のようにガジェットやテクノロジーに興味がある人間にとっては、2つのプラットフォームを併用しながらそれぞれの長所・短所を比較すること自体がひとつの楽しみでもあります。ブログやYouTubeでコンテンツを制作するうえでも、両方のプラットフォームを理解していることは大きな強みになります。
+Second, meeting notes at work. While typing on a laptop during meetings works fine, handwriting on a tablet with a stylus feels much more natural, especially when I need to sketch diagrams. Samsung Notes on the Galaxy Tab has excellent handwriting recognition and can even convert handwritten text later.
+
+Third, e-books. A tablet's large screen is ideal for reading. Smartphones can display e-books too, but the small screen causes eye fatigue during long reading sessions. A 10-inch-plus tablet screen displays text at nearly the same size as a physical book, making the reading experience far more comfortable.
+
+Fourth, streaming content. Let's be honest -- this is probably one of the top reasons anyone buys a tablet. Watching Netflix in bed or YouTube on the go is so much more immersive on a tablet than a phone. Laptops and desktops aren't exactly bed-friendly, and phone screens feel a bit small. Tablets fill that gap perfectly.
+
+In short, when laptops feel too big and heavy, and phones feel too small, tablets offer just the right balance of size and performance for both work and play. They've become an indispensable part of my daily life.
 
 ---
 
-## まとめ
+## Using Notion to Connect All My Devices
 
-Galaxy TabとiPad、異なる2つのプラットフォームのタブレットを併用していて感じるのは、どちらか一方が絶対的に優れているというよりも、それぞれの良さが際立っているということです。Galaxy Tabのもちっとした書き味のSペンと自由度の高いファイル管理、iPadの滑らかなディスプレイと充実したアプリエコシステム。この2台を使い分ける楽しさがあります。
+When you use multiple devices including tablets, the most critical thing is keeping them in sync. No matter how many great devices you own, if your data isn't connected across them, it only adds frustration.
 
-何よりも、タブレットPCというデバイスそのものが、ノートPCとスマートフォンの間の隙間をぴったり埋めてくれる存在だということを日々実感しています。学習や手書きメモ、OTTコンテンツの視聴、そしてNotionを通じたデバイス間の連携まで。これからもこの2台のタブレットとともに、効率的で楽しいデジタルライフを続けていきたいと思います。
+I solved this with Notion -- an all-in-one workspace app that runs on virtually every platform: PC, smartphone, and tablet. It handles notes, task management, databases, and project management all in one place, making cross-device workflow seamless.
+
+For example, I can jot down an idea on my phone during my commute, then open the same Notion page on my laptop at the office to continue working. In the evening, I can use my tablet at home to organize the day's meeting notes or create tomorrow's to-do list.
+
+With Notion as the hub connecting all my devices, I can capture ideas and information instantly, whenever and wherever they come up. Blog post ideas and YouTube content plans tend to strike at random moments, and having Notion ready means organizing them later is a breeze.
+
+Beyond Notion, cloud storage services like Google Drive and OneDrive make file sharing across devices virtually seamless. Opening a file created on the Galaxy Tab on my iPad, or reviewing a presentation made on my laptop on a tablet -- it all just works.
+
+---
+
+## Do You Really Need Two Tablets?
+
+Honestly, people ask me this all the time: "Two tablets -- is that really necessary? Wouldn't one be enough?" It's a fair point, and rationally speaking, one could cover most use cases.
+
+But since the Android-based Galaxy Tab and the iPadOS-based iPad each have their own ecosystem, being able to experience both platforms is itself a significant benefit. The Galaxy Tab pairs beautifully with Samsung smartphones and offers flexible file management. The iPad excels in app optimization, with standout iPad-exclusive apps like GoodNotes and Procreate.
+
+For someone like me who's genuinely interested in gadgets and technology, using both platforms and comparing their strengths and weaknesses is part of the fun. It's also a real advantage when creating content for a blog or YouTube -- understanding both ecosystems gives you a broader perspective.
+
+---
+
+## Wrapping Up
+
+Using tablets from two different platforms -- Galaxy Tab and iPad -- what I've come to appreciate is that neither is categorically better. Each has its own standout qualities. The Galaxy Tab's paper-like S Pen feel and flexible file management. The iPad's silky-smooth display and rich app ecosystem. There's genuine joy in switching between the two.
+
+Above all, I'm constantly reminded that tablets perfectly fill the gap between laptops and smartphones. From studying and handwritten notes to streaming content and cross-device sync through Notion -- I plan to keep enjoying this efficient, fun digital life with both tablets for a long time to come.

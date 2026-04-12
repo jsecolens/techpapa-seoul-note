@@ -1,113 +1,113 @@
 ---
-title: "Claude Codeでウェブサイトを作ってみた体験記 ― 自然言語だけでどこまでできるのか？"
+title: "Building a Website with Claude Code — How Far Can Natural Language Take You?"
 date: "2026-02-16"
 category: "ai"
-description: "Claude Codeを使って自然言語だけでウェブサイトを作ってみた体験記。サイト構造の設計からデザイン、機能実装まで、AIコーディングツールの実力を率直にレポートします。"
+description: "My experience building a website using nothing but natural language with Claude Code. From site structure and design to feature implementation, here's an honest look at what this AI coding tool can really do."
 thumbnail: "/images/posts/claude-code-website-creation.jpg"
 tags:
   - Claude Code
   - AI
-  - ウェブサイト制作
-  - 自然言語プログラミング
+  - Web Development
+  - Natural Language Programming
   - Anthropic
 ---
 
-![Claude Codeでウェブサイトを作ってみた体験記](/images/posts/claude-code-website-creation.jpg)
+![Building a website with Claude Code](/images/posts/claude-code-website-creation.jpg)
 
-最近、AI技術の進化が本当に目覚ましいです。ChatGPTやGeminiなど、さまざまなAIツールが登場し、私たちの日常や仕事のやり方に大きな変化をもたらしています。そんな中、Anthropic社が提供する「Claude Code」というツールを使って、実際にウェブサイトを作ってみました。
+The pace of AI advancement lately has been truly remarkable. With tools like ChatGPT, Gemini, and others reshaping how we live and work, I decided to try building an actual website using Anthropic's "Claude Code."
 
-結論から言うと、**自然言語だけでウェブサイトの90%は作れる時代が、もう来ています。**
+The bottom line? **The era where you can build 90% of a website using just natural language is already here.**
 
-今回は、その体験を通じて感じたことを率直にお伝えします。
-
----
-
-## Claude Codeとは？
-
-Claude Codeは、Anthropic社が開発したAIコーディングツールです。ターミナル上で動作し、自然言語で指示を出すだけでコードを生成・編集・実行してくれます。一般的なチャット型AIとは異なり、実際のプロジェクトフォルダにアクセスして、ファイルの作成や修正をリアルタイムで行ってくれるのが特徴です。
-
-簡単に言えば、「こんなウェブサイトを作りたい」と日本語で伝えるだけで、HTMLやCSS、JavaScriptはもちろん、ReactやNext.jsといったモダンなフレームワークを使ったサイトまで構築してくれます。
+Here's my honest account of the experience.
 
 ---
 
-## 実際に作ってみました ― 自然言語だけでここまでできます
+## What Is Claude Code?
 
-最初は半信半疑でした。本当に自然言語だけで、ちゃんとしたウェブサイトが作れるのだろうかという疑問がありました。
+Claude Code is an AI coding tool developed by Anthropic. It runs in the terminal and generates, edits, and executes code based on natural language instructions. Unlike typical chat-based AI, it actually accesses your project folder and creates or modifies files in real time.
 
-「トップページにはヒーローセクションを配置して、その下にカテゴリー別のカード型レイアウトを並べてほしい。全体的にモダンでクリーンな雰囲気にしてほしい。」
-
-このように自然言語で伝えただけなのに、Claude Codeはサイト構造の提案から始めてくれました。ページ構成、ナビゲーションの設計、レスポンシブデザインの対応まで、まるで経験豊富なウェブデザイナーと打ち合わせをしているかのようでした。
-
-### サイト構造の提案が的確です
-
-驚いたのは、サイト構造の提案力です。単に「作って」と言っただけなのに、トップページにヒーローセクションとカテゴリーカードを配置し、各カテゴリーの詳細ページを個別に構成してくれました。お問い合わせページも自動的に含めてくれましたし、フッターにはプライバシーポリシーとサイトマップまで入れてくれました。
-
-SEOを意識したメタタグの設定や、OGP（Open Graph Protocol）の設定まで自動的に組み込んでくれたのは、正直言って予想外でした。こういった部分は、普通はウェブ開発の経験がある人が意識的にケアする領域ですが、AIが勝手にやってくれるのはかなり印象的でした。
-
-### デザインのクオリティが高いです
-
-「モダンでクリーンなデザインにしてほしい」と伝えただけで、配色、フォントサイズ、余白のバランスまで整ったデザインが仕上がりました。グラデーションの使い方やホバーエフェクトなど、細かいUIの部分も自然に仕上がっていて、プロのデザイナーが作ったものと比べても遜色ないレベルでした。
-
-さらに、「もう少し温かみのある色合いにしてほしい」「ボタンをもう少し大きくしてほしい」といった修正依頼にも即座に対応してくれます。本当にリアルタイムでデザイナーとやり取りしている感覚でした。この部分がClaude Codeの最大の強みだと思います。一度で完璧な成果物が出なくても、会話を重ねながら少しずつ思い通りの方向に仕上げていける点が、実際の開発現場のコミュニケーションと非常に似ています。
-
-### 機能の実装もスムーズです
-
-デザインだけでなく、機能面でも優秀でした。例えば、ダークモード切り替え機能、レスポンシブ対応（スマートフォン・タブレット・PC）、画像のlazy loading、スムーズスクロール、フォームのバリデーション、外部APIとの連携まで、自然言語の指示だけで実装できました。
-
-特にAPI連携は、従来であればかなりの技術知識が必要だった部分です。それが「このAPIを使って、ユーザーがアップロードした画像を分析する機能をつけてほしい」と伝えるだけで実装されたのには、本当に驚きました。自然言語の一文が数十行のコードに変換されていく過程を見るのは、なかなか新鮮な体験でした。
+In simple terms, you just describe the website you want in plain English, and it builds everything — HTML, CSS, JavaScript, and even full sites using modern frameworks like React and Next.js.
 
 ---
 
-## 90%は作れます。でも残りの10%があります
+## What I Built — Here's How Far Natural Language Can Go
 
-ここまで読むと、「もうウェブ制作は完全にAIに任せられるのでは？」と思われるかもしれません。確かに、**サイトを「作る」という部分に関しては、90%以上AIで対応できる**と感じました。
+I was skeptical at first. Could natural language instructions really produce a proper website?
 
-しかし、残りの10%、つまり**サイトを実際に公開するための作業**には、まだ人間の手が必要です。
+"Put a hero section on the homepage, then lay out category cards below it. Make the overall vibe modern and clean."
 
-### サーバーの契約とドメインの取得
+That's all I said, and Claude Code jumped right in — starting with a site structure proposal. Page layout, navigation design, responsive design considerations — it felt like having a meeting with an experienced web designer.
 
-ウェブサイトを公開するためには、サーバー（ホスティングサービス）の契約とドメインの取得が必要です。VercelやNetlifyなどのホスティングサービスへのデプロイ自体は、Claude Codeがコマンドを教えてくれますが、**アカウントの作成や決済は自分で行う必要があります。**
+### Impressive Site Structure Proposals
 
-これは当然のことです。個人情報の入力やクレジットカードでの支払いをAIに任せるわけにはいきません。セキュリティの観点からも、この部分は人間が直接操作すべき領域です。
+What surprised me most was the quality of its structural suggestions. I just said "build it," and it placed a hero section and category cards on the homepage, created individual detail pages for each category, automatically included a contact page, and even put privacy policy and sitemap links in the footer.
 
-### ドメインのDNS設定
+It also automatically incorporated SEO meta tags and OGP (Open Graph Protocol) settings, which honestly caught me off guard. These are things that usually require conscious attention from an experienced developer, so having AI handle them proactively was quite impressive.
 
-ドメインを購入した後のDNS設定も、自分で行う必要があります。Claude Codeは「こう設定してください」と手順を案内してくれますが、実際にドメインレジストラの管理画面にログインして設定するのは自分です。
+### High-Quality Design
 
-### SSL証明書の設定
+I only said "make it modern and clean," and out came a well-balanced design with thoughtful color choices, font sizing, and spacing. The gradient usage, hover effects, and other subtle UI touches looked natural — honestly comparable to work from a professional designer.
 
-HTTPSでの通信を可能にするSSL証明書の設定も同様です。多くのホスティングサービスでは自動設定されますが、カスタムドメインを使う場合は追加の設定が必要なこともあります。
+Better yet, it instantly responds to tweaks like "make the colors a bit warmer" or "make the buttons slightly bigger." It truly feels like working with a designer in real time. This is Claude Code's greatest strength, in my opinion. Even if the first output isn't perfect, you can refine it through conversation, gradually shaping it in the direction you want — much like communication in a real development team.
 
----
+### Smooth Feature Implementation
 
-## AIがまだ越えられない壁 ― でも時間の問題かもしれません
+It wasn't just design — the functional side was equally impressive. Dark mode toggle, responsive design (phone, tablet, desktop), image lazy loading, smooth scrolling, form validation, external API integration — all implemented through natural language instructions alone.
 
-サーバー契約、ドメイン取得、決済処理。これらは個人情報やお金が絡む部分なので、現時点ではAIが直接操作することはできません。
-
-しかし、これは技術的な限界というよりも、**セキュリティとプライバシーの観点からの制約**だと考えています。将来的に、AIに安全に認証情報を預けられる仕組みが整えば、この部分も自動化される可能性は十分にあります。
-
-実際、最近ではAIエージェントがブラウザを操作してタスクを実行するツールも登場し始めています。数年後には「サイトを作って、公開まで全部やっておいて」と一言伝えるだけで完結する時代が来るかもしれません。
+API integration in particular used to require significant technical knowledge. But I simply said "add a feature that analyzes images uploaded by users using this API," and it was done. Watching a single sentence of natural language transform into dozens of lines of code was a genuinely novel experience.
 
 ---
 
-## サイト制作そのものは、もう十分なレベルです
+## 90% Is Achievable. But There's Still That Last 10%
 
-改めて強調したいのは、**サイト制作そのものに関して、Claude Codeは本当に優秀だ**ということです。
+Reading this far, you might think, "So we can just leave everything to AI now?" And yes, **when it comes to actually building the site, AI can handle 90% or more.**
 
-サイト構造の設計は的確な提案をしてくれますし、UI/UXデザインはプロ級の仕上がりを見せてくれます。フロントエンドの実装はモダンな技術スタックに対応していますし、バックエンドの連携もAPI統合までスムーズに処理してくれます。コードの品質も読みやすく、保守しやすい形で書いてくれます。
+However, the remaining 10% — the work required to **actually publish the site** — still needs a human touch.
 
-一般的なコーポレートサイト、ポートフォリオサイト、ブログ、ランディングページなどであれば、自然言語の指示だけで十分に実用レベルのサイトが完成します。
+### Server Contracts and Domain Registration
+
+To publish a website, you need a hosting service and a domain name. Claude Code can tell you the commands for deploying to services like Vercel or Netlify, but **creating accounts and making payments is something you have to do yourself.**
+
+This is perfectly reasonable. You wouldn't want an AI handling your personal information or credit card payments. From a security standpoint, this is firmly in human territory.
+
+### Domain DNS Configuration
+
+DNS settings after purchasing a domain also require your direct involvement. Claude Code can walk you through the steps, but you're the one logging into the domain registrar's dashboard to make the changes.
+
+### SSL Certificate Setup
+
+Similarly, SSL certificate configuration for HTTPS is something you handle yourself. Many hosting services set this up automatically, but custom domains may require additional configuration.
 
 ---
 
-## まとめ ― 自然言語でウェブサイトを作る時代は、もう始まっています
+## Walls AI Can't Yet Cross — But Maybe Not for Long
 
-Claude Codeを使ったウェブサイト制作の体験を通じて、AIによるウェブ開発は「未来の話」ではなく「今、ここにある現実」だと実感しました。
+Server contracts, domain registration, payment processing — these involve personal information and money, so AI can't handle them directly at this point.
 
-自然言語で自分のイメージを伝えるだけで、構造、デザイン、機能が形になっていきます。その過程は、まるで優秀なパートナーと一緒にプロジェクトを進めているかのようでした。
+But I think this is less of a technical limitation and more of a **security and privacy constraint**. Once we develop safe mechanisms for entrusting AI with authentication credentials, there's real potential for automating these steps too.
 
-もちろん、デプロイやドメイン設定など、まだ人間の手が必要な部分は残っています。しかし、サイト制作の核心 ― つまり「何を作るか」を決めて「どう作るか」を実行する部分 ― については、AIが十分に頼れるレベルに達しています。
+In fact, AI agents that can operate browsers and execute tasks are already starting to emerge. In a few years, we might just say "build the site and deploy it, handle everything" and it'll be done.
 
-ウェブサイトを作りたいけれど技術的なハードルを感じている方、あるいは開発コストを抑えたい方にとって、Claude Codeは間違いなく強力な選択肢になるでしょう。
+---
 
-自然言語でウェブサイトを作る時代。その扉は、もう開いています。
+## Site Building Itself Is Already There
+
+Let me emphasize again: **when it comes to building the site itself, Claude Code is genuinely excellent.**
+
+It proposes solid site structures. It delivers pro-level UI/UX design. It handles frontend implementation with modern tech stacks. It smoothly integrates backend APIs. And the code it produces is clean, readable, and maintainable.
+
+For typical corporate sites, portfolios, blogs, and landing pages, natural language instructions alone can produce fully production-ready results.
+
+---
+
+## Conclusion — The Age of Building Websites with Natural Language Has Begun
+
+Through my experience building a website with Claude Code, I've come to realize that AI-powered web development isn't "something for the future" — it's the reality we're living in right now.
+
+Just describe your vision in natural language, and structure, design, and functionality take shape. The whole process feels like working with a talented partner on a project together.
+
+Of course, there are still parts that need human involvement — deployment, domain configuration, and so on. But the core of site building — deciding what to create and executing the how — is something AI can now handle reliably.
+
+For anyone who wants to build a website but feels held back by technical barriers, or anyone looking to reduce development costs, Claude Code is undeniably a powerful option.
+
+The age of building websites with natural language. That door is already open.

@@ -1,54 +1,44 @@
 ---
-title: '韓国人エンジニアパパがブログを始めた理由'
+title: 'Why This Korean Engineer Dad Started a Blog'
 date: '2026-01-25'
 category: 'daily'
-excerpt: 'ソウルで暮らす30代のエンジニアパパが、日本語でブログを始めることにしました。AI活用、ガジェット、両国の文化について発信していきます。'
-tags: ['自己紹介', 'ブログ', '日常']
+description: 'A 30-something engineer and dad living in Seoul shares why he started blogging about AI, gadgets, and Korean culture.'
+tags: ['introduction', 'blog', 'daily life']
 thumbnail: '/images/posts/blog-start.jpg'
 ---
 
-こんにちは。テックパパです。
+Hi there. I'm Tech Papa.
 
-ソウルで暮らす30代のエンジニアで、子育て中の父親です。今日からこのブログで、AI活用、ガジェット、そして両国の文化の違いについて発信していきます。
+I'm a 30-something software engineer living in Seoul, South Korea, and a dad in the middle of the beautiful chaos of raising kids. Starting today, I'll be sharing my thoughts and experiences on AI tools, gadgets, and Korean culture through this blog.
 
-![ソウルの自宅で作業中](/images/posts/blog-start.jpg)
+![Working from my home in Seoul](/images/posts/blog-start.jpg)
 
-## なぜ日本語でブログを？
+## Why Start a Blog?
 
-正直に言うと、日本語はまだまだ勉強中です。JLPT N3レベルで、完璧とは程遠い。
+As someone who works in tech and uses AI tools every day, I've realized there's so much to share — practical tips, honest reviews, and cultural insights that might be useful or interesting to people around the world.
 
-でも、だからこそ書きたいと思いました。
+Living in Seoul gives me a unique vantage point. Korea is at the forefront of technology adoption, from blazing-fast internet to a nearly cashless society. At the same time, it's a country rich in traditions and cultural quirks that I think more people should know about.
 
-韓国には日本文化が好きな人がたくさんいます。私もその一人。日本のガジェット、アニメ、そして「ものづくり」の精神に昔から惹かれてきました。
+I wanted a space to bring all of that together, and a blog felt like the right way to do it.
 
-そして最近、AI翻訳ツールの進化で「言語の壁」がどんどん低くなっていると感じています。完璧じゃなくても、伝えたい気持ちがあれば届く時代になった。
+## Life as an Engineer Dad
 
-それなら、やってみよう。そう思ったんです。
+By day, I work at an IT company handling development and marketing. Through my work, I've had the chance to explore a wide range of AI tools, and I've seen firsthand how they're transforming the way we work.
 
-## エンジニアパパの日常
+At home, I'm a hands-on dad, and life is gloriously hectic. Balancing parenting with learning new things is genuinely tough. But I believe that even an hour or two a day adds up over time.
 
-本業では、IT企業で開発とマーケティングの仕事をしています。
+## What You'll Find Here
 
-仕事を通じて様々なAIツールに触れる機会があり、その中でAIが働き方を大きく変えてくれることを実感しました。
+I'll be writing about three main themes:
 
-家では子育て中の父親として、毎日バタバタしています。育児しながら勉強時間を確保するのは本当に大変。でも、1日1〜2時間でも続けていけば、少しずつ成長できると信じています。
+- **AI & Tech** — Practical, real-world tips on using ChatGPT, Claude, and other AI tools. Honest thoughts on what works and what doesn't, both at work and in everyday life.
 
-## このブログで書いていくこと
+- **Gadgets** — Reviews of the tech products I actually use in Korea, from smartphones to tablets to wearable devices.
 
-主に3つのテーマで発信していきます。
+- **Korean Culture** — What daily life is really like in Seoul, the things that surprise visitors, and cultural traditions you might not know about.
 
-- **AI活用** - ChatGPT、Claude、その他AIツールの実践的な使い方。実際に使ってみた感想や、仕事・生活での活用法を紹介します。
+## Thanks for Reading
 
-- **ガジェット** - 韓国で使っているガジェットや、気になるテック製品のレビュー。日本製品との比較もしていきたいです。
+I hope this blog can be a window into life in Seoul through the eyes of a tech-loving dad. Whether you're here for the AI tips, the gadget reviews, or just curious about Korea, I'm glad you stopped by.
 
-- **両国の文化の違い** - 韓国人の視点から見た日本文化、逆に日本の方に紹介したい韓国文化。両国の違いや共通点を、日常の視点で伝えます。
-
-## 最後に
-
-完璧な日本語ではないかもしれません。間違いもあると思います。
-
-でも、同じアジアに住む隣人として、テクノロジーや文化について一緒に話せたら嬉しいです。
-
-読んでくださってありがとうございます。
-
-これからよろしくお願いします。
+Let's explore together.

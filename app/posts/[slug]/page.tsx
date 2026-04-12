@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
   const post = getPostBySlug(slug)
 
   if (!post) {
-    return { title: '記事が見つかりません' }
+    return { title: 'Post not found' }
   }
 
   const { frontmatter } = post
@@ -48,7 +48,7 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
       publishedTime: frontmatter.date,
       authors: [SITE_CONFIG.author.name],
       url: postUrl,
-      locale: 'ja_JP',
+      locale: 'en_US',
       images: frontmatter.thumbnail
         ? [{ url: frontmatter.thumbnail }]
         : undefined,
@@ -76,7 +76,7 @@ export default async function PostPage({ params }: PostPageProps) {
 
   const formatDate = (dateString: string) => {
     const date = new Date(dateString)
-    return date.toLocaleDateString('ja-JP', {
+    return date.toLocaleDateString('en-US', {
       year: 'numeric',
       month: 'long',
       day: 'numeric',
@@ -109,7 +109,7 @@ export default async function PostPage({ params }: PostPageProps) {
       '@type': 'WebPage',
       '@id': `${SITE_CONFIG.url}/posts/${slug}`,
     },
-    inLanguage: 'ja',
+    inLanguage: 'en',
     keywords: frontmatter.tags?.join(', '),
   }
 
@@ -135,12 +135,6 @@ export default async function PostPage({ params }: PostPageProps) {
         <h1 className="text-3xl md:text-4xl font-bold text-text-primary mb-4">
           {frontmatter.title}
         </h1>
-
-        {frontmatter.titleKo && (
-          <p className="text-xl text-text-secondary mb-4">
-            {frontmatter.titleKo}
-          </p>
-        )}
 
         <p className="text-lg text-text-secondary">
           {frontmatter.description}
@@ -185,7 +179,7 @@ export default async function PostPage({ params }: PostPageProps) {
               >
                 <ArrowLeft className="w-5 h-5 mr-3 text-text-secondary group-hover:text-primary transition-colors" />
                 <div>
-                  <span className="text-xs text-text-secondary">前の記事</span>
+                  <span className="text-xs text-text-secondary">Previous</span>
                   <p className="text-sm font-medium text-text-primary group-hover:text-primary transition-colors line-clamp-2">
                     {prev.frontmatter.title}
                   </p>
@@ -198,7 +192,7 @@ export default async function PostPage({ params }: PostPageProps) {
                 className="flex items-center justify-end p-4 bg-surface rounded-lg shadow-sm hover:shadow-md transition-shadow group md:col-start-2"
               >
                 <div className="text-right">
-                  <span className="text-xs text-text-secondary">次の記事</span>
+                  <span className="text-xs text-text-secondary">Next</span>
                   <p className="text-sm font-medium text-text-primary group-hover:text-primary transition-colors line-clamp-2">
                     {next.frontmatter.title}
                   </p>

@@ -1,167 +1,162 @@
 ---
-title: "韓国語の挨拶まとめ – 旅行・日常・ビジネスで使えるフレーズを場面別に紹介"
+title: "Korean Greetings for Every Situation -- Travel, Daily Life, and Business Phrases"
 date: "2026-03-04"
 category: "korea-culture"
-description: "韓国語の基本挨拶から食事、旅行、ビジネスまで場面別に紹介。カタカナ読み付きで韓国語初心者でもすぐに使えるフレーズ集です。"
+description: "Korean greetings organized by situation: basics, dining, travel, and business. Each phrase includes romanized pronunciation so you can start using them right away."
 thumbnail: "/images/posts/korean-greetings-guide.jpg"
 tags:
-  - 韓国語
-  - 韓国旅行
-  - 韓国文化
-  - 挨拶
+  - Korean Language
+  - Korea Travel
+  - Korean Culture
+  - Greetings
 ---
 
-![韓国語の挨拶まとめ – 旅行・日常・ビジネスで使えるフレーズ](/images/posts/korean-greetings-guide.jpg)
+![Korean greetings guide for travel, daily life, and business](/images/posts/korean-greetings-guide.jpg)
 
-韓国旅行に行くとき、K-POPアイドルの配信を見るとき、韓国人の友達や同僚と話すとき。「韓国語の挨拶だけでも覚えておきたい」と思ったことはありませんか？
+Whether you're planning a trip to Korea, watching a K-pop livestream, or chatting with Korean friends and colleagues -- you've probably thought at some point, "I wish I knew at least the basic Korean greetings."
 
-韓国語の挨拶は、日本語と似ている部分もあれば、まったく違う部分もあります。特に韓国語には日本語と同じように「敬語」の文化があり、相手との関係性や場面によって使い分けが必要です。この点は英語圏の人より、日本人のほうがずっと理解しやすいはずです。
+Korean greetings share some similarities with other East Asian languages but also have their own unique characteristics. One important feature is Korea's formality system -- there are different levels of politeness depending on your relationship with the person you're speaking to and the situation. This can actually feel intuitive once you get the hang of it.
 
-この記事では、韓国在住経験のある筆者が、実際に使われている韓国語の挨拶を場面別にまとめました。カタカナ読みも付けているので、韓国語の文字が読めなくても大丈夫です。
-
----
-
-## まず知っておきたい基本のこと
-
-韓国語の挨拶を学ぶ前に、日本人が知っておくと理解が深まるポイントがあります。
-
-韓国語には大きく分けて3つの話し方のレベルがあります。「합니다体（ハムニダ体）」はフォーマルな丁寧語で、ニュースやビジネスの場面で使われます。「해요体（ヘヨ体）」は日常的な丁寧語で、お店や初対面の相手に使う最も一般的な話し方です。そして「반말（パンマル）」は友達同士で使うタメ口です。
-
-日本語でいえば、합니다体は「です・ます」のさらに丁寧な形、해요体が普通の「です・ます」、반말が「だよ・だね」に近いイメージです。この記事では主に해요体（日常的な丁寧語）を中心に紹介しますが、よりフォーマルな場面で使う합니다体も合わせて載せています。
-
-もう一つ大切なのは、韓国では年齢がとても重要だということです。日本でも先輩・後輩の文化がありますが、韓国ではさらに厳格です。1歳でも年上であれば敬語を使うのが基本であり、初対面では必ずお互いの年齢を確認する文化があります。このため、同じ「こんにちは」でも、相手によって使う表現が変わってくるのです。
+In this article, I've organized commonly used Korean greetings by situation, drawing from real daily usage. Each phrase includes romanized pronunciation, so you can use them even without reading Korean script (Hangul).
 
 ---
 
-## 毎日使う基本の挨拶
+## A Few Things to Know First
 
-### 「こんにちは」 – 안녕하세요（アンニョンハセヨ）
+Before diving in, here's some helpful context.
 
-韓国語で最も基本的な挨拶です。朝・昼・夜を問わず、いつでも使えます。日本語では「おはようございます」「こんにちは」「こんばんは」と時間帯で使い分けますが、韓国語では안녕하세요の一つでOKです。これは日本人にとって非常にシンプルでありがたいポイントです。
+Korean has three main levels of speech formality. **Hamnida-che** (formal polite) is used in news broadcasts and business settings. **Heyo-che** (standard polite) is the most common everyday level -- what you'd use with shopkeepers, acquaintances, and anyone you've just met. **Banmal** (casual speech) is for close friends and people younger than you.
 
-友達同士のタメ口では「안녕（アンニョン）」と短くなります。日本語の「やあ」「おう」に近い感覚です。
+Think of it roughly as: hamnida-che = "would you be so kind," heyo-che = regular "please" and "thank you," banmal = how you talk to your best friend. This article primarily covers heyo-che (standard polite) with some hamnida-che (formal polite) versions for business and formal contexts.
 
-逆に、目上の方やフォーマルな場面では「안녕하십니까（アンニョンハシムニッカ）」を使います。ニュースキャスターが番組の冒頭で使うような、格式ばった表現です。
-
-### 「ありがとうございます」 – 감사합니다（カムサハムニダ）/ 고마워요（コマウォヨ）
-
-감사합니다はフォーマルな「ありがとうございます」で、ビジネスや公の場面で広く使われます。実は「감사（感謝）」は日本語の「感謝」と同じ漢字語です。こうした漢字語のつながりは、日本人が韓国語を学ぶ上で大きな助けになります。
-
-日常会話では고마워요（コマウォヨ）がよく使われます。こちらは固有語（漢字語でない純粋な韓国語）で、感覚としては「ありがとう」のカジュアル寄りです。友達同士なら고마워（コマウォ）とさらに短くなります。
-
-### 「すみません / ごめんなさい」 – 죄송합니다（チェソンハムニダ）/ 미안해요（ミアネヨ）
-
-죄송합니다はフォーマルな謝罪表現で、目上の人やお客さん、ビジネスの場面で使います。日本語の「申し訳ございません」に近いニュアンスです。
-
-日常的な「ごめんなさい」は미안해요（ミアネヨ）、友達同士のタメ口では미안（ミアン）です。韓国ドラマでよく耳にする表現ではないでしょうか。
-
-ここで面白い違いがあります。日本人は何かを頼むときにも「すみません」と言いますが、韓国語では人を呼ぶときの「すみません」は저기요（チョギヨ）や여기요（ヨギヨ）を使います。レストランで店員さんを呼ぶとき、日本語では「すみませーん」ですが、韓国では「저기요〜」と呼びかけます。
-
-### 「さようなら」 – 안녕히 가세요 / 안녕히 계세요
-
-韓国語の「さようなら」は、日本語にはない独特のルールがあります。去る側と残る側で、使う表現が違うのです。
-
-相手が去る場合（自分が残る側）は「안녕히 가세요（アンニョンヒ カセヨ）」。直訳すると「安寧に行ってください」です。
-自分が去る場合（相手が残る側）は「안녕히 계세요（アンニョンヒ ケセヨ）」。直訳すると「安寧にいてください」です。
-
-両方とも去る場合（例：レストランで一緒に食事した後、外で別れる場面）は、お互いに안녕히 가세요と言います。日本語では場面を問わず「さようなら」の一言で済みますが、韓国語ではこの使い分けが必要です。最初は混乱するかもしれませんが、慣れると「去る人には"よい旅を"、残る人には"お元気で"」という温かい気持ちが込められていることに気づきます。
-
-友達同士のカジュアルな別れの挨拶では、잘 가（チャルガ / よく行ってね）や바이바이（バイバイ）、또 봐（ットバ / また会おう）などが使われます。
+One important cultural note: **age matters a lot in Korea.** Even a one-year age difference means the younger person should use polite language. When Koreans meet for the first time, one of the first questions is often about age -- it determines the level of formality for the entire relationship.
 
 ---
 
-## 食事の場面での挨拶
+## Essential Everyday Greetings
 
-### 「いただきます」 – 잘 먹겠습니다（チャル モッケッスムニダ）
+### "Hello" -- 안녕하세요 (Annyeonghaseyo)
 
-直訳すると「よく食べます」という意味です。日本の「いただきます」と同じように、食事の前に言う挨拶です。韓国でも食事前の挨拶を大切にする文化があり、特に目上の人と一緒に食事をする場合は必ず言うのが礼儀です。
+The single most important greeting in Korean. Unlike English, which has "good morning," "good afternoon," and "good evening," Korean uses annyeonghaseyo all day long. One phrase covers every time of day -- nice and simple.
 
-日本との違いは、韓国では「手を合わせる」ジェスチャーをしない点です。言葉だけで挨拶し、そのまま食べ始めます。
+Among close friends, it shortens to "annyeong." In very formal settings, it becomes "annyeonghasimnikka."
 
-### 「ごちそうさまでした」 – 잘 먹었습니다（チャル モゴッスムニダ）
+### "Thank you" -- 감사합니다 (Gamsahamnida) / 고마워요 (Gomawoyo)
 
-直訳すると「よく食べました」です。食事の後に言うお礼の挨拶で、日本の「ごちそうさまでした」に対応します。誰かにご馳走してもらったときは、特に心を込めて言います。
+Gamsahamnida is the formal "thank you," widely used in public and professional settings. Fun fact: "gamsa" comes from the Chinese characters for "gratitude" (感謝), so if you know any Chinese characters, it's easy to remember.
 
-韓国の食文化で知っておくと面白いのは、食事に誘った側がおごるのが一般的だということです。「割り勘（ワリカン）」の文化がある日本とは異なり、韓国では先輩や年上の人が支払うケースが多いです。その分、잘 먹었습니다の一言に込められる感謝の重みも大きいのです。
+For everyday use, gomawoyo is more common. Among friends, it shortens further to "gomawo." As a visitor, gamsahamnida is your safe go-to.
 
----
+### "I'm sorry" / "Excuse me" -- 죄송합니다 (Joesonghamnida) / 미안해요 (Mianhaeyo)
 
-## お店・旅行で使える挨拶
+Joesonghamnida is the formal apology -- think "I sincerely apologize." Mianhaeyo is the everyday "sorry," and among friends it becomes just "mian." If you watch Korean dramas, you've definitely heard this one.
 
-### 「いらっしゃいませ」 – 어서 오세요（オソ オセヨ）
+Here's an interesting cultural difference: in English, "excuse me" covers both apologies and getting someone's attention. In Korean, calling someone over (like a restaurant server) uses a completely different phrase: "jeogiyo" or "yogiyo." In a restaurant, you'd call out "jeogiyo!" instead of "excuse me!"
 
-韓国のお店に入ると必ず聞こえてくるフレーズです。直訳すると「早くいらしてください」という意味で、歓迎のニュアンスが強い表現です。
+### "Goodbye" -- 안녕히 가세요 / 안녕히 계세요
 
-面白いのは、韓国では友人の家を訪問したときにも어서 와（オソワ / カジュアル版）と言われることがある点です。日本語の「いらっしゃいませ」はお店専用ですが、韓国語の어서 오세요はお店以外でも使える、より広い意味での「ようこそ」です。
+Korean has something English doesn't: **two different goodbyes** depending on who's leaving.
 
-### 「お会計お願いします」 – 계산해 주세요（ケサネ ジュセヨ）
+If the other person is leaving (and you're staying): **"Annyeonghi gaseyo"** -- literally "go in peace."
+If you're leaving (and they're staying): **"Annyeonghi gyeseyo"** -- literally "stay in peace."
+If you're both leaving: you both say "annyeonghi gaseyo."
 
-レストランやカフェで使えるフレーズです。계산（計算）は日本語の「計算」と同じ漢字語で、覚えやすいのではないでしょうか。韓国のレストランでは、テーブルで直接声をかけるか、レジに行って支払うスタイルが一般的です。
+It might seem confusing at first, but once it clicks, you realize there's a beautiful warmth to it -- wishing someone safe travels or a peaceful stay.
 
-### 「これください」 – 이거 주세요（イゴ ジュセヨ）
-
-買い物や注文のときに使える万能フレーズです。주세요（ジュセヨ）は「ください」という意味で、이거（イゴ / これ）の部分を変えるだけでいろいろ応用できます。저거 주세요（チョゴ ジュセヨ / あれください）、물 주세요（ムル ジュセヨ / お水ください）のように使えます。
-
----
-
-## ビジネスの場面での挨拶
-
-### 「お疲れ様です」 – 수고하셨습니다（スゴハショッスムニダ）
-
-日本のビジネスシーンで最も頻繁に使われる「お疲れ様です」。韓国語にも似た表現がありますが、使い方に重要な違いがあります。
-
-수고하셨습니다は、目上の人が目下の人に対して使う「ねぎらいの言葉」です。つまり、上司が部下に対して言うのは自然ですが、部下が上司に対して使うと失礼にあたる場合があります。日本語の「お疲れ様です」は上下関係を問わず使えますが、韓国語ではこの点に注意が必要です。
-
-目上の人に対しては、退勤時に「먼저 들어가겠습니다（モンジョ トゥロガゲッスムニダ / お先に失礼します）」と言うのが一般的です。
-
-### 「よろしくお願いします」 – 잘 부탁드립니다（チャル ブタッドゥリムニダ）
-
-初対面の挨拶やビジネスメールでよく使うフレーズです。잘（チャル / よく）＋부탁（ブタク / お願い）＋드립니다（ドゥリムニダ / いたします）という構成で、日本語の「よろしくお願いいたします」にほぼ対応します。
-
-もう少しカジュアルな場面では잘 부탁해요（チャル ブタッケヨ）、友達同士なら잘 부탁해（チャル ブタッケ）を使います。
-
-### 「はじめまして」 – 처음 뵙겠습니다（チョウム ベッケッスムニダ）
-
-フォーマルな初対面の挨拶です。直訳すると「初めてお目にかかります」という意味で、日本語の「初めまして」とほぼ同じ使い方です。この後に자기소개（自己紹介）が続くのも、日本と同じ流れです。
-
-カジュアルな場面では처음 뵙겠습니다の代わりに、만나서 반갑습니다（マンナソ パンガプスムニダ / お会いできて嬉しいです）を使うことも多いです。
+Casual farewells among friends include "jal ga" (take care / bye), "bai-bai," and "tto bwa" (see you again).
 
 ---
 
-## 季節・特別な場面での挨拶
+## Dining Phrases
 
-### 新年の挨拶 – 새해 복 많이 받으세요（セヘ ボッ マニ パドゥセヨ）
+### "Bon appetit" / "Let's eat" -- 잘 먹겠습니다 (Jal meokgesseumnida)
 
-「新年の福をたくさんお受け取りください」という意味で、日本語の「あけましておめでとうございます」に対応します。韓国では旧正月（설날 / ソルラル、旧暦1月1日）を盛大に祝う文化がありますが、新暦の1月1日にもこの挨拶を使います。
+Literally "I will eat well." Like saying grace or "bon appetit," it's said before a meal. It's especially important to say when dining with someone older or when someone is treating you -- it's a sign of respect and gratitude.
 
-ちなみに韓国の旧正月では、子どもが大人に「세배（セベ）」というお辞儀をして、「세뱃돈（セベットン）」というお年玉をもらう風習があります。日本のお正月文化とよく似ていて、親近感を覚える日本人も多いのではないでしょうか。
+One cultural difference: Koreans don't put their hands together in prayer before saying it. They simply say the phrase and begin eating.
 
-### 誕生日 – 생일 축하해요（センイル チュッカヘヨ）
+### "Thank you for the meal" -- 잘 먹었습니다 (Jal meogeosseumnida)
 
-「お誕生日おめでとうございます」です。생일（生日）＝誕生日、축하（祝賀）＝お祝い、と漢字語のつながりでイメージしやすいフレーズです。K-POPファンなら、推しの誕生日にSNSで「생일 축하해요〜」と投稿する人も多いはずです。
+Literally "I ate well." Said after finishing a meal. Especially meaningful when someone has paid for your food.
 
-### 乾杯 – 건배（コンベ）
-
-漢字で書くと「乾杯」。日本語の「かんぱい」と同じ漢字語です。飲み会の席では건배〜！と声を合わせます。韓国の飲み会ではこのほかに、위하여（ウィハヨ / ～のために）という掛け声もよく使われます。
+This connects to an important Korean dining custom: **the person who invites typically pays.** Going Dutch (splitting the bill) is less common than in the US. When a senior or older person takes you out to eat, they usually insist on covering the whole bill. That makes "jal meogeosseumnida" carry real weight -- it's a genuine expression of thanks.
 
 ---
 
-## 日本語と似ているようで違う、韓国語の挨拶文化
+## Shopping and Travel Phrases
 
-ここまで読んでいただいた方はお気づきかもしれませんが、韓国語と日本語の挨拶には共通点が多いです。敬語の存在、漢字語の共通性、場面によって言葉を使い分ける文化など、英語圏の人が学ぶよりもずっとスムーズに理解できる部分があります。
+### "Welcome" -- 어서 오세요 (Eoseo oseyo)
 
-一方で、微妙な違いもあります。たとえば日本語では「お疲れ様です」を誰にでも使えますが、韓国語の수고하셨습니다は目上から目下へのニュアンスがあります。「さようなら」が去る側・残る側で分かれるのも、日本語にはない発想です。
+You'll hear this the moment you walk into virtually any Korean shop. It literally means "come quickly" and carries a strong sense of welcome.
 
-また、韓国では挨拶の際に軽くお辞儀をしますが、日本ほど深くは下げません。ビジネスの場面でも、日本のような90度のお辞儀はほとんど見られず、軽く頭を下げる程度が一般的です。
+Interestingly, unlike "welcome" in English (which is mainly used in commercial settings), Koreans also say "eoseo wa" (the casual version) when welcoming friends to their home.
 
-こうした「似ているけど違う」ポイントこそ、韓国語の挨拶を学ぶ面白さではないかと思います。
+### "Check, please" -- 계산해 주세요 (Gyesanhae juseyo)
+
+Used at restaurants and cafes. "Gyesan" comes from the Chinese characters for "calculation" (計算). In Korean restaurants, you typically either call the server to your table or go to the register to pay.
+
+### "This one, please" -- 이거 주세요 (Igeo juseyo)
+
+A universal phrase for shopping and ordering. "Juseyo" means "please give me," and you can swap in whatever you need: "jeogeo juseyo" (that one, please), "mul juseyo" (water, please).
 
 ---
 
-## おわりに
+## Business Phrases
 
-韓国語の挨拶は、日本語話者にとって非常に学びやすい分野です。漢字語の共通性、敬語文化の類似性、そして発音のしやすさ（韓国語は日本語と母音体系が近い）など、日本人ならではのアドバンテージがたくさんあります。
+### "Good work today" -- 수고하셨습니다 (Sugohasyeosseumnida)
 
-まずは안녕하세요（アンニョンハセヨ）と감사합니다（カムサハムニダ）の2つだけ覚えておけば、韓国旅行でも日常でも十分に気持ちは伝わります。言葉は完璧に話せなくても、相手の国の言葉で挨拶しようとする姿勢そのものが、最高のコミュニケーションになるはずです。
+This is a common workplace expression, but it comes with an important caveat: **it flows downward in the hierarchy.** A boss says it to employees; it's natural that way. But an employee saying it to their boss can come across as presumptuous.
 
-この記事が、韓国語の挨拶に興味を持つきっかけになれば嬉しいです。
+When leaving the office before your boss, the safe phrase is: "meonjeo deureogagesseumnida" (I'll head out first) -- Korea's version of "I'm heading out, have a good evening."
+
+### "Nice to work with you" / "Please take care of things" -- 잘 부탁드립니다 (Jal butakdeurimnida)
+
+Used in first meetings and business emails. Jal (well) + butak (request/favor) + deurimnida (I humbly give). It's the standard closing for introductions in professional settings.
+
+More casual: "jal butakhaeyo." Among friends: "jal butakhae."
+
+### "Nice to meet you" -- 처음 뵙겠습니다 (Cheoeum boepgesseumnida)
+
+The formal first-meeting greeting, literally "I'm seeing you for the first time." Often followed by a self-introduction, just as you'd expect.
+
+A slightly warmer alternative: "mannaseo bangapseumnida" (I'm glad to meet you).
+
+---
+
+## Seasonal and Special Occasion Phrases
+
+### New Year -- 새해 복 많이 받으세요 (Saehae bok mani badeuseyo)
+
+"May you receive lots of blessings in the new year." Korea's traditional New Year (Seollal) follows the lunar calendar, falling in late January or February, but this greeting works for January 1st as well.
+
+During Seollal, children perform a deep bow called **sebae** to their elders and receive **sebaetdon** -- essentially New Year's money (similar to red envelopes in Chinese culture or otoshidama in Japan).
+
+### Birthday -- 생일 축하해요 (Saengil chukahaeyo)
+
+"Happy birthday." If you're a K-pop fan, you've probably seen this all over social media on your favorite idol's birthday.
+
+### Cheers -- 건배 (Geonbae)
+
+Literally "dry cup" -- the same characters as "cheers" in Chinese (乾杯). At Korean drinking gatherings, everyone raises their glass and shouts "geonbae!" Another common toast is "wihayeo!" (to [something]!).
+
+---
+
+## The Culture Behind the Greetings
+
+If you've read this far, you may have noticed that Korean greetings share structural similarities with other East Asian languages -- formal and informal levels, different expressions based on context, and some shared vocabulary roots from Chinese characters.
+
+At the same time, there are uniquely Korean touches. The "good work today" phrase that flows only downward in hierarchy. The two different goodbyes depending on who's leaving. These nuances reveal a lot about Korean culture itself.
+
+One more physical difference: Koreans bow when greeting, but not as deeply as you might see in Japanese culture. Even in business, a slight head nod is the norm rather than a full 90-degree bow.
+
+These "similar but different" details are part of what makes learning Korean greetings so interesting.
+
+---
+
+## Wrapping Up
+
+Korean greetings are surprisingly approachable. The formality system makes intuitive sense once you see it in action, and many words have cognates if you know any Chinese characters or other East Asian languages.
+
+Start with just two: **annyeonghaseyo** (hello) and **gamsahamnida** (thank you). With those alone, you can navigate a trip to Korea or brighten any interaction with a Korean speaker. The gesture of greeting someone in their own language -- even imperfectly -- is itself the most powerful form of communication.
+
+I hope this article sparks your interest in Korean greetings and inspires you to give them a try.
